@@ -1,0 +1,54 @@
+[
+    {
+        "client_msg_id": "7828ca9a-5f8f-437b-8cf7-29feba0ae4b5",
+        "type": "message",
+        "text": "<!channel> there will be lunch provided tomorrow",
+        "user": "US2PZ9QBF",
+        "ts": "1577928296.000600",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=dp1q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " there will be lunch provided tomorrow"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "US4KMEG9M",
+                    "URRA07R7D"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

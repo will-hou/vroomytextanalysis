@@ -1,0 +1,58 @@
+[
+    {
+        "client_msg_id": "cbd8f709-53ff-46c5-b619-a787b1f0244d",
+        "type": "message",
+        "text": "This is the kind of thing we need to do!! <https:\/\/www.reddit.com\/r\/FRC\/comments\/eq984z\/fellow_redditors_i_present_to_you_the_juicer\/?utm_medium=android_app&amp;utm_source=share|https:\/\/www.reddit.com\/r\/FRC\/comments\/eq984z\/fellow_redditors_i_present_to_you_the_juicer\/?utm_medium=android_app&amp;utm_source=share>",
+        "user": "US2PZ9QBF",
+        "ts": "1579367104.000100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "reddit",
+                "title": "Fellow redditors, I present to you: The Juicer. Capable of firing lemons at around 80MPH, basically able to do full court shots if set up right.",
+                "title_link": "https:\/\/www.reddit.com\/r\/FRC\/comments\/eq984z\/fellow_redditors_i_present_to_you_the_juicer\/?utm_medium=android_app&utm_source=share",
+                "text": "Posted in r\/FRC by u\/RobARMMemez • 114 points and 13 comments",
+                "fallback": "reddit: Fellow redditors, I present to you: The Juicer. Capable of firing lemons at around 80MPH, basically able to do full court shots if set up right.",
+                "from_url": "https:\/\/www.reddit.com\/r\/FRC\/comments\/eq984z\/fellow_redditors_i_present_to_you_the_juicer\/?utm_medium=android_app&utm_source=share",
+                "service_icon": "http:\/\/www.redditstatic.com\/desktop2x\/img\/favicon\/apple-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/www.reddit.com\/r\/FRC\/comments\/eq984z\/fellow_redditors_i_present_to_you_the_juicer\/?utm_medium=android_app&amp;utm_source=share"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "u01",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is the kind of thing we need to do!! "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.reddit.com\/r\/FRC\/comments\/eq984z\/fellow_redditors_i_present_to_you_the_juicer\/?utm_medium=android_app&utm_source=share",
+                                "text": "https:\/\/www.reddit.com\/r\/FRC\/comments\/eq984z\/fellow_redditors_i_present_to_you_the_juicer\/?utm_medium=android_app&utm_source=share"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

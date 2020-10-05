@@ -1,0 +1,64 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1594634051.000200",
+        "user": "US4KMEG9M",
+        "text": "<@US4KMEG9M> has joined the channel"
+    },
+    {
+        "client_msg_id": "b79184ec-cbd7-41e2-beb2-ae0b70c1b254",
+        "type": "message",
+        "text": "vroom vroom",
+        "user": "US4KMEG9M",
+        "ts": "1594634055.000400",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "b915bd1b6aaa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-04\/1338647058470_b915bd1b6aaa68df3e32_72.jpg",
+            "first_name": "joshua",
+            "real_name": "joshua phelps",
+            "display_name": "joshua phelps",
+            "team": "TS2PZ9PJR",
+            "name": "joshuaphelps127",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pWe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "vroom vroom"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "dealwithitnowparrot",
+                "users": [
+                    "US2PZ9QBF",
+                    "URRA07VU3"
+                ],
+                "count": 2
+            },
+            {
+                "name": "vroom_vroom",
+                "users": [
+                    "URRA07VU3"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,115 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1593636477.000200",
+        "user": "US2PZ9QBF",
+        "text": "<@US2PZ9QBF> has joined the channel",
+        "reactions": [
+            {
+                "name": "wave",
+                "users": [
+                    "US4KMEG9M",
+                    "US2PZ9QBF"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fc3b4535-a4be-46c7-811c-0188090f9b36",
+        "type": "message",
+        "text": "You can put React pages on an esp32! You save the webpage files to the esp32 and then upload a program to serve the webpage. <https:\/\/techtutorialsx.com\/2019\/03\/24\/esp32-arduino-serving-a-react-js-app\/>  I just tested the example program and it ran!\n\n<@U010XSNA2Q4> I think the challenges will be making a page that can be easily changed for different robots, and getting control data from the page to the robot code.",
+        "user": "US4KMEG9M",
+        "ts": "1593639006.003600",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "b915bd1b6aaa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-04\/1338647058470_b915bd1b6aaa68df3e32_72.jpg",
+            "first_name": "joshua",
+            "real_name": "joshua phelps",
+            "display_name": "joshua phelps",
+            "team": "TS2PZ9PJR",
+            "name": "joshuaphelps127",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "US4KMEG9M",
+            "ts": "1593639294.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PYba",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You can put React pages on an esp32! You save the webpage files to the esp32 and then upload a program to serve the webpage. "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/techtutorialsx.com\/2019\/03\/24\/esp32-arduino-serving-a-react-js-app\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  I just tested the example program and it ran!\n\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010XSNA2Q4"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I think the challenges will be making a page that can be easily changed for different robots, and getting control data from the page to the robot code."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9ef76365-48b3-4012-8b0d-6e6e13616540",
+        "type": "message",
+        "text": "<https:\/\/github.com\/mpyoutube\/RCMweb>",
+        "user": "US4KMEG9M",
+        "ts": "1593639785.004300",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "b915bd1b6aaa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-04\/1338647058470_b915bd1b6aaa68df3e32_72.jpg",
+            "first_name": "joshua",
+            "real_name": "joshua phelps",
+            "display_name": "joshua phelps",
+            "team": "TS2PZ9PJR",
+            "name": "joshuaphelps127",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=Wioc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/mpyoutube\/RCMweb"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

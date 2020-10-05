@@ -1,0 +1,1921 @@
+[
+    {
+        "client_msg_id": "5e8431fa-425f-419e-9588-d5aaceaa7c76",
+        "type": "message",
+        "text": "<@URRA07VU3> we probably want the swerve to be able to go over the steel on the floor of this year's game",
+        "user": "US2PZ9QBF",
+        "ts": "1578519494.000900",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IwK7W",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "URRA07VU3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " we probably want the swerve to be able to go over the steel on the floor of this year's game"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1578519494.000900",
+        "reply_count": 17,
+        "reply_users_count": 2,
+        "latest_reply": "1578522094.006100",
+        "reply_users": [
+            "URRA07VU3",
+            "US2PZ9QBF"
+        ],
+        "replies": [
+            {
+                "user": "URRA07VU3",
+                "ts": "1578519595.001000"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1578519625.001200"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1578519776.001400"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1578519831.001600"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1578519853.001800"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1578519937.002000"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1578520006.002200"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1578520181.002400"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1578520272.002600"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1578520588.002800"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1578520597.003000"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1578521343.003200"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1578521573.003400"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1578521644.003600"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1578522023.004100"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1578522081.005600"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1578522094.006100"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1578522094.006100"
+    },
+    {
+        "client_msg_id": "fb0ec5df-9d32-4600-af2e-99229957ddda",
+        "type": "message",
+        "text": "We'll need skids to get over 1\" bumps if using wheel in differential",
+        "user": "URRA07VU3",
+        "ts": "1578519595.001000",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1578519494.000900",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "226aef91-e35a-4c0c-8f9e-f53b9d53d03e",
+        "type": "message",
+        "text": "How hard would it be to use larger wheels",
+        "user": "US2PZ9QBF",
+        "ts": "1578519625.001200",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oYAd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "How hard would it be to use larger wheels"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1578519494.000900",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "c742e781-6e8a-4d2e-8b49-bb33a57bc391",
+        "type": "message",
+        "text": "Well it makes the whole thing a lot bigger and might mess up the gear ratio. Putting a differential around a wheel means there isn't a lot of wheel exposed at the bottom.",
+        "user": "URRA07VU3",
+        "ts": "1578519776.001400",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1578519494.000900",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "87f1c556-4a36-4f0a-815f-928fb227925d",
+        "type": "message",
+        "text": "That makes sense",
+        "user": "US2PZ9QBF",
+        "ts": "1578519831.001600",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "568",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That makes sense"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1578519494.000900",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "2fb5eda9-57cc-4d6b-8199-74d657f61e5d",
+        "type": "message",
+        "text": "As it currently stands, how much wheel sticks out",
+        "user": "US2PZ9QBF",
+        "ts": "1578519853.001800",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y5zO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "As it currently stands, how much wheel sticks out"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1578519494.000900",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "ab3d077c-72ea-40c1-822c-10c5d1956a3c",
+        "type": "message",
+        "text": "With the 2.5\" wheels, a bit under half an inch",
+        "user": "URRA07VU3",
+        "ts": "1578519937.002000",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1578519494.000900",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "c936a66d-18d6-4958-831d-2790f2f184c7",
+        "type": "message",
+        "text": "How hard and how much bigger would it be if they were 3.5 inch wheels",
+        "user": "US2PZ9QBF",
+        "ts": "1578520006.002200",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7vC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "How hard and how much bigger would it be if they were 3.5 inch wheels"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1578519494.000900",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "d5e05462-353f-426b-b245-b17a43b465b5",
+        "type": "message",
+        "text": "I don't know for sure. In theory just an extra inch in total diameter. The differential might have to get thicker though to handle the increased torque.",
+        "user": "URRA07VU3",
+        "ts": "1578520181.002400",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1578519494.000900",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "ae58d8ff-6c3e-47ab-8f44-a210d67ab360",
+        "type": "message",
+        "text": "And that would put us closer to .75 inches off the ground",
+        "user": "US2PZ9QBF",
+        "ts": "1578520272.002600",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BRps",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "And that would put us closer to .75 inches off the ground"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1578519494.000900",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "2de821fc-b68e-4e6c-9037-c534f819f250",
+        "type": "message",
+        "text": "Could we actually do 4inch",
+        "user": "US2PZ9QBF",
+        "ts": "1578520588.002800",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+3=j",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Could we actually do 4inch"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1578519494.000900",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "8610466e-e732-4b1e-b668-bff63d22da15",
+        "type": "message",
+        "text": "And how big are we then?",
+        "user": "US2PZ9QBF",
+        "ts": "1578520597.003000",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ihg\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "And how big are we then?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1578519494.000900",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "449e3b70-5549-4c25-9189-be9a0135e691",
+        "type": "message",
+        "text": "??",
+        "user": "US2PZ9QBF",
+        "ts": "1578521343.003200",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2Rj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "??"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1578519494.000900",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "47482624-0887-4ddd-832d-05aeb3205993",
+        "type": "message",
+        "text": "I can't give any exact numbers at this point.\nwhat I do know is:\na larger wheel gives more ground clearance\na larger wheel makes the whole thing bigger\na larger wheel means more torque on the pinion bevel gear, which does start taking away from ground clearance (or requires stronger materials)\nI can try to maximize ground clearance.",
+        "user": "URRA07VU3",
+        "ts": "1578521573.003400",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ARb9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I can't give any exact numbers at this point.\nwhat I do know is:\na larger wheel gives more ground clearance\na larger wheel makes the whole thing bigger\na larger wheel means more torque on the pinion bevel gear, which does start taking away from ground clearance (or requires stronger materials)\nI can try to maximize ground clearance."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1578519494.000900",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "fa18986f-5ba7-4efa-b2af-ae2d07fb9b60",
+        "type": "message",
+        "text": "I think skids would still be a good idea even with a lot of ground clearance so that the shock of hitting the bump goes directly to the frame instead of through the differential.",
+        "user": "URRA07VU3",
+        "ts": "1578521644.003600",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "seM7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think skids would still be a good idea even with a lot of ground clearance so that the shock of hitting the bump goes directly to the frame instead of through the differential."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1578519494.000900",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "B0E9BD1F-25C0-4484-8DAE-65207E163639",
+        "type": "message",
+        "text": "Yes, absolutely!",
+        "user": "US2PZ9QBF",
+        "ts": "1578522023.004100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BjFs1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes, absolutely!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1578519494.000900",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "7CFF0DE8-A260-4A75-99D9-86CD24A114AA",
+        "type": "message",
+        "text": "I just think that to the extent that we can, having a wheel that can do more work going over the bar will be better",
+        "user": "US2PZ9QBF",
+        "ts": "1578522081.005600",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9sFm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I just think that to the extent that we can, having a wheel that can do more work going over the bar will be better"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1578519494.000900",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "0067AF74-DD1C-4FFA-8C32-5D968F76F955",
+        "type": "message",
+        "text": "Your thought proses is perfect ",
+        "user": "US2PZ9QBF",
+        "ts": "1578522094.006100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2Ivvp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Your thought proses is perfect "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1578519494.000900",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "505b25ae-2eaf-4ef6-8331-d2ea0e218616",
+        "type": "message",
+        "text": "I finished installing Solidworks and took a look at your design for the mini bot and I really like it. It looks like the way you have it designed, it would definitely work better if we laser cut it. Do you have access to a laser cutter? If not, I can see if I can modify the design to be CNCed out of polycarb. Also, how are you planning on making the bumpers?",
+        "user": "US51ZNQDU",
+        "ts": "1578532965.004300",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "ade188af1049",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-30\/891681516518_ade188af10498886e12c_72.jpg",
+            "first_name": "Palmer",
+            "real_name": "Palmer Campbell-Kaswell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "palmerc120",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vCITP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I finished installing Solidworks and took a look at your design for the mini bot and I really like it. It looks like the way you have it designed, it would definitely work better if we laser cut it. Do you have access to a laser cutter? If not, I can see if I can modify the design to be CNCed out of polycarb. Also, how are you planning on making the bumpers?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1578532965.004300",
+        "reply_count": 28,
+        "reply_users_count": 4,
+        "latest_reply": "1578536550.012700",
+        "reply_users": [
+            "URRA07VU3",
+            "US51ZNQDU",
+            "US2PZ9QBF",
+            "US4KMEG9M"
+        ],
+        "replies": [
+            {
+                "user": "URRA07VU3",
+                "ts": "1578533050.005200"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1578533095.005400"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1578533149.005800"
+            },
+            {
+                "user": "US51ZNQDU",
+                "ts": "1578533172.006000"
+            },
+            {
+                "user": "US51ZNQDU",
+                "ts": "1578533201.006200"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1578533241.006400"
+            },
+            {
+                "user": "US51ZNQDU",
+                "ts": "1578533259.006800"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1578533324.007000"
+            },
+            {
+                "user": "US51ZNQDU",
+                "ts": "1578533360.007200"
+            },
+            {
+                "user": "US51ZNQDU",
+                "ts": "1578533379.007600"
+            },
+            {
+                "user": "US51ZNQDU",
+                "ts": "1578533406.007800"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1578533463.008300"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1578533503.008700"
+            },
+            {
+                "user": "US51ZNQDU",
+                "ts": "1578533517.008900"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1578533629.009900"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1578533644.010100"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1578533675.010300"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1578533676.010500"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1578533685.010700"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1578533698.010900"
+            },
+            {
+                "user": "US4KMEG9M",
+                "ts": "1578533754.011100"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1578533774.011300"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1578533781.011500"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1578533813.011700"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1578535979.011900"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1578536050.012300"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1578536100.012500"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1578536550.012700"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1578536550.012700"
+    },
+    {
+        "client_msg_id": "aa506d75-0b27-42e5-8bef-3b477cea699b",
+        "type": "message",
+        "text": "The u of o, brown, and Matthew's friend have laser cutters",
+        "user": "URRA07VU3",
+        "ts": "1578533050.005200",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1578532965.004300",
+        "parent_user_id": "US51ZNQDU",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "US51ZNQDU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e348039c-6e09-4cd1-a2b4-60cb66230395",
+        "type": "message",
+        "text": "I think the bumpers are going to be frc style but single noodle",
+        "user": "URRA07VU3",
+        "ts": "1578533095.005400",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1578532965.004300",
+        "parent_user_id": "US51ZNQDU",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "US51ZNQDU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "31040c15-0490-4348-9ce1-0ad1578a34f8",
+        "type": "message",
+        "text": "The parts had some areas that were too thin. If you can make them thicker that would be great",
+        "user": "URRA07VU3",
+        "ts": "1578533149.005800",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1578532965.004300",
+        "parent_user_id": "US51ZNQDU"
+    },
+    {
+        "client_msg_id": "409fd1e3-2f49-4ddc-80d3-806e97ac6f59",
+        "type": "message",
+        "text": "Yeah I can do that. What thickness do they need to be?",
+        "user": "US51ZNQDU",
+        "ts": "1578533172.006000",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "ade188af1049",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-30\/891681516518_ade188af10498886e12c_72.jpg",
+            "first_name": "Palmer",
+            "real_name": "Palmer Campbell-Kaswell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "palmerc120",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+AD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah I can do that. What thickness do they need to be?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1578532965.004300",
+        "parent_user_id": "US51ZNQDU"
+    },
+    {
+        "client_msg_id": "fc80e85f-beec-4e1f-80ea-d80443026143",
+        "type": "message",
+        "text": "Also has this model been optimized for COG? If so we might still be able to make mecanums work. If not, I'll see if I can fix it",
+        "user": "US51ZNQDU",
+        "ts": "1578533201.006200",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "ade188af1049",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-30\/891681516518_ade188af10498886e12c_72.jpg",
+            "first_name": "Palmer",
+            "real_name": "Palmer Campbell-Kaswell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "palmerc120",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "US51ZNQDU",
+            "ts": "1578533248.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/8VVZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Also has this model been optimized for COG? If so we might still be able to make mecanums work. If not, I'll see if I can fix it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1578532965.004300",
+        "parent_user_id": "US51ZNQDU"
+    },
+    {
+        "client_msg_id": "99f66475-0b6d-46a9-a3e1-b4fb3a423621",
+        "type": "message",
+        "text": "Well the battery is in the middle so it should be fine.",
+        "user": "URRA07VU3",
+        "ts": "1578533241.006400",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "URRA07VU3",
+            "ts": "1578533248.000000"
+        },
+        "thread_ts": "1578532965.004300",
+        "parent_user_id": "US51ZNQDU"
+    },
+    {
+        "client_msg_id": "787945ab-7c45-4217-918b-1d119f3c63ec",
+        "type": "message",
+        "text": "Okay",
+        "user": "US51ZNQDU",
+        "ts": "1578533259.006800",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "ade188af1049",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-30\/891681516518_ade188af10498886e12c_72.jpg",
+            "first_name": "Palmer",
+            "real_name": "Palmer Campbell-Kaswell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "palmerc120",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yQz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Okay"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1578532965.004300",
+        "parent_user_id": "US51ZNQDU"
+    },
+    {
+        "client_msg_id": "0e0dde90-be09-4f6a-bab7-53299a34d5ca",
+        "type": "message",
+        "text": "1\/8\" or thicker if possible. I think the edge of the wheel wells were the main problem",
+        "user": "URRA07VU3",
+        "ts": "1578533324.007000",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1578532965.004300",
+        "parent_user_id": "US51ZNQDU"
+    },
+    {
+        "client_msg_id": "80c8cbfa-3621-483f-a896-6c4b2d6f7a9f",
+        "type": "message",
+        "text": "If it's still not working after that, I think we should just switch to all omnis instead of mecanums. That way it can drift properly instead of being something that's designed to go sideways but doesn't work",
+        "user": "US51ZNQDU",
+        "ts": "1578533360.007200",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "ade188af1049",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-30\/891681516518_ade188af10498886e12c_72.jpg",
+            "first_name": "Palmer",
+            "real_name": "Palmer Campbell-Kaswell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "palmerc120",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2uoK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If it's still not working after that, I think we should just switch to all omnis instead of mecanums. That way it can drift properly instead of being something that's designed to go sideways but doesn't work"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1578532965.004300",
+        "parent_user_id": "US51ZNQDU",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "URRA07VU3",
+                    "US4KMEG9M",
+                    "US2PZ9QBF"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "78c516d8-c179-44a2-9488-b2ef069a2d0b",
+        "type": "message",
+        "text": "Okay, I'll take a look at it and see what I can do",
+        "user": "US51ZNQDU",
+        "ts": "1578533379.007600",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "ade188af1049",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-30\/891681516518_ade188af10498886e12c_72.jpg",
+            "first_name": "Palmer",
+            "real_name": "Palmer Campbell-Kaswell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "palmerc120",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cNP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Okay, I'll take a look at it and see what I can do"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1578532965.004300",
+        "parent_user_id": "US51ZNQDU",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "US4KMEG9M",
+                    "URRA07VU3",
+                    "US2PZ9QBF"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "259e569b-e818-47de-9baf-fb493ef9588e",
+        "type": "message",
+        "text": "I probably won't have it before tomorrow though because I have to work on one of my college essays",
+        "user": "US51ZNQDU",
+        "ts": "1578533406.007800",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "ade188af1049",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-30\/891681516518_ade188af10498886e12c_72.jpg",
+            "first_name": "Palmer",
+            "real_name": "Palmer Campbell-Kaswell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "palmerc120",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HkJ0I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I probably won't have it before tomorrow though because I have to work on one of my college essays"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1578532965.004300",
+        "parent_user_id": "US51ZNQDU",
+        "reactions": [
+            {
+                "name": "purple_heart",
+                "users": [
+                    "US4KMEG9M",
+                    "US2PZ9QBF"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0b818132-2de8-4e85-9ccf-bbd4f38ca878",
+        "type": "message",
+        "text": "Well you probably have a couple months. Hope your essays go smoothly.",
+        "user": "URRA07VU3",
+        "ts": "1578533463.008300",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1578532965.004300",
+        "parent_user_id": "US51ZNQDU"
+    },
+    {
+        "client_msg_id": "e95b36a5-269f-4c8d-b399-dcc081ddb5ec",
+        "type": "message",
+        "text": "The bumpers were just going to be taped on with LEDs underneath then poolnoodles and fabric",
+        "user": "US2PZ9QBF",
+        "ts": "1578533503.008700",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PEX6B",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The bumpers were just going to be taped on with LEDs underneath then poolnoodles and fabric"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1578532965.004300",
+        "parent_user_id": "US51ZNQDU",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "US51ZNQDU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "76e524ea-b5c3-4a9b-b940-aa9c3e441948",
+        "type": "message",
+        "text": "Thanks :blush:",
+        "user": "US51ZNQDU",
+        "ts": "1578533517.008900",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "ade188af1049",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-30\/891681516518_ade188af10498886e12c_72.jpg",
+            "first_name": "Palmer",
+            "real_name": "Palmer Campbell-Kaswell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "palmerc120",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VKk=2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1578532965.004300",
+        "parent_user_id": "US51ZNQDU"
+    },
+    {
+        "client_msg_id": "2099b01e-54c0-41ac-bd9e-2b83c99604d2",
+        "type": "message",
+        "text": "Also the other escs we ordered (that we didn't use) say on them that they can handle 2-4 cell lipos",
+        "user": "US2PZ9QBF",
+        "ts": "1578533629.009900",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AOkQt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Also the other escs we ordered (that we didn't use) say on them that they can handle 2-4 cell lipos"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1578532965.004300",
+        "parent_user_id": "US51ZNQDU"
+    },
+    {
+        "client_msg_id": "63613fad-3657-4cdf-a56a-0b0592c3564c",
+        "type": "message",
+        "text": "?",
+        "user": "URRA07VU3",
+        "ts": "1578533644.010100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1578532965.004300",
+        "parent_user_id": "US51ZNQDU"
+    },
+    {
+        "client_msg_id": "0d5c1e7b-3c40-4665-9b85-70d4c5c21f5d",
+        "type": "message",
+        "text": "Why didn't we use them?",
+        "user": "URRA07VU3",
+        "ts": "1578533675.010300",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1578532965.004300",
+        "parent_user_id": "US51ZNQDU"
+    },
+    {
+        "client_msg_id": "ee044f09-d6e4-4e67-954c-587f2c82e8f2",
+        "type": "message",
+        "text": "So we could re-wire some of this with the new escs and use the 4 cell",
+        "user": "US2PZ9QBF",
+        "ts": "1578533676.010500",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2Itj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So we could re-wire some of this with the new escs and use the 4 cell"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1578532965.004300",
+        "parent_user_id": "US51ZNQDU"
+    },
+    {
+        "client_msg_id": "c891b2b5-6959-4f73-a6c2-a35b4f61bdf0",
+        "type": "message",
+        "text": "We didn't use them because we didn't have them",
+        "user": "US2PZ9QBF",
+        "ts": "1578533685.010700",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TQHyj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We didn't use them because we didn't have them"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1578532965.004300",
+        "parent_user_id": "US51ZNQDU"
+    },
+    {
+        "client_msg_id": "0f9e9aac-3e41-4843-9209-1325cb033b85",
+        "type": "message",
+        "text": "The only arrived yesterday",
+        "user": "US2PZ9QBF",
+        "ts": "1578533698.010900",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U7lHr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The only arrived yesterday"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1578532965.004300",
+        "parent_user_id": "US51ZNQDU"
+    },
+    {
+        "client_msg_id": "63dc1fcf-4287-4615-8c7c-350bdff4441e",
+        "type": "message",
+        "text": "What type are the ones that just came? I'd want to test one with a 4-cell battery before assuming that they will work.",
+        "user": "US4KMEG9M",
+        "ts": "1578533754.011100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "b915bd1b6aaa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-04\/1338647058470_b915bd1b6aaa68df3e32_72.jpg",
+            "first_name": "joshua",
+            "real_name": "joshua phelps",
+            "display_name": "joshua phelps",
+            "team": "TS2PZ9PJR",
+            "name": "joshuaphelps127",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SRU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What type are the ones that just came? I'd want to test one with a 4-cell battery before assuming that they will work."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1578532965.004300",
+        "parent_user_id": "US51ZNQDU"
+    },
+    {
+        "client_msg_id": "725f282c-915d-4e48-885f-78d17e402184",
+        "type": "message",
+        "text": "They are the same ones just niceer",
+        "user": "US2PZ9QBF",
+        "ts": "1578533774.011300",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RluPO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "They are the same ones just niceer"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1578532965.004300",
+        "parent_user_id": "US51ZNQDU"
+    },
+    {
+        "client_msg_id": "e395cb88-e9de-4b5f-8382-02453979f155",
+        "type": "message",
+        "text": "They come with vhb tape",
+        "user": "US2PZ9QBF",
+        "ts": "1578533781.011500",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ccEwt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "They come with vhb tape"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1578532965.004300",
+        "parent_user_id": "US51ZNQDU"
+    },
+    {
+        "client_msg_id": "c6ff4dd8-ef5f-44b4-af38-8a834375b4b6",
+        "type": "message",
+        "text": "And where the other ones say 2-3 lipo escs these ones say 2-4 lipo escs",
+        "user": "US2PZ9QBF",
+        "ts": "1578533813.011700",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ea4g",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "And where the other ones say 2-3 lipo escs these ones say 2-4 lipo escs"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1578532965.004300",
+        "parent_user_id": "US51ZNQDU"
+    },
+    {
+        "client_msg_id": "f508f5b1-2e1f-4419-9612-d08afa49fa00",
+        "type": "message",
+        "text": "It's probably worth testing as soon as one is wired",
+        "user": "URRA07VU3",
+        "ts": "1578535979.011900",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1578532965.004300",
+        "parent_user_id": "US51ZNQDU"
+    },
+    {
+        "client_msg_id": "97C4FAA6-0AF7-4B9F-9145-F5BA01EBB755",
+        "type": "message",
+        "text": "Yes absolutely ",
+        "user": "US2PZ9QBF",
+        "ts": "1578536050.012300",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4QOFl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes absolutely "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1578532965.004300",
+        "parent_user_id": "US51ZNQDU"
+    },
+    {
+        "client_msg_id": "33b5b4a3-6f38-4552-a79c-6fc7ec73dde2",
+        "type": "message",
+        "text": "But yeah These sound more promising",
+        "user": "URRA07VU3",
+        "ts": "1578536100.012500",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1578532965.004300",
+        "parent_user_id": "US51ZNQDU"
+    },
+    {
+        "client_msg_id": "36061af5-ba58-4da7-9796-01664434279f",
+        "type": "message",
+        "text": "Absolutely!!",
+        "user": "US2PZ9QBF",
+        "ts": "1578536550.012700",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/z\/9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Absolutely!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1578532965.004300",
+        "parent_user_id": "US51ZNQDU"
+    }
+]

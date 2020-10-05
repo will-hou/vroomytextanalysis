@@ -1,0 +1,267 @@
+[
+    {
+        "client_msg_id": "36e872c8-6483-4b92-86e1-3ec9de3e02c7",
+        "type": "message",
+        "text": "Just wanted to check in to see how everyone is doin'! I've been watching youtube videos to get more inspiration but haven't started designing yet. I kind of want to make something that drops a mentos into a cup of soda that lifts up a ping pong ball",
+        "user": "URRA07R7D",
+        "ts": "1594007811.002300",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "2340815f3f5d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-16\/992617530243_2340815f3f5d0170300e_72.png",
+            "first_name": "William",
+            "real_name": "William Hou",
+            "display_name": "vroomy pitchfork",
+            "team": "TS2PZ9PJR",
+            "name": "whou125",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FgRdy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Just wanted to check in to see how everyone is doin'! I've been watching youtube videos to get more inspiration but haven't started designing yet. I kind of want to make something that drops a mentos into a cup of soda that lifts up a ping pong ball"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1594007811.002300",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1594007955.002800",
+        "reply_users": [
+            "URRA07VU3",
+            "URRA07R7D"
+        ],
+        "replies": [
+            {
+                "user": "URRA07VU3",
+                "ts": "1594007844.002400"
+            },
+            {
+                "user": "URRA07R7D",
+                "ts": "1594007869.002600"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1594007955.002800"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "fff7ccf4-20b5-4a19-8cac-1268607c4e21",
+        "type": "message",
+        "text": "so the bubbles lift the ping pong ball?",
+        "user": "URRA07VU3",
+        "ts": "1594007844.002400",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7tM7m",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "so the bubbles lift the ping pong ball?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1594007811.002300",
+        "parent_user_id": "URRA07R7D"
+    },
+    {
+        "client_msg_id": "2ef63661-70d3-4947-8e85-66533bf15d58",
+        "type": "message",
+        "text": "that's the hope! I think the ball wouldn't be too heavy",
+        "user": "URRA07R7D",
+        "ts": "1594007869.002600",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "2340815f3f5d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-16\/992617530243_2340815f3f5d0170300e_72.png",
+            "first_name": "William",
+            "real_name": "William Hou",
+            "display_name": "vroomy pitchfork",
+            "team": "TS2PZ9PJR",
+            "name": "whou125",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vhBV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "that's the hope! I think the ball wouldn't be too heavy"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1594007811.002300",
+        "parent_user_id": "URRA07R7D"
+    },
+    {
+        "client_msg_id": "8427c4af-9c09-4538-91b6-c7340af6e86c",
+        "type": "message",
+        "text": "sounds good. mentos and soda is always fun",
+        "user": "URRA07VU3",
+        "ts": "1594007955.002800",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "V8NJM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "sounds good. mentos and soda is always fun"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1594007811.002300",
+        "parent_user_id": "URRA07R7D"
+    },
+    {
+        "client_msg_id": "798B42D8-DECA-4164-A533-B6A7118E87B2",
+        "type": "message",
+        "text": "Should we figure out a way to know each person who is going before and after us",
+        "user": "US2PZ9QBF",
+        "ts": "1594009491.003800",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MeKk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Should we figure out a way to know each person who is going before and after us"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7c50d05d-5b99-42f9-9871-6084d41b8e80",
+        "type": "message",
+        "text": "Good idea! <!channel> can we try and finalize the order tonight? Maybe everyone can put their name by their preferred position on the document and we'll move things around as needed",
+        "user": "URRA07R7D",
+        "ts": "1594009744.005100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "2340815f3f5d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-16\/992617530243_2340815f3f5d0170300e_72.png",
+            "first_name": "William",
+            "real_name": "William Hou",
+            "display_name": "vroomy pitchfork",
+            "team": "TS2PZ9PJR",
+            "name": "whou125",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qwKmf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Good idea! "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " can we try and finalize the order tonight? Maybe everyone can put their name by their preferred position on the document and we'll move things around as needed"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

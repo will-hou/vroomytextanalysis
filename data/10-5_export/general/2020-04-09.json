@@ -1,0 +1,62 @@
+[
+    {
+        "client_msg_id": "f19ee978-517c-4a47-876a-727147e898c1",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=z0ZmK2LTRKY|https:\/\/www.youtube.com\/watch?v=z0ZmK2LTRKY>",
+        "user": "US2PZ9QBF",
+        "ts": "1586473176.000300",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "BallIPMini \/ 小型玉乗りロボット",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=z0ZmK2LTRKY",
+                "author_name": "makumagai",
+                "author_link": "https:\/\/www.youtube.com\/user\/makumagai",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/z0ZmK2LTRKY\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: BallIPMini \/ 小型玉乗りロボット",
+                "video_html": "<iframe width=\"400\" height=\"300\" src=\"https:\/\/www.youtube.com\/embed\/z0ZmK2LTRKY?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 300,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=z0ZmK2LTRKY",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=z0ZmK2LTRKY"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OiM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=z0ZmK2LTRKY",
+                                "text": "https:\/\/www.youtube.com\/watch?v=z0ZmK2LTRKY"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

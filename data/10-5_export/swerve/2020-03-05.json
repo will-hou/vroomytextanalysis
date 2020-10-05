@@ -1,0 +1,17 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1583462746.000200",
+        "user": "URRA07VU3",
+        "text": "<@URRA07VU3> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1583462747.000300",
+        "user": "URRA07VU3",
+        "text": "<@URRA07VU3> set the channel purpose: discussing the swerve modules",
+        "purpose": "discussing the swerve modules"
+    }
+]

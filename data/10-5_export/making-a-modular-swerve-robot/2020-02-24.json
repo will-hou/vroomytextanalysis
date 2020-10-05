@@ -1,0 +1,371 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1582563110.000300",
+        "user": "UUE9YV61K",
+        "text": "<@UUE9YV61K> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1582599782.000700",
+        "user": "UUH3JGD7H",
+        "text": "<@UUH3JGD7H> has joined the channel"
+    },
+    {
+        "client_msg_id": "957847b2-c7f4-4441-bde7-7e2feb6f6b27",
+        "type": "message",
+        "text": "y'all yee haw or haw yee in these parts?",
+        "user": "UUH3JGD7H",
+        "ts": "1582599872.000800",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "0d4ce2beb963",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-24\/967310845472_0d4ce2beb963e5271a18_72.jpg",
+            "first_name": "Ethan",
+            "real_name": "Ethan Hansen",
+            "display_name": "Ethan",
+            "team": "TS2PZ9PJR",
+            "name": "1ethanhansen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MMNR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "y'all yee haw or haw yee in these parts?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e279e039-a1b2-4d4b-9a33-186c79ecb762",
+        "type": "message",
+        "text": "I think we Vroom Vroom!!",
+        "user": "US2PZ9QBF",
+        "ts": "1582602514.001500",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EGp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think we Vroom Vroom!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0B694E83-D736-4E88-B3DE-976485C13FE4",
+        "type": "message",
+        "text": "However if we were one of the two, it would most definitely be haw yeeeeeeeettttt",
+        "user": "US2PZ9QBF",
+        "ts": "1582607559.002600",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6XWJ2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "However if we were one of the two, it would most definitely be haw yeeeeeeeettttt"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582607559.002600",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1582608401.003300",
+        "reply_users": [
+            "URRA07VU3"
+        ],
+        "replies": [
+            {
+                "user": "URRA07VU3",
+                "ts": "1582608401.003300"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1582608401.003300"
+    },
+    {
+        "client_msg_id": "6EFB9115-1A26-4236-B462-84F0BD929A90",
+        "type": "message",
+        "text": "Now I must ask you, is a hot dog a smoothie ",
+        "user": "US2PZ9QBF",
+        "ts": "1582607737.003200",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "199",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Now I must ask you, is a hot dog a smoothie "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582607737.003200",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1582608471.003900",
+        "reply_users": [
+            "URRA07VU3",
+            "US2PZ9QBF"
+        ],
+        "replies": [
+            {
+                "user": "URRA07VU3",
+                "ts": "1582608415.003500"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1582608459.003700"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1582608471.003900"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1582608471.003900"
+    },
+    {
+        "client_msg_id": "9dfe36e2-12bb-47b8-a59e-435e41ac318f",
+        "type": "message",
+        "text": "yeet haw",
+        "user": "URRA07VU3",
+        "ts": "1582608401.003300",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wFCq8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yeet haw"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582607559.002600",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "c5f6af55-ccf5-43b3-8467-09b3444e59d2",
+        "type": "message",
+        "text": "is it a sammich?",
+        "user": "URRA07VU3",
+        "ts": "1582608415.003500",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BIovA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "is it a sammich?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582607737.003200",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "4f7691ca-2e61-4505-8938-6f0ba997901e",
+        "type": "message",
+        "text": "YEPPERS :grin:",
+        "user": "US2PZ9QBF",
+        "ts": "1582608459.003700",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nXV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "YEPPERS "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "grin"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582607737.003200",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "4f7fadfd-0952-4f9a-abcf-9ecb1e6dae62",
+        "type": "message",
+        "text": "ITS SECRET ANSWER #3",
+        "user": "US2PZ9QBF",
+        "ts": "1582608471.003900",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Z93",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ITS SECRET ANSWER #3"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582607737.003200",
+        "parent_user_id": "US2PZ9QBF"
+    }
+]

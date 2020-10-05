@@ -1,0 +1,549 @@
+[
+    {
+        "client_msg_id": "47fdda58-7ded-43e3-add8-30bac5565d09",
+        "type": "message",
+        "text": "Hey <!everyone>, as you may know there is a new FTC simulator for Android and OS devices created by Motion Studios (if you didn't know, you should check it out). They released a competition a few weeks ago on reddit saying that at the end, the person with the highest score could design a robot for them to animate and add to the game. Clearly they didn't get the message out very far because some how I got the highest score:joy::joy::joy:. So if any of you want, we can design an ftc bot for the sim!!",
+        "user": "US2PZ9QBF",
+        "ts": "1590012611.079200",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EWt2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "everyone"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", as you may know there is a new FTC simulator for Android and OS devices created by Motion Studios (if you didn't know, you should check it out). They released a competition a few weeks ago on reddit saying that at the end, the person with the highest score could design a robot for them to animate and add to the game. Clearly they didn't get the message out very far because some how I got the highest score"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". So if any of you want, we can design an ftc bot for the sim!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1590012611.079200",
+        "reply_count": 8,
+        "reply_users_count": 2,
+        "latest_reply": "1590012983.081700",
+        "reply_users": [
+            "URRA07VU3",
+            "US2PZ9QBF"
+        ],
+        "replies": [
+            {
+                "user": "URRA07VU3",
+                "ts": "1590012820.079500"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1590012859.079800"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1590012877.080300"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1590012890.080500"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1590012901.080700"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1590012944.080900"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1590012955.081200"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1590012983.081700"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1590012983.081700",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "URRA07VU3",
+                    "URRA07R7D",
+                    "US2PZ9QBF"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7d5fd8df-4c38-4928-98bd-39df0d797bd6",
+        "type": "message",
+        "text": "do they have Plowie yet?",
+        "user": "URRA07VU3",
+        "ts": "1590012820.079500",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rMPA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "do they have Plowie yet?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1590012611.079200",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "321ce0b0-a97c-44a8-8a89-f1b06ab8fddf",
+        "type": "message",
+        "text": "As in dozer for FTC?",
+        "user": "US2PZ9QBF",
+        "ts": "1590012859.079800",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2+F",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "As in dozer for FTC?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1590012611.079200",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "1461c700-6a17-4d16-a9a4-d58a645d2cb4",
+        "type": "message",
+        "text": "Does anyone have any ideas?",
+        "user": "US2PZ9QBF",
+        "ts": "1590012874.080200",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gXhRr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Does anyone have any ideas?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "639f4761-4b3e-47ec-b75e-2730da7858f9",
+        "type": "message",
+        "text": "as in dozer's little *second cousin* for FTC",
+        "user": "URRA07VU3",
+        "ts": "1590012877.080300",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "URRA07VU3",
+            "ts": "1590012969.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wyK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "as in dozer's little "
+                            },
+                            {
+                                "type": "text",
+                                "text": "second cousin",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " for FTC"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1590012611.079200",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "44a3d2f3-f8ad-4c10-9544-4e512f7c3b57",
+        "type": "message",
+        "text": "That's awesome",
+        "user": "US2PZ9QBF",
+        "ts": "1590012890.080500",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DXM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That's awesome"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1590012611.079200",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "ef3e7250-4887-4d58-8a33-16e7c27f9e08",
+        "type": "message",
+        "text": "No they only have 2 bots",
+        "user": "US2PZ9QBF",
+        "ts": "1590012901.080700",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fdP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "No they only have 2 bots"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1590012611.079200",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "42065ee0-f24f-461a-aa29-baadbb3625a5",
+        "type": "message",
+        "text": "<https:\/\/www.chiefdelphi.com\/t\/pic-so-i-printed-something\/139358\/7>",
+        "user": "URRA07VU3",
+        "ts": "1590012944.080900",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Chief Delphi",
+                "title": "pic: So I Printed Something",
+                "title_link": "https:\/\/www.chiefdelphi.com\/t\/pic-so-i-printed-something\/139358\/7",
+                "text": "That is great! I want one! :slightly_smiling_face: However, regarding the above comment, we must be clear. Dozer’s name is “Dozer.” It always has been. It is not, and never has been “Plowie.” Plowie is his younger second cousin, who just happens to be a Tonka road-grader. Dozer gets quite offended when he is confused with Plowie. He then goes off and sulks in the corner for the entire afternoon, and it takes an enormous amount of coaxing to get him to settle down and play nicely with the other con...",
+                "fallback": "Chief Delphi: pic: So I Printed Something",
+                "thumb_url": "https:\/\/www.chiefdelphi.com\/uploads\/default\/optimized\/3X\/2\/0\/207922fbea5d803ee5534387388e33d69f7ffc17_2_1024x576.jpeg",
+                "ts": 1420201104,
+                "from_url": "https:\/\/www.chiefdelphi.com\/t\/pic-so-i-printed-something\/139358\/7",
+                "thumb_width": 1024,
+                "thumb_height": 576,
+                "service_icon": "https:\/\/www.chiefdelphi.com\/uploads\/default\/optimized\/1X\/23d75ff3e2d2783a7670500a6fc66cea5512d49e_2_180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/www.chiefdelphi.com\/t\/pic-so-i-printed-something\/139358\/7"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Lfzp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.chiefdelphi.com\/t\/pic-so-i-printed-something\/139358\/7"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1590012611.079200",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "type": "message",
+        "text": "They only have these bots",
+        "files": [
+            {
+                "id": "F013U3SCG6S",
+                "created": 1590012951,
+                "timestamp": 1590012951,
+                "name": "Screenshot_20200520-151531.png",
+                "title": "Screenshot_20200520-151531.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "US2PZ9QBF",
+                "editable": false,
+                "size": 685897,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TS2PZ9PJR-F013U3SCG6S\/screenshot_20200520-151531.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TS2PZ9PJR-F013U3SCG6S\/download\/screenshot_20200520-151531.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F013U3SCG6S-55fd9ddec8\/screenshot_20200520-151531_64.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F013U3SCG6S-55fd9ddec8\/screenshot_20200520-151531_80.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F013U3SCG6S-55fd9ddec8\/screenshot_20200520-151531_360.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_360_w": 360,
+                "thumb_360_h": 175,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F013U3SCG6S-55fd9ddec8\/screenshot_20200520-151531_480.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_480_w": 480,
+                "thumb_480_h": 234,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F013U3SCG6S-55fd9ddec8\/screenshot_20200520-151531_160.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F013U3SCG6S-55fd9ddec8\/screenshot_20200520-151531_720.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_720_w": 720,
+                "thumb_720_h": 350,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F013U3SCG6S-55fd9ddec8\/screenshot_20200520-151531_800.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_800_w": 800,
+                "thumb_800_h": 389,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F013U3SCG6S-55fd9ddec8\/screenshot_20200520-151531_960.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_960_w": 960,
+                "thumb_960_h": 467,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F013U3SCG6S-55fd9ddec8\/screenshot_20200520-151531_1024.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 498,
+                "original_w": 2960,
+                "original_h": 1440,
+                "thumb_tiny": "AwAXADCO3GbJf98\/yp6xMwyozRZLusx\/vn+VTq+xSgGc+lWtgIGiZQCRwe9CR7jipMbUCAADOeaTIUYycnvR0AaY0P3W5HrUaSbJAwGcetPVCCDuOM56UwhQM0eoEEDERYzxnpUocjpUMP8Aq\/xqShbAOLk0bznmm0UwsP8ANbGOKjZiRS009KAP\/9k=",
+                "permalink": "https:\/\/vroomvroomswerve.slack.com\/files\/US2PZ9QBF\/F013U3SCG6S\/screenshot_20200520-151531.png",
+                "permalink_public": "https:\/\/slack-files.com\/TS2PZ9PJR-F013U3SCG6S-582a5ab4cc",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "s8S4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "They only have these bots"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "US2PZ9QBF",
+        "display_as_bot": false,
+        "ts": "1590012955.081200",
+        "client_msg_id": "cfab61e6-bbac-4238-b90e-07a4ac51ae0a",
+        "thread_ts": "1590012611.079200",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "6dbb2567-5f4c-4468-acf7-89b0d4d723d3",
+        "type": "message",
+        "text": "That's so cute",
+        "user": "US2PZ9QBF",
+        "ts": "1590012983.081700",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qokc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That's so cute"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1590012611.079200",
+        "parent_user_id": "US2PZ9QBF"
+    }
+]

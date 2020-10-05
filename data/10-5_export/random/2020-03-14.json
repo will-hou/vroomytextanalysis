@@ -1,0 +1,176 @@
+[
+    {
+        "client_msg_id": "1c5bc610-e3c4-49d5-bf0b-1550e22004b4",
+        "type": "message",
+        "text": "<https:\/\/www.reddit.com\/r\/FRC\/comments\/fhqhgr\/yummy_lemon_time\/?utm_medium=android_app&amp;utm_source=share|https:\/\/www.reddit.com\/r\/FRC\/comments\/fhqhgr\/yummy_lemon_time\/?utm_medium=android_app&amp;utm_source=share>",
+        "user": "US2PZ9QBF",
+        "ts": "1584200693.000100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "reddit",
+                "title": "Yummy lemon time",
+                "title_link": "https:\/\/www.reddit.com\/r\/FRC\/comments\/fhqhgr\/yummy_lemon_time\/?utm_medium=android_app&utm_source=share",
+                "text": "Posted in r\/FRC by u\/ZeusDog5 • 342 points and 9 comments",
+                "fallback": "reddit: Yummy lemon time",
+                "image_url": "https:\/\/preview.redd.it\/lkr6x2rg0cm41.jpg?overlay-align=bottom,left&crop=748:391.623036649,smart&overlay-height=15p&overlay=%2Fwatermark%2Ft5_2rdka.png%3Fs%3D33fba01e5402cd941c55d9c3d448daeb46eb5701&width=748&height=391.623036649&auto=webp&s=b7a10d61e2e2d1cda24fe107c46c10128295c544",
+                "image_width": 477,
+                "image_height": 250,
+                "from_url": "https:\/\/www.reddit.com\/r\/FRC\/comments\/fhqhgr\/yummy_lemon_time\/?utm_medium=android_app&utm_source=share",
+                "image_bytes": 35360,
+                "service_icon": "http:\/\/www.redditstatic.com\/desktop2x\/img\/favicon\/apple-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/www.reddit.com\/r\/FRC\/comments\/fhqhgr\/yummy_lemon_time\/?utm_medium=android_app&amp;utm_source=share"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gTWH1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.reddit.com\/r\/FRC\/comments\/fhqhgr\/yummy_lemon_time\/?utm_medium=android_app&utm_source=share",
+                                "text": "https:\/\/www.reddit.com\/r\/FRC\/comments\/fhqhgr\/yummy_lemon_time\/?utm_medium=android_app&utm_source=share"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "12FB8CBD-C2A1-4982-8DD0-FD7451DC336D",
+        "type": "message",
+        "text": "<https:\/\/youtu.be\/VP4emc-K57k|https:\/\/youtu.be\/VP4emc-K57k> that’s an awesome robot",
+        "user": "UUE9YV61K",
+        "ts": "1584207162.000500",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "cb12c096f208",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-03\/980831491397_cb12c096f208c53c20d4_72.png",
+            "first_name": "Dillon",
+            "real_name": "Dillon Mucha",
+            "display_name": "Dillon",
+            "team": "TS2PZ9PJR",
+            "name": "dillonmucha",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "The Chimeras FRC Team 1684  - 2020 Robot Reveal \"Erebus\"",
+                "title_link": "https:\/\/youtu.be\/VP4emc-K57k",
+                "author_name": "The Chimeras FRC Team 1684",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCLhe7fZU1uNXl-pl6uzTwvg",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/VP4emc-K57k\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: The Chimeras FRC Team 1684  - 2020 Robot Reveal \"Erebus\"",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/VP4emc-K57k?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/youtu.be\/VP4emc-K57k",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/youtu.be\/VP4emc-K57k"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Plb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/youtu.be\/VP4emc-K57k",
+                                "text": "https:\/\/youtu.be\/VP4emc-K57k"
+                            },
+                            {
+                                "type": "text",
+                                "text": " that’s an awesome robot"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "02cfdb3a-f94b-42f3-95ca-f57c47a89080",
+        "type": "message",
+        "text": "<https:\/\/johnvneun.com\/blog\/2020\/3\/9\/why-swerve>",
+        "user": "UUH3JGD7H",
+        "ts": "1584215657.000800",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "0d4ce2beb963",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-24\/967310845472_0d4ce2beb963e5271a18_72.jpg",
+            "first_name": "Ethan",
+            "real_name": "Ethan Hansen",
+            "display_name": "Ethan",
+            "team": "TS2PZ9PJR",
+            "name": "1ethanhansen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Fail Harder",
+                "title": "Why Swerve? — JVN Blog",
+                "title_link": "https:\/\/johnvneun.com\/blog\/2020\/3\/9\/why-swerve",
+                "text": "People seem to like when I tell stories. This is a popular one around the ol’ watering hole. It contains adult language. In fact it is 67% adult language. If you don’t like adult language, you should NOT keep reading. This is a true story. It takes place at the 2019 Houston FRC World Championsh",
+                "fallback": "Fail Harder: Why Swerve? — JVN Blog",
+                "thumb_url": "http:\/\/static1.squarespace.com\/static\/52eeae57e4b0128d21ba7ff5\/t\/5e6669f027360a0a03ad8566\/1583770110256\/2020.jpg?format=1500w",
+                "from_url": "https:\/\/johnvneun.com\/blog\/2020\/3\/9\/why-swerve",
+                "thumb_width": 1500,
+                "thumb_height": 1125,
+                "service_icon": "https:\/\/images.squarespace-cdn.com\/content\/v1\/52eeae57e4b0128d21ba7ff5\/1514673491122-FQB8XZMN64HMOQ1E9QBD\/ke17ZwdGBToddI8pDm48kBK7MsDKozlHiCDZoN-ZbQtZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVG2vReXFbxrFY9dFZ5HXdJuodpBodkwKFq3YBjc6-mpPltO8nJtk629tZGIWiyY3XQ\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/johnvneun.com\/blog\/2020\/3\/9\/why-swerve"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jlYpm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/johnvneun.com\/blog\/2020\/3\/9\/why-swerve"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

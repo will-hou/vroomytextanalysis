@@ -1,0 +1,134 @@
+[
+    {
+        "client_msg_id": "92c4e24c-b56e-4212-844b-aac0a4bb0aaa",
+        "type": "message",
+        "text": "hey <@UU50D077H> <@US51ZNQDU> and <@URRA07VU3> you are all our cad people at the moment! just to catch Jake up on what our plan is, Benjamin is designing a beautiful in-wheel differential swerve module (I'm thinking that we will leave him to that because he's amazing and also I think using it as a collage project :rolling_on_the_floor_laughing:. Palmer is leading the all mechanism deign and so I think that it might be best if you (jake) and she talk about ideas and plans (probably after build and competition season). does this sound like a good plan for everyone?",
+        "user": "US2PZ9QBF",
+        "ts": "1582310863.006400",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yownu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hey "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UU50D077H"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "US51ZNQDU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "URRA07VU3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " you are all our cad people at the moment! just to catch Jake up on what our plan is, Benjamin is designing a beautiful in-wheel differential swerve module (I'm thinking that we will leave him to that because he's amazing and also I think using it as a collage project "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rolling_on_the_floor_laughing"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". Palmer is leading the all mechanism deign and so I think that it might be best if you (jake) and she talk about ideas and plans (probably after build and competition season). does this sound like a good plan for everyone?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bc8dfb85-3043-4afc-9d1a-14c3ceb677ff",
+        "type": "message",
+        "text": "there's <@URRA07R7D>, <@US4KMEG9M>, <@US51ZNQDU> and 2 other people on chaos theory who can help with softwear and all electrical board things",
+        "user": "US2PZ9QBF",
+        "ts": "1582312488.009000",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nEh=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "there's "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "URRA07R7D"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "US4KMEG9M"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "US51ZNQDU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and 2 other people on chaos theory who can help with softwear and all electrical board things"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,659 @@
+[
+    {
+        "client_msg_id": "c47fb246-db1e-4c06-a8c1-2c29ebed6271",
+        "type": "message",
+        "text": "howdy everyone!!",
+        "user": "US2PZ9QBF",
+        "ts": "1585600543.000200",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zvqf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "howdy everyone!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b6b588ef-b803-4cca-84b8-97ed7205e53f",
+        "type": "message",
+        "text": "here is the link for our meeting",
+        "user": "US2PZ9QBF",
+        "ts": "1585600560.000600",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cVRw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "here is the link for our meeting"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "aea1e9e3-7325-4496-a0a9-eee9d7e128e7",
+        "type": "message",
+        "text": "<https:\/\/meet.jit.si\/vroomvroommeeting>",
+        "user": "US2PZ9QBF",
+        "ts": "1585600562.000800",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Jitsi Meet",
+                "title_link": "https:\/\/meet.jit.si\/vroomvroommeeting",
+                "text": "Join a WebRTC video conference powered by the Jitsi Videobridge",
+                "fallback": "Jitsi Meet",
+                "from_url": "https:\/\/meet.jit.si\/vroomvroommeeting",
+                "service_icon": "https:\/\/meet.jit.si\/images\/apple-touch-icon.png",
+                "service_name": "meet.jit.si",
+                "id": 1,
+                "original_url": "https:\/\/meet.jit.si\/vroomvroommeeting"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PG3Vx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/meet.jit.si\/vroomvroommeeting"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4c713693-1dd8-4c9d-a107-982b612066a5",
+        "type": "message",
+        "text": "we will officially start in 24 minutes",
+        "user": "US2PZ9QBF",
+        "ts": "1585600626.001500",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LGq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "we will officially start in 24 minutes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "92dc32ab-6dd7-4d37-8a35-4e68498ab18a",
+        "type": "message",
+        "text": "Hi <!channel>! I completely forgot about the meeting until just a couple minutes ago (I should really start writing these down...) Is there anything CAD related y'all want to talk about in today's meeting?",
+        "user": "US51ZNQDU",
+        "ts": "1585601539.003300",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "ade188af1049",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-30\/891681516518_ade188af10498886e12c_72.jpg",
+            "first_name": "Palmer",
+            "real_name": "Palmer Campbell-Kaswell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "palmerc120",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "61w22",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! I completely forgot about the meeting until just a couple minutes ago (I should really start writing these down...) Is there anything CAD related y'all want to talk about in today's meeting?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585601539.003300",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1585601603.004100",
+        "reply_users": [
+            "US2PZ9QBF"
+        ],
+        "replies": [
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1585601603.004100"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1585601603.004100"
+    },
+    {
+        "client_msg_id": "634D00C3-CEB8-4F84-9A7D-FBF15EC2CC4D",
+        "type": "message",
+        "text": "Climber, motor distribution, and whatever you want to go through ",
+        "user": "US2PZ9QBF",
+        "ts": "1585601603.004100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SuvaN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Climber, motor distribution, and whatever you want to go through "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585601539.003300",
+        "parent_user_id": "US51ZNQDU"
+    },
+    {
+        "client_msg_id": "f0e1d9ec-0dc2-44b6-9e75-21d9c0d69fd9",
+        "type": "message",
+        "text": "<https:\/\/docs.google.com\/document\/d\/1BChvF-Xbz3hJp-aw7mdMd65ifDukKtfd3FzMS80CMaE\/edit#>",
+        "user": "US4KMEG9M",
+        "ts": "1585603144.004800",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "b915bd1b6aaa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-04\/1338647058470_b915bd1b6aaa68df3e32_72.jpg",
+            "first_name": "joshua",
+            "real_name": "joshua phelps",
+            "display_name": "joshua phelps",
+            "team": "TS2PZ9PJR",
+            "name": "joshuaphelps127",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DDqMn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/document\/d\/1BChvF-Xbz3hJp-aw7mdMd65ifDukKtfd3FzMS80CMaE\/edit#"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "54d7a79f-4682-46d6-8b23-12a54373f993",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=yKmiuSVkj0E>",
+        "user": "US2PZ9QBF",
+        "ts": "1585603751.005500",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "FRC 2910, Quals 48, West Valley, 2020 Week 2, Raw Footage",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=yKmiuSVkj0E",
+                "author_name": "FRC Team 2910 Jack-in-the-Bot",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UC45x0tv2RvzXupE-WmGGPJg",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/yKmiuSVkj0E\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: FRC 2910, Quals 48, West Valley, 2020 Week 2, Raw Footage",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/yKmiuSVkj0E?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=yKmiuSVkj0E",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=yKmiuSVkj0E"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "STe=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=yKmiuSVkj0E"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/vroomvroomswerve.slack.com\/files\/UUH3JGD7H\/F0111UTANLE\/signal-2020-03-29-134520.jpg|https:\/\/vroomvroomswerve.slack.com\/files\/UUH3JGD7H\/F0111UTANLE\/signal-2020-03-29-134520.jpg>",
+        "files": [
+            {
+                "id": "F0111UTANLE",
+                "created": 1585516388,
+                "timestamp": 1585516388,
+                "name": "signal-2020-03-29-134520.jpg",
+                "title": "signal-2020-03-29-134520.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "UUH3JGD7H",
+                "editable": false,
+                "size": 57297,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TS2PZ9PJR-F0111UTANLE\/signal-2020-03-29-134520.jpg?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TS2PZ9PJR-F0111UTANLE\/download\/signal-2020-03-29-134520.jpg?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F0111UTANLE-21b011bd1f\/signal-2020-03-29-134520_64.jpg?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F0111UTANLE-21b011bd1f\/signal-2020-03-29-134520_80.jpg?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F0111UTANLE-21b011bd1f\/signal-2020-03-29-134520_360.jpg?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F0111UTANLE-21b011bd1f\/signal-2020-03-29-134520_480.jpg?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F0111UTANLE-21b011bd1f\/signal-2020-03-29-134520_160.jpg?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F0111UTANLE-21b011bd1f\/signal-2020-03-29-134520_720.jpg?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F0111UTANLE-21b011bd1f\/signal-2020-03-29-134520_800.jpg?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_800_w": 600,
+                "thumb_800_h": 800,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F0111UTANLE-21b011bd1f\/signal-2020-03-29-134520_960.jpg?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "image_exif_rotation": 1,
+                "original_w": 768,
+                "original_h": 1024,
+                "thumb_tiny": "AwAwACSPzDGpXaNrde2atJEskAUZXcdx5zzUPnRyxBG4FOVXc4hYqB3qb6lE8aCKPYGGeSCR3pLeJkYsxyNoA5zSlPlG6TkdxTRIc+XkdOop3FYr3bP52F4AFQ7pfWm3RJuH3dah4q0tCWzWaK3kwEQK3t2pJZRGoROB2FFuCGk3deMVVnbMzVmtVqUxxct1NSRS84br64quGpM+lOwJ2LMlqkz7ycE037Cn96no52A+op241WhN2SocSYP8QqndRlZTxweankQM6MCRtORT5DvxxUXLsZrA44pikgc1eeMemarSRc8U0xWJ7edFiw4yc8c1L9oi\/un86pi3k\/u4\/Gj7PL6frQB\/\/9k=",
+                "permalink": "https:\/\/vroomvroomswerve.slack.com\/files\/UUH3JGD7H\/F0111UTANLE\/signal-2020-03-29-134520.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/TS2PZ9PJR-F0111UTANLE-9eb6da959e",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RXUm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/vroomvroomswerve.slack.com\/files\/UUH3JGD7H\/F0111UTANLE\/signal-2020-03-29-134520.jpg",
+                                "text": "https:\/\/vroomvroomswerve.slack.com\/files\/UUH3JGD7H\/F0111UTANLE\/signal-2020-03-29-134520.jpg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "US2PZ9QBF",
+        "display_as_bot": false,
+        "x_files": [
+            "F0111UTANLE"
+        ],
+        "ts": "1585605470.005800",
+        "client_msg_id": "cc223242-4e59-468d-8cae-040c6a298853"
+    },
+    {
+        "client_msg_id": "6b264ee5-1e04-4785-a87c-e9123a97b6f0",
+        "type": "message",
+        "text": "<https:\/\/www.wcproducts.com\/colson-wheels>",
+        "user": "US2PZ9QBF",
+        "ts": "1585606992.006300",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rRWo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.wcproducts.com\/colson-wheels"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F0112CHGJF6",
+                "created": 1585607371,
+                "timestamp": 1585607371,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UU50D077H",
+                "editable": false,
+                "size": 909820,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TS2PZ9PJR-F0112CHGJF6\/image.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TS2PZ9PJR-F0112CHGJF6\/download\/image.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F0112CHGJF6-1b6c3efa0e\/image_64.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F0112CHGJF6-1b6c3efa0e\/image_80.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F0112CHGJF6-1b6c3efa0e\/image_360.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_360_w": 360,
+                "thumb_360_h": 187,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F0112CHGJF6-1b6c3efa0e\/image_480.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_480_w": 480,
+                "thumb_480_h": 249,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F0112CHGJF6-1b6c3efa0e\/image_160.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F0112CHGJF6-1b6c3efa0e\/image_720.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_720_w": 720,
+                "thumb_720_h": 374,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F0112CHGJF6-1b6c3efa0e\/image_800.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_800_w": 800,
+                "thumb_800_h": 416,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F0112CHGJF6-1b6c3efa0e\/image_960.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_960_w": 960,
+                "thumb_960_h": 499,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F0112CHGJF6-1b6c3efa0e\/image_1024.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 532,
+                "original_w": 1261,
+                "original_h": 655,
+                "thumb_tiny": "AwAYADCNYY8coDTZI0KttVRgdcUvmL0BzUUobaCCSCMkUARhM5HHFIq7jjA\/GpLdkVj5n3aldrYqdiEEdDUt6jFjjjO3KqRj060\/yov7i\/lVdN7SBQxwTnNWFfPB6imCIHPHWoizEEE9ae3Soz1pkiAHHAoIJFOH3TQKQxwADbgxyMdBUsYxk5Jz61GKlXpQB\/\/Z",
+                "permalink": "https:\/\/vroomvroomswerve.slack.com\/files\/UU50D077H\/F0112CHGJF6\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/TS2PZ9PJR-F0112CHGJF6-6ea5288b1e",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UU50D077H",
+        "display_as_bot": false,
+        "ts": "1585607377.006400",
+        "client_msg_id": "46a2010f-8a44-48aa-9be0-04ee25698af9"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F010STGA94H",
+                "created": 1585609095,
+                "timestamp": 1585609095,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UU50D077H",
+                "editable": false,
+                "size": 164747,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TS2PZ9PJR-F010STGA94H\/image.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TS2PZ9PJR-F010STGA94H\/download\/image.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F010STGA94H-2633c2ab8a\/image_64.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F010STGA94H-2633c2ab8a\/image_80.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F010STGA94H-2633c2ab8a\/image_360.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_360_w": 360,
+                "thumb_360_h": 265,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F010STGA94H-2633c2ab8a\/image_480.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_480_w": 480,
+                "thumb_480_h": 353,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F010STGA94H-2633c2ab8a\/image_160.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "original_w": 705,
+                "original_h": 519,
+                "thumb_tiny": "AwAjADDQXdvOenaleRUByegyaFQKxbJ5qF14YgAt3FADorlJSdvapM7wCrcVRgkG8KqBATz1q8pHOKAE2Pj\/AFh\/IU5QQACcn1paKACmsD2wfanUUAQeUSfu4+pp7ofLwshU5yTUlMwPT9aACP5EAZ9x9cU7cPWk2j0\/WnYHpQAUUUUAFJS0UAFFFFAH\/9k=",
+                "permalink": "https:\/\/vroomvroomswerve.slack.com\/files\/UU50D077H\/F010STGA94H\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/TS2PZ9PJR-F010STGA94H-da8ebf1f5e",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UU50D077H",
+        "display_as_bot": false,
+        "ts": "1585609097.006700",
+        "client_msg_id": "5aac4712-7f00-411e-8cf8-695050507f78"
+    },
+    {
+        "client_msg_id": "19ac4e38-e490-44b3-8817-6b3ba71dba96",
+        "type": "message",
+        "text": "<https:\/\/www.vexrobotics.com\/217-2778.html>",
+        "user": "UU50D077H",
+        "ts": "1585609499.007100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "790b5f83cbe4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-16\/943684986291_790b5f83cbe4b100e623_72.jpg",
+            "first_name": "Jake",
+            "real_name": "Jake Enos",
+            "display_name": "Jake Enos",
+            "team": "TS2PZ9PJR",
+            "name": "jake",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "VEX Robotics",
+                "title": "Pancake Pneumatic Cylinder, 3\/4\" Bore, 1\/2\" Travel",
+                "title_link": "https:\/\/www.vexrobotics.com\/217-2778.html",
+                "text": "Pancake Pneumatic Cylinder, 3\/4\" Bore, 1\/2\" Travel",
+                "fallback": "VEX Robotics: Pancake Pneumatic Cylinder, 3\/4\" Bore, 1\/2\" Travel",
+                "thumb_url": "https:\/\/www.vexrobotics.com\/media\/catalog\/product\/cache\/1\/image\/9df78eab33525d08d6e5fb8d27136e95\/2\/1\/217-2778_1.jpg",
+                "fields": [
+                    {
+                        "title": "USD",
+                        "value": "$49.99",
+                        "short": true
+                    },
+                    {
+                        "title": "WEBSITE",
+                        "value": "<http:\/\/vexrobotics.com|vexrobotics.com>",
+                        "short": true
+                    }
+                ],
+                "from_url": "https:\/\/www.vexrobotics.com\/217-2778.html",
+                "thumb_width": 950,
+                "thumb_height": 950,
+                "service_icon": "https:\/\/www.vexrobotics.com\/skin\/frontend\/rwd\/vex\/images\/favicon\/vexpro.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.vexrobotics.com\/217-2778.html"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BRqQk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.vexrobotics.com\/217-2778.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

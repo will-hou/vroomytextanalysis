@@ -1,0 +1,273 @@
+[
+    {
+        "client_msg_id": "fd8fa825-7d3a-47f9-8ce5-ed6222e28bce",
+        "type": "message",
+        "text": "vroom vroom",
+        "user": "URRA07VU3",
+        "ts": "1589838895.016000",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PPc0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "vroom vroom"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589838895.016000",
+        "reply_count": 5,
+        "reply_users_count": 3,
+        "latest_reply": "1589839987.016900",
+        "reply_users": [
+            "URRA07R7D",
+            "URRA07VU3",
+            "US2PZ9QBF"
+        ],
+        "replies": [
+            {
+                "user": "URRA07R7D",
+                "ts": "1589838949.016100"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1589839282.016300"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1589839326.016500"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1589839586.016700"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1589839987.016900"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1589840221.000520"
+    },
+    {
+        "client_msg_id": "a1308a7d-be84-4689-868d-e203a8f78343",
+        "type": "message",
+        "text": "vroom holy heck you sent that at like 2:54:58 vroom",
+        "user": "URRA07R7D",
+        "ts": "1589838949.016100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "2340815f3f5d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-16\/992617530243_2340815f3f5d0170300e_72.png",
+            "first_name": "William",
+            "real_name": "William Hou",
+            "display_name": "vroomy pitchfork",
+            "team": "TS2PZ9PJR",
+            "name": "whou125",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1sQZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "vroom holy heck you sent that at like 2:54:58 vroom"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589838895.016000",
+        "parent_user_id": "URRA07VU3"
+    },
+    {
+        "client_msg_id": "97811bdc-3e47-46c0-8f2a-38d74e55f9c6",
+        "type": "message",
+        "text": "bwah ha ha",
+        "user": "URRA07VU3",
+        "ts": "1589839282.016300",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+5bbb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "bwah ha ha"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589838895.016000",
+        "parent_user_id": "URRA07VU3"
+    },
+    {
+        "client_msg_id": "94d36864-5c4c-4762-80a2-99947e4b33a4",
+        "type": "message",
+        "text": "this way I get all the vrooming to myself",
+        "user": "URRA07VU3",
+        "ts": "1589839326.016500",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4D4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "this way I get all the vrooming to myself"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589838895.016000",
+        "parent_user_id": "URRA07VU3"
+    },
+    {
+        "client_msg_id": "df4707bb-cb23-474a-a708-6f02b158c76a",
+        "type": "message",
+        "text": "The lone vroomer back at it again",
+        "user": "US2PZ9QBF",
+        "ts": "1589839586.016700",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=0+RT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The lone vroomer back at it again"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589838895.016000",
+        "parent_user_id": "URRA07VU3"
+    },
+    {
+        "client_msg_id": "d217ab38-e887-4c69-9d93-e6f6ac83f9d0",
+        "type": "message",
+        "text": "I don't actually mind vrooming with other people though",
+        "user": "URRA07VU3",
+        "ts": "1589839987.016900",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "h5V",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I don't actually mind vrooming with other people though"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589838895.016000",
+        "parent_user_id": "URRA07VU3"
+    }
+]

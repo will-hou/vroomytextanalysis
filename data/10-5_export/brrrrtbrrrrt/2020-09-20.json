@@ -1,0 +1,49 @@
+[
+    {
+        "client_msg_id": "48195728-bb3e-4d03-970b-bda3e3888f9c",
+        "type": "message",
+        "text": "brrrrt brrrrt",
+        "user": "URRA07R7D",
+        "ts": "1600650371.000200",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "2340815f3f5d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-16\/992617530243_2340815f3f5d0170300e_72.png",
+            "first_name": "William",
+            "real_name": "William Hou",
+            "display_name": "vroomy pitchfork",
+            "team": "TS2PZ9PJR",
+            "name": "whou125",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wjfFx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "brrrrt brrrrt"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eggplant",
+                "users": [
+                    "URRA07VU3"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

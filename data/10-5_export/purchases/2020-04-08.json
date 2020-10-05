@@ -1,0 +1,66 @@
+[
+    {
+        "client_msg_id": "0b7ab2d6-50bc-4b73-9c32-67d4ec9d5421",
+        "type": "message",
+        "text": "Hey <!channel> , since the market is in the trash, tools are really cheap!!!\nWhat are all of your thoughts on this product? <https:\/\/www.handtackle.com\/power-tool-combo-kitss-c-5\/milwaukee-269515-m18-18v-cordless-lithiumion-15tool-combo-kit-p-152.html?utm_source=taboola&amp;utm_medium=referral|https:\/\/www.handtackle.com\/power-tool-combo-kitss-c-5\/milwaukee-269515-m18-18v-cordless-lithiumion-15tool-combo-kit-p-152.html?utm_source=taboola&amp;utm_medium=referral>",
+        "user": "US2PZ9QBF",
+        "ts": "1586398780.000100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Milwaukee 2695-15 M18 18V Cordless Lithium-Ion 15-Tool Combo Kit [acem252] - $69.00 : Shop",
+                "title_link": "https:\/\/www.handtackle.com\/power-tool-combo-kitss-c-5\/milwaukee-269515-m18-18v-cordless-lithiumion-15tool-combo-kit-p-152.html?utm_source=taboola&utm_medium=referral",
+                "text": "Shop Milwaukee 2695-15 M18 18V Cordless Lithium-Ion 15-Tool Combo Kit [acem252] - Information   Details The Milwaukee M18 18V Cordless Lithium-Ion 15-Tool Combo Kit boasts patented technologies, electronics, innovative motor design, and superior ergonomics to provide the most efficient blend of power, weight, and performance in the industry. Powered by Redlithium this M18 Cordless Combo Kit delivers more torque and power as well as a",
+                "fallback": "Milwaukee 2695-15 M18 18V Cordless Lithium-Ion 15-Tool Combo Kit [acem252] - $69.00 : Shop",
+                "from_url": "https:\/\/www.handtackle.com\/power-tool-combo-kitss-c-5\/milwaukee-269515-m18-18v-cordless-lithiumion-15tool-combo-kit-p-152.html?utm_source=taboola&utm_medium=referral",
+                "service_icon": "https:\/\/www.handtackle.com\/favicon.ico",
+                "service_name": "handtackle.com",
+                "id": 1,
+                "original_url": "https:\/\/www.handtackle.com\/power-tool-combo-kitss-c-5\/milwaukee-269515-m18-18v-cordless-lithiumion-15tool-combo-kit-p-152.html?utm_source=taboola&amp;utm_medium=referral"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bUxG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " , since the market is in the trash, tools are really cheap!!!\nWhat are all of your thoughts on this product? "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.handtackle.com\/power-tool-combo-kitss-c-5\/milwaukee-269515-m18-18v-cordless-lithiumion-15tool-combo-kit-p-152.html?utm_source=taboola&utm_medium=referral",
+                                "text": "https:\/\/www.handtackle.com\/power-tool-combo-kitss-c-5\/milwaukee-269515-m18-18v-cordless-lithiumion-15tool-combo-kit-p-152.html?utm_source=taboola&utm_medium=referral"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

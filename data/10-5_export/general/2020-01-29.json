@@ -1,0 +1,122 @@
+[
+    {
+        "client_msg_id": "b900c6eb-883d-423c-811b-54daeac0f25f",
+        "type": "message",
+        "text": "Ask Mark if he would be ok programming a rectangular swerve. I think it might be a bit harder. \nOne possibility is to keep the wheels in a square but extend the frame out extra on two sides.",
+        "user": "US4KMEG9M",
+        "ts": "1580303310.000100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "b915bd1b6aaa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-04\/1338647058470_b915bd1b6aaa68df3e32_72.jpg",
+            "first_name": "joshua",
+            "real_name": "joshua phelps",
+            "display_name": "joshua phelps",
+            "team": "TS2PZ9PJR",
+            "name": "joshuaphelps127",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yN4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ask Mark if he would be ok programming a rectangular swerve. I think it might be a bit harder. \nOne possibility is to keep the wheels in a square but extend the frame out extra on two sides."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1580278297.001300",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "A7B38671-3893-44D4-BB00-0984AE5E87D2",
+        "type": "message",
+        "text": "That’s true, and that way we can change the size of the module on the bot and not the drivetrain ",
+        "user": "US2PZ9QBF",
+        "ts": "1580327564.001000",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "J4Fr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That’s true, and that way we can change the size of the module on the bot and not the drivetrain "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1580278297.001300",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "d6ccea77-eef6-4dbf-8a1e-078d68056280",
+        "type": "message",
+        "text": "It might be really easy to reprogram swerve for a different wheelbase. I don't know how to program swerve.\nBut you're right that the frame perimeter of the module on the drive train doesn't have to match the dimensions of the drivetrain.",
+        "user": "US4KMEG9M",
+        "ts": "1580327754.001200",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "b915bd1b6aaa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-04\/1338647058470_b915bd1b6aaa68df3e32_72.jpg",
+            "first_name": "joshua",
+            "real_name": "joshua phelps",
+            "display_name": "joshua phelps",
+            "team": "TS2PZ9PJR",
+            "name": "joshuaphelps127",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+vyY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It might be really easy to reprogram swerve for a different wheelbase. I don't know how to program swerve.\nBut you're right that the frame perimeter of the module on the drive train doesn't have to match the dimensions of the drivetrain."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1580278297.001300",
+        "parent_user_id": "US2PZ9QBF"
+    }
+]

@@ -1,0 +1,698 @@
+[
+    {
+        "client_msg_id": "4d6aa7b4-7472-4b97-8fbb-75909aeae791",
+        "type": "message",
+        "text": "MILLENNIUM CARWASH!",
+        "user": "US4KMEG9M",
+        "ts": "1582690169.000300",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "b915bd1b6aaa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-04\/1338647058470_b915bd1b6aaa68df3e32_72.jpg",
+            "first_name": "joshua",
+            "real_name": "joshua phelps",
+            "display_name": "joshua phelps",
+            "team": "TS2PZ9PJR",
+            "name": "joshuaphelps127",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5NZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "MILLENNIUM CARWASH!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582690169.000300",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1582690242.000700",
+        "reply_users": [
+            "URRA07VU3",
+            "US4KMEG9M"
+        ],
+        "replies": [
+            {
+                "user": "URRA07VU3",
+                "ts": "1582690240.000500"
+            },
+            {
+                "user": "US4KMEG9M",
+                "ts": "1582690242.000700"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "question",
+                "users": [
+                    "US2PZ9QBF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2b7367db-e0bd-4b56-90a0-53d92162a2ca",
+        "type": "message",
+        "text": "what?",
+        "user": "URRA07VU3",
+        "ts": "1582690240.000500",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SNw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "what?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582690169.000300",
+        "parent_user_id": "US4KMEG9M"
+    },
+    {
+        "client_msg_id": "d6966f93-a2d0-4c94-a876-8733d33285f9",
+        "type": "message",
+        "text": "<@URRA07VU3> SERT's reveal!",
+        "user": "US4KMEG9M",
+        "ts": "1582690242.000700",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "b915bd1b6aaa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-04\/1338647058470_b915bd1b6aaa68df3e32_72.jpg",
+            "first_name": "joshua",
+            "real_name": "joshua phelps",
+            "display_name": "joshua phelps",
+            "team": "TS2PZ9PJR",
+            "name": "joshuaphelps127",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SFBf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "URRA07VU3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " SERT's reveal!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582690169.000300",
+        "parent_user_id": "US4KMEG9M"
+    },
+    {
+        "client_msg_id": "96baaa08-a39b-458c-aee9-66f8da7b307c",
+        "type": "message",
+        "text": "Yeah, it's pretty stupid",
+        "user": "US2PZ9QBF",
+        "ts": "1582693226.001200",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IDk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah, it's pretty stupid"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582693226.001200",
+        "reply_count": 14,
+        "reply_users_count": 4,
+        "latest_reply": "1582754149.004200",
+        "reply_users": [
+            "URRA07VU3",
+            "US2PZ9QBF",
+            "US51ZNQDU",
+            "URRA07R7D"
+        ],
+        "replies": [
+            {
+                "user": "URRA07VU3",
+                "ts": "1582693356.001300"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1582693399.001500"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1582693422.001700"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1582693512.001900"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1582693560.002100"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1582693589.002300"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1582693748.002500"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1582694083.002700"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1582694127.002900"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1582701038.000400"
+            },
+            {
+                "user": "US51ZNQDU",
+                "ts": "1582748253.002700"
+            },
+            {
+                "user": "US51ZNQDU",
+                "ts": "1582748281.003000"
+            },
+            {
+                "user": "URRA07R7D",
+                "ts": "1582754107.004000"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1582754149.004200"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1582754149.004200"
+    },
+    {
+        "client_msg_id": "68627598-5a6a-4ee9-b9ff-11466dff8d83",
+        "type": "message",
+        "text": "it's not that bad. the reveal is great with the song",
+        "user": "URRA07VU3",
+        "ts": "1582693356.001300",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Bzk9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "it's not that bad. the reveal is great with the song"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582693226.001200",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "cc568808-c96f-4346-b8b1-8399a54636ab",
+        "type": "message",
+        "text": "It is",
+        "user": "US2PZ9QBF",
+        "ts": "1582693399.001500",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cEoWg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It is"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582693226.001200",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "49915c03-e750-4f93-9b4b-cf7efcc9af39",
+        "type": "message",
+        "text": "The color wheel spinner doesn't go up high enough",
+        "user": "US2PZ9QBF",
+        "ts": "1582693422.001700",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YAU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The color wheel spinner doesn't go up high enough"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582693226.001200",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "607001da-4fea-42bc-b4ac-7cf7a9b5e8bb",
+        "type": "message",
+        "text": "how does it extend?",
+        "user": "URRA07VU3",
+        "ts": "1582693512.001900",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f5pgT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "how does it extend?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582693226.001200",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "6a882349-7ceb-4203-bd52-b3310f5cfb57",
+        "type": "message",
+        "text": "It's moved up using threads on a shaft and then reaches max hight on a lathed down pice of the thread",
+        "user": "US2PZ9QBF",
+        "ts": "1582693560.002100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dvMn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It's moved up using threads on a shaft and then reaches max hight on a lathed down pice of the thread"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582693226.001200",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "2c514054-b009-4d2f-bb60-f2765a89053c",
+        "type": "message",
+        "text": "When we want it to come down, we reverse the motor and it re-thrwads",
+        "user": "US2PZ9QBF",
+        "ts": "1582693589.002300",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jrbHH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "When we want it to come down, we reverse the motor and it re-thrwads"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582693226.001200",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "70836fdf-6260-459f-8afb-60867960117e",
+        "type": "message",
+        "text": "that's actually really cool",
+        "user": "URRA07VU3",
+        "ts": "1582693748.002500",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QJm5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "that's actually really cool"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582693226.001200",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "0b325e44-3c01-45be-ac7a-4d52107fc1ff",
+        "type": "message",
+        "text": "I sure thought so!!!",
+        "user": "US2PZ9QBF",
+        "ts": "1582694083.002700",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F=u=v",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I sure thought so!!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582693226.001200",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "8d7b4fbd-ef9b-4809-b486-781e50a16f5f",
+        "type": "message",
+        "text": "I mean it's bad if if doesn't work, but the concept is really original.",
+        "user": "URRA07VU3",
+        "ts": "1582694127.002900",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RTI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I mean it's bad if if doesn't work, but the concept is really original."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582693226.001200",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "3bb46d93-879c-42d0-b2e1-b2cd89097045",
+        "type": "message",
+        "text": "LOVE IT",
+        "user": "UUH3JGD7H",
+        "ts": "1582699176.000300",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "0d4ce2beb963",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-24\/967310845472_0d4ce2beb963e5271a18_72.jpg",
+            "first_name": "Ethan",
+            "real_name": "Ethan Hansen",
+            "display_name": "Ethan",
+            "team": "TS2PZ9PJR",
+            "name": "1ethanhansen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iwyOM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "LOVE IT"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8b0d80f4-6193-46c0-87ca-db089c4fae0f",
+        "type": "message",
+        "text": "It will break the first time we use it though",
+        "user": "US2PZ9QBF",
+        "ts": "1582701038.000400",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lTrP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It will break the first time we use it though"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582693226.001200",
+        "parent_user_id": "US2PZ9QBF"
+    }
+]

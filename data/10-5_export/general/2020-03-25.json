@@ -1,0 +1,414 @@
+[
+    {
+        "type": "message",
+        "text": "The company I work for just got our brand new 5 axis",
+        "files": [
+            {
+                "id": "F010T7RML5N",
+                "created": 1585185234,
+                "timestamp": 1585185234,
+                "name": "Image from iOS.jpg",
+                "title": "Image from iOS",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "UUE9YV61K",
+                "editable": false,
+                "size": 700740,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TS2PZ9PJR-F010T7RML5N\/image_from_ios.jpg?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TS2PZ9PJR-F010T7RML5N\/download\/image_from_ios.jpg?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F010T7RML5N-71dc2f24a9\/image_from_ios_64.jpg?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F010T7RML5N-71dc2f24a9\/image_from_ios_80.jpg?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F010T7RML5N-71dc2f24a9\/image_from_ios_360.jpg?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F010T7RML5N-71dc2f24a9\/image_from_ios_480.jpg?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F010T7RML5N-71dc2f24a9\/image_from_ios_160.jpg?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F010T7RML5N-71dc2f24a9\/image_from_ios_720.jpg?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F010T7RML5N-71dc2f24a9\/image_from_ios_800.jpg?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1067,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F010T7RML5N-71dc2f24a9\/image_from_ios_960.jpg?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F010T7RML5N-71dc2f24a9\/image_from_ios_1024.jpg?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_1024_w": 768,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 6,
+                "original_w": 4032,
+                "original_h": 3024,
+                "thumb_tiny": "AwAwACSw7PGFyAwzzTXdpFwx2\/Q06bmME+tRMit94UhkMizo5cEt7jmrFufMXdJhR6560EqicnAHc0wiOXkYPuDQBZzCOCc0boKj8taPLWlcLDd2+DPvSZpDNEyEKfwpM0wG3JzbvVa1ZkZiB1wDVmXmNh1zUCn965J4JzmgRZWdmGen04pfNb3\/ADqFHKjHHX0pfNPt+VK6J5yvBGzMMdDVsjGBVSPfGRLtJUcVO1whUMDk+lMoWTJjODg+tQLk4RST2pjyM5yTx6VLbZEgamBN9mfPDHH1pPs0n96rYPHSlz7Ugsf\/2Q==",
+                "permalink": "https:\/\/vroomvroomswerve.slack.com\/files\/UUE9YV61K\/F010T7RML5N\/image_from_ios.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/TS2PZ9PJR-F010T7RML5N-0cc092cc90",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rdA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The company I work for just got our brand new 5 axis"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UUE9YV61K",
+        "display_as_bot": false,
+        "ts": "1585185270.001100",
+        "edited": {
+            "user": "UUE9YV61K",
+            "ts": "1585187221.000000"
+        },
+        "client_msg_id": "1B8A7E65-D606-42B7-9A7B-8D46EA9CBA44",
+        "reactions": [
+            {
+                "name": "sparkles",
+                "users": [
+                    "URRA07VU3",
+                    "US2PZ9QBF",
+                    "US4KMEG9M"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "da2c3140-54ba-4ebb-ab13-8dfe9f478985",
+        "type": "message",
+        "text": "That's beautiful",
+        "user": "US2PZ9QBF",
+        "ts": "1585189056.002000",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=NnL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That's beautiful"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6e1633c0-439d-4a1f-8d6f-8ebbd23b6e4e",
+        "type": "message",
+        "text": "What company do you work for?",
+        "user": "US2PZ9QBF",
+        "ts": "1585189065.002400",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Kwx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What company do you work for?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585189065.002400",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1585190596.005000",
+        "reply_users": [
+            "UUE9YV61K"
+        ],
+        "replies": [
+            {
+                "user": "UUE9YV61K",
+                "ts": "1585190596.005000"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1585190596.005000"
+    },
+    {
+        "client_msg_id": "0395dcb8-e53b-468a-939d-fdd3d55a1c56",
+        "type": "message",
+        "text": "And how big is the build plate?",
+        "user": "US2PZ9QBF",
+        "ts": "1585189086.002900",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Xtgf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "And how big is the build plate?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585189086.002900",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1585190554.004700",
+        "reply_users": [
+            "URRA07VU3",
+            "UUE9YV61K"
+        ],
+        "replies": [
+            {
+                "user": "URRA07VU3",
+                "ts": "1585189206.003100"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1585189281.003300"
+            },
+            {
+                "user": "UUE9YV61K",
+                "ts": "1585190554.004700"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1585190554.004700"
+    },
+    {
+        "client_msg_id": "40f716f5-b4b3-4c9f-856e-405c90cbe8a0",
+        "type": "message",
+        "text": "24\" x 16\" x 16\" according to the haas site.",
+        "user": "URRA07VU3",
+        "ts": "1585189206.003100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5HrvO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "24\" x 16\" x 16\" according to the haas site."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585189086.002900",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "f0ae3a7d-a15f-44a1-a69d-2332e35fe3a8",
+        "type": "message",
+        "text": "that's x, y, and z travel",
+        "user": "URRA07VU3",
+        "ts": "1585189281.003300",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BbE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "that's x, y, and z travel"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585189086.002900",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "543B380E-7E9D-48D3-9644-4319860E4904",
+        "type": "message",
+        "text": "I don’t know yet, I was just in there for a bit today to get some other work done so didn’t have long to check it out",
+        "user": "UUE9YV61K",
+        "ts": "1585190554.004700",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "cb12c096f208",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-03\/980831491397_cb12c096f208c53c20d4_72.png",
+            "first_name": "Dillon",
+            "real_name": "Dillon Mucha",
+            "display_name": "Dillon",
+            "team": "TS2PZ9PJR",
+            "name": "dillonmucha",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nsNo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I don’t know yet, I was just in there for a bit today to get some other work done so didn’t have long to check it out"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585189086.002900",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "83A107AB-3236-4BC5-BBCC-1CD78291480B",
+        "type": "message",
+        "text": "I work for Swim Left Products <http:\/\/www.swimleft.com|http:\/\/www.swimleft.com>",
+        "user": "UUE9YV61K",
+        "ts": "1585190596.005000",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "cb12c096f208",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-03\/980831491397_cb12c096f208c53c20d4_72.png",
+            "first_name": "Dillon",
+            "real_name": "Dillon Mucha",
+            "display_name": "Dillon",
+            "team": "TS2PZ9PJR",
+            "name": "dillonmucha",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HmPO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I work for Swim Left Products "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.swimleft.com",
+                                "text": "http:\/\/www.swimleft.com"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585189065.002400",
+        "parent_user_id": "US2PZ9QBF"
+    }
+]

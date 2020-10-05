@@ -1,0 +1,315 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1586471298.000200",
+        "user": "U011KGXM0KV",
+        "text": "<@U011KGXM0KV> has joined the channel"
+    },
+    {
+        "bot_id": "B011KGXLZAP",
+        "type": "message",
+        "text": "which day of the week will work best for all of you for a weekly meeting?",
+        "user": "U011KGXM0KV",
+        "ts": "1586471496.000300",
+        "team": "TS2PZ9PJR",
+        "bot_profile": {
+            "id": "B011KGXLZAP",
+            "deleted": false,
+            "name": "Simple Poll",
+            "updated": 1589205534,
+            "app_id": "A0HFW7MR6",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2020-05-09\/1112549471909_7543dde099089941d3c3_36.png",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2020-05-09\/1112549471909_7543dde099089941d3c3_48.png",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-09\/1112549471909_7543dde099089941d3c3_72.png"
+            },
+            "team_id": "TS2PZ9PJR"
+        },
+        "edited": {
+            "user": "B011KGXLZAP",
+            "ts": "1586719156.000000"
+        },
+        "blocks": [
+            {
+                "type": "section",
+                "block_id": "poll-e2db3fd7-8013-4d97-9c47-aa2097992109-title-and-menu",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "*which day of the week will work best for all of you for a weekly meeting?*",
+                    "verbatim": false
+                },
+                "accessory": {
+                    "type": "overflow",
+                    "action_id": "title-and-menu",
+                    "options": [
+                        {
+                            "text": {
+                                "type": "plain_text",
+                                "text": ":information_source: View info",
+                                "emoji": true
+                            },
+                            "value": "view_info"
+                        },
+                        {
+                            "text": {
+                                "type": "plain_text",
+                                "text": ":pushpin: Capture Decision from Poll",
+                                "emoji": true
+                            },
+                            "value": "capture_decision_from_poll"
+                        },
+                        {
+                            "text": {
+                                "type": "plain_text",
+                                "text": ":x: Delete Poll",
+                                "emoji": true
+                            },
+                            "value": "delete_poll"
+                        },
+                        {
+                            "text": {
+                                "type": "plain_text",
+                                "text": ":gear: Go to Settings",
+                                "emoji": true
+                            },
+                            "value": "go_to_settings_from_poll",
+                            "url": "https:\/\/simplepoll.rocks\/dashboard\/vroomvroomswerve\/settings\/"
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "poll-e2db3fd7-8013-4d97-9c47-aa2097992109-vote-1",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": ":one: saturday    `3`\n<@US2PZ9QBF>, <@US4KMEG9M>, <@UU50D077H>",
+                    "verbatim": false
+                },
+                "accessory": {
+                    "type": "button",
+                    "action_id": "vote-1",
+                    "text": {
+                        "type": "plain_text",
+                        "text": ":one:",
+                        "emoji": true
+                    }
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "poll-e2db3fd7-8013-4d97-9c47-aa2097992109-vote-2",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": ":two: sunday    `1`\n<@US2PZ9QBF>",
+                    "verbatim": false
+                },
+                "accessory": {
+                    "type": "button",
+                    "action_id": "vote-2",
+                    "text": {
+                        "type": "plain_text",
+                        "text": ":two:",
+                        "emoji": true
+                    }
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "poll-e2db3fd7-8013-4d97-9c47-aa2097992109-vote-3",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": ":three: monday    `2`\n<@US2PZ9QBF>, <@URRA07R7D>",
+                    "verbatim": false
+                },
+                "accessory": {
+                    "type": "button",
+                    "action_id": "vote-3",
+                    "text": {
+                        "type": "plain_text",
+                        "text": ":three:",
+                        "emoji": true
+                    }
+                }
+            },
+            {
+                "type": "section",
+                "block_id": "poll-e2db3fd7-8013-4d97-9c47-aa2097992109-vote-4",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": ":four: tuseday    `2`\n<@US2PZ9QBF>, <@URRA07R7D>",
+                    "verbatim": false
+                },
+                "accessory": {
+                    "type": "button",
+                    "action_id": "vote-4",
+                    "text": {
+                        "type": "plain_text",
+                        "text": ":four:",
+                        "emoji": true
+                    }
+                }
+            },
+            {
+                "type": "context",
+                "block_id": "wVC",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "Created by <@US2PZ9QBF> with \/poll",
+                        "verbatim": false
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586471496.000300",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1586492786.002000",
+        "reply_users": [
+            "US4KMEG9M",
+            "US2PZ9QBF"
+        ],
+        "replies": [
+            {
+                "user": "US4KMEG9M",
+                "ts": "1586492392.001600"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1586492690.001800"
+            },
+            {
+                "user": "US4KMEG9M",
+                "ts": "1586492786.002000"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1586492786.002000"
+    },
+    {
+        "client_msg_id": "2c1b6722-d3e2-46dc-9e36-e7bb5c96950f",
+        "type": "message",
+        "text": "<@US2PZ9QBF> would Friday possibly work for you? Could you add it to the poll? All my stuff is due Thursdays so Fridays are usually good days for me to take a break.",
+        "user": "US4KMEG9M",
+        "ts": "1586492392.001600",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "b915bd1b6aaa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-04\/1338647058470_b915bd1b6aaa68df3e32_72.jpg",
+            "first_name": "joshua",
+            "real_name": "joshua phelps",
+            "display_name": "joshua phelps",
+            "team": "TS2PZ9PJR",
+            "name": "joshuaphelps127",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MWN7z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "US2PZ9QBF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " would Friday possibly work for you? Could you add it to the poll? All my stuff is due Thursdays so Fridays are usually good days for me to take a break."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586471496.000300",
+        "parent_user_id": "U011KGXM0KV"
+    },
+    {
+        "client_msg_id": "67c5b45a-8b72-4578-aacb-1b53bba18288",
+        "type": "message",
+        "text": "It will need to be Friday the 17 the then",
+        "user": "US2PZ9QBF",
+        "ts": "1586492690.001800",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VJyeP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It will need to be Friday the 17 the then"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586471496.000300",
+        "parent_user_id": "U011KGXM0KV"
+    },
+    {
+        "client_msg_id": "20053676-a229-47b7-9ea0-0fa71068b014",
+        "type": "message",
+        "text": "that could be ok, if we have a lot to discuss before then we could schedule a meeting on some other day just for this time.",
+        "user": "US4KMEG9M",
+        "ts": "1586492786.002000",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "b915bd1b6aaa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-04\/1338647058470_b915bd1b6aaa68df3e32_72.jpg",
+            "first_name": "joshua",
+            "real_name": "joshua phelps",
+            "display_name": "joshua phelps",
+            "team": "TS2PZ9PJR",
+            "name": "joshuaphelps127",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kUy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "that could be ok, if we have a lot to discuss before then we could schedule a meeting on some other day just for this time."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586471496.000300",
+        "parent_user_id": "U011KGXM0KV"
+    }
+]

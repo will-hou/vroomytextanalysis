@@ -1,0 +1,244 @@
+[
+    {
+        "client_msg_id": "58099818-8850-4c14-97ce-56aab6f8bde7",
+        "type": "message",
+        "text": "Odrive and CAN? <https:\/\/discourse.odriverobotics.com\/t\/can-interface-available-for-testing\/1448|https:\/\/discourse.odriverobotics.com\/t\/can-interface-available-for-testing\/1448>",
+        "user": "US4KMEG9M",
+        "ts": "1582688926.000100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "b915bd1b6aaa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-04\/1338647058470_b915bd1b6aaa68df3e32_72.jpg",
+            "first_name": "joshua",
+            "real_name": "joshua phelps",
+            "display_name": "joshua phelps",
+            "team": "TS2PZ9PJR",
+            "name": "joshuaphelps127",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "ODrive Community",
+                "title": "CAN Interface Available for Testing",
+                "title_link": "https:\/\/discourse.odriverobotics.com\/t\/can-interface-available-for-testing\/1448",
+                "text": "Hey everyone! It just occurred to me that I haven’t actually posted on here to let you know that I’ve finished a CAN interface for ODrive, which is ready for testing. ODrive Pull Request: <https:\/\/github.com\/madcowswe\/ODrive\/pull\/258> Branch on my fork: <https:\/\/github.com\/Wetmelon\/ODrive\/tree\/feature\/CAN> Documentation: <https:\/\/github.com\/Wetmelon\/ODrive\/blob\/feature\/CAN\/docs\/can-protocol.md> I’ve copied the documentation here for convenience. Let me know if you have any questions! CAN Prot...",
+                "fallback": "ODrive Community: CAN Interface Available for Testing",
+                "thumb_url": "https:\/\/discourse.odriverobotics.com\/uploads\/default\/original\/2X\/8\/87d11b29cf11ff1b4b0a8daa4bb159635207f19f.png",
+                "fields": [
+                    {
+                        "title": "Reading time",
+                        "value": "13 mins :clock2:",
+                        "short": true
+                    },
+                    {
+                        "title": "Likes",
+                        "value": "19 :heart:",
+                        "short": true
+                    }
+                ],
+                "ts": 1542479760,
+                "from_url": "https:\/\/discourse.odriverobotics.com\/t\/can-interface-available-for-testing\/1448",
+                "thumb_width": 512,
+                "thumb_height": 512,
+                "service_icon": "https:\/\/discourse.odriverobotics.com\/uploads\/default\/optimized\/2X\/8\/87d11b29cf11ff1b4b0a8daa4bb159635207f19f_2_180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/discourse.odriverobotics.com\/t\/can-interface-available-for-testing\/1448"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5b+52",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Odrive and CAN? "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/discourse.odriverobotics.com\/t\/can-interface-available-for-testing\/1448",
+                                "text": "https:\/\/discourse.odriverobotics.com\/t\/can-interface-available-for-testing\/1448"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582609116.001400",
+        "parent_user_id": "UUH3JGD7H"
+    },
+    {
+        "client_msg_id": "c830e7f3-b6fa-4d8c-96c9-da64e7138efb",
+        "type": "message",
+        "text": "This is awesome",
+        "user": "US2PZ9QBF",
+        "ts": "1582689956.000400",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "S5xRm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is awesome"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582609116.001400",
+        "parent_user_id": "UUH3JGD7H"
+    },
+    {
+        "client_msg_id": "6fcf9d1b-04a1-4211-bdbe-a369a5ff33c1",
+        "type": "message",
+        "text": "Thoughts <@UUH3JGD7H>",
+        "user": "US2PZ9QBF",
+        "ts": "1582689966.000600",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8R9J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thoughts "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UUH3JGD7H"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582609116.001400",
+        "parent_user_id": "UUH3JGD7H"
+    },
+    {
+        "client_msg_id": "09ffd60d-a7d3-41fb-b1f9-3fc5e3684f51",
+        "type": "message",
+        "text": "<@UUH3JGD7H> we do have an ODrive already that we could use for testing",
+        "user": "US4KMEG9M",
+        "ts": "1582690029.000800",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "b915bd1b6aaa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-04\/1338647058470_b915bd1b6aaa68df3e32_72.jpg",
+            "first_name": "joshua",
+            "real_name": "joshua phelps",
+            "display_name": "joshua phelps",
+            "team": "TS2PZ9PJR",
+            "name": "joshuaphelps127",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "obl5P",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UUH3JGD7H"
+                            },
+                            {
+                                "type": "text",
+                                "text": " we do have an ODrive already that we could use for testing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582609116.001400",
+        "parent_user_id": "UUH3JGD7H"
+    },
+    {
+        "client_msg_id": "90635146-ada2-469a-8084-a9be1304fc26",
+        "type": "message",
+        "text": "Hecc yeah! Does that help with interfacing with the roborio tho?",
+        "user": "UUH3JGD7H",
+        "ts": "1582699256.000100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "0d4ce2beb963",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-24\/967310845472_0d4ce2beb963e5271a18_72.jpg",
+            "first_name": "Ethan",
+            "real_name": "Ethan Hansen",
+            "display_name": "Ethan",
+            "team": "TS2PZ9PJR",
+            "name": "1ethanhansen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "r8m",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hecc yeah! Does that help with interfacing with the roborio tho?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582609116.001400",
+        "parent_user_id": "UUH3JGD7H"
+    }
+]

@@ -1,0 +1,640 @@
+[
+    {
+        "client_msg_id": "d34595e9-dc86-493d-967d-c7dc01193e22",
+        "type": "message",
+        "text": "<!channel> you can now :upvote: and :downvote: messages you're welcome",
+        "user": "UUH3JGD7H",
+        "ts": "1584469932.000800",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "0d4ce2beb963",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-24\/967310845472_0d4ce2beb963e5271a18_72.jpg",
+            "first_name": "Ethan",
+            "real_name": "Ethan Hansen",
+            "display_name": "Ethan",
+            "team": "TS2PZ9PJR",
+            "name": "1ethanhansen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jpv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " you can now "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "upvote"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "downvote"
+                            },
+                            {
+                                "type": "text",
+                                "text": " messages you're welcome"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "upvote",
+                "users": [
+                    "URRA07VU3",
+                    "US2PZ9QBF",
+                    "URRA07R7D",
+                    "UUE9YV61K"
+                ],
+                "count": 4
+            },
+            {
+                "name": "downvote",
+                "users": [
+                    "US2PZ9QBF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0e6f0765-ead3-4f97-a833-86c9ab7e072a",
+        "type": "message",
+        "text": "also I have increased the knowledge and capacity of the slackbot",
+        "user": "UUH3JGD7H",
+        "ts": "1584470267.001500",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "0d4ce2beb963",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-24\/967310845472_0d4ce2beb963e5271a18_72.jpg",
+            "first_name": "Ethan",
+            "real_name": "Ethan Hansen",
+            "display_name": "Ethan",
+            "team": "TS2PZ9PJR",
+            "name": "1ethanhansen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JtoPl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "also I have increased the knowledge and capacity of the slackbot"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e8cbf632-ed34-45fe-87f2-efc1ca1c4af2",
+        "type": "message",
+        "text": "observe",
+        "user": "UUH3JGD7H",
+        "ts": "1584470268.001800",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "0d4ce2beb963",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-24\/967310845472_0d4ce2beb963e5271a18_72.jpg",
+            "first_name": "Ethan",
+            "real_name": "Ethan Hansen",
+            "display_name": "Ethan",
+            "team": "TS2PZ9PJR",
+            "name": "1ethanhansen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EMJE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "observe"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "81f89170-3419-4acd-800b-fb675fe374b6",
+        "type": "message",
+        "text": "open the pod bay doors hal",
+        "user": "UUH3JGD7H",
+        "ts": "1584470277.002000",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "0d4ce2beb963",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-24\/967310845472_0d4ce2beb963e5271a18_72.jpg",
+            "first_name": "Ethan",
+            "real_name": "Ethan Hansen",
+            "display_name": "Ethan",
+            "team": "TS2PZ9PJR",
+            "name": "1ethanhansen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F9k30",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "open the pod bay doors hal"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "slackbot_response",
+        "text": "I'm sorry, Dave. I'm afraid I can't do that.",
+        "user": "USLACKBOT",
+        "ts": "1584470278.002100"
+    },
+    {
+        "client_msg_id": "31af26b1-7ca7-4cb0-be32-de96ff8f5b03",
+        "type": "message",
+        "text": "hello there",
+        "user": "UUH3JGD7H",
+        "ts": "1584470285.002300",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "0d4ce2beb963",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-24\/967310845472_0d4ce2beb963e5271a18_72.jpg",
+            "first_name": "Ethan",
+            "real_name": "Ethan Hansen",
+            "display_name": "Ethan",
+            "team": "TS2PZ9PJR",
+            "name": "1ethanhansen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BIMd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hello there"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "slackbot_response",
+        "text": "general kenobi",
+        "user": "USLACKBOT",
+        "ts": "1584470285.002400",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "URRA07R7D"
+                ],
+                "count": 1
+            },
+            {
+                "name": "jediparrot",
+                "users": [
+                    "URRA07R7D"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a07d074b-1156-48b6-adbb-a308236691a0",
+        "type": "message",
+        "text": "d20",
+        "user": "UUH3JGD7H",
+        "ts": "1584470289.002600",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "0d4ce2beb963",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-24\/967310845472_0d4ce2beb963e5271a18_72.jpg",
+            "first_name": "Ethan",
+            "real_name": "Ethan Hansen",
+            "display_name": "Ethan",
+            "team": "TS2PZ9PJR",
+            "name": "1ethanhansen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mJzw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "d20"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "slackbot_response",
+        "text": "7",
+        "user": "USLACKBOT",
+        "ts": "1584470290.002700"
+    },
+    {
+        "client_msg_id": "681c2b18-66a4-4331-bd9d-261fb539c001",
+        "type": "message",
+        "text": "d20",
+        "user": "UUH3JGD7H",
+        "ts": "1584470293.002900",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "0d4ce2beb963",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-24\/967310845472_0d4ce2beb963e5271a18_72.jpg",
+            "first_name": "Ethan",
+            "real_name": "Ethan Hansen",
+            "display_name": "Ethan",
+            "team": "TS2PZ9PJR",
+            "name": "1ethanhansen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "N+QD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "d20"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "slackbot_response",
+        "text": "1",
+        "user": "USLACKBOT",
+        "ts": "1584470294.003000"
+    },
+    {
+        "client_msg_id": "605bbc29-e2b0-43a0-aedd-3fc894c15ea4",
+        "type": "message",
+        "text": "d20",
+        "user": "UUH3JGD7H",
+        "ts": "1584470296.003200",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "0d4ce2beb963",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-24\/967310845472_0d4ce2beb963e5271a18_72.jpg",
+            "first_name": "Ethan",
+            "real_name": "Ethan Hansen",
+            "display_name": "Ethan",
+            "team": "TS2PZ9PJR",
+            "name": "1ethanhansen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "m=VqS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "d20"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "slackbot_response",
+        "text": "2",
+        "user": "USLACKBOT",
+        "ts": "1584470297.003300"
+    },
+    {
+        "client_msg_id": "1b057682-af6d-4d99-a8d3-91bde1924734",
+        "type": "message",
+        "text": "steal from the best",
+        "user": "UUH3JGD7H",
+        "ts": "1584470302.003500",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "0d4ce2beb963",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-24\/967310845472_0d4ce2beb963e5271a18_72.jpg",
+            "first_name": "Ethan",
+            "real_name": "Ethan Hansen",
+            "display_name": "Ethan",
+            "team": "TS2PZ9PJR",
+            "name": "1ethanhansen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QGY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "steal from the best"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "slackbot_response",
+        "text": "invent the rest",
+        "user": "USLACKBOT",
+        "ts": "1584470303.003600"
+    },
+    {
+        "client_msg_id": "91d9c3da-31d6-4ac4-89c0-85df1a9a24d5",
+        "type": "message",
+        "text": "cha feel?",
+        "user": "UUH3JGD7H",
+        "ts": "1584470306.003800",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "0d4ce2beb963",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-24\/967310845472_0d4ce2beb963e5271a18_72.jpg",
+            "first_name": "Ethan",
+            "real_name": "Ethan Hansen",
+            "display_name": "Ethan",
+            "team": "TS2PZ9PJR",
+            "name": "1ethanhansen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7NZfM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "cha feel?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "slackbot_response",
+        "text": "cha definitely feel",
+        "user": "USLACKBOT",
+        "ts": "1584470307.003900"
+    },
+    {
+        "client_msg_id": "b88c24c0-b64b-4ef7-9083-d511f9b8fb86",
+        "type": "message",
+        "text": "thank you for coming to my TED talk",
+        "user": "UUH3JGD7H",
+        "ts": "1584470318.004200",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "0d4ce2beb963",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-24\/967310845472_0d4ce2beb963e5271a18_72.jpg",
+            "first_name": "Ethan",
+            "real_name": "Ethan Hansen",
+            "display_name": "Ethan",
+            "team": "TS2PZ9PJR",
+            "name": "1ethanhansen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jrwC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "thank you for coming to my TED talk"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d738bfff-8be5-4de9-9ca3-ed51d6a20474",
+        "type": "message",
+        "text": "this is amazing",
+        "user": "US2PZ9QBF",
+        "ts": "1584470349.004400",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FxA9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "this is amazing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "upvote",
+                "users": [
+                    "UUH3JGD7H",
+                    "US2PZ9QBF",
+                    "URRA07R7D",
+                    "UUE9YV61K"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a3ee2b2f-7126-4e58-ac90-69ffd58b667f",
+        "type": "message",
+        "text": "I feel sick",
+        "user": "US2PZ9QBF",
+        "ts": "1584470598.004700",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=+s",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I feel sick"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "upvote",
+                "users": [
+                    "UUH3JGD7H",
+                    "US2PZ9QBF",
+                    "UUE9YV61K",
+                    "URRA07VU3"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "slackbot_response",
+        "text": "you should have drank more water",
+        "user": "USLACKBOT",
+        "ts": "1584470599.004800",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "URRA07VU3"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

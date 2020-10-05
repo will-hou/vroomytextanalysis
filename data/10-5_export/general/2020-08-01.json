@@ -1,0 +1,549 @@
+[
+    {
+        "client_msg_id": "4e324abb-a3a1-411d-a66c-ca09b317d938",
+        "type": "message",
+        "text": "<https:\/\/cdn.discordapp.com\/attachments\/538554512256794624\/739268225690370068\/IMG_20200801_133019.jpg|https:\/\/cdn.discordapp.com\/attachments\/538554512256794624\/739268225690370068\/IMG_20200801_133019.jpg>",
+        "user": "U01874ZLZC4",
+        "ts": "1596325804.000600",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "gb40ade6266c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b40ade6266c70eaf07d765360ca27260.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "",
+            "real_name": "Arvind Mahadevan",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "arvindeugene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "4032x3024px image",
+                "image_url": "https:\/\/cdn.discordapp.com\/attachments\/538554512256794624\/739268225690370068\/IMG_20200801_133019.jpg",
+                "image_width": 4032,
+                "image_height": 3024,
+                "image_bytes": 4270771,
+                "from_url": "https:\/\/cdn.discordapp.com\/attachments\/538554512256794624\/739268225690370068\/IMG_20200801_133019.jpg",
+                "id": 1,
+                "original_url": "https:\/\/cdn.discordapp.com\/attachments\/538554512256794624\/739268225690370068\/IMG_20200801_133019.jpg"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vZpXp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/cdn.discordapp.com\/attachments\/538554512256794624\/739268225690370068\/IMG_20200801_133019.jpg",
+                                "text": "https:\/\/cdn.discordapp.com\/attachments\/538554512256794624\/739268225690370068\/IMG_20200801_133019.jpg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1596325804.000600",
+        "reply_count": 11,
+        "reply_users_count": 4,
+        "latest_reply": "1596396112.000100",
+        "reply_users": [
+            "URRA07R7D",
+            "U01874ZLZC4",
+            "US4KMEG9M",
+            "U010XSNA2Q4"
+        ],
+        "replies": [
+            {
+                "user": "URRA07R7D",
+                "ts": "1596334808.002500"
+            },
+            {
+                "user": "U01874ZLZC4",
+                "ts": "1596335729.002700"
+            },
+            {
+                "user": "U01874ZLZC4",
+                "ts": "1596335776.002900"
+            },
+            {
+                "user": "U01874ZLZC4",
+                "ts": "1596335936.003100"
+            },
+            {
+                "user": "U01874ZLZC4",
+                "ts": "1596335974.003300"
+            },
+            {
+                "user": "US4KMEG9M",
+                "ts": "1596339428.003500"
+            },
+            {
+                "user": "U010XSNA2Q4",
+                "ts": "1596341256.003700"
+            },
+            {
+                "user": "U01874ZLZC4",
+                "ts": "1596380883.000100"
+            },
+            {
+                "user": "U01874ZLZC4",
+                "ts": "1596380986.000300"
+            },
+            {
+                "user": "U01874ZLZC4",
+                "ts": "1596381051.000500"
+            },
+            {
+                "user": "US4KMEG9M",
+                "ts": "1596396112.000100"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "sparkles",
+                "users": [
+                    "URRA07VU3",
+                    "US4KMEG9M",
+                    "URRA07R7D",
+                    "US2PZ9QBF"
+                ],
+                "count": 4
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "URRA07VU3",
+                    "US4KMEG9M",
+                    "URRA07R7D",
+                    "US2PZ9QBF"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "afd35673-f7c5-4a50-b797-b6ddbeba0b64",
+        "type": "message",
+        "text": "It's software time",
+        "user": "U01874ZLZC4",
+        "ts": "1596325834.001100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "gb40ade6266c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b40ade6266c70eaf07d765360ca27260.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "",
+            "real_name": "Arvind Mahadevan",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "arvindeugene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Wx7S",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It's software time"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "10c13861-62ea-4c5c-ad07-4c2d254a8f17",
+        "type": "message",
+        "text": "Nice",
+        "user": "US2PZ9QBF",
+        "ts": "1596326199.001300",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CHg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Nice"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "10425dce-578d-44ad-aa25-9cdc3bba6caf",
+        "type": "message",
+        "text": "That's so awesome",
+        "user": "US2PZ9QBF",
+        "ts": "1596326202.001500",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Vcb9G",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That's so awesome"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c9953865-3a4d-4f65-838f-48c09a870fe0",
+        "type": "message",
+        "text": "What robotics controller are you guys using ? I don't think I see a RIO?",
+        "user": "URRA07R7D",
+        "ts": "1596334808.002500",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "2340815f3f5d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-16\/992617530243_2340815f3f5d0170300e_72.png",
+            "first_name": "William",
+            "real_name": "William Hou",
+            "display_name": "vroomy pitchfork",
+            "team": "TS2PZ9PJR",
+            "name": "whou125",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "knT28",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What robotics controller are you guys using ? I don't think I see a RIO?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1596325804.000600",
+        "parent_user_id": "U01874ZLZC4"
+    },
+    {
+        "client_msg_id": "35ed2f61-0dee-4253-8291-455f5d05eb15",
+        "type": "message",
+        "text": "Using a teensy. A Rio would be at least half the footprint of this thing lol",
+        "user": "U01874ZLZC4",
+        "ts": "1596335729.002700",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "gb40ade6266c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b40ade6266c70eaf07d765360ca27260.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "",
+            "real_name": "Arvind Mahadevan",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "arvindeugene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EIR6J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Using a teensy. A Rio would be at least half the footprint of this thing lol"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1596325804.000600",
+        "parent_user_id": "U01874ZLZC4",
+        "reactions": [
+            {
+                "name": "laptop_parrot",
+                "users": [
+                    "URRA07R7D",
+                    "US4KMEG9M",
+                    "US2PZ9QBF"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0f877671-2939-49bf-bb08-a5246cce3ccb",
+        "type": "message",
+        "text": "That's why software is gonna be a pain. Literally everything from scratch",
+        "user": "U01874ZLZC4",
+        "ts": "1596335776.002900",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "gb40ade6266c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b40ade6266c70eaf07d765360ca27260.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "",
+            "real_name": "Arvind Mahadevan",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "arvindeugene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kzNq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That's why software is gonna be a pain. Literally everything from scratch"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1596325804.000600",
+        "parent_user_id": "U01874ZLZC4"
+    },
+    {
+        "client_msg_id": "a340e59d-b698-4f51-8aca-045e3ed28b0f",
+        "type": "message",
+        "text": "<@URRA07R7D> <@U010XSNA2Q4> curious how frc maintains the same wheel speed on both sides of the drivetrain. We're trying to figure out how to calculate it (which is complicated because differentials) but the only way to calculate it accurately involves rewriting parts of an encoder library to get interrupts between the pid loops",
+        "user": "U01874ZLZC4",
+        "ts": "1596335936.003100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "gb40ade6266c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b40ade6266c70eaf07d765360ca27260.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "",
+            "real_name": "Arvind Mahadevan",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "arvindeugene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XjBb1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "URRA07R7D"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010XSNA2Q4"
+                            },
+                            {
+                                "type": "text",
+                                "text": " curious how frc maintains the same wheel speed on both sides of the drivetrain. We're trying to figure out how to calculate it (which is complicated because differentials) but the only way to calculate it accurately involves rewriting parts of an encoder library to get interrupts between the pid loops"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1596325804.000600",
+        "parent_user_id": "U01874ZLZC4"
+    },
+    {
+        "client_msg_id": "604de67a-24f9-4c26-b0f9-3be5209cd8ad",
+        "type": "message",
+        "text": "Do you monitor the position of both sides of the drivetrain or the speed?",
+        "user": "U01874ZLZC4",
+        "ts": "1596335974.003300",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "gb40ade6266c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b40ade6266c70eaf07d765360ca27260.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "",
+            "real_name": "Arvind Mahadevan",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "arvindeugene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "g+nHs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Do you monitor the position of both sides of the drivetrain or the speed?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1596325804.000600",
+        "parent_user_id": "U01874ZLZC4"
+    },
+    {
+        "client_msg_id": "45327125-8ded-466a-8d95-2561595150ab",
+        "type": "message",
+        "text": "I wonder if monitoring the error in distance each motor turned would be best. If you just look at difference in speed and you don't keep your speeds perfect, you could end up turned. If you're watching error in position you might still not go perfectly straight but I think you would be more likely to end up still facing the right way in the long run.\n\nI've also been trying to get an encoder to work with a motor so let me know if you want to share thoughts about that.",
+        "user": "US4KMEG9M",
+        "ts": "1596339428.003500",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "b915bd1b6aaa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-04\/1338647058470_b915bd1b6aaa68df3e32_72.jpg",
+            "first_name": "joshua",
+            "real_name": "joshua phelps",
+            "display_name": "joshua phelps",
+            "team": "TS2PZ9PJR",
+            "name": "joshuaphelps127",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OGl8P",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I wonder if monitoring the error in distance each motor turned would be best. If you just look at difference in speed and you don't keep your speeds perfect, you could end up turned. If you're watching error in position you might still not go perfectly straight but I think you would be more likely to end up still facing the right way in the long run.\n\nI've also been trying to get an encoder to work with a motor so let me know if you want to share thoughts about that."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1596325804.000600",
+        "parent_user_id": "U01874ZLZC4"
+    },
+    {
+        "client_msg_id": "958d8d2c-3164-45af-a594-f7769e79c08d",
+        "type": "message",
+        "text": "I'm assuming this is for auto mode?",
+        "user": "U010XSNA2Q4",
+        "ts": "1596341256.003700",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5cf62986eb00",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-27\/1034521294807_5cf62986eb00f8c38399_72.png",
+            "first_name": "Aidan",
+            "real_name": "Aidan Heller",
+            "display_name": "vroomy semicolon",
+            "team": "TS2PZ9PJR",
+            "name": "asfheller",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NmN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm assuming this is for auto mode?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1596325804.000600",
+        "parent_user_id": "U01874ZLZC4"
+    }
+]

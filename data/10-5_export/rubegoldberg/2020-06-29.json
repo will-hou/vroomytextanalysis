@@ -1,0 +1,241 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1593465980.000200",
+        "user": "URRA07R7D",
+        "text": "<@URRA07R7D> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1593465980.000300",
+        "user": "URRA07R7D",
+        "text": "<@URRA07R7D> set the channel purpose: Planning for a socially distanced rube goldberg machine! (insert clever description here)",
+        "purpose": "Planning for a socially distanced rube goldberg machine! (insert clever description here)"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1593467162.000500",
+        "user": "URRA07VU3",
+        "text": "<@URRA07VU3> has joined the channel",
+        "inviter": "URRA07R7D"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1593467162.000700",
+        "user": "US4KMEG9M",
+        "text": "<@US4KMEG9M> has joined the channel",
+        "inviter": "URRA07R7D"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1593467162.000900",
+        "user": "US2PZ9QBF",
+        "text": "<@US2PZ9QBF> has joined the channel",
+        "inviter": "URRA07R7D"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1593467162.001100",
+        "user": "UU50D077H",
+        "text": "<@UU50D077H> has joined the channel",
+        "inviter": "URRA07R7D"
+    },
+    {
+        "type": "message",
+        "text": "Hey guys! Really looking forward to making this rube Goldberg machine this summer! Should be super fun :parrot: Here's the planning document that has the general plan and some filming guidelines: <https:\/\/docs.google.com\/document\/d\/1ug9sypefUIRCQrIElpnHmc4VFwCALJvftQhKSBK_mEI\/edit?usp=sharing>",
+        "files": [
+            {
+                "id": "F01691X4YCT",
+                "created": 1593467418,
+                "timestamp": 1593467418,
+                "name": "Rube Goldberg Plan",
+                "title": "Rube Goldberg Plan",
+                "mimetype": "application\/vnd.google-apps.document",
+                "filetype": "gdoc",
+                "pretty_type": "G Suite Document",
+                "user": "URRA07R7D",
+                "editable": false,
+                "size": 1338,
+                "mode": "external",
+                "is_external": true,
+                "external_type": "gdrive",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/docs.google.com\/document\/d\/1ug9sypefUIRCQrIElpnHmc4VFwCALJvftQhKSBK_mEI\/edit?usp=sharing",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F01691X4YCT-cbbe1cb0d1\/rube_goldberg_plan_64.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F01691X4YCT-cbbe1cb0d1\/rube_goldberg_plan_80.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F01691X4YCT-cbbe1cb0d1\/rube_goldberg_plan_360.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_360_w": 278,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F01691X4YCT-cbbe1cb0d1\/rube_goldberg_plan_480.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_480_w": 371,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F01691X4YCT-cbbe1cb0d1\/rube_goldberg_plan_160.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F01691X4YCT-cbbe1cb0d1\/rube_goldberg_plan_720.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_720_w": 557,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F01691X4YCT-cbbe1cb0d1\/rube_goldberg_plan_800.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1035,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F01691X4YCT-cbbe1cb0d1\/rube_goldberg_plan_960.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_960_w": 742,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F01691X4YCT-cbbe1cb0d1\/rube_goldberg_plan_1024.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_1024_w": 791,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 800,
+                "original_h": 1035,
+                "thumb_tiny": "AwAwACXSJxQDxQ3TpSAfX8qAFyKXIpv+elAx7\/lQA6iiigBGOBTBjPOae3SlHSgBmFHc0uQe5p1FABRRRQAjdOaQMPpTiMjFJtFAACD0paTaKNooAWiiigD\/2Q==",
+                "permalink": "https:\/\/vroomvroomswerve.slack.com\/files\/URRA07R7D\/F01691X4YCT\/rube_goldberg_plan",
+                "is_starred": false,
+                "external_id": "1ug9sypefUIRCQrIElpnHmc4VFwCALJvftQhKSBK_mEI",
+                "external_url": "https:\/\/docs.google.com\/document\/d\/1ug9sypefUIRCQrIElpnHmc4VFwCALJvftQhKSBK_mEI\/edit?usp=sharing",
+                "has_rich_preview": true
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "b2mGq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey guys! Really looking forward to making this rube Goldberg machine this summer! Should be super fun "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "parrot"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Here's the planning document that has the general plan and some filming guidelines: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/document\/d\/1ug9sypefUIRCQrIElpnHmc4VFwCALJvftQhKSBK_mEI\/edit?usp=sharing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "URRA07R7D",
+        "display_as_bot": false,
+        "x_files": [
+            "F01691X4YCT"
+        ],
+        "ts": "1593467374.003800",
+        "client_msg_id": "a89f5d3a-f74f-4c2e-ae74-7a992fa2b34f",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "URRA07VU3",
+                    "US4KMEG9M",
+                    "US2PZ9QBF"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "50376a2a-a10d-456c-ba1f-f90e77f47d21",
+        "type": "message",
+        "text": "Is everyone okay with making August 23rd (Sunday) the deadline for getting everything recorded?",
+        "user": "URRA07R7D",
+        "ts": "1593467478.004900",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "2340815f3f5d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-16\/992617530243_2340815f3f5d0170300e_72.png",
+            "first_name": "William",
+            "real_name": "William Hou",
+            "display_name": "vroomy pitchfork",
+            "team": "TS2PZ9PJR",
+            "name": "whou125",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "InZW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Is everyone okay with making August 23rd (Sunday) the deadline for getting everything recorded?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "URRA07VU3",
+                    "US4KMEG9M",
+                    "US2PZ9QBF"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "A57595CA-4F71-4943-9D59-7F07DAF3E79A",
+        "type": "message",
+        "text": "I’ll chisel it in my calendar ",
+        "user": "US2PZ9QBF",
+        "ts": "1593475418.006900",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2hO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’ll chisel it in my calendar "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

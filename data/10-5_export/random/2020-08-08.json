@@ -1,0 +1,448 @@
+[
+    {
+        "client_msg_id": "aa8046f6-1109-4880-b72d-3a576b50ad37",
+        "type": "message",
+        "text": "<https:\/\/www.cnn.com\/2020\/08\/08\/health\/onions-salmonella-outbreak\/index.html|https:\/\/www.cnn.com\/2020\/08\/08\/health\/onions-salmonella-outbreak\/index.html>",
+        "user": "US2PZ9QBF",
+        "ts": "1596948301.000100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "CNN",
+                "title": "Salmonella outbreak linked to onions expands to hundreds of people sickened in 43 states",
+                "title_link": "https:\/\/www.cnn.com\/2020\/08\/08\/health\/onions-salmonella-outbreak\/index.html",
+                "text": "A salmonella outbreak caused by onions is expanding and has infected 640 people from 43 states. At least 85 of them have been hospitalized, the Centers for Disease Control and Prevention said.",
+                "fallback": "CNN: Salmonella outbreak linked to onions expands to hundreds of people sickened in 43 states",
+                "image_url": "https:\/\/cdn.cnn.com\/cnnnext\/dam\/assets\/120404153118-salmonella-bacteria-petri-dish-super-tease.jpg",
+                "image_width": 444,
+                "image_height": 250,
+                "from_url": "https:\/\/www.cnn.com\/2020\/08\/08\/health\/onions-salmonella-outbreak\/index.html",
+                "image_bytes": 106340,
+                "service_icon": "https:\/\/www.cnn.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.cnn.com\/2020\/08\/08\/health\/onions-salmonella-outbreak\/index.html"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CTrZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.cnn.com\/2020\/08\/08\/health\/onions-salmonella-outbreak\/index.html",
+                                "text": "https:\/\/www.cnn.com\/2020\/08\/08\/health\/onions-salmonella-outbreak\/index.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5d3f7f90-2ba4-4eb9-9b18-9cf764f6852d",
+        "type": "message",
+        "text": "That's great, it starts with an earthquake\nBirds and snakes, and aeroplanes\nAnd Lenny Bruce is not afraid",
+        "user": "US2PZ9QBF",
+        "ts": "1596948358.000400",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "h+7M",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That's great, it starts with an earthquake\nBirds and snakes, and aeroplanes\nAnd Lenny Bruce is not afraid"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e50c3966-30b1-4fe9-8c82-91ad31e5dd80",
+        "type": "message",
+        "text": "Eye of a hurricane, listen to yourself churn\nWorld serves its own needs\nDon't mis-serve your own needs",
+        "user": "US2PZ9QBF",
+        "ts": "1596948393.000600",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fCbm7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Eye of a hurricane, listen to yourself churn\nWorld serves its own needs\nDon't mis-serve your own needs"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ded67c3f-b164-40e0-9db3-e4dee2b26499",
+        "type": "message",
+        "text": "Speed it up a notch, speed, grunt, no, strength\nThe ladder starts to clatter\nWith a fear of height, down, height",
+        "user": "US2PZ9QBF",
+        "ts": "1596948416.000800",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "G63Yy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Speed it up a notch, speed, grunt, no, strength\nThe ladder starts to clatter\nWith a fear of height, down, height"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c470a240-4c1a-49bb-915c-23371259bd2a",
+        "type": "message",
+        "text": "Wire in a fire, represent the seven games\nAnd a government for hire and a combat site\nLeft her, wasn't coming in a hurry",
+        "user": "US2PZ9QBF",
+        "ts": "1596948451.001000",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uT+7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Wire in a fire, represent the seven games\nAnd a government for hire and a combat site\nLeft her, wasn't coming in a hurry"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f675b520-14d6-4496-ba63-4e2917966bc4",
+        "type": "message",
+        "text": "With the Furies breathing down your neck",
+        "user": "US2PZ9QBF",
+        "ts": "1596948470.001200",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JBH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "With the Furies breathing down your neck"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bb7ac526-13b7-4aea-8d89-ae5f515f3686",
+        "type": "message",
+        "text": "Team by team, reporters baffled, trumped, tethered, cropped\nLook at that low plane, fine, then\nUh oh, overflow, population, common group",
+        "user": "US2PZ9QBF",
+        "ts": "1596948491.001400",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Asl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Team by team, reporters baffled, trumped, tethered, cropped\nLook at that low plane, fine, then\nUh oh, overflow, population, common group"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fb8750d6-b39a-41a7-b9a8-58837e13de34",
+        "type": "message",
+        "text": "But it'll do, save yourself, serve yourself\nWorld serves its own needs, listen to your heart bleed\nTell me with the Rapture and the reverent in the right, right",
+        "user": "US2PZ9QBF",
+        "ts": "1596948517.001600",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AX0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "But it'll do, save yourself, serve yourself\nWorld serves its own needs, listen to your heart bleed\nTell me with the Rapture and the reverent in the right, right"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0865d7c5-f3f2-421d-ad26-68367b0c1924",
+        "type": "message",
+        "text": "You vitriolic, patriotic, slam fight, bright light\nFeeling pretty psyched",
+        "user": "US2PZ9QBF",
+        "ts": "1596948534.001800",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PKd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You vitriolic, patriotic, slam fight, bright light\nFeeling pretty psyched"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9e8fb1a4-9e65-4ded-b1bd-89b663834451",
+        "type": "message",
+        "text": "*It's the end of the world as we know it\nIt's the end of the world as we know it*",
+        "user": "US2PZ9QBF",
+        "ts": "1596948554.002000",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jLA+2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It's the end of the world as we know it\n",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "It's the end of the world as we know it",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "796adece-1312-4ed8-8b69-c4565434901d",
+        "type": "message",
+        "text": "That's all I remember to the song",
+        "user": "US2PZ9QBF",
+        "ts": "1596948561.002300",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OYO82",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That's all I remember to the song"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

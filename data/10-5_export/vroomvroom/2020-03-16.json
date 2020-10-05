@@ -1,0 +1,751 @@
+[
+    {
+        "client_msg_id": "fb1e11a1-ce82-4bbf-9e63-79fec5d3d8f7",
+        "type": "message",
+        "text": "vroom vroom",
+        "user": "URRA07VU3",
+        "ts": "1584399404.000200",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zwia7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "vroom vroom"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3a6967e5-15b9-472d-8959-162388e37bc9",
+        "type": "message",
+        "text": "\"The name 'vroom-vroom' is already taken.\"",
+        "user": "URRA07R7D",
+        "ts": "1584399438.000500",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "2340815f3f5d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-16\/992617530243_2340815f3f5d0170300e_72.png",
+            "first_name": "William",
+            "real_name": "William Hou",
+            "display_name": "vroomy pitchfork",
+            "team": "TS2PZ9PJR",
+            "name": "whou125",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pGZuZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\"The name 'vroom-vroom' is already taken.\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584399438.000500",
+        "reply_count": 12,
+        "reply_users_count": 2,
+        "latest_reply": "1584399586.003300",
+        "reply_users": [
+            "URRA07VU3",
+            "URRA07R7D"
+        ],
+        "replies": [
+            {
+                "user": "URRA07VU3",
+                "ts": "1584399452.000900"
+            },
+            {
+                "user": "URRA07R7D",
+                "ts": "1584399466.001100"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1584399472.001300"
+            },
+            {
+                "user": "URRA07R7D",
+                "ts": "1584399482.001500"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1584399519.001700"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1584399524.001900"
+            },
+            {
+                "user": "URRA07R7D",
+                "ts": "1584399528.002100"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1584399536.002300"
+            },
+            {
+                "user": "URRA07R7D",
+                "ts": "1584399544.002500"
+            },
+            {
+                "user": "URRA07R7D",
+                "ts": "1584399552.002700"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1584399577.002900"
+            },
+            {
+                "user": "URRA07R7D",
+                "ts": "1584399586.003300"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "67af86c3-c36b-4b93-95e0-12c33462390d",
+        "type": "message",
+        "text": ":disappointed:",
+        "user": "URRA07R7D",
+        "ts": "1584399439.000700",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "2340815f3f5d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-16\/992617530243_2340815f3f5d0170300e_72.png",
+            "first_name": "William",
+            "real_name": "William Hou",
+            "display_name": "vroomy pitchfork",
+            "team": "TS2PZ9PJR",
+            "name": "whou125",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tsG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "disappointed"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c058c596-2e77-4266-84cc-4fb17366156b",
+        "type": "message",
+        "text": "?",
+        "user": "URRA07VU3",
+        "ts": "1584399452.000900",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OlGzf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584399438.000500",
+        "parent_user_id": "URRA07R7D"
+    },
+    {
+        "client_msg_id": "dd7589e2-c159-4801-b33d-854a90a46cfd",
+        "type": "message",
+        "text": "someone took it already",
+        "user": "URRA07R7D",
+        "ts": "1584399466.001100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "2340815f3f5d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-16\/992617530243_2340815f3f5d0170300e_72.png",
+            "first_name": "William",
+            "real_name": "William Hou",
+            "display_name": "vroomy pitchfork",
+            "team": "TS2PZ9PJR",
+            "name": "whou125",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "J\/E",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "someone took it already"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584399438.000500",
+        "parent_user_id": "URRA07R7D"
+    },
+    {
+        "client_msg_id": "d4c7a82f-d080-4a19-92e7-5ec539f2dbcb",
+        "type": "message",
+        "text": "who? where?",
+        "user": "URRA07VU3",
+        "ts": "1584399472.001300",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "06Xb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "who? where?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584399438.000500",
+        "parent_user_id": "URRA07R7D"
+    },
+    {
+        "client_msg_id": "9fa71020-2618-4153-84ac-65ca0cc84ab7",
+        "type": "message",
+        "text": "OH",
+        "user": "URRA07R7D",
+        "ts": "1584399482.001500",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "2340815f3f5d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-16\/992617530243_2340815f3f5d0170300e_72.png",
+            "first_name": "William",
+            "real_name": "William Hou",
+            "display_name": "vroomy pitchfork",
+            "team": "TS2PZ9PJR",
+            "name": "whou125",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eCG6J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "OH"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584399438.000500",
+        "parent_user_id": "URRA07R7D"
+    },
+    {
+        "client_msg_id": "e98cfd3d-6a04-4608-ab1d-c0e7947db737",
+        "type": "message",
+        "text": "nevermind I found the thread",
+        "user": "URRA07VU3",
+        "ts": "1584399519.001700",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "60u7n",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "nevermind I found the thread"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584399438.000500",
+        "parent_user_id": "URRA07R7D"
+    },
+    {
+        "client_msg_id": "c1117d4d-8ecf-4070-baf2-3b1b2f44d46f",
+        "type": "message",
+        "text": "I understand now",
+        "user": "URRA07VU3",
+        "ts": "1584399524.001900",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BH2Q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I understand now"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584399438.000500",
+        "parent_user_id": "URRA07R7D"
+    },
+    {
+        "client_msg_id": "8791d0b6-39ab-45ff-8b9f-1d2be435c948",
+        "type": "message",
+        "text": "Shoot I'm sorry",
+        "user": "URRA07R7D",
+        "ts": "1584399528.002100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "2340815f3f5d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-16\/992617530243_2340815f3f5d0170300e_72.png",
+            "first_name": "William",
+            "real_name": "William Hou",
+            "display_name": "vroomy pitchfork",
+            "team": "TS2PZ9PJR",
+            "name": "whou125",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nMC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Shoot I'm sorry"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584399438.000500",
+        "parent_user_id": "URRA07R7D"
+    },
+    {
+        "client_msg_id": "2a6ad072-acbe-4f10-8434-ed109b761841",
+        "type": "message",
+        "text": "it's ok",
+        "user": "URRA07VU3",
+        "ts": "1584399536.002300",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "h=p",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "it's ok"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584399438.000500",
+        "parent_user_id": "URRA07R7D"
+    },
+    {
+        "client_msg_id": "55a06c0e-7d52-4e2a-8ba5-e914d1254dbb",
+        "type": "message",
+        "text": "I didn't realize what channel this was on",
+        "user": "URRA07R7D",
+        "ts": "1584399544.002500",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "2340815f3f5d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-16\/992617530243_2340815f3f5d0170300e_72.png",
+            "first_name": "William",
+            "real_name": "William Hou",
+            "display_name": "vroomy pitchfork",
+            "team": "TS2PZ9PJR",
+            "name": "whou125",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5oJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I didn't realize what channel this was on"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584399438.000500",
+        "parent_user_id": "URRA07R7D"
+    },
+    {
+        "client_msg_id": "ce424ad1-0968-4aea-b3dc-ff26c31ebe56",
+        "type": "message",
+        "text": "I thought it was a dm :laughing::laughing::laughing:",
+        "user": "URRA07R7D",
+        "ts": "1584399552.002700",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "2340815f3f5d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-16\/992617530243_2340815f3f5d0170300e_72.png",
+            "first_name": "William",
+            "real_name": "William Hou",
+            "display_name": "vroomy pitchfork",
+            "team": "TS2PZ9PJR",
+            "name": "whou125",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qaa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I thought it was a dm "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "laughing"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "laughing"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "laughing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584399438.000500",
+        "parent_user_id": "URRA07R7D"
+    },
+    {
+        "client_msg_id": "5fb87b9b-652a-4215-a162-0fd209fdb800",
+        "type": "message",
+        "text": "now let us communicate!",
+        "user": "URRA07VU3",
+        "ts": "1584399577.002900",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jMcuk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "now let us communicate!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584399438.000500",
+        "parent_user_id": "URRA07R7D"
+    },
+    {
+        "client_msg_id": "e288d7c6-54a2-4d0d-8d1c-fab5fd593497",
+        "type": "message",
+        "text": "vroom vroom",
+        "user": "URRA07VU3",
+        "ts": "1584399582.003200",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "inKy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "vroom vroom"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3ee55870-a80f-4cad-8dc8-0bdec6a26389",
+        "type": "message",
+        "text": "RIP I'm officially banned from <#CRQ1NRP0A|vroomvroom> now",
+        "user": "URRA07R7D",
+        "ts": "1584399586.003300",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "2340815f3f5d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-16\/992617530243_2340815f3f5d0170300e_72.png",
+            "first_name": "William",
+            "real_name": "William Hou",
+            "display_name": "vroomy pitchfork",
+            "team": "TS2PZ9PJR",
+            "name": "whou125",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yEln",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "RIP I'm officially banned from "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "CRQ1NRP0A"
+                            },
+                            {
+                                "type": "text",
+                                "text": " now"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584399438.000500",
+        "parent_user_id": "URRA07R7D"
+    },
+    {
+        "client_msg_id": "66e522ec-692b-4fb4-881d-23295da7bc1b",
+        "type": "message",
+        "text": "vroom vroom",
+        "user": "URRA07R7D",
+        "ts": "1584399590.003600",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "2340815f3f5d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-16\/992617530243_2340815f3f5d0170300e_72.png",
+            "first_name": "William",
+            "real_name": "William Hou",
+            "display_name": "vroomy pitchfork",
+            "team": "TS2PZ9PJR",
+            "name": "whou125",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5uJ=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "vroom vroom"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

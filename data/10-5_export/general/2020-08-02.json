@@ -1,0 +1,178 @@
+[
+    {
+        "client_msg_id": "c73a1be2-a6da-4f54-827e-e9a0f975e5e8",
+        "type": "message",
+        "text": "This is not for auto mode. Since there is quite a bit of variation between the modules l, making sure they are going at the right speed it crucial. I'm sure the talon does these calculations automatically",
+        "user": "U01874ZLZC4",
+        "ts": "1596380883.000100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "gb40ade6266c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b40ade6266c70eaf07d765360ca27260.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "",
+            "real_name": "Arvind Mahadevan",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "arvindeugene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F+gl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is not for auto mode. Since there is quite a bit of variation between the modules l, making sure they are going at the right speed it crucial. I'm sure the talon does these calculations automatically"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1596325804.000600",
+        "parent_user_id": "U01874ZLZC4"
+    },
+    {
+        "client_msg_id": "454aeecf-19fb-4ce3-a59d-fc82b9314a3d",
+        "type": "message",
+        "text": "Yeah <@US4KMEG9M>  in other words, position. The problem is that most encoder libraries apparently don't give interrupts for each tick and therefore we can't know the time between two encoder ticks",
+        "user": "U01874ZLZC4",
+        "ts": "1596380986.000300",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "gb40ade6266c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b40ade6266c70eaf07d765360ca27260.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "",
+            "real_name": "Arvind Mahadevan",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "arvindeugene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Nyxw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "US4KMEG9M"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  in other words, position. The problem is that most encoder libraries apparently don't give interrupts for each tick and therefore we can't know the time between two encoder ticks"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1596325804.000600",
+        "parent_user_id": "U01874ZLZC4"
+    },
+    {
+        "client_msg_id": "ae0688ea-2744-42ca-a3f2-f694744c86f7",
+        "type": "message",
+        "text": "Also feel free to share thoughts about your experience I would love to hear",
+        "user": "U01874ZLZC4",
+        "ts": "1596381051.000500",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "gb40ade6266c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b40ade6266c70eaf07d765360ca27260.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "",
+            "real_name": "Arvind Mahadevan",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "arvindeugene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+0LQP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Also feel free to share thoughts about your experience I would love to hear"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1596325804.000600",
+        "parent_user_id": "U01874ZLZC4"
+    },
+    {
+        "client_msg_id": "c4677f75-881b-4dc7-85dc-e30466ab742e",
+        "type": "message",
+        "text": "I posted in <#CUNSU4J65|swerve>, so this thread doesn't get too long",
+        "user": "US4KMEG9M",
+        "ts": "1596396112.000100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "b915bd1b6aaa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-04\/1338647058470_b915bd1b6aaa68df3e32_72.jpg",
+            "first_name": "joshua",
+            "real_name": "joshua phelps",
+            "display_name": "joshua phelps",
+            "team": "TS2PZ9PJR",
+            "name": "joshuaphelps127",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=BX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I posted in "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "CUNSU4J65"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", so this thread doesn't get too long"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1596325804.000600",
+        "parent_user_id": "U01874ZLZC4"
+    }
+]

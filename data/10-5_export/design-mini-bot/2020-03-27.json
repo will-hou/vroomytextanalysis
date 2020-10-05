@@ -1,0 +1,196 @@
+[
+    {
+        "client_msg_id": "70f1df42-5740-4b0c-8fe9-cf7ad26c972b",
+        "type": "message",
+        "text": "What if it has the capability to shoot into the high goal",
+        "user": "US2PZ9QBF",
+        "ts": "1585330207.000700",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RuD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What if it has the capability to shoot into the high goal"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "faf8f343-fe05-4198-b59b-0975dc90ab2f",
+        "type": "message",
+        "text": "then it would be able to score more points, but would also be harder to build",
+        "user": "URRA07VU3",
+        "ts": "1585330241.001100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hvDt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "then it would be able to score more points, but would also be harder to build"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5E196AEA-97EE-4D61-B61D-D7AB4B7A5818",
+        "type": "message",
+        "text": "What about something kinda like TBD’s deep space bot but it can also shoot",
+        "user": "US2PZ9QBF",
+        "ts": "1585332271.002700",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WmBNI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What about something kinda like TBD’s deep space bot but it can also shoot"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "D7EB7831-0C93-4657-8280-EC5922507D4D",
+        "type": "message",
+        "text": "I think it would be cooler if it could go pick up x amount of balls and then sort of dock onto the main bot and feed them to it. It could allow the main bot to shoot 10 or more balls in one go",
+        "user": "UUE9YV61K",
+        "ts": "1585332339.004100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "cb12c096f208",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-03\/980831491397_cb12c096f208c53c20d4_72.png",
+            "first_name": "Dillon",
+            "real_name": "Dillon Mucha",
+            "display_name": "Dillon",
+            "team": "TS2PZ9PJR",
+            "name": "dillonmucha",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UUE9YV61K",
+            "ts": "1585332351.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6P4z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think it would be cooler if it could go pick up x amount of balls and then sort of dock onto the main bot and feed them to it. It could allow the main bot to shoot 10 or more balls in one go"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "B1B4E1A9-647A-488F-97A1-E9262F10E613",
+        "type": "message",
+        "text": "Interesting ",
+        "user": "US2PZ9QBF",
+        "ts": "1585332442.004400",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Cw3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Interesting "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

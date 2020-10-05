@@ -1,0 +1,149 @@
+[
+    {
+        "client_msg_id": "b01f7aa9-9b1a-4f5b-b606-46d2656ed33e",
+        "type": "message",
+        "text": "HA HA HA I ALSO FIND IT DIFFICULT TO INFER HUMAN EMOTION OR HUMOUROUS SUBTLETY IN A TEXT BASED COMMUNICATION METHOD HA HA HA",
+        "user": "URRA07VU3",
+        "ts": "1583674343.000100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "URRA07VU3",
+            "ts": "1583674447.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7bq7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "HA HA HA I ALSO FIND IT DIFFICULT TO INFER HUMAN EMOTION OR HUMOUROUS SUBTLETY IN A TEXT BASED COMMUNICATION METHOD HA HA HA"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583642079.014900",
+        "parent_user_id": "US51ZNQDU"
+    },
+    {
+        "client_msg_id": "2168d7a8-8630-499c-b504-b33e132814bb",
+        "type": "message",
+        "text": "So it's actually modular?",
+        "user": "URRA07VU3",
+        "ts": "1583674917.000500",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1583642091.015500",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "358A2FB6-5472-4FF7-BB97-2B0CAC718185",
+        "type": "message",
+        "text": "No not really ",
+        "user": "US2PZ9QBF",
+        "ts": "1583699605.000300",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+Kze",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "No not really "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583642091.015500",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "56A12021-831E-428E-B34B-1D54B14A98CE",
+        "type": "message",
+        "text": "Sone of it is but it’s still a pain in the ass to take apart ",
+        "user": "US2PZ9QBF",
+        "ts": "1583699625.001100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vM1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sone of it is but it’s still a pain in the ass to take apart "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583642091.015500",
+        "parent_user_id": "US2PZ9QBF"
+    }
+]

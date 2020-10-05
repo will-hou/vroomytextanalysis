@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "BB9C70F6-14C6-44D6-8344-ADB9079982C3",
+        "type": "message",
+        "text": "VROOM VROOM",
+        "user": "UU50D077H",
+        "ts": "1596146096.000200",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "790b5f83cbe4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-16\/943684986291_790b5f83cbe4b100e623_72.jpg",
+            "first_name": "Jake",
+            "real_name": "Jake Enos",
+            "display_name": "Jake Enos",
+            "team": "TS2PZ9PJR",
+            "name": "jake",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X2oX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "VROOM VROOM"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

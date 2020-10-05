@@ -1,0 +1,215 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1578072412.000300",
+        "user": "URRA07R7D",
+        "text": "<@URRA07R7D> has joined the channel",
+        "inviter": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "87bd7083-82e2-4225-95e8-e00b726023e1",
+        "type": "message",
+        "text": "<!channel> we will have a design meeting today at 3 here for anyone who can't join us!!",
+        "user": "US2PZ9QBF",
+        "ts": "1578072450.001200",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "do6r",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " we will have a design meeting today at 3 here for anyone who can't join us!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9216bebe-51df-4934-849c-39e5c433e008",
+        "type": "message",
+        "text": "FRC motors or not?\nmore 3 axis milling or 2 axis cutting?\nhow much ground clearance?\napproximate speed (I'm guessing fast frc bot so like 19 ft\/sec or something)\napproximate weight (80lbs?)\nmore cots or more custom (doesn't change much, except for stuff like the wheel)\nwheel-in-differential or standard differential?",
+        "user": "URRA07VU3",
+        "ts": "1578085389.000200",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SMpV+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "FRC motors or not?\nmore 3 axis milling or 2 axis cutting?\nhow much ground clearance?\napproximate speed (I'm guessing fast frc bot so like 19 ft\/sec or something)\napproximate weight (80lbs?)\nmore cots or more custom (doesn't change much, except for stuff like the wheel)\nwheel-in-differential or standard differential?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1578085428.000400",
+        "user": "US4KMEG9M",
+        "text": "<@US4KMEG9M> has joined the channel"
+    },
+    {
+        "client_msg_id": "97258ff8-7f1b-46d8-aed7-aec800b849e1",
+        "type": "message",
+        "text": "<@US51ZNQDU>",
+        "user": "URRA07VU3",
+        "ts": "1578085673.000600",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qrWj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "US51ZNQDU"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ccc556b7-d73f-43a4-beae-58254c55f269",
+        "type": "message",
+        "text": "<!channel> please refer to the Google doc on the current plan",
+        "user": "US2PZ9QBF",
+        "ts": "1578099996.000700",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CjqO1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " please refer to the Google doc on the current plan"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b9f502c8-84fb-485a-aae3-f02af59e6b25",
+        "type": "message",
+        "text": "I'll add more info in a little bit",
+        "user": "US2PZ9QBF",
+        "ts": "1578100005.001100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "44b",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'll add more info in a little bit"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

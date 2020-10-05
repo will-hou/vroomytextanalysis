@@ -1,0 +1,103 @@
+[
+    {
+        "client_msg_id": "c3afcb4c-2693-4381-962d-17b9792164f0",
+        "type": "message",
+        "text": "vroom vroom",
+        "user": "URRA07VU3",
+        "ts": "1591912477.000200",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pGfL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "vroom vroom"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f0c65835-758a-48b5-becd-350ac554fad8",
+        "type": "message",
+        "text": "VROOM VROOM",
+        "user": "US2PZ9QBF",
+        "ts": "1591912505.000400",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BxhcD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "VROOM VROOM"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "f",
+                "users": [
+                    "US2PZ9QBF",
+                    "URRA07VU3",
+                    "URRA07R7D"
+                ],
+                "count": 3
+            },
+            {
+                "name": "downvote",
+                "users": [
+                    "US2PZ9QBF"
+                ],
+                "count": 1
+            },
+            {
+                "name": "viperfall-emoji",
+                "users": [
+                    "US2PZ9QBF"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

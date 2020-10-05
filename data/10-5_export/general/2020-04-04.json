@@ -1,0 +1,96 @@
+[
+    {
+        "client_msg_id": "d338f398-3ad9-44da-a121-3b60f90e24a1",
+        "type": "message",
+        "text": "Hey everyone, tested (Adam Savage) has a discord server now where you might even find yourself in a conversation with Adam",
+        "user": "US2PZ9QBF",
+        "ts": "1586029660.001200",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Xbt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey everyone, tested (Adam Savage) has a discord server now where you might even find yourself in a conversation with Adam"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3a7dbb56-d5d7-4b11-811d-b854366b5308",
+        "type": "message",
+        "text": "<Https:\/\/discord.gg\/tested|Https:\/\/discord.gg\/tested>",
+        "user": "US2PZ9QBF",
+        "ts": "1586029689.001800",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Discord",
+                "title": "Join the Adam Savage's Tested Discord Server!",
+                "title_link": "Https:\/\/discord.gg\/tested",
+                "text": "Check out the Adam Savage's Tested community on Discord - hang out with 3,542 other members and enjoy free voice and text chat.",
+                "fallback": "Discord: Join the Adam Savage's Tested Discord Server!",
+                "image_url": "https:\/\/cdn.discordapp.com\/icons\/694566938575372349\/8d8616a113bf820f6fdec510add768f0.jpg?size=256",
+                "image_width": 250,
+                "image_height": 250,
+                "from_url": "Https:\/\/discord.gg\/tested",
+                "image_bytes": 11826,
+                "service_icon": "https:\/\/discordapp.com\/assets\/07dca80a102d4149e9736d4b162cff6f.ico",
+                "id": 1,
+                "original_url": "Https:\/\/discord.gg\/tested"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KGC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "Https:\/\/discord.gg\/tested",
+                                "text": "Https:\/\/discord.gg\/tested"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

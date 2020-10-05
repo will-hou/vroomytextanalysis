@@ -1,0 +1,49 @@
+[
+    {
+        "client_msg_id": "414aa010-a226-4cf7-9f48-0cdf0728b76c",
+        "type": "message",
+        "text": "maybe? can we make a roborio send CAN messages that the ODrive would like? I have no experience programming roboRios.",
+        "user": "US4KMEG9M",
+        "ts": "1582725725.000100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "b915bd1b6aaa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-04\/1338647058470_b915bd1b6aaa68df3e32_72.jpg",
+            "first_name": "joshua",
+            "real_name": "joshua phelps",
+            "display_name": "joshua phelps",
+            "team": "TS2PZ9PJR",
+            "name": "joshuaphelps127",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XmQr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "maybe? can we make a roborio send CAN messages that the ODrive would like? I have no experience programming roboRios."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582609116.001400",
+        "parent_user_id": "UUH3JGD7H"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1582754741.000200",
+        "user": "URRA07R7D",
+        "text": "<@URRA07R7D> has joined the channel"
+    }
+]

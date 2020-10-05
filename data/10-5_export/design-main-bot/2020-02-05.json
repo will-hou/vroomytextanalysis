@@ -1,0 +1,1092 @@
+[
+    {
+        "client_msg_id": "e97c72fb-c272-4707-bde8-d31732132195",
+        "type": "message",
+        "text": "<@URRA07VU3> I have printed out 2 sets of beval gears on the flashforge. I'm going to try it on the MakerBot to see if I get better quality",
+        "user": "US2PZ9QBF",
+        "ts": "1580953150.001600",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+LRAw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "URRA07VU3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I have printed out 2 sets of beval gears on the flashforge. I'm going to try it on the MakerBot to see if I get better quality"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1580953150.001600",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1580962514.005000",
+        "reply_users": [
+            "URRA07VU3",
+            "US2PZ9QBF"
+        ],
+        "replies": [
+            {
+                "user": "URRA07VU3",
+                "ts": "1580955782.000100"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1580962514.005000"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1580962514.005000"
+    },
+    {
+        "client_msg_id": "fb348b59-b915-4177-8783-047e9a4e5724",
+        "type": "message",
+        "text": "This is how they came out (pretty darn good)",
+        "user": "US2PZ9QBF",
+        "ts": "1580953165.002100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XymT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is how they came out (pretty darn good)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FT9L14AAX",
+                "created": 1580953177,
+                "timestamp": 1580953177,
+                "name": "IMG_20200205_173927.jpg",
+                "title": "470",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "US2PZ9QBF",
+                "editable": false,
+                "size": 983542,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TS2PZ9PJR-FT9L14AAX\/img_20200205_173927.jpg?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TS2PZ9PJR-FT9L14AAX\/download\/img_20200205_173927.jpg?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-FT9L14AAX-e4ab9b137b\/img_20200205_173927_64.jpg?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-FT9L14AAX-e4ab9b137b\/img_20200205_173927_80.jpg?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-FT9L14AAX-e4ab9b137b\/img_20200205_173927_360.jpg?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-FT9L14AAX-e4ab9b137b\/img_20200205_173927_480.jpg?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-FT9L14AAX-e4ab9b137b\/img_20200205_173927_160.jpg?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-FT9L14AAX-e4ab9b137b\/img_20200205_173927_720.jpg?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-FT9L14AAX-e4ab9b137b\/img_20200205_173927_800.jpg?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1067,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-FT9L14AAX-e4ab9b137b\/img_20200205_173927_960.jpg?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-FT9L14AAX-e4ab9b137b\/img_20200205_173927_1024.jpg?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_1024_w": 768,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 6,
+                "original_w": 4032,
+                "original_h": 3024,
+                "thumb_tiny": "AwAwACTPxUkczR8DkelR4qeK2ZxuYhV9TSAmjuVPB4qdCrDqKq\/ZgfuSgmoXDxtjkH2oA0tiHsKNiegrM86QcbjR58n940wHwKDMgIyM1JdsTJs7DtUakqwI6jmrTLHcgMG2vSApgleR271ZnBeGNsfMfSnLbLHzJIuKZLdZJEY+XGAaAKpUHmjbSbsdKXdQBfWO2l4jODVaWNo3Kt+BqNWIIIOCKu3P7y3jk70AUjTacaQigBvHpRx6UYFGBQB\/\/9k=",
+                "permalink": "https:\/\/vroomvroomswerve.slack.com\/files\/US2PZ9QBF\/FT9L14AAX\/img_20200205_173927.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/TS2PZ9PJR-FT9L14AAX-197dc442f6",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "US2PZ9QBF",
+        "display_as_bot": false,
+        "ts": "1580953187.002200",
+        "client_msg_id": "5bd4b8b1-7049-4bde-8ecc-bfd96e2d5f12"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FTP0BK215",
+                "created": 1580953193,
+                "timestamp": 1580953193,
+                "name": "IMG_20200205_173940.jpg",
+                "title": "471",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "US2PZ9QBF",
+                "editable": false,
+                "size": 791590,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TS2PZ9PJR-FTP0BK215\/img_20200205_173940.jpg?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TS2PZ9PJR-FTP0BK215\/download\/img_20200205_173940.jpg?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-FTP0BK215-5ed8adc0c7\/img_20200205_173940_64.jpg?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-FTP0BK215-5ed8adc0c7\/img_20200205_173940_80.jpg?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-FTP0BK215-5ed8adc0c7\/img_20200205_173940_360.jpg?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-FTP0BK215-5ed8adc0c7\/img_20200205_173940_480.jpg?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-FTP0BK215-5ed8adc0c7\/img_20200205_173940_160.jpg?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-FTP0BK215-5ed8adc0c7\/img_20200205_173940_720.jpg?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-FTP0BK215-5ed8adc0c7\/img_20200205_173940_800.jpg?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1067,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-FTP0BK215-5ed8adc0c7\/img_20200205_173940_960.jpg?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-FTP0BK215-5ed8adc0c7\/img_20200205_173940_1024.jpg?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_1024_w": 768,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 6,
+                "original_w": 4032,
+                "original_h": 3024,
+                "thumb_tiny": "AwAwACTPxTgKsz2bR\/NH8y+ncVABSHYbijFP20mKBDD1pMU+j8KANMSkcHmmSxxyHkYY9COtNZGkQBcl1ParESPj58Zx2oLbM8qVO1hg0witOSBGxuOMdOaj+xxnoT+BoIM3FGK0TYjs5\/Kk+w\/7Z\/75oAsSzJAAoHPZRVV53fhmwP8AZ7VBvMju56k\/pUkcRk+boo70AIFbPYg9+1NwfvISD6f4VI0gUbUAK+nY03AZsocN6H+lACreSqMZB+opftsv+z+VNMQY5yFPcGjyB\/fSgD\/\/2Q==",
+                "permalink": "https:\/\/vroomvroomswerve.slack.com\/files\/US2PZ9QBF\/FTP0BK215\/img_20200205_173940.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/TS2PZ9PJR-FTP0BK215-b41df26d12",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "US2PZ9QBF",
+        "display_as_bot": false,
+        "ts": "1580953208.002900",
+        "client_msg_id": "3645e1ae-35fd-4f95-ab76-bafb07983b6f"
+    },
+    {
+        "client_msg_id": "13320710-6984-4749-85ff-d1d92be3e3d4",
+        "type": "message",
+        "text": "Something to keep in mind is that the small one will need to be bigger so it doesn't become destroyed",
+        "user": "US2PZ9QBF",
+        "ts": "1580953225.003700",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Kt8SL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Something to keep in mind is that the small one will need to be bigger so it doesn't become destroyed"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1580953225.003700",
+        "reply_count": 10,
+        "reply_users_count": 2,
+        "latest_reply": "1580958513.003900",
+        "reply_users": [
+            "URRA07VU3",
+            "US2PZ9QBF"
+        ],
+        "replies": [
+            {
+                "user": "URRA07VU3",
+                "ts": "1580955786.000300"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1580956075.001300"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1580956567.001500"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1580956639.001700"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1580956661.001900"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1580956737.002100"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1580956791.002300"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1580958423.003500"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1580958506.003700"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1580958513.003900"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1580958513.003900"
+    },
+    {
+        "client_msg_id": "37daffd8-d47e-4859-9052-716c37fec411",
+        "type": "message",
+        "text": "Thoughts <!channel>",
+        "user": "US2PZ9QBF",
+        "ts": "1580953323.004100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9MU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thoughts "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9f5e3505-813e-416f-88e2-87bc1fd32c9a",
+        "type": "message",
+        "text": "you know that a set is two big ones and one small one right? either way, one of each is enough to see if you have enough resolution. It does look good enough.",
+        "user": "URRA07VU3",
+        "ts": "1580955782.000100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1ufU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "you know that a set is two big ones and one small one right? either way, one of each is enough to see if you have enough resolution. It does look good enough."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1580953150.001600",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "50bda033-49a4-4e9c-85e4-68d309b212fc",
+        "type": "message",
+        "text": "according to my solidworks simulations it won't break if made from steel. I can make it bigger if you need a larger safety margin but it will directly decrease the ground clearance. If you make the wheel bigger for more ground clearance, there will be even more stress on the small gear.",
+        "user": "URRA07VU3",
+        "ts": "1580955786.000300",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ge8Hx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "according to my solidworks simulations it won't break if made from steel. I can make it bigger if you need a larger safety margin but it will directly decrease the ground clearance. If you make the wheel bigger for more ground clearance, there will be even more stress on the small gear."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1580953225.003700",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "967499b3-050c-46d4-8800-529e8765dfeb",
+        "type": "message",
+        "text": "I'd like to see a short video of the gears meshing together (roll the small gear around the big one)",
+        "user": "URRA07VU3",
+        "ts": "1580955837.001200",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CgK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'd like to see a short video of the gears meshing together (roll the small gear around the big one)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "54eb5e64-119e-48d4-bf3a-0c85a84a6ede",
+        "type": "message",
+        "text": "I can do more optimization of the gear tooth shape",
+        "user": "URRA07VU3",
+        "ts": "1580956075.001300",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ldvj8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I can do more optimization of the gear tooth shape"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1580953225.003700",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "4b2d9aeb-b2fa-41bf-b8cb-db68aa677228",
+        "type": "message",
+        "text": "I mean, I really am not the expert:joy:. I think we want to maximize the ground clearance while keeping it nice and strong.",
+        "user": "US2PZ9QBF",
+        "ts": "1580956567.001500",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yMKCQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I mean, I really am not the expert"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". I think we want to maximize the ground clearance while keeping it nice and strong."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1580953225.003700",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "8e193eec-fd7c-43a7-8232-e1dfd1e7d16b",
+        "type": "message",
+        "text": "That is interesting how if the wheel is bigger, that gear has more stress, and if that gear is bigger, it takes away from ground clearance",
+        "user": "US2PZ9QBF",
+        "ts": "1580956639.001700",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fAF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That is interesting how if the wheel is bigger, that gear has more stress, and if that gear is bigger, it takes away from ground clearance"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1580953225.003700",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "e39b17b7-3f03-4aba-ae37-e3df962fdd78",
+        "type": "message",
+        "text": "Yes. It becomes a tradeoff between strength and ground clearance. The only way to get more of both is to use stronger material",
+        "user": "URRA07VU3",
+        "ts": "1580956661.001900",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1580953225.003700",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "5d8a1644-3931-4668-a935-a07ee525c7f8",
+        "type": "message",
+        "text": "What's the ratio of the size from making the wheel bigger and then in turn making the gear bigger to support it (as in as we increase the wheel size, how much do we have to increase the size of that gear by)",
+        "user": "US2PZ9QBF",
+        "ts": "1580956737.002100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VUIL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What's the ratio of the size from making the wheel bigger and then in turn making the gear bigger to support it (as in as we increase the wheel size, how much do we have to increase the size of that gear by)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1580953225.003700",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "0adfc9d1-8da4-44cc-ab06-893f90715037",
+        "type": "message",
+        "text": "What material is cheap that we could use",
+        "user": "US2PZ9QBF",
+        "ts": "1580956791.002300",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "G+6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What material is cheap that we could use"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1580953225.003700",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "ba16cde4-f782-49b5-a716-5a66d2dcd601",
+        "type": "message",
+        "text": "Cool, I can do this thing",
+        "user": "US2PZ9QBF",
+        "ts": "1580956810.002700",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fCv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Cool, I can do this thing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3721d71a-af56-4348-8f27-6766660fb384",
+        "type": "message",
+        "text": "<https:\/\/photos.app.goo.gl\/iRsjRJ9psxZUqoa89|https:\/\/photos.app.goo.gl\/iRsjRJ9psxZUqoa89>",
+        "user": "US2PZ9QBF",
+        "ts": "1580957255.002800",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Google Photos",
+                "title": "New video by Matthew Pickerell",
+                "title_link": "https:\/\/photos.app.goo.gl\/iRsjRJ9psxZUqoa89",
+                "fallback": "Google Photos: New video by Matthew Pickerell",
+                "image_url": "https:\/\/lh3.googleusercontent.com\/c_uKYurP0T0U-XR5LNrO8idZIUUdAafo7FQ9ctyV-3H52SA87X_bv4Ah0dSjJWC9QxZpsBldDXNdD9Y7zbVKaEaLeMnxm-w7v3QWo62ZZNBOJ3lZd01Zad_VJIJQ_mZ81HsrCJH9-w",
+                "image_width": 141,
+                "image_height": 250,
+                "from_url": "https:\/\/photos.app.goo.gl\/iRsjRJ9psxZUqoa89",
+                "image_bytes": 40945,
+                "service_icon": "http:\/\/ssl.gstatic.com\/images\/branding\/product\/1x\/photos_512dp.png",
+                "id": 1,
+                "original_url": "https:\/\/photos.app.goo.gl\/iRsjRJ9psxZUqoa89"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CtAzh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/photos.app.goo.gl\/iRsjRJ9psxZUqoa89",
+                                "text": "https:\/\/photos.app.goo.gl\/iRsjRJ9psxZUqoa89"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cc938ab3-f27f-4d05-aa4c-8ead11b92b9c",
+        "type": "message",
+        "text": "Tada",
+        "user": "US2PZ9QBF",
+        "ts": "1580957261.003100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/gIf6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Tada"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "tada",
+                "users": [
+                    "URRA07VU3",
+                    "US2PZ9QBF"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6f49acf7-532c-4fd1-87ea-041d6686ff27",
+        "type": "message",
+        "text": "It works really well!!!!",
+        "user": "US2PZ9QBF",
+        "ts": "1580957308.003400",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Buad",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It works really well!!!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ab90d969-c969-4500-93e7-9db645dfd6af",
+        "type": "message",
+        "text": "the torque that the gear has to transfer scales linearly with the radius\/diameter of the wheel.\nHow the torque that the gear can handle scales with it's size is really complex and probably needs a computer simulation. I'll just do guess and check with simulations.\nSteel is a cheap strong material. I can look more into specific alloys. It will need to be machinable, so it can't be too hard.",
+        "user": "URRA07VU3",
+        "ts": "1580958423.003500",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "m82K\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "the torque that the gear has to transfer scales linearly with the radius\/diameter of the wheel.\nHow the torque that the gear can handle scales with it's size is really complex and probably needs a computer simulation. I'll just do guess and check with simulations.\nSteel is a cheap strong material. I can look more into specific alloys. It will need to be machinable, so it can't be too hard."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1580953225.003700",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "7468353e-1777-44a9-a3d7-210f90da7a96",
+        "type": "message",
+        "text": "That all sounds great!!!!",
+        "user": "US2PZ9QBF",
+        "ts": "1580958506.003700",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bJ1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That all sounds great!!!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1580953225.003700",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "46c53bf3-3080-47fd-ac22-9fd29047f38b",
+        "type": "message",
+        "text": "Thank you so much!!!",
+        "user": "US2PZ9QBF",
+        "ts": "1580958513.003900",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fILHs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you so much!!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1580953225.003700",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "72A9ECF8-B7EE-4251-81D3-84B83D16126D",
+        "type": "message",
+        "text": "Yes I do, it just is easier to move them with the extra small gear",
+        "user": "US2PZ9QBF",
+        "ts": "1580962514.005000",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3Bg5l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes I do, it just is easier to move them with the extra small gear"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1580953150.001600",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "2d1864d6-a866-4bda-8334-e3ceca675935",
+        "type": "message",
+        "text": "So then <@URRA07VU3>  does this like good enough quality to be able to use a printer to make prototypes and then we can make one fairly final module on a cnc and when that works, go full on and cnc everything for 4 Modules?",
+        "user": "US2PZ9QBF",
+        "ts": "1580969057.002700",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9XV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So then "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "URRA07VU3"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  does this like good enough quality to be able to use a printer to make prototypes and then we can make one fairly final module on a cnc and when that works, go full on and cnc everything for 4 Modules?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

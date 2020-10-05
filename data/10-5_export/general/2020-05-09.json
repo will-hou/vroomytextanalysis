@@ -1,0 +1,1449 @@
+[
+    {
+        "client_msg_id": "06697153-8e78-4d5f-903f-e497a456c029",
+        "type": "message",
+        "text": "Does anyone here have an editable cad file for the standard blank ftc feild?",
+        "user": "US2PZ9QBF",
+        "ts": "1589070008.059500",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "R9zdU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Does anyone here have an editable cad file for the standard blank ftc feild?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589070008.059500",
+        "reply_count": 9,
+        "reply_users_count": 3,
+        "latest_reply": "1589075007.065600",
+        "reply_users": [
+            "US4KMEG9M",
+            "US2PZ9QBF",
+            "URRA07VU3"
+        ],
+        "replies": [
+            {
+                "user": "US4KMEG9M",
+                "ts": "1589070067.060300"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1589071376.063900"
+            },
+            {
+                "user": "US4KMEG9M",
+                "ts": "1589072158.064200"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1589074548.064400"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1589074642.064600"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1589074670.064800"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1589074801.065000"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1589074938.065400"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1589075007.065600"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1589075007.065600"
+    },
+    {
+        "client_msg_id": "ECA10FAC-F8BD-4859-955F-2E3276E7A96F",
+        "type": "message",
+        "text": "You can pull it from Andymark",
+        "user": "UU50D077H",
+        "ts": "1589070044.059900",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "790b5f83cbe4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-16\/943684986291_790b5f83cbe4b100e623_72.jpg",
+            "first_name": "Jake",
+            "real_name": "Jake Enos",
+            "display_name": "Jake Enos",
+            "team": "TS2PZ9PJR",
+            "name": "jake",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "z6MGo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You can pull it from Andymark"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "93fd9fce-a82e-4283-b2f5-f306c006ecdd",
+        "type": "message",
+        "text": "Really, I just tried that",
+        "user": "US2PZ9QBF",
+        "ts": "1589070058.060200",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BmI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Really, I just tried that"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b5fc8adb-e2a2-4736-b3cd-5679f1790d75",
+        "type": "message",
+        "text": "You could probably cad a floor and walls pretty quickly",
+        "user": "US4KMEG9M",
+        "ts": "1589070067.060300",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "b915bd1b6aaa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-04\/1338647058470_b915bd1b6aaa68df3e32_72.jpg",
+            "first_name": "joshua",
+            "real_name": "joshua phelps",
+            "display_name": "joshua phelps",
+            "team": "TS2PZ9PJR",
+            "name": "joshuaphelps127",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "85By",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You could probably cad a floor and walls pretty quickly"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589070008.059500",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "C0F577CB-3768-416E-8E1F-FA488C2E92CA",
+        "type": "message",
+        "text": "<https:\/\/www.andymark.com\/products\/first-tech-challenge-perimeter-kit-b?via=Z2lkOi8vYW5keW1hcmsvV29ya2FyZWE6Ok5hdmlnYXRpb246OlNlYXJjaFJlc3VsdHMvJTdCJTIyYnV0dG9uJTIyJTNBJTIyc2VhcmNoJTIyJTJDJTIycSUyMiUzQSUyMkZpZWxkJTIyJTJDJTIydXRmOCUyMiUzQSUyMiVFMiU5QyU5MyUyMiU3RA|https:\/\/www.andymark.com\/products\/first-tech-challenge-perimeter-kit-b?via=Z2lkOi8vYW5keW1hcmsvV29ya2FyZWE6Ok5hdmlnYXRpb246OlNlYXJjaFJlc3VsdHMvJTdCJTIyYnV0dG9uJTIyJTNBJTIyc2VhcmNoJTIyJTJDJTIycSUyMiUzQSUyMkZpZWxkJTIyJTJDJTIydXRmOCUyMiUzQSUyMiVFMiU5QyU5MyUyMiU3RA>",
+        "user": "UU50D077H",
+        "ts": "1589070088.060600",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "790b5f83cbe4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-16\/943684986291_790b5f83cbe4b100e623_72.jpg",
+            "first_name": "Jake",
+            "real_name": "Jake Enos",
+            "display_name": "Jake Enos",
+            "team": "TS2PZ9PJR",
+            "name": "jake",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "FIRST Tech Challenge Perimeter Kit",
+                "title_link": "https:\/\/www.andymark.com\/products\/first-tech-challenge-perimeter-kit-b?via=Z2lkOi8vYW5keW1hcmsvV29ya2FyZWE6Ok5hdmlnYXRpb246OlNlYXJjaFJlc3VsdHMvJTdCJTIyYnV0dG9uJTIyJTNBJTIyc2VhcmNoJTIyJTJDJTIycSUyMiUzQSUyMkZpZWxkJTIyJTJDJTIydXRmOCUyMiUzQSUyMiVFMiU5QyU5MyUyMiU3RA",
+                "text": "This is the official FIRST Tech Challenge Perimeter. This perimeter may be referenced as am-0481, am-0481a, or am-0481b in documentation. This is reusable from year to year and does not include soft tiles, game-specific hardware, components, or game pieces. This \"b\" revision is compatible with the previous \"a\" revision, meaning \"b\" version corners and panels can be used as replacement in \"a\" version perimeters.The perimeter is comprised of eight hinged panels and four straight panels. Once assembled, the perimeter creates an 11 feet 9 inch by 11 feet 9 inch square enclosure. The hinged corners and quick release pins make for easy assembly, requiring no tools. Side panels include a built-in wire way for easy cable management. An adjustable Perimeter Strap (am-2270a) placed under this playing surface help keep the walls square during game play.Included Hardware:4 - Hinged Panel Corners (am-2600b)4 - Flat Panel Sections (am-2160b)2 - Straps with Hooks (am-2270a)16 - Panel Rail Links (am-2580a)32 - Panel Link Fastener Pins (am-2579)What’s New?The fastening method for fixing the polycarbonate sheets to the aluminum rails has changed. The previous mechanical press fit has been removed, and rivets now hold the polycarbonate sheet in place. Each Panel (am-2160b) is now comprised of two toothless aluminum extrusion rails (am-2556a), one sheet of 3mm polycarbonate (am-2582a), and six rivets (am-1226). We have made this change to make the panels more consistent, as well as to allow for our customers to replace pieces of a panel as needed.Additional Perimeter Panels (not included): Corner Assemblies consist of two panels attached with hinges. Individual Panels and corner assemblies are available as Panels am-2160b and am-2600b respectively. If you wish to build a custom size arena for non tournament use, combine any number of corner assemblies or panels using two Field Links (am-2580a) and four Quick Release Pins per intersection.Field Flooring &amp; Soft Tiles (not included):FIRST Tech Challenge tournaments are conducted inside this perimeter kit with Soft Tiles making up the floor. These are not included with the perimeter kit, but are available as a Full Field Set of Soft Tiles (am-2499-36) or as individual Soft Tiles (am-2499).Storage and Transportation (not included):This perimeter and soft tiles that are available separately can be stored and transported easily in bags designed specifically for them. Two Panel Bags (am-2313a) fit a standard tournament size perimeter. Two Soft Tile Bags (am-2500a) fit a tournament's set of soft tiles, each holding eighteen tiles.Shipping:This perimeter will ship in two 52 inch x 14 inch x 8 inch boxes, each 36 pounds. The total weight for this product, both boxes included, is 72 pounds.Not Included:Soft tiles for field flooring are not included within the perimeter kit. This perimeter kit does not include any game-specific hardware, components, or game pieces.",
+                "fallback": "FIRST Tech Challenge Perimeter Kit",
+                "thumb_url": "https:\/\/andymark-weblinc.netdna-ssl.com\/product_images\/first-tech-challenge-perimeter-kit-b\/5d15025461a10d180b548dd8\/detail.jpg?c=1561657940",
+                "from_url": "https:\/\/www.andymark.com\/products\/first-tech-challenge-perimeter-kit-b?via=Z2lkOi8vYW5keW1hcmsvV29ya2FyZWE6Ok5hdmlnYXRpb246OlNlYXJjaFJlc3VsdHMvJTdCJTIyYnV0dG9uJTIyJTNBJTIyc2VhcmNoJTIyJTJDJTIycSUyMiUzQSUyMkZpZWxkJTIyJTJDJTIydXRmOCUyMiUzQSUyMiVFMiU5QyU5MyUyMiU3RA",
+                "thumb_width": 360,
+                "thumb_height": 360,
+                "service_icon": "https:\/\/andymark-weblinc.netdna-ssl.com\/favicons\/180x180.png?v=a0453a5a877d1c95e24a6951587be930",
+                "service_name": "andymark.com",
+                "id": 1,
+                "original_url": "https:\/\/www.andymark.com\/products\/first-tech-challenge-perimeter-kit-b?via=Z2lkOi8vYW5keW1hcmsvV29ya2FyZWE6Ok5hdmlnYXRpb246OlNlYXJjaFJlc3VsdHMvJTdCJTIyYnV0dG9uJTIyJTNBJTIyc2VhcmNoJTIyJTJDJTIycSUyMiUzQSUyMkZpZWxkJTIyJTJDJTIydXRmOCUyMiUzQSUyMiVFMiU5QyU5MyUyMiU3RA"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7k4Hg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.andymark.com\/products\/first-tech-challenge-perimeter-kit-b?via=Z2lkOi8vYW5keW1hcmsvV29ya2FyZWE6Ok5hdmlnYXRpb246OlNlYXJjaFJlc3VsdHMvJTdCJTIyYnV0dG9uJTIyJTNBJTIyc2VhcmNoJTIyJTJDJTIycSUyMiUzQSUyMkZpZWxkJTIyJTJDJTIydXRmOCUyMiUzQSUyMiVFMiU5QyU5MyUyMiU3RA",
+                                "text": "https:\/\/www.andymark.com\/products\/first-tech-challenge-perimeter-kit-b?via=Z2lkOi8vYW5keW1hcmsvV29ya2FyZWE6Ok5hdmlnYXRpb246OlNlYXJjaFJlc3VsdHMvJTdCJTIyYnV0dG9uJTIyJTNBJTIyc2VhcmNoJTIyJTJDJTIycSUyMiUzQSUyMkZpZWxkJTIyJTJDJTIydXRmOCUyMiUzQSUyMiVFMiU5QyU5MyUyMiU3RA"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8ED34CC5-4DCB-4368-8B7D-B27B07818000",
+        "type": "message",
+        "text": "Scroll to the bottom",
+        "user": "UU50D077H",
+        "ts": "1589070096.061000",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "790b5f83cbe4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-16\/943684986291_790b5f83cbe4b100e623_72.jpg",
+            "first_name": "Jake",
+            "real_name": "Jake Enos",
+            "display_name": "Jake Enos",
+            "team": "TS2PZ9PJR",
+            "name": "jake",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vjxU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Scroll to the bottom"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4064AA4B-9AB7-4871-B942-1364B785E110",
+        "type": "message",
+        "text": "Where it says “Documents”",
+        "user": "UU50D077H",
+        "ts": "1589070114.061300",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "790b5f83cbe4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-16\/943684986291_790b5f83cbe4b100e623_72.jpg",
+            "first_name": "Jake",
+            "real_name": "Jake Enos",
+            "display_name": "Jake Enos",
+            "team": "TS2PZ9PJR",
+            "name": "jake",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Vb29",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Where it says “Documents”"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "46F8EA00-61BF-4458-BDC1-2B54A2A7EF05",
+        "type": "message",
+        "text": "However know that creating field lines and other measurements is extremely difficult because it’s not a perfect 12x12",
+        "user": "UU50D077H",
+        "ts": "1589070169.062500",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "790b5f83cbe4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-16\/943684986291_790b5f83cbe4b100e623_72.jpg",
+            "first_name": "Jake",
+            "real_name": "Jake Enos",
+            "display_name": "Jake Enos",
+            "team": "TS2PZ9PJR",
+            "name": "jake",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ypb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "However know that creating field lines and other measurements is extremely difficult because it’s not a perfect 12x12"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3413BAA2-F985-4E03-81BB-78705BB2AADE",
+        "type": "message",
+        "text": "Hence why I made my own",
+        "user": "UU50D077H",
+        "ts": "1589070175.062800",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "790b5f83cbe4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-16\/943684986291_790b5f83cbe4b100e623_72.jpg",
+            "first_name": "Jake",
+            "real_name": "Jake Enos",
+            "display_name": "Jake Enos",
+            "team": "TS2PZ9PJR",
+            "name": "jake",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jxA0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hence why I made my own"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d76e2d64-efa3-4dc0-ae21-9812eb82f83c",
+        "type": "message",
+        "text": "What are the exact dimensions?",
+        "user": "US2PZ9QBF",
+        "ts": "1589071347.063300",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C7Kz\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What are the exact dimensions?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3ecbaab1-12b8-47c2-85be-4f957bf8a06d",
+        "type": "message",
+        "text": "Yeah, that's true, but I don't really know how to texture things",
+        "user": "US2PZ9QBF",
+        "ts": "1589071376.063900",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y3C",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah, that's true, but I don't really know how to texture things"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589070008.059500",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "A43A2E9A-2B82-4637-98ED-DA197C64B2DC",
+        "type": "message",
+        "text": "It’s like 11 ft followed by like 300 decimals",
+        "user": "UU50D077H",
+        "ts": "1589071377.064100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "790b5f83cbe4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-16\/943684986291_790b5f83cbe4b100e623_72.jpg",
+            "first_name": "Jake",
+            "real_name": "Jake Enos",
+            "display_name": "Jake Enos",
+            "team": "TS2PZ9PJR",
+            "name": "jake",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X4\/c",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It’s like 11 ft followed by like 300 decimals"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "32270ce5-5c07-46d8-9b77-468658e0f35d",
+        "type": "message",
+        "text": "You could learn how, there are lots of people here you can ask about solidworks",
+        "user": "US4KMEG9M",
+        "ts": "1589072158.064200",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "b915bd1b6aaa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-04\/1338647058470_b915bd1b6aaa68df3e32_72.jpg",
+            "first_name": "joshua",
+            "real_name": "joshua phelps",
+            "display_name": "joshua phelps",
+            "team": "TS2PZ9PJR",
+            "name": "joshuaphelps127",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ktikW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You could learn how, there are lots of people here you can ask about solidworks"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589070008.059500",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "590e202a-820f-4405-8009-45e48facf617",
+        "type": "message",
+        "text": "That's true... <@URRA07VU3>  how do you texture things in solid works",
+        "user": "US2PZ9QBF",
+        "ts": "1589074548.064400",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=8Q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That's true... "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "URRA07VU3"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  how do you texture things in solid works"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589070008.059500",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "ca4f1229-9dc7-46a6-84a7-552744872ac9",
+        "type": "message",
+        "text": "like in terms of appearance or a 3d texture?",
+        "user": "URRA07VU3",
+        "ts": "1589074642.064600",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sx3p\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "like in terms of appearance or a 3d texture?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589070008.059500",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "17698cd5-8748-4dd5-8785-7df91a219ff3",
+        "type": "message",
+        "text": "Both really",
+        "user": "US2PZ9QBF",
+        "ts": "1589074670.064800",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=Jl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Both really"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589070008.059500",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "type": "message",
+        "text": "so changing colors is really easy. Solidworks does it automatically based on the material you select, and you can edit it by finding this button and then selecting the appearance you want for each face, body, part, etc.",
+        "files": [
+            {
+                "id": "F013CH0PVK5",
+                "created": 1589074798,
+                "timestamp": 1589074798,
+                "name": "appearance.PNG",
+                "title": "appearance.PNG",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "URRA07VU3",
+                "editable": false,
+                "size": 1326,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TS2PZ9PJR-F013CH0PVK5\/appearance.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TS2PZ9PJR-F013CH0PVK5\/download\/appearance.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F013CH0PVK5-ff3352a5a1\/appearance_64.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F013CH0PVK5-ff3352a5a1\/appearance_80.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F013CH0PVK5-ff3352a5a1\/appearance_360.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_360_w": 43,
+                "thumb_360_h": 34,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F013CH0PVK5-ff3352a5a1\/appearance_160.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "original_w": 43,
+                "original_h": 34,
+                "thumb_tiny": "AwAiACvQy\/8AdX\/vr\/61GX\/ur\/31\/wDWp1VrqXayx54PLfSmlcHoSeb823Me7038\/wAqfl\/7q\/8AfX\/1qzptrAiHg9QB39qsWM\/mLtPUDp6VJTjYsMzqpJVeBn73\/wBan02T\/VP9DTqZIVWu4twDgZIHNWaKBNXKAjiIDBcfjVmBACWCgA\/r70\/yY927YM+tPqIwt1Lcmxsn+qf6GnU1wSjAdSDS5P8AdP6VZItFFFABRRRQAUUUUAf\/2Q==",
+                "permalink": "https:\/\/vroomvroomswerve.slack.com\/files\/URRA07VU3\/F013CH0PVK5\/appearance.png",
+                "permalink_public": "https:\/\/slack-files.com\/TS2PZ9PJR-F013CH0PVK5-503f5b9043",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X+z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "so changing colors is really easy. Solidworks does it automatically based on the material you select, and you can edit it by finding this button and then selecting the appearance you want for each face, body, part, etc."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "URRA07VU3",
+        "display_as_bot": false,
+        "ts": "1589074801.065000",
+        "client_msg_id": "637d0ca8-c53a-4555-9052-b8f2fa8fc9be",
+        "thread_ts": "1589070008.059500",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "60658159-d03f-41fc-a457-a3f44536d8c4",
+        "type": "message",
+        "text": "Nice",
+        "user": "US2PZ9QBF",
+        "ts": "1589074938.065400",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+Uc3A",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Nice"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589070008.059500",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "3a70ff34-ffe3-4b71-b71a-803ed45d4af0",
+        "type": "message",
+        "text": "let me know if you have questions",
+        "user": "URRA07VU3",
+        "ts": "1589075007.065600",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XUiut",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "let me know if you have questions"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589070008.059500",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "9f4d4deb-df4d-469a-9c89-cdd4637aa3ce",
+        "type": "message",
+        "text": "fun",
+        "user": "US2PZ9QBF",
+        "ts": "1589083031.065900",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kql11",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "fun"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "38e544a5-645b-4340-b20e-68f2ec053584",
+        "type": "message",
+        "text": "wait, how do you draw on a field?",
+        "user": "US2PZ9QBF",
+        "ts": "1589083042.066200",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rHFoA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "wait, how do you draw on a field?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7106BEE6-0C47-4356-B776-D4535DD5AC43",
+        "type": "message",
+        "text": "Like the tape lines?",
+        "user": "UU50D077H",
+        "ts": "1589083067.066500",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "790b5f83cbe4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-16\/943684986291_790b5f83cbe4b100e623_72.jpg",
+            "first_name": "Jake",
+            "real_name": "Jake Enos",
+            "display_name": "Jake Enos",
+            "team": "TS2PZ9PJR",
+            "name": "jake",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "d6lX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Like the tape lines?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c67ad085-b12a-4cdc-a35d-8877bb2eeede",
+        "type": "message",
+        "text": "yeah",
+        "user": "US2PZ9QBF",
+        "ts": "1589083078.066700",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "n8V",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yeah"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "F1685771-7B79-4D86-A775-5BA695298B8E",
+        "type": "message",
+        "text": "Draw the tape as rectangles and extrude it like .1 mm",
+        "user": "UU50D077H",
+        "ts": "1589083111.067400",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "790b5f83cbe4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-16\/943684986291_790b5f83cbe4b100e623_72.jpg",
+            "first_name": "Jake",
+            "real_name": "Jake Enos",
+            "display_name": "Jake Enos",
+            "team": "TS2PZ9PJR",
+            "name": "jake",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kaD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Draw the tape as rectangles and extrude it like .1 mm"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "68e6977e-7912-41d8-98f6-a4f7eafb18c7",
+        "type": "message",
+        "text": "oh cool",
+        "user": "US2PZ9QBF",
+        "ts": "1589083129.067600",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MY5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "oh cool"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "31E8CB9D-C56F-4DF6-9EDD-1AA83377DD4A",
+        "type": "message",
+        "text": "And then slap a color on it and call it good",
+        "user": "UU50D077H",
+        "ts": "1589083142.068000",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "790b5f83cbe4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-16\/943684986291_790b5f83cbe4b100e623_72.jpg",
+            "first_name": "Jake",
+            "real_name": "Jake Enos",
+            "display_name": "Jake Enos",
+            "team": "TS2PZ9PJR",
+            "name": "jake",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C7r",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "And then slap a color on it and call it good"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "F3148701-AB73-4234-AAF2-FF00F96A6ED9",
+        "type": "message",
+        "text": "You should jump on the discord vc and stream so I can see what you’re doing... I’m incredibly bored atm",
+        "user": "UU50D077H",
+        "ts": "1589083171.068800",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "790b5f83cbe4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-16\/943684986291_790b5f83cbe4b100e623_72.jpg",
+            "first_name": "Jake",
+            "real_name": "Jake Enos",
+            "display_name": "Jake Enos",
+            "team": "TS2PZ9PJR",
+            "name": "jake",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "74XFR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You should jump on the discord vc and stream so I can see what you’re doing... I’m incredibly bored atm"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "87ac97bf-481d-4450-85d5-ce024d73400b",
+        "type": "message",
+        "text": "I'm not actually working on it right now, I was just curious",
+        "user": "US2PZ9QBF",
+        "ts": "1589083259.069500",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "d1Gj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm not actually working on it right now, I was just curious"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4B34F7B2-43F9-450B-80D9-89C488162C74",
+        "type": "message",
+        "text": "Ah",
+        "user": "UU50D077H",
+        "ts": "1589083264.069700",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "790b5f83cbe4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-16\/943684986291_790b5f83cbe4b100e623_72.jpg",
+            "first_name": "Jake",
+            "real_name": "Jake Enos",
+            "display_name": "Jake Enos",
+            "team": "TS2PZ9PJR",
+            "name": "jake",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ao94U",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ah"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cffe4249-1cde-4fd1-9eb7-0705a8c6336c",
+        "type": "message",
+        "text": "sorry",
+        "user": "US2PZ9QBF",
+        "ts": "1589083313.069900",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AYM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "sorry"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "38929E0A-8920-45A9-800B-A734F102C9B6",
+        "type": "message",
+        "text": "Well what are you doing rn",
+        "user": "UU50D077H",
+        "ts": "1589083320.070200",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "790b5f83cbe4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-16\/943684986291_790b5f83cbe4b100e623_72.jpg",
+            "first_name": "Jake",
+            "real_name": "Jake Enos",
+            "display_name": "Jake Enos",
+            "team": "TS2PZ9PJR",
+            "name": "jake",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7b9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Well what are you doing rn"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bca01a2a-1d08-4691-ade2-65e89513004c",
+        "type": "message",
+        "text": "taking a break from organizing family photos",
+        "user": "US2PZ9QBF",
+        "ts": "1589083358.070800",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nyI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "taking a break from organizing family photos"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6E5420A9-FAD9-487C-9EFC-8CA2994AB22F",
+        "type": "message",
+        "text": "Ah, wanna talk about the FTC thing I’m a voice call and generally be nerds?",
+        "user": "UU50D077H",
+        "ts": "1589083386.071500",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "790b5f83cbe4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-16\/943684986291_790b5f83cbe4b100e623_72.jpg",
+            "first_name": "Jake",
+            "real_name": "Jake Enos",
+            "display_name": "Jake Enos",
+            "team": "TS2PZ9PJR",
+            "name": "jake",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GF9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ah, wanna talk about the FTC thing I’m a voice call and generally be nerds?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "37efc557-7b2b-40d4-83de-efcc1af21566",
+        "type": "message",
+        "text": "I'm really sorry but I can't maybe Monday though",
+        "user": "US2PZ9QBF",
+        "ts": "1589083460.072000",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EUzX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm really sorry but I can't maybe Monday though"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "47472B1C-0D67-4BA0-971F-C4BE7E278349",
+        "type": "message",
+        "text": "Ok",
+        "user": "UU50D077H",
+        "ts": "1589083467.072200",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "790b5f83cbe4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-16\/943684986291_790b5f83cbe4b100e623_72.jpg",
+            "first_name": "Jake",
+            "real_name": "Jake Enos",
+            "display_name": "Jake Enos",
+            "team": "TS2PZ9PJR",
+            "name": "jake",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7M5LY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ok"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

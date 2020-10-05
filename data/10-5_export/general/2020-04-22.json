@@ -1,0 +1,328 @@
+[
+    {
+        "client_msg_id": "78D1F1CB-F3FE-48DD-BC21-6259A1242589",
+        "type": "message",
+        "text": "Hey everyone! What are your thoughts on this machine: \n\n<https:\/\/www.amazon.com\/Mophorn-Engraving-20x28Inch-Engraver-Woodworking\/dp\/B086YCL9ZR?th=1|https:\/\/www.amazon.com\/Mophorn-Engraving-20x28Inch-Engraver-Woodworking\/dp\/B086YCL9ZR?th=1>",
+        "user": "US2PZ9QBF",
+        "ts": "1587570243.016100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WSs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey everyone! What are your thoughts on this machine: \n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.amazon.com\/Mophorn-Engraving-20x28Inch-Engraver-Woodworking\/dp\/B086YCL9ZR?th=1",
+                                "text": "https:\/\/www.amazon.com\/Mophorn-Engraving-20x28Inch-Engraver-Woodworking\/dp\/B086YCL9ZR?th=1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1587570243.016100",
+        "reply_count": 6,
+        "reply_users_count": 2,
+        "latest_reply": "1587574801.021800",
+        "reply_users": [
+            "URRA07VU3",
+            "US2PZ9QBF"
+        ],
+        "replies": [
+            {
+                "user": "URRA07VU3",
+                "ts": "1587570757.016200"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1587570798.016700"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1587572791.016900"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1587574138.017200"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1587574382.021600"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1587574801.021800"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1587574801.021800"
+    },
+    {
+        "client_msg_id": "989ed62f-99da-4c98-8b14-012fce038421",
+        "type": "message",
+        "text": "there are four options on that page",
+        "user": "URRA07VU3",
+        "ts": "1587570757.016200",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6dSWn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "there are four options on that page"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1587570243.016100",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "3DA62F51-3A99-4E19-A000-F34927ECBEAD",
+        "type": "message",
+        "text": " The 100w",
+        "user": "US2PZ9QBF",
+        "ts": "1587570798.016700",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TYaU7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": " The 100w"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1587570243.016100",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "a61bc350-1547-45b4-a0a1-13209f26e87a",
+        "type": "message",
+        "text": "So I haven't looked at what's available so I can't really give thoughts on whether the price is good for what it is, or whether it's better than $3000 worth of other tools or shop time. The power is enough (75W is what Brown has and it's good but I wouldn't go much below that). The bed is relatively big. It seems to have all the ventilation and cooling stuff required, though check that (Brown's laser cutters require a connection to a compressor and exhaust system). Laser cutters do need to have their honeycomb beds replaced occasionally so you'd need that part to be available.\n\nMy thoughts on laser cutters in general is that they are great for rapid prototyping of things that have been CADed. They can make larger parts much faster than 3d printers. Being able to engrave parts is also a unique feature. You can also easily make multiples of parts. Some things I don't like about them is they really limit materials that you can use. Plywood works great and so does acrylic but there aren't really cuttable impact resistant plastics (polycarb melts). Metal of course isn't possible on consumer laser cutters.\n2d only cutting (unlike a router) is also a limitation but you can usually work around it.\nWhile laser cutters are definetly useful, you should note that a lot of what they're used for (minus engraving, extremely detailed parts, and cutting brittle plastics) can be done from a wider variety of materials about as well with a drill, a vertical bandsaw\/jigsaw, a printed shape and some skill.",
+        "user": "URRA07VU3",
+        "ts": "1587572791.016900",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "URRA07VU3",
+            "ts": "1587572915.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "siG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So I haven't looked at what's available so I can't really give thoughts on whether the price is good for what it is, or whether it's better than $3000 worth of other tools or shop time. The power is enough (75W is what Brown has and it's good but I wouldn't go much below that). The bed is relatively big. It seems to have all the ventilation and cooling stuff required, though check that (Brown's laser cutters require a connection to a compressor and exhaust system). Laser cutters do need to have their honeycomb beds replaced occasionally so you'd need that part to be available.\n\nMy thoughts on laser cutters in general is that they are great for rapid prototyping of things that have been CADed. They can make larger parts much faster than 3d printers. Being able to engrave parts is also a unique feature. You can also easily make multiples of parts. Some things I don't like about them is they really limit materials that you can use. Plywood works great and so does acrylic but there aren't really cuttable impact resistant plastics (polycarb melts). Metal of course isn't possible on consumer laser cutters.\n2d only cutting (unlike a router) is also a limitation but you can usually work around it.\nWhile laser cutters are definetly useful, you should note that a lot of what they're used for (minus engraving, extremely detailed parts, and cutting brittle plastics) can be done from a wider variety of materials about as well with a drill, a vertical bandsaw\/jigsaw, a printed shape and some skill."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1587570243.016100",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "type": "message",
+        "text": "as a reference here's a list of materials approved for cutting in the BDW <https:\/\/docs.google.com\/spreadsheets\/d\/1e466ILph9SQZKu-BOu6Js4AUcyRttWctTtgrCqRHnuA\/edit#gid=0>\na 100W laser would use slightly faster settings but the materials you could cut would be the same.\nNote that delrin is the only impact resistant plastic that's listed as cuttable, but large sheets of it is expensive, and it's not transparent, so not really better than wood.",
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ERCG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "as a reference here's a list of materials approved for cutting in the BDW "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/spreadsheets\/d\/1e466ILph9SQZKu-BOu6Js4AUcyRttWctTtgrCqRHnuA\/edit#gid=0"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\na 100W laser would use slightly faster settings but the materials you could cut would be the same.\nNote that delrin is the only impact resistant plastic that's listed as cuttable, but large sheets of it is expensive, and it's not transparent, so not really better than wood."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "URRA07VU3",
+        "ts": "1587574138.017200",
+        "edited": {
+            "user": "URRA07VU3",
+            "ts": "1587574148.000000"
+        },
+        "client_msg_id": "a8275637-8a2d-4b95-9d80-e64c9bea2e48",
+        "thread_ts": "1587570243.016100",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "32B1BA91-8D2D-409A-BD80-1899E9AB5977",
+        "type": "message",
+        "text": "Yeah, so price wise, this is a cheap machine. It does come with an exost fan and it’s pretty good quality all around. I think the pain benifit is sharp corners as a posed to a cnc rougher. Also, wood is cheap and strong so I’ll probably end up using wood anyway",
+        "user": "US2PZ9QBF",
+        "ts": "1587574382.021600",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "geuK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah, so price wise, this is a cheap machine. It does come with an exost fan and it’s pretty good quality all around. I think the pain benifit is sharp corners as a posed to a cnc rougher. Also, wood is cheap and strong so I’ll probably end up using wood anyway"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1587570243.016100",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "daef218e-727c-4031-8ee7-e402049f7ef4",
+        "type": "message",
+        "text": "I would consider the price to be in the middle for a consumer machine. The less expensive ones stop being worth it though, and I would believe that this one is good for the price.\nWood is a great material.\nYou can make designs not require sharp corners or can use a file to make them go away, so I wouldn't choose a laser over a router for that reason alone. Laser cutters do still have a speed advantage over routers, and can do more detailed cutting and engraving.",
+        "user": "URRA07VU3",
+        "ts": "1587574801.021800",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sMVYf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I would consider the price to be in the middle for a consumer machine. The less expensive ones stop being worth it though, and I would believe that this one is good for the price.\nWood is a great material.\nYou can make designs not require sharp corners or can use a file to make them go away, so I wouldn't choose a laser over a router for that reason alone. Laser cutters do still have a speed advantage over routers, and can do more detailed cutting and engraving."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1587570243.016100",
+        "parent_user_id": "US2PZ9QBF"
+    }
+]

@@ -1,0 +1,106 @@
+[
+    {
+        "client_msg_id": "76661fc2-27cf-4723-9241-55f8c2a8e1a9",
+        "type": "message",
+        "text": "in the indexer, do we want wheels or rolers?",
+        "user": "US2PZ9QBF",
+        "ts": "1585712707.000600",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Z4iP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "in the indexer, do we want wheels or rolers?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ba34a904-aace-4bd1-9253-fd0bc5df37bc",
+        "type": "message",
+        "text": "<https:\/\/www.vexrobotics.com\/versarollers.html>",
+        "user": "US2PZ9QBF",
+        "ts": "1585712710.000800",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "VEX Robotics",
+                "title": "VersaRollers",
+                "title_link": "https:\/\/www.vexrobotics.com\/versarollers.html",
+                "text": "VersaRollers",
+                "fallback": "VEX Robotics: VersaRollers",
+                "thumb_url": "https:\/\/www.vexrobotics.com\/media\/catalog\/product\/cache\/1\/image\/9df78eab33525d08d6e5fb8d27136e95\/v\/e\/versarollerapp.jpg",
+                "fields": [
+                    {
+                        "title": "USD",
+                        "value": "$3.99",
+                        "short": true
+                    },
+                    {
+                        "title": "WEBSITE",
+                        "value": "<http:\/\/vexrobotics.com|vexrobotics.com>",
+                        "short": true
+                    }
+                ],
+                "from_url": "https:\/\/www.vexrobotics.com\/versarollers.html",
+                "thumb_width": 1000,
+                "thumb_height": 1000,
+                "service_icon": "https:\/\/www.vexrobotics.com\/skin\/frontend\/rwd\/vex\/images\/favicon\/vexpro.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.vexrobotics.com\/versarollers.html"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zPIKl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.vexrobotics.com\/versarollers.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

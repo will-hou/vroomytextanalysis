@@ -1,0 +1,174 @@
+[
+    {
+        "client_msg_id": "1140a0d8-0716-4f76-bc46-e498b4869b33",
+        "type": "message",
+        "text": "brrrrt brrrrt",
+        "user": "URRA07VU3",
+        "ts": "1595120776.000300",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "A0F",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "brrrrt brrrrt"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "bear_bounce",
+                "users": [
+                    "US2PZ9QBF",
+                    "URRA07VU3",
+                    "URRA07R7D"
+                ],
+                "count": 3
+            },
+            {
+                "name": "eggplant",
+                "users": [
+                    "US2PZ9QBF",
+                    "URRA07VU3",
+                    "URRA07R7D"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e7458c3b-351b-41a9-9b11-ae8fdca267a8",
+        "type": "message",
+        "text": "Brrrrt brrrrt",
+        "user": "URRA07R7D",
+        "ts": "1595120796.000600",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "2340815f3f5d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-16\/992617530243_2340815f3f5d0170300e_72.png",
+            "first_name": "William",
+            "real_name": "William Hou",
+            "display_name": "vroomy pitchfork",
+            "team": "TS2PZ9PJR",
+            "name": "whou125",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "917",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Brrrrt brrrrt"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eggplant",
+                "users": [
+                    "URRA07VU3",
+                    "US2PZ9QBF"
+                ],
+                "count": 2
+            },
+            {
+                "name": "irvine",
+                "users": [
+                    "URRA07VU3",
+                    "US2PZ9QBF"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "703EBCEF-F624-46BC-AD3B-3394D077C4C4",
+        "type": "message",
+        "text": "BRRRRT BRRRRT",
+        "user": "US2PZ9QBF",
+        "ts": "1595120799.000800",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ymb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "BRRRRT BRRRRT"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eggplant",
+                "users": [
+                    "URRA07VU3",
+                    "US2PZ9QBF",
+                    "URRA07R7D"
+                ],
+                "count": 3
+            },
+            {
+                "name": "robot_face",
+                "users": [
+                    "URRA07VU3",
+                    "URRA07R7D",
+                    "US2PZ9QBF"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

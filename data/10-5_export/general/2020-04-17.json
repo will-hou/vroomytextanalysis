@@ -1,0 +1,356 @@
+[
+    {
+        "client_msg_id": "1b509ff2-1971-4f12-b257-0c1ed4a074bc",
+        "type": "message",
+        "text": "Hey <!everyone> I've received several DMs about today's meeting and decided to postpone to next Fridayy! Please make sure you can make it to this meeting though! I think we will be finalizing our design and probably doing cad all together so we all have good communication on what we are working on.",
+        "user": "US2PZ9QBF",
+        "ts": "1587145498.003100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "US2PZ9QBF",
+            "ts": "1587145665.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "t1Zr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "everyone"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I've received several DMs about today's meeting and decided to postpone to next Fridayy! Please make sure you can make it to this meeting though! I think we will be finalizing our design and probably doing cad all together so we all have good communication on what we are working on."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1587145498.003100",
+        "reply_count": 5,
+        "reply_users_count": 3,
+        "latest_reply": "1587145648.004200",
+        "reply_users": [
+            "US4KMEG9M",
+            "URRA07VU3",
+            "US2PZ9QBF"
+        ],
+        "replies": [
+            {
+                "user": "US4KMEG9M",
+                "ts": "1587145560.003200"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1587145614.003600"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1587145615.003800"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1587145636.004000"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1587145648.004200"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1587145648.004200"
+    },
+    {
+        "client_msg_id": "ee3417c6-acf8-4bac-bfed-2f8f20d1a595",
+        "type": "message",
+        "text": "I can't promise I will have time on Thursday (lots of stuff is due on Thursdays for me)",
+        "user": "US4KMEG9M",
+        "ts": "1587145560.003200",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "b915bd1b6aaa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-04\/1338647058470_b915bd1b6aaa68df3e32_72.jpg",
+            "first_name": "joshua",
+            "real_name": "joshua phelps",
+            "display_name": "joshua phelps",
+            "team": "TS2PZ9PJR",
+            "name": "joshuaphelps127",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1A4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I can't promise I will have time on Thursday (lots of stuff is due on Thursdays for me)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1587145498.003100",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "4e922af3-ff92-40df-9162-72c280e90f6c",
+        "type": "message",
+        "text": "same. thursdays don't work for me.\nMaybe do another survey? I think that works better then just saying when a meeting will be and changing it when people say it doesn't work.",
+        "user": "URRA07VU3",
+        "ts": "1587145614.003600",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mMj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "same. thursdays don't work for me.\nMaybe do another survey? I think that works better then just saying when a meeting will be and changing it when people say it doesn't work."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1587145498.003100",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "2e1f9e09-0add-4312-88bf-6454ccc91995",
+        "type": "message",
+        "text": "Fixed:joy:",
+        "user": "US2PZ9QBF",
+        "ts": "1587145615.003800",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "y2a\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Fixed"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1587145498.003100",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "ced5aa02-3d7a-4dc2-9f93-9555c810b531",
+        "type": "message",
+        "text": "you mean next friday?",
+        "user": "URRA07VU3",
+        "ts": "1587145636.004000",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BBSZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "you mean next friday?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1587145498.003100",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "6c9bd0c8-45db-4f2c-b7fd-0d916a44c431",
+        "type": "message",
+        "text": "Yes",
+        "user": "US2PZ9QBF",
+        "ts": "1587145648.004200",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+JY9r",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1587145498.003100",
+        "parent_user_id": "US2PZ9QBF",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "US4KMEG9M",
+                    "US2PZ9QBF",
+                    "U010XSNA2Q4"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "475DB403-B2A6-4155-AD14-767CAA167135",
+        "type": "message",
+        "text": "<@UU50D077H> please congratulate Jacob on making it to worlds with deans list! Everyone on SERT is rooting for him!",
+        "user": "US2PZ9QBF",
+        "ts": "1587190483.006600",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Dco1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UU50D077H"
+                            },
+                            {
+                                "type": "text",
+                                "text": " please congratulate Jacob on making it to worlds with deans list! Everyone on SERT is rooting for him!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "clap",
+                "users": [
+                    "US4KMEG9M",
+                    "UUE9YV61K",
+                    "URRA07VU3",
+                    "URRA07R7D",
+                    "UUH3JGD7H",
+                    "US2PZ9QBF"
+                ],
+                "count": 6
+            }
+        ]
+    }
+]

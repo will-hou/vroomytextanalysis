@@ -1,0 +1,154 @@
+[
+    {
+        "client_msg_id": "48fdac8e-151f-4d59-84c1-31fb7895d729",
+        "type": "message",
+        "text": "<@URRA07VU3> what's the clearance on the differential gears with 3\" vs 4\" wheels? I'd hate for anything to break hitting the steel bars on the field",
+        "user": "US51ZNQDU",
+        "ts": "1583191220.000100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "ade188af1049",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-30\/891681516518_ade188af10498886e12c_72.jpg",
+            "first_name": "Palmer",
+            "real_name": "Palmer Campbell-Kaswell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "palmerc120",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1583123378.022900",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "0cf163c7-0fe8-4805-8a03-69daabbf9c34",
+        "type": "message",
+        "text": "(sorry if this was discussed already haha I've been busy and haven't been paying attention)",
+        "user": "US51ZNQDU",
+        "ts": "1583191249.000300",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "ade188af1049",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-30\/891681516518_ade188af10498886e12c_72.jpg",
+            "first_name": "Palmer",
+            "real_name": "Palmer Campbell-Kaswell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "palmerc120",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1583123378.022900",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "9ec8f154-65a3-459a-82f9-89684cfc2ff1",
+        "type": "message",
+        "text": "Nvmd just saw the thread about that haha",
+        "user": "US51ZNQDU",
+        "ts": "1583191322.000500",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "ade188af1049",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-30\/891681516518_ade188af10498886e12c_72.jpg",
+            "first_name": "Palmer",
+            "real_name": "Palmer Campbell-Kaswell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "palmerc120",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1583123378.022900",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "903b5dff-0526-40ad-8714-bf93294f56f0",
+        "type": "message",
+        "text": "Talking about swerve made me want to CAD it so I sketched out the geometry of flipped and not flipped motor modules.\nFlipped is not significantly shorter then the shortest not flipped, but because it requires a third level of gears it's easier to add a 3:1 reduction to and keep it compact.\nNon flipped is better if you care more about reducing footprint then height. It also makes some things easier to maintain but probably makes other things harder",
+        "user": "URRA07VU3",
+        "ts": "1583192466.000700",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "URRA07VU3",
+            "ts": "1583192537.000000"
+        },
+        "thread_ts": "1583126468.031100",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "a5c2c887-1f48-490c-8767-dd7e7bcf88f7",
+        "type": "message",
+        "text": "<https:\/\/www.5axismaker.com\/5axis\/|https:\/\/www.5axismaker.com\/5axis\/>",
+        "user": "US2PZ9QBF",
+        "ts": "1583213848.001000",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "5axismaker 5 axis CNC Mill &amp; 3D Printer",
+                "title": "5AXISMAKER",
+                "title_link": "https:\/\/www.5axismaker.com\/5axis\/",
+                "text": "Visit the post for more.",
+                "fallback": "5axismaker 5 axis CNC Mill &amp; 3D Printer: 5AXISMAKER",
+                "thumb_url": "http:\/\/www.5axismaker.com\/wp-content\/uploads\/2019\/03\/cstmrs.jpg",
+                "ts": 1410082688,
+                "from_url": "https:\/\/www.5axismaker.com\/5axis\/",
+                "thumb_width": 1920,
+                "thumb_height": 1150,
+                "service_icon": "http:\/\/5axismaker.com\/wp-content\/uploads\/2014\/09\/favicon1.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.5axismaker.com\/5axis\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cgmR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.5axismaker.com\/5axis\/",
+                                "text": "https:\/\/www.5axismaker.com\/5axis\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

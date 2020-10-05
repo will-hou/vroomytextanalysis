@@ -1,0 +1,88 @@
+[
+    {
+        "client_msg_id": "4C8FE36F-ACE2-40D8-BA0F-A0EA59C8ED20",
+        "type": "message",
+        "text": "Well as if 2020 couldn’t get any worse, the robotics world just lost yet another legend. Earlier today, Mythbusters host and mentor of FRC 841 Biomechs, Grant Imahara, passed away. Grant was an inspiration to all of us, and one of my personal heroes, building some of the greatest robots of our time, including R2-D2 in both the prequels and the Disney trilogy. Rest In Peace Grant, you will never be forgotten.",
+        "user": "UU50D077H",
+        "ts": "1594707133.005800",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "790b5f83cbe4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-16\/943684986291_790b5f83cbe4b100e623_72.jpg",
+            "first_name": "Jake",
+            "real_name": "Jake Enos",
+            "display_name": "Jake Enos",
+            "team": "TS2PZ9PJR",
+            "name": "jake",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Iy9Bv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Well as if 2020 couldn’t get any worse, the robotics world just lost yet another legend. Earlier today, Mythbusters host and mentor of FRC 841 Biomechs, Grant Imahara, passed away. Grant was an inspiration to all of us, and one of my personal heroes, building some of the greatest robots of our time, including R2-D2 in both the prequels and the Disney trilogy. Rest In Peace Grant, you will never be forgotten."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1594707133.005800",
+        "reply_count": 6,
+        "reply_users_count": 2,
+        "latest_reply": "1594755085.002300",
+        "reply_users": [
+            "US2PZ9QBF",
+            "UU50D077H"
+        ],
+        "replies": [
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1594735119.000500"
+            },
+            {
+                "user": "UU50D077H",
+                "ts": "1594754923.000300"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1594754944.000500"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1594754960.000700"
+            },
+            {
+                "user": "UU50D077H",
+                "ts": "1594755033.002100"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1594755085.002300"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1594755085.002300",
+        "reactions": [
+            {
+                "name": "sob",
+                "users": [
+                    "URRA07VU3",
+                    "US4KMEG9M",
+                    "URRA07R7D",
+                    "US2PZ9QBF"
+                ],
+                "count": 4
+            }
+        ]
+    }
+]

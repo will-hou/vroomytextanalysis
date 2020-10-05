@@ -1,0 +1,218 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1593813227.000200",
+        "user": "US4KMEG9M",
+        "text": "<@US4KMEG9M> has joined the channel"
+    },
+    {
+        "client_msg_id": "9bc4afa1-0af1-4591-8459-c9683d4ff825",
+        "type": "message",
+        "text": "Vroom Vroom",
+        "user": "US4KMEG9M",
+        "ts": "1593813244.000600",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "b915bd1b6aaa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-04\/1338647058470_b915bd1b6aaa68df3e32_72.jpg",
+            "first_name": "joshua",
+            "real_name": "joshua phelps",
+            "display_name": "joshua phelps",
+            "team": "TS2PZ9PJR",
+            "name": "joshuaphelps127",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ip=J6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Vroom Vroom"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ba1ba8d6-e2d7-4cad-81c0-9a40ca318ab2",
+        "type": "message",
+        "text": "VROOM VROOM",
+        "user": "US2PZ9QBF",
+        "ts": "1593813254.000900",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rx=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "VROOM VROOM"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1593813258.001200",
+        "user": "US4KMEG9M",
+        "text": "<@US4KMEG9M> has joined the channel"
+    },
+    {
+        "client_msg_id": "e7e6ad00-8583-443a-bc1e-017fc5b0083e",
+        "type": "message",
+        "text": "vroom vroom",
+        "user": "URRA07R7D",
+        "ts": "1593813260.001300",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "2340815f3f5d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-16\/992617530243_2340815f3f5d0170300e_72.png",
+            "first_name": "William",
+            "real_name": "William Hou",
+            "display_name": "vroomy pitchfork",
+            "team": "TS2PZ9PJR",
+            "name": "whou125",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CDxA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "vroom vroom"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1593813266.001600",
+        "user": "U016RTGTAGH",
+        "text": "<@U016RTGTAGH> has joined the channel",
+        "inviter": "US4KMEG9M"
+    },
+    {
+        "client_msg_id": "84FDF563-36DB-4C35-80DF-3427482F62FE",
+        "type": "message",
+        "text": "VROOM VROOM ",
+        "user": "U016RTGTAGH",
+        "ts": "1593813282.002100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g1eb0cde2727",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1eb0cde2727eaf69a6ca5247611fa385.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "",
+            "real_name": "Tami S P Beach",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "tami",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UHt7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "VROOM VROOM "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "ultrafastparrot",
+                "users": [
+                    "US2PZ9QBF",
+                    "URRA07R7D",
+                    "US4KMEG9M",
+                    "URRA07VU3"
+                ],
+                "count": 4
+            },
+            {
+                "name": "dab1",
+                "users": [
+                    "US2PZ9QBF",
+                    "URRA07R7D",
+                    "US4KMEG9M",
+                    "URRA07VU3"
+                ],
+                "count": 4
+            },
+            {
+                "name": "dealwithitnowparrot",
+                "users": [
+                    "US2PZ9QBF",
+                    "URRA07R7D",
+                    "US4KMEG9M",
+                    "URRA07VU3"
+                ],
+                "count": 4
+            },
+            {
+                "name": "smile",
+                "users": [
+                    "US2PZ9QBF",
+                    "URRA07R7D",
+                    "US4KMEG9M",
+                    "URRA07VU3"
+                ],
+                "count": 4
+            }
+        ]
+    }
+]

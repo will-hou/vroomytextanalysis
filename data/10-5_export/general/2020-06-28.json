@@ -1,0 +1,42 @@
+[
+    {
+        "client_msg_id": "72348e45-28ca-48bd-bcdf-72450ed8051d",
+        "type": "message",
+        "text": "what time will this meeting be?",
+        "user": "US4KMEG9M",
+        "ts": "1593395796.000100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "b915bd1b6aaa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-04\/1338647058470_b915bd1b6aaa68df3e32_72.jpg",
+            "first_name": "joshua",
+            "real_name": "joshua phelps",
+            "display_name": "joshua phelps",
+            "team": "TS2PZ9PJR",
+            "name": "joshuaphelps127",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Kf5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "what time will this meeting be?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1593203923.001700",
+        "parent_user_id": "US2PZ9QBF"
+    }
+]

@@ -1,0 +1,1419 @@
+[
+    {
+        "client_msg_id": "4640F061-C715-4B6D-A4D3-F75A01C475E7",
+        "type": "message",
+        "text": "Are we all ok using just Allen wrench heads and rivets?",
+        "user": "US2PZ9QBF",
+        "ts": "1580327626.001100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UPvgK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Are we all ok using just Allen wrench heads and rivets?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1580327626.001100",
+        "reply_count": 6,
+        "reply_users_count": 3,
+        "latest_reply": "1580327985.009900",
+        "reply_users": [
+            "URRA07VU3",
+            "US2PZ9QBF",
+            "US4KMEG9M"
+        ],
+        "replies": [
+            {
+                "user": "URRA07VU3",
+                "ts": "1580327754.004000"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1580327796.005000"
+            },
+            {
+                "user": "US4KMEG9M",
+                "ts": "1580327818.005200"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1580327873.007300"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1580327943.008500"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1580327985.009900"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1580327985.009900"
+    },
+    {
+        "client_msg_id": "7a97e563-9189-4fbd-a253-7471b47276c8",
+        "type": "message",
+        "text": "I think socket head bolts are better than other types.\n3\/16\" rivets and 10-32 bolts should be good for almost everything.",
+        "user": "URRA07VU3",
+        "ts": "1580327754.004000",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kI+X",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think socket head bolts are better than other types.\n3\/16\" rivets and 10-32 bolts should be good for almost everything."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1580327626.001100",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "A414515A-60BD-47B8-A17F-B3C89A846253",
+        "type": "message",
+        "text": "There is an auction here in town from a die forming mechein shop that just went out of biysness and it looks like we will be able to get 5-8 full Allen wrench sets for a compleat total of 15.00",
+        "user": "US2PZ9QBF",
+        "ts": "1580327755.004300",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0Oi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "There is an auction here in town from a die forming mechein shop that just went out of biysness and it looks like we will be able to get 5-8 full Allen wrench sets for a compleat total of 15.00"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1580327755.004300",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1580327820.005400",
+        "reply_users": [
+            "URRA07VU3"
+        ],
+        "replies": [
+            {
+                "user": "URRA07VU3",
+                "ts": "1580327820.005400"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1580327820.005400",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "US4KMEG9M",
+                    "US2PZ9QBF"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "08FFD019-9E4B-4E87-B2F6-4AA370E741CF",
+        "type": "message",
+        "text": "What do you mean by socket head bolts?",
+        "user": "US2PZ9QBF",
+        "ts": "1580327796.005000",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IXAVq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What do you mean by socket head bolts?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1580327626.001100",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "8f398a34-6ca8-47a2-a819-eb8db4e1d9c8",
+        "type": "message",
+        "text": "Boats with six sided sockets in the top that an allen wrench fits into.",
+        "user": "US4KMEG9M",
+        "ts": "1580327818.005200",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "b915bd1b6aaa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-04\/1338647058470_b915bd1b6aaa68df3e32_72.jpg",
+            "first_name": "joshua",
+            "real_name": "joshua phelps",
+            "display_name": "joshua phelps",
+            "team": "TS2PZ9PJR",
+            "name": "joshuaphelps127",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mW2d",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Boats with six sided sockets in the top that an allen wrench fits into."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1580327626.001100",
+        "parent_user_id": "US2PZ9QBF",
+        "reactions": [
+            {
+                "name": "boat",
+                "users": [
+                    "URRA07VU3",
+                    "US2PZ9QBF"
+                ],
+                "count": 2
+            },
+            {
+                "name": "man-rowing-boat",
+                "users": [
+                    "US2PZ9QBF",
+                    "URRA07VU3"
+                ],
+                "count": 2
+            },
+            {
+                "name": "speedboat",
+                "users": [
+                    "URRA07VU3",
+                    "US2PZ9QBF"
+                ],
+                "count": 2
+            },
+            {
+                "name": "motor_boat",
+                "users": [
+                    "URRA07VU3",
+                    "US2PZ9QBF"
+                ],
+                "count": 2
+            },
+            {
+                "name": "passenger_ship",
+                "users": [
+                    "US2PZ9QBF",
+                    "US4KMEG9M"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "975fddf5-aa14-408d-8a75-2e950bc83e2f",
+        "type": "message",
+        "text": "that seems like a good deal. hopefully you'll only be using a couple sizes",
+        "user": "URRA07VU3",
+        "ts": "1580327820.005400",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0w6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "that seems like a good deal. hopefully you'll only be using a couple sizes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1580327755.004300",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "228FE322-F52C-4A15-9E70-DB169BF5B2BF",
+        "type": "message",
+        "text": "Also, we have access to 3 full sets of sockets from my nabor Tom",
+        "user": "US2PZ9QBF",
+        "ts": "1580327873.007300",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jk=BJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Also, we have access to 3 full sets of sockets from my nabor Tom"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1580327626.001100",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "7e991eab-eff7-428f-8991-cb66705cf392",
+        "type": "message",
+        "text": "\"neighbor\" cuz English",
+        "user": "URRA07VU3",
+        "ts": "1580327943.008500",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "v\/d",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\"neighbor\" cuz English"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1580327626.001100",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "3A899984-FA92-4248-81AF-433B6B59EAA9",
+        "type": "message",
+        "text": "Also they have a surface plate and full set of dial measuring tools which will be going for less then 100",
+        "user": "US2PZ9QBF",
+        "ts": "1580327956.009100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fJuj3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Also they have a surface plate and full set of dial measuring tools which will be going for less then 100"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1580327956.009100",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1580328108.012200",
+        "reply_users": [
+            "URRA07VU3",
+            "US2PZ9QBF"
+        ],
+        "replies": [
+            {
+                "user": "URRA07VU3",
+                "ts": "1580328013.010100"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1580328050.011100"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1580328108.012200"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1580328335.422447"
+    },
+    {
+        "client_msg_id": "62ADE186-FC5A-4A10-9607-5FAC7C8D2795",
+        "type": "message",
+        "text": "Nice",
+        "user": "US2PZ9QBF",
+        "ts": "1580327985.009900",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8ngl4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Nice"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1580327626.001100",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "e04c9839-2b0d-4a1d-bafb-0c16430b01f6",
+        "type": "message",
+        "text": "Those probably aren't necessary, but they could be nice if the price is really good.",
+        "user": "URRA07VU3",
+        "ts": "1580328013.010100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6kGO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Those probably aren't necessary, but they could be nice if the price is really good."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1580327956.009100",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "65D9BD72-2004-4DF4-BDED-2296DFE734CB",
+        "type": "message",
+        "text": "Really i just want the dial calipers, the surface plate is just an amazing added touch",
+        "user": "US2PZ9QBF",
+        "ts": "1580328050.011100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "afe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Really i just want the dial calipers, the surface plate is just an amazing added touch"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1580327956.009100",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "E911D262-6F48-4F10-B7AF-E77A558E87E0",
+        "type": "message",
+        "text": "And then i think they have a large vice we can use, and a really cheap steel robot cart",
+        "user": "US2PZ9QBF",
+        "ts": "1580328085.012000",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "US2PZ9QBF",
+            "ts": "1580328100.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1s5UF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "And then i think they have a large vice we can use, and a really cheap steel robot cart"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1580328085.012000",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1580328172.014300",
+        "reply_users": [
+            "URRA07VU3"
+        ],
+        "replies": [
+            {
+                "user": "URRA07VU3",
+                "ts": "1580328172.014300"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1580328172.014300"
+    },
+    {
+        "client_msg_id": "1b231337-ba9b-470b-a385-5f2d042c95b8",
+        "type": "message",
+        "text": "do you have to buy both? dial calipers should cost a lot less than 100",
+        "user": "URRA07VU3",
+        "ts": "1580328108.012200",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "URRA07VU3",
+            "ts": "1580328160.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cBy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "do you have to buy both? dial calipers should cost a lot less than 100"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1580327956.009100",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "3B2EB558-D5F4-4134-9B76-18E7D0B351E0",
+        "type": "message",
+        "text": "Also if anyone wants the beauty of a 800 lbs die casting machine, they are going for only $500 and unfortunately will probably be turned to scrap",
+        "user": "US2PZ9QBF",
+        "ts": "1580328159.013800",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tmDkw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Also if anyone wants the beauty of a 800 lbs die casting machine, they are going for only $500 and unfortunately will probably be turned to scrap"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1580328159.013800",
+        "reply_count": 7,
+        "reply_users_count": 2,
+        "latest_reply": "1580328366.019300",
+        "reply_users": [
+            "URRA07VU3",
+            "US2PZ9QBF"
+        ],
+        "replies": [
+            {
+                "user": "URRA07VU3",
+                "ts": "1580328218.015400"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1580328242.016200"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1580328250.016600"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1580328250.016800"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1580328261.017300"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1580328275.017800"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1580328366.019300"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1580328366.019300"
+    },
+    {
+        "client_msg_id": "b6d4a474-05b7-48c7-8164-e0a1b96012f3",
+        "type": "message",
+        "text": "those are both nice",
+        "user": "URRA07VU3",
+        "ts": "1580328172.014300",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F+OXQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "those are both nice"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1580328085.012000",
+        "parent_user_id": "US2PZ9QBF",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "US2PZ9QBF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "D70E8867-61AC-469E-8937-D61ABC3B78B8",
+        "type": "message",
+        "text": "There are only like 200 left in the us",
+        "user": "US2PZ9QBF",
+        "ts": "1580328180.014700",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "z+mG5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "There are only like 200 left in the us"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "160A822F-206C-41CC-9331-A59E909B7893",
+        "type": "message",
+        "text": "Oh did i say 800lbs",
+        "user": "US2PZ9QBF",
+        "ts": "1580328212.015200",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "t94aj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oh did i say 800lbs"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "eed3ae5b-f1b2-41e6-9987-92af324dbe38",
+        "type": "message",
+        "text": "sure. you pay shipping to rhode island",
+        "user": "URRA07VU3",
+        "ts": "1580328218.015400",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Nxn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "sure. you pay shipping to rhode island"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1580328159.013800",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "6F72187A-9DDD-4F2C-8B5E-1B7EFE1691F1",
+        "type": "message",
+        "text": "I meant 800 touns ",
+        "user": "US2PZ9QBF",
+        "ts": "1580328226.015700",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Z+9i",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I meant 800 touns "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1580328226.015700",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1580328276.018000",
+        "reply_users": [
+            "URRA07VU3",
+            "US2PZ9QBF"
+        ],
+        "replies": [
+            {
+                "user": "URRA07VU3",
+                "ts": "1580328234.015800"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1580328276.018000"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1580328276.018000"
+    },
+    {
+        "client_msg_id": "70c8601e-9b48-408a-b849-e126a466a26a",
+        "type": "message",
+        "text": "YIKES!",
+        "user": "URRA07VU3",
+        "ts": "1580328234.015800",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AR4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "YIKES!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1580328226.015700",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "5E83AB8E-AEB7-4696-A297-FA904C025667",
+        "type": "message",
+        "text": "It’s actually 800 touns",
+        "user": "US2PZ9QBF",
+        "ts": "1580328242.016200",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fn5eh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It’s actually 800 touns"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1580328159.013800",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "3bd02ec3-0da1-49f5-ad96-1f8eae2c43a8",
+        "type": "message",
+        "text": "I saw",
+        "user": "URRA07VU3",
+        "ts": "1580328250.016600",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wyB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I saw"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1580328159.013800",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "BA572008-F29C-4816-9384-37B6F593B592",
+        "type": "message",
+        "text": "I messed up",
+        "user": "US2PZ9QBF",
+        "ts": "1580328250.016800",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eaR+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I messed up"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1580328159.013800",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "5A70AA89-8589-4B94-A672-547365A8B1DB",
+        "type": "message",
+        "text": "If you want the small one its 250 touns",
+        "user": "US2PZ9QBF",
+        "ts": "1580328261.017300",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CFCk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If you want the small one its 250 touns"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1580328159.013800",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "e033c427-3b1c-4048-8385-031d6d614ad0",
+        "type": "message",
+        "text": "so smol!",
+        "user": "URRA07VU3",
+        "ts": "1580328275.017800",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DwqCX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "so smol!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1580328159.013800",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "6F36F2FE-36A1-44B8-937F-1F65F513CC16",
+        "type": "message",
+        "text": "Yeah, kinda a large difference ",
+        "user": "US2PZ9QBF",
+        "ts": "1580328276.018000",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Bi0K",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah, kinda a large difference "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1580328226.015700",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "60EB6A71-3FCD-4453-AE6A-6A265251074B",
+        "type": "message",
+        "text": "And then maybe a set of clamps, you know, so we don't have to use the one i have that’s 4 feet long",
+        "user": "US2PZ9QBF",
+        "ts": "1580328332.019100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Yn+r",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "And then maybe a set of clamps, you know, so we don't have to use the one i have that’s 4 feet long"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1580328332.019100",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1580328367.019500",
+        "reply_users": [
+            "US4KMEG9M"
+        ],
+        "replies": [
+            {
+                "user": "US4KMEG9M",
+                "ts": "1580328367.019500"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1580328429.034190"
+    },
+    {
+        "client_msg_id": "B73B3C55-A4D1-466A-8640-73854C4FF5F2",
+        "type": "message",
+        "text": "Yep",
+        "user": "US2PZ9QBF",
+        "ts": "1580328366.019300",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tSk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yep"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1580328159.013800",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "74546bf5-9679-47cc-b93e-3ff08d42076f",
+        "type": "message",
+        "text": "Having more than one clamp could be useful!",
+        "user": "US4KMEG9M",
+        "ts": "1580328367.019500",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "b915bd1b6aaa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-04\/1338647058470_b915bd1b6aaa68df3e32_72.jpg",
+            "first_name": "joshua",
+            "real_name": "joshua phelps",
+            "display_name": "joshua phelps",
+            "team": "TS2PZ9PJR",
+            "name": "joshuaphelps127",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "G3ysf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Having more than one clamp could be useful!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1580328332.019100",
+        "parent_user_id": "US2PZ9QBF"
+    }
+]

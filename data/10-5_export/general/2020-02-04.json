@@ -1,0 +1,226 @@
+[
+    {
+        "client_msg_id": "21acd15c-0630-4d2d-bedd-f813123b9695",
+        "type": "message",
+        "text": "we now have off-site 5 axix cnc capability",
+        "user": "US2PZ9QBF",
+        "ts": "1580847268.000600",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Li6Z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "we now have off-site 5 axix cnc capability"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ce01cfd6-86bd-4435-b57f-2eba5501c676",
+        "type": "message",
+        "text": "I JUST GOT A HI FIVE FROM BRIAN!!!!!",
+        "user": "US2PZ9QBF",
+        "ts": "1580870576.000600",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rXd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I JUST GOT A HI FIVE FROM BRIAN!!!!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1580870576.000600",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1580870642.001100",
+        "reply_users": [
+            "US4KMEG9M",
+            "US2PZ9QBF"
+        ],
+        "replies": [
+            {
+                "user": "US4KMEG9M",
+                "ts": "1580870596.000700"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1580870618.000900"
+            },
+            {
+                "user": "US4KMEG9M",
+                "ts": "1580870642.001100"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1580870642.001100"
+    },
+    {
+        "client_msg_id": "1cc239f7-78b3-4196-895c-f3796ffe99b5",
+        "type": "message",
+        "text": "congratulations! what did you do?",
+        "user": "US4KMEG9M",
+        "ts": "1580870596.000700",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "b915bd1b6aaa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-04\/1338647058470_b915bd1b6aaa68df3e32_72.jpg",
+            "first_name": "joshua",
+            "real_name": "joshua phelps",
+            "display_name": "joshua phelps",
+            "team": "TS2PZ9PJR",
+            "name": "joshuaphelps127",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QS\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "congratulations! what did you do?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1580870576.000600",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "bdadbabe-d7cf-4c6e-9a27-3893e46579b6",
+        "type": "message",
+        "text": "I found a brake that naturally fiys",
+        "user": "US2PZ9QBF",
+        "ts": "1580870618.000900",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7H20Q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I found a brake that naturally fiys"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1580870576.000600",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "ea7eb8fb-ba1d-452b-87f4-938cb5198d75",
+        "type": "message",
+        "text": "like a bike disk brake? (what kind of brake works?)",
+        "user": "US4KMEG9M",
+        "ts": "1580870642.001100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "b915bd1b6aaa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-04\/1338647058470_b915bd1b6aaa68df3e32_72.jpg",
+            "first_name": "joshua",
+            "real_name": "joshua phelps",
+            "display_name": "joshua phelps",
+            "team": "TS2PZ9PJR",
+            "name": "joshuaphelps127",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "US4KMEG9M",
+            "ts": "1580870700.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mq9E",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "like a bike disk brake? (what kind of brake works?)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1580870576.000600",
+        "parent_user_id": "US2PZ9QBF"
+    }
+]

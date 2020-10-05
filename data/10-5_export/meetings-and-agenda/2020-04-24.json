@@ -1,0 +1,532 @@
+[
+    {
+        "type": "message",
+        "subtype": "tombstone",
+        "text": "This message was deleted.",
+        "user": "USLACKBOT",
+        "hidden": true,
+        "ts": "1587736713.002300",
+        "thread_ts": "1587736713.002300",
+        "reply_count": 6,
+        "reply_users_count": 3,
+        "latest_reply": "1587755640.004200",
+        "reply_users": [
+            "URRA07VU3",
+            "US51ZNQDU",
+            "US2PZ9QBF"
+        ],
+        "replies": [
+            {
+                "user": "URRA07VU3",
+                "ts": "1587741886.002400"
+            },
+            {
+                "user": "US51ZNQDU",
+                "ts": "1587755483.002600"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1587755522.002800"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1587755566.003800"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1587755589.004000"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1587755640.004200"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1587755640.004200"
+    },
+    {
+        "client_msg_id": "aa393d1e-a6f2-420c-9a53-f525a81870bc",
+        "type": "message",
+        "text": "I don't remember that ever being the plan. I don't think I have anything scheduled at that time but I have a lot of homework this next week so I'd have to see if I have time.",
+        "user": "URRA07VU3",
+        "ts": "1587741886.002400",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IWF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I don't remember that ever being the plan. I don't think I have anything scheduled at that time but I have a lot of homework this next week so I'd have to see if I have time."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1587736713.002300",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "9c2c799f-b2ce-416b-8600-e63384c6fb07",
+        "type": "message",
+        "text": "Same",
+        "user": "US51ZNQDU",
+        "ts": "1587755483.002600",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "ade188af1049",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-30\/891681516518_ade188af10498886e12c_72.jpg",
+            "first_name": "Palmer",
+            "real_name": "Palmer Campbell-Kaswell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "palmerc120",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pPu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Same"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1587736713.002300",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "954e7586-9e64-4d3c-8f65-c152b5b9ed87",
+        "type": "message",
+        "text": "Ok, how about this",
+        "user": "US2PZ9QBF",
+        "ts": "1587755522.002800",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X9ej",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ok, how about this"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1587736713.002300",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "b11d68c8-605c-4cdf-bb43-0f7c966e219a",
+        "type": "message",
+        "text": "Hey everyone, when do you all want our next meeting <!channel>??",
+        "user": "US2PZ9QBF",
+        "ts": "1587755555.003700",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kMAy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey everyone, when do you all want our next meeting "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "??"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1587755555.003700",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1587773545.006700",
+        "reply_users": [
+            "URRA07VU3",
+            "UU50D077H",
+            "US2PZ9QBF"
+        ],
+        "replies": [
+            {
+                "user": "URRA07VU3",
+                "ts": "1587755877.004400"
+            },
+            {
+                "user": "UU50D077H",
+                "ts": "1587766560.006500"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1587773545.006700"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1587773545.006700"
+    },
+    {
+        "client_msg_id": "8559c8cd-bad0-47f7-a239-a2a0a9f0a441",
+        "type": "message",
+        "text": "I did notice that Matthew said something last friday about it being today, but there have been a lot of reschedulings.",
+        "user": "URRA07VU3",
+        "ts": "1587755566.003800",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E9tn9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I did notice that Matthew said something last friday about it being today, but there have been a lot of reschedulings."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1587736713.002300",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "client_msg_id": "f6bf78a0-ece3-42e4-9249-0457fcb563a0",
+        "type": "message",
+        "text": "better plan <@US2PZ9QBF> thanks!",
+        "user": "URRA07VU3",
+        "ts": "1587755589.004000",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Aw9TT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "better plan "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "US2PZ9QBF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " thanks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1587736713.002300",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "client_msg_id": "b57d8a1b-0d21-4479-a7da-16101756a041",
+        "type": "message",
+        "text": "No problemo :joy:",
+        "user": "US2PZ9QBF",
+        "ts": "1587755640.004200",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oCY9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "No problemo "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1587736713.002300",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "client_msg_id": "5e412d15-6557-473d-8fa0-5221e264ff8d",
+        "type": "message",
+        "text": "I have a lot of homework due in the next week, so May 1st would be the soonest I could have time. School ends for me on may 14th.",
+        "user": "URRA07VU3",
+        "ts": "1587755877.004400",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zHKw+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I have a lot of homework due in the next week, so May 1st would be the soonest I could have time. School ends for me on may 14th."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1587755555.003700",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "3F1911C1-C0E2-46DE-BAB9-5C9A9C5EB50B",
+        "type": "message",
+        "text": "I’m also super busy for a bit, all of my teachers think that students have nothing to do so “2 hours of homework isn’t that bad” but none of them do the math to figure out that we have 5 classes a day which is 10 hours of homework",
+        "user": "UU50D077H",
+        "ts": "1587766560.006500",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "790b5f83cbe4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-16\/943684986291_790b5f83cbe4b100e623_72.jpg",
+            "first_name": "Jake",
+            "real_name": "Jake Enos",
+            "display_name": "Jake Enos",
+            "team": "TS2PZ9PJR",
+            "name": "jake",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HHyI+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’m also super busy for a bit, all of my teachers think that students have nothing to do so “2 hours of homework isn’t that bad” but none of them do the math to figure out that we have 5 classes a day which is 10 hours of homework"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1587755555.003700",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "f1ab27de-19fd-400d-a879-01dd91bab082",
+        "type": "message",
+        "text": "Nice",
+        "user": "US2PZ9QBF",
+        "ts": "1587773545.006700",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BxC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Nice"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1587755555.003700",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "c286ace3-174e-48fc-9a5b-455fefef62f2",
+        "type": "message",
+        "text": "I'm getting the sense that everyone is incredibly busy right now so let's say that we are on break for the next 3 weeks and then see where we are? Does this sound good to all of you <!channel>",
+        "user": "US2PZ9QBF",
+        "ts": "1587773614.008400",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "z4xDi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm getting the sense that everyone is incredibly busy right now so let's say that we are on break for the next 3 weeks and then see where we are? Does this sound good to all of you "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

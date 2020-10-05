@@ -1,0 +1,113 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1593473656.000200",
+        "user": "URRA07R7D",
+        "text": "<@URRA07R7D> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1593473657.000300",
+        "user": "URRA07R7D",
+        "text": "<@URRA07R7D> set the channel purpose: Engineers need money to eat! Except we use grant money to make cool things...",
+        "purpose": "Engineers need money to eat! Except we use grant money to make cool things..."
+    },
+    {
+        "type": "message",
+        "subtype": "channel_name",
+        "ts": "1593473668.000400",
+        "user": "URRA07R7D",
+        "text": "<@URRA07R7D> has renamed the channel from \"grant\" to \"grants\"",
+        "old_name": "grant",
+        "name": "grants"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1593473688.000600",
+        "user": "US4KMEG9M",
+        "text": "<@US4KMEG9M> has joined the channel",
+        "inviter": "URRA07R7D"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1593473688.000800",
+        "user": "URRA07VU3",
+        "text": "<@URRA07VU3> has joined the channel",
+        "inviter": "URRA07R7D"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1593473688.001000",
+        "user": "UU50D077H",
+        "text": "<@UU50D077H> has joined the channel",
+        "inviter": "URRA07R7D"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1593473688.001200",
+        "user": "US2PZ9QBF",
+        "text": "<@US2PZ9QBF> has joined the channel",
+        "inviter": "URRA07R7D"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1593473688.001400",
+        "user": "U010XSNA2Q4",
+        "text": "<@U010XSNA2Q4> has joined the channel",
+        "inviter": "URRA07R7D"
+    },
+    {
+        "client_msg_id": "3558aef4-9957-481c-8112-f520b0b07767",
+        "type": "message",
+        "text": "Just got a folder set up where we can organize all our grant applications! I think we should do all of the writing on the google docs and then have the project owner paste the responses into the application form. I've only got one doc set-up right now. Do we also want to make one for water fight and RCM power up? Unfortunately I think they only help you buy hardware (not send a check) so we probably can't get reimbursement for the first RC robots <https:\/\/drive.google.com\/drive\/folders\/1dht6EvoovZdpQpxDNrltMp2ASWvnV8wu><https:\/\/drive.google.com\/drive\/folders\/1dht6EvoovZdpQpxDNrltMp2ASWvnV8wu?usp=sharing|?>",
+        "user": "URRA07R7D",
+        "ts": "1593473718.001600",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "2340815f3f5d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-16\/992617530243_2340815f3f5d0170300e_72.png",
+            "first_name": "William",
+            "real_name": "William Hou",
+            "display_name": "vroomy pitchfork",
+            "team": "TS2PZ9PJR",
+            "name": "whou125",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VHWjp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Just got a folder set up where we can organize all our grant applications! I think we should do all of the writing on the google docs and then have the project owner paste the responses into the application form. I've only got one doc set-up right now. Do we also want to make one for water fight and RCM power up? Unfortunately I think they only help you buy hardware (not send a check) so we probably can't get reimbursement for the first RC robots "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drive.google.com\/drive\/folders\/1dht6EvoovZdpQpxDNrltMp2ASWvnV8wu"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drive.google.com\/drive\/folders\/1dht6EvoovZdpQpxDNrltMp2ASWvnV8wu?usp=sharing",
+                                "text": "?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

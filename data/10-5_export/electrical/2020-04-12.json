@@ -1,0 +1,2780 @@
+[
+    {
+        "client_msg_id": "acfa70c3-6d47-4872-a781-3ddec9bf76dc",
+        "type": "message",
+        "text": "What's waterproof in terms of electronics?",
+        "user": "US2PZ9QBF",
+        "ts": "1586741563.000500",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6lY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What's waterproof in terms of electronics?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "51fb6a13-3d2c-446c-becc-67f9de15917f",
+        "type": "message",
+        "text": "Are brushless motors waterproof",
+        "user": "US2PZ9QBF",
+        "ts": "1586741582.001100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QfHe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Are brushless motors waterproof"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586741582.001100",
+        "reply_count": 9,
+        "reply_users_count": 3,
+        "latest_reply": "1586741947.004700",
+        "reply_users": [
+            "US4KMEG9M",
+            "URRA07VU3",
+            "US2PZ9QBF"
+        ],
+        "replies": [
+            {
+                "user": "US4KMEG9M",
+                "ts": "1586741604.001800"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1586741628.002200"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1586741661.002900"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1586741700.003600"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1586741747.003800"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1586741782.004000"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1586741807.004200"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1586741884.004400"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1586741947.004700"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1586741947.004700"
+    },
+    {
+        "client_msg_id": "1863bb6f-287a-4d2a-9d0e-48d3e4411c61",
+        "type": "message",
+        "text": "Are servos",
+        "user": "US2PZ9QBF",
+        "ts": "1586741586.001300",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "US2PZ9QBF",
+            "ts": "1586741593.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YbQtx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Are servos"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "67f82d2f-c179-410f-800e-61ddb1deeb24",
+        "type": "message",
+        "text": "Are batteries",
+        "user": "US2PZ9QBF",
+        "ts": "1586741598.001700",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=ujX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Are batteries"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586741598.001700",
+        "reply_count": 39,
+        "reply_users_count": 3,
+        "latest_reply": "1586748973.014100",
+        "reply_users": [
+            "US4KMEG9M",
+            "URRA07VU3",
+            "US2PZ9QBF"
+        ],
+        "replies": [
+            {
+                "user": "US4KMEG9M",
+                "ts": "1586741980.004900"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1586742509.005100"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1586742536.005300"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1586742748.005700"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1586742782.006500"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1586743420.006900"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1586743879.007100"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1586743893.007300"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1586743909.007500"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1586743952.007800"
+            },
+            {
+                "user": "US4KMEG9M",
+                "ts": "1586743982.008000"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1586744015.008200"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1586744026.008500"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1586744088.008700"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1586744125.008900"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1586744142.009100"
+            },
+            {
+                "user": "US4KMEG9M",
+                "ts": "1586744152.009300"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1586744183.009500"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1586744188.009700"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1586744212.009900"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1586744213.010100"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1586744224.010300"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1586744234.010500"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1586744366.010700"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1586744380.010900"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1586744467.011100"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1586744516.011300"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1586744518.011500"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1586744549.011800"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1586744961.012000"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1586745058.012300"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1586747901.012500"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1586747994.012700"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1586748042.012900"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1586748082.013100"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1586748205.013300"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1586748340.013600"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1586748528.013900"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1586748973.014100"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1586748973.014100"
+    },
+    {
+        "client_msg_id": "8b6b7ae0-a231-401f-8b7c-6f753a005a74",
+        "type": "message",
+        "text": "I think they are",
+        "user": "US4KMEG9M",
+        "ts": "1586741604.001800",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "b915bd1b6aaa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-04\/1338647058470_b915bd1b6aaa68df3e32_72.jpg",
+            "first_name": "joshua",
+            "real_name": "joshua phelps",
+            "display_name": "joshua phelps",
+            "team": "TS2PZ9PJR",
+            "name": "joshuaphelps127",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gl9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think they are"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586741582.001100",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "8ad1cb2a-4698-4a11-9af6-c7213ca79057",
+        "type": "message",
+        "text": "they are compared to brushed motors. they still need to be lubricated though",
+        "user": "URRA07VU3",
+        "ts": "1586741628.002200",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "irLxO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "they are compared to brushed motors. they still need to be lubricated though"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586741582.001100",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "type": "message",
+        "text": "Is this servos waterproof",
+        "files": [
+            {
+                "id": "F011Q1SP61K",
+                "created": 1586741629,
+                "timestamp": 1586741629,
+                "name": "IMG_20200412_183341.jpg",
+                "title": "IMG_20200412_183341.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "US2PZ9QBF",
+                "editable": false,
+                "size": 333164,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TS2PZ9PJR-F011Q1SP61K\/img_20200412_183341.jpg?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TS2PZ9PJR-F011Q1SP61K\/download\/img_20200412_183341.jpg?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F011Q1SP61K-3329115ebc\/img_20200412_183341_64.jpg?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F011Q1SP61K-3329115ebc\/img_20200412_183341_80.jpg?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F011Q1SP61K-3329115ebc\/img_20200412_183341_360.jpg?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F011Q1SP61K-3329115ebc\/img_20200412_183341_480.jpg?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F011Q1SP61K-3329115ebc\/img_20200412_183341_160.jpg?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F011Q1SP61K-3329115ebc\/img_20200412_183341_720.jpg?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F011Q1SP61K-3329115ebc\/img_20200412_183341_800.jpg?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1067,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F011Q1SP61K-3329115ebc\/img_20200412_183341_960.jpg?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F011Q1SP61K-3329115ebc\/img_20200412_183341_1024.jpg?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_1024_w": 768,
+                "thumb_1024_h": 1024,
+                "original_w": 3024,
+                "original_h": 4032,
+                "thumb_tiny": "AwAwACSkEHqaaVwCCeasGePp5a4+lMd0I+VFB9RSKsIscZbA3MfQVc\/s1DzvYD0xUOnFBMdx+c9K0ZnZVXaQMnGT0FDEZzWuJGVckKcUn2VvQ1OtxMSxRMgnn60v2i5\/55\/pTEUAvPNOMY9TSBH2ZCk80M790I\/CkaadR0a7ZVwWHPVetWppS0flYYDA3M3XFVEWTzFO3bz19KtDYAQSW3DBNDJ0CCZIlZeo3HB4qX7UnofzFVopVVMMu456kU\/zo\/8AnmPypAJJOei9fak2syfOwA9D1qCAncxz25p7SE9PzosPmJCfT9aaxI9KjLn1pQSVGaCbgQSeOlJtb0FKQexxRhvWmB\/\/2Q==",
+                "permalink": "https:\/\/vroomvroomswerve.slack.com\/files\/US2PZ9QBF\/F011Q1SP61K\/img_20200412_183341.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/TS2PZ9PJR-F011Q1SP61K-82b1f41daa",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JeXn5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Is this servos waterproof"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "US2PZ9QBF",
+        "display_as_bot": false,
+        "ts": "1586741633.002400",
+        "client_msg_id": "b3483ab9-4019-4a58-9aa6-947742f71e05",
+        "thread_ts": "1586741633.002400",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1586741657.002700",
+        "reply_users": [
+            "URRA07VU3"
+        ],
+        "replies": [
+            {
+                "user": "URRA07VU3",
+                "ts": "1586741657.002700"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1586741657.002700"
+    },
+    {
+        "client_msg_id": "f2c2bbc0-9c4b-4079-bb62-1d1628573d2d",
+        "type": "message",
+        "text": "I doubt it. you can buy waterproof servos for rc boats though",
+        "user": "URRA07VU3",
+        "ts": "1586741657.002700",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "w1Q=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I doubt it. you can buy waterproof servos for rc boats though"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586741633.002400",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "a1449ccd-b524-495a-9056-bdb57853825b",
+        "type": "message",
+        "text": "So you can't just put one in water and expect it to run",
+        "user": "US2PZ9QBF",
+        "ts": "1586741661.002900",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qsdyL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So you can't just put one in water and expect it to run"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586741582.001100",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "2dda70c1-ec44-4e60-9a7c-405350112d86",
+        "type": "message",
+        "text": "Is there a good website for waterproof electronics",
+        "user": "US2PZ9QBF",
+        "ts": "1586741690.003500",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GLr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Is there a good website for waterproof electronics"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586741690.003500",
+        "reply_count": 5,
+        "reply_users_count": 2,
+        "latest_reply": "1586742805.006700",
+        "reply_users": [
+            "URRA07VU3",
+            "US2PZ9QBF"
+        ],
+        "replies": [
+            {
+                "user": "URRA07VU3",
+                "ts": "1586742567.005500"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1586742761.005900"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1586742763.006100"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1586742772.006300"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1586742805.006700"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1586742805.006700"
+    },
+    {
+        "client_msg_id": "71cd4fe0-a15e-49cb-b297-48691b8c3d96",
+        "type": "message",
+        "text": "you can expect that, just not an unlimited number of times as they could corrode.",
+        "user": "URRA07VU3",
+        "ts": "1586741700.003600",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ToCz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "you can expect that, just not an unlimited number of times as they could corrode."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586741582.001100",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "68ebbaeb-6e3d-4590-9222-b8f9ab8a7cca",
+        "type": "message",
+        "text": "they'd probably last a long time if it's not salt water",
+        "user": "URRA07VU3",
+        "ts": "1586741747.003800",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SNO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "they'd probably last a long time if it's not salt water"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586741582.001100",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "4f0a3118-dccf-46b0-b385-3b6f2205030e",
+        "type": "message",
+        "text": "closed brushed motors (like CIMS) can be run underwater for limited time (thanks andymark)",
+        "user": "URRA07VU3",
+        "ts": "1586741782.004000",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JUg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "closed brushed motors (like CIMS) can be run underwater for limited time (thanks andymark)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586741582.001100",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "a31adcc0-5d03-4cfe-b59e-1467470b36c3",
+        "type": "message",
+        "text": "How long could a cim run underwater",
+        "user": "US2PZ9QBF",
+        "ts": "1586741807.004200",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cxL4i",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "How long could a cim run underwater"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586741582.001100",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "f8d6df94-cae7-4efe-ae59-526b906c519e",
+        "type": "message",
+        "text": "<https:\/\/youtu.be\/wuZ6wm6eXQE>",
+        "user": "URRA07VU3",
+        "ts": "1586741884.004400",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "CIM Underwater by AndyMark",
+                "title_link": "https:\/\/youtu.be\/wuZ6wm6eXQE",
+                "author_name": "FIRSTRoboticsCompetition",
+                "author_link": "https:\/\/www.youtube.com\/user\/FRCTeamsGlobal",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/wuZ6wm6eXQE\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: CIM Underwater by AndyMark",
+                "video_html": "<iframe width=\"400\" height=\"300\" src=\"https:\/\/www.youtube.com\/embed\/wuZ6wm6eXQE?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 300,
+                "from_url": "https:\/\/youtu.be\/wuZ6wm6eXQE",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/youtu.be\/wuZ6wm6eXQE"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2sjXG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/youtu.be\/wuZ6wm6eXQE"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586741582.001100",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "bf2a930a-bdb0-469d-bf0d-9678b72242c9",
+        "type": "message",
+        "text": "Hahahahah",
+        "user": "US2PZ9QBF",
+        "ts": "1586741947.004700",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "I7p",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hahahahah"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586741582.001100",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "a931b0d9-1afd-4051-9bce-42b302e33d5b",
+        "type": "message",
+        "text": "If a battery isn't sold as waterproof I wouldn't put it in the water.",
+        "user": "US4KMEG9M",
+        "ts": "1586741980.004900",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "b915bd1b6aaa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-04\/1338647058470_b915bd1b6aaa68df3e32_72.jpg",
+            "first_name": "joshua",
+            "real_name": "joshua phelps",
+            "display_name": "joshua phelps",
+            "team": "TS2PZ9PJR",
+            "name": "joshuaphelps127",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yn3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If a battery isn't sold as waterproof I wouldn't put it in the water."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586741598.001700",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "515ceb99-4ba0-4b09-bbd4-5c5d38f53aed",
+        "type": "message",
+        "text": "the problem is probably the connections. battery cases should usually be waterproof.",
+        "user": "URRA07VU3",
+        "ts": "1586742509.005100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IXT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "the problem is probably the connections. battery cases should usually be waterproof."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586741598.001700",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "f0669603-4d01-4cdb-b87d-b5929e6b22c6",
+        "type": "message",
+        "text": "what project is this for? will the water be salty?",
+        "user": "URRA07VU3",
+        "ts": "1586742536.005300",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MTaTw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "what project is this for? will the water be salty?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586741598.001700",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "87ae6b1f-391a-4263-a246-3d308cf44ce8",
+        "type": "message",
+        "text": "just search for waterproof on amazon\/ hobby stores",
+        "user": "URRA07VU3",
+        "ts": "1586742567.005500",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jnLd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "just search for waterproof on amazon\/ hobby stores"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586741690.003500",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "fd984f9e-4647-4dfd-a837-5529a9d0635a",
+        "type": "message",
+        "text": "It's fresh water",
+        "user": "US2PZ9QBF",
+        "ts": "1586742748.005700",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "H4D",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It's fresh water"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586741598.001700",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "4f51b1d7-0c0a-4760-962c-7cd1b8cfd73b",
+        "type": "message",
+        "text": "Ok",
+        "user": "US2PZ9QBF",
+        "ts": "1586742761.005900",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NusV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ok"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586741690.003500",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "03dfabbb-f982-49d9-a12b-9fc0ee49bbdc",
+        "type": "message",
+        "text": "Will do",
+        "user": "US2PZ9QBF",
+        "ts": "1586742763.006100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rQN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Will do"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586741690.003500",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "3d139c4a-31aa-4d14-9e0f-e85ecd9b4588",
+        "type": "message",
+        "text": "You can also find videos on waterproofing components",
+        "user": "URRA07VU3",
+        "ts": "1586742772.006300",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1586741690.003500",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "7e034be4-deed-424a-bd39-fbc203d003e3",
+        "type": "message",
+        "text": "And I really want to make a submerein",
+        "user": "US2PZ9QBF",
+        "ts": "1586742782.006500",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mnZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "And I really want to make a submerein"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586741598.001700",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "0a7a4d3d-3c28-45c7-9f6f-b03e1088b049",
+        "type": "message",
+        "text": "Interesting, that will be useful!!!",
+        "user": "US2PZ9QBF",
+        "ts": "1586742805.006700",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gkb1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Interesting, that will be useful!!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586741690.003500",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "68889592-3695-4a31-93a0-9694e6833eac",
+        "type": "message",
+        "text": "cool! there should be videos about waterproofing submarine electronics. keep in mind that water blocks radio signals.",
+        "user": "URRA07VU3",
+        "ts": "1586743420.006900",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "okwi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "cool! there should be videos about waterproofing submarine electronics. keep in mind that water blocks radio signals."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586741598.001700",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "1f81047b-0917-4527-8ae6-d2e4a113a612",
+        "type": "message",
+        "text": "Shut the front door, it doesn't???",
+        "user": "US2PZ9QBF",
+        "ts": "1586743879.007100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DNtUs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Shut the front door, it doesn't???"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586741598.001700",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "4daadb01-b267-4963-911b-6c79daac7d73",
+        "type": "message",
+        "text": "What elce do I use if I can't use a radio",
+        "user": "US2PZ9QBF",
+        "ts": "1586743893.007300",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "US2PZ9QBF",
+            "ts": "1586743941.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RMMV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What elce do I use if I can't use a radio"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586741598.001700",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "06d5a021-bc64-45ca-982c-4c86680e9c83",
+        "type": "message",
+        "text": "?",
+        "user": "URRA07VU3",
+        "ts": "1586743909.007500",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "usz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586741598.001700",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "d88942f1-b5bf-47c3-926e-eac55e91f79f",
+        "type": "message",
+        "text": "Please look at my correction:joy:",
+        "user": "US2PZ9QBF",
+        "ts": "1586743952.007800",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JUKsC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Please look at my correction"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586741598.001700",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "c0130d1a-11ca-42f6-8ace-6a2f883d9b89",
+        "type": "message",
+        "text": "Usually wires",
+        "user": "US4KMEG9M",
+        "ts": "1586743982.008000",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "b915bd1b6aaa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-04\/1338647058470_b915bd1b6aaa68df3e32_72.jpg",
+            "first_name": "joshua",
+            "real_name": "joshua phelps",
+            "display_name": "joshua phelps",
+            "team": "TS2PZ9PJR",
+            "name": "joshuaphelps127",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "d2X0g",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Usually wires"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586741598.001700",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "1e683d0b-6741-4cac-a1de-117955b5d484",
+        "type": "message",
+        "text": "or this <https:\/\/en.wikipedia.org\/wiki\/Extremely_low_frequency>",
+        "user": "URRA07VU3",
+        "ts": "1586744015.008200",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "image_url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/3\/3d\/Clam_Lake_ELF.jpg\/1200px-Clam_Lake_ELF.jpg",
+                "image_width": 1200,
+                "image_height": 960,
+                "image_bytes": 387554,
+                "title": "Extremely low frequency",
+                "title_link": "https:\/\/en.wikipedia.org\/wiki\/Extremely_low_frequency",
+                "from_url": "https:\/\/en.wikipedia.org\/wiki\/Extremely_low_frequency",
+                "author_name": "Wikipedia",
+                "author_link": "https:\/\/en.wikipedia.org\/",
+                "text": "Extremely low frequency (ELF) is the ITU designation for electromagnetic radiation (radio waves) with frequencies from 3 to 30 Hz, and corresponding wavelengths of 100,000 to 10,000 kilometers, respectively. In atmospheric science, an alternative definition is usually given, from 3 Hz to 3 kHz. In the related magnetosphere science, the lower frequency electromagnetic oscillations (pulsations occurring below ~3 Hz) are considered to lie in the ULF range, which is thus also defined differently from the ITU radio bands.\nELF radio waves are generated by lightning and natural disturbances in Earth's magnetic field, so they are a subject of research by atmospheric scientists. Because of the difficulty of building antennas that can radiate such long waves, ELF frequencies have been used in only a very few man-made communication systems. ELF waves can penetrate seawater, which makes them useful in communication with submarines, and a few nations have built military ELF transmitters to transmit signals to their submerged submarines, consisting of huge grounded wire antennas (ground dipoles) 15 - 60 km long driven by transmitters producing megawatts of power. The US, Russia, India, and China are the only nations known to have constructed these ELF communication facilities. The U.S. facilities were used between 1985 and 2004 but are now decommissioned.",
+                "fallback": "wikipedia: Extremely low frequency",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/wikipedia.png",
+                "id": 1,
+                "original_url": "https:\/\/en.wikipedia.org\/wiki\/Extremely_low_frequency"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qua",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "or this "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/en.wikipedia.org\/wiki\/Extremely_low_frequency"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586741598.001700",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "74417e45-2a8e-42dc-9460-81e75d14534a",
+        "type": "message",
+        "text": "or stay in a small fishtank",
+        "user": "URRA07VU3",
+        "ts": "1586744026.008500",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "u8t",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "or stay in a small fishtank"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586741598.001700",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "2be8c8bc-2cf8-4d78-9165-cfa31a94b2d6",
+        "type": "message",
+        "text": "This will be for a large fishtank (5 foot deep pond)",
+        "user": "US2PZ9QBF",
+        "ts": "1586744088.008700",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RBHS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This will be for a large fishtank (5 foot deep pond)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586741598.001700",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "9929ade2-6e6a-4441-970f-0c5f6367faa6",
+        "type": "message",
+        "text": "5 feet might be too deep. wires are usually used for remote control submarines",
+        "user": "URRA07VU3",
+        "ts": "1586744125.008900",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FAT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "5 feet might be too deep. wires are usually used for remote control submarines"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586741598.001700",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "2061537d-ad44-45ee-b906-1c9c76ee3617",
+        "type": "message",
+        "text": "And a wire isn't an option",
+        "user": "US2PZ9QBF",
+        "ts": "1586744142.009100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LJQD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "And a wire isn't an option"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586741598.001700",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "47f8d8a4-19f8-4d56-991d-26d05b316260",
+        "type": "message",
+        "text": "You could put the reciever on a floating bouy",
+        "user": "US4KMEG9M",
+        "ts": "1586744152.009300",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "b915bd1b6aaa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-04\/1338647058470_b915bd1b6aaa68df3e32_72.jpg",
+            "first_name": "joshua",
+            "real_name": "joshua phelps",
+            "display_name": "joshua phelps",
+            "team": "TS2PZ9PJR",
+            "name": "joshuaphelps127",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CbH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You could put the reciever on a floating bouy"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586741598.001700",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "5d698d43-b8fc-483a-8be7-42a4f760120a",
+        "type": "message",
+        "text": "or try using sound",
+        "user": "URRA07VU3",
+        "ts": "1586744183.009500",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wt=\/M",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "or try using sound"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586741598.001700",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "8f70d7e6-2924-45a9-9e1b-cfab27ceb0d5",
+        "type": "message",
+        "text": "or make it autonomous",
+        "user": "URRA07VU3",
+        "ts": "1586744188.009700",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jdFa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "or make it autonomous"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586741598.001700",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "326d01bf-9437-4da5-944b-c6d978df010d",
+        "type": "message",
+        "text": "or use a powerful transmitter and see what happens",
+        "user": "URRA07VU3",
+        "ts": "1586744212.009900",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E8FS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "or use a powerful transmitter and see what happens"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586741598.001700",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "559c71fe-52b8-4b49-a40c-f0bb8fec9717",
+        "type": "message",
+        "text": "Would sound work?",
+        "user": "US2PZ9QBF",
+        "ts": "1586744213.010100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "x\/0p",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Would sound work?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586741598.001700",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "1a4a3281-08f0-47d1-86c6-683a8c1e874a",
+        "type": "message",
+        "text": "How expensive of a trasnmiter",
+        "user": "US2PZ9QBF",
+        "ts": "1586744224.010300",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7g6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "How expensive of a trasnmiter"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586741598.001700",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "5930ed2e-8ccc-49d9-a903-407c119c015a",
+        "type": "message",
+        "text": "I have no idea",
+        "user": "URRA07VU3",
+        "ts": "1586744234.010500",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iX8FE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I have no idea"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586741598.001700",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "c3c3a453-9f8f-485e-ac5e-71a0310a6f96",
+        "type": "message",
+        "text": "Interesting",
+        "user": "US2PZ9QBF",
+        "ts": "1586744366.010700",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LJj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Interesting"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586741598.001700",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "f2a5e6dd-88b4-4b1b-aa3a-f5fa58b39641",
+        "type": "message",
+        "text": "The problem is really the frequency.",
+        "user": "URRA07VU3",
+        "ts": "1586744380.010900",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1586741598.001700",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "729b1f13-ebdd-4317-a8f1-a22615a26877",
+        "type": "message",
+        "text": "yeah",
+        "user": "US2PZ9QBF",
+        "ts": "1586744467.011100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nKbNn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yeah"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586741598.001700",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "4665b15e-7029-4269-be70-04ca2028b2c1",
+        "type": "message",
+        "text": "will anything here work",
+        "user": "US2PZ9QBF",
+        "ts": "1586744516.011300",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ypvg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "will anything here work"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586741598.001700",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "bf1c07e2-97e4-4c7f-9b8c-25597b48e96a",
+        "type": "message",
+        "text": "<https:\/\/benthowave.com\/products\/BII-8030acoustictransmitting.html>",
+        "user": "US2PZ9QBF",
+        "ts": "1586744518.011500",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "text": "Portable Underwater Acoustic Transmitter for Sonar Application.",
+                "fallback": "Portable Underwater Acoustic Transmitter for Sonar Application.",
+                "from_url": "https:\/\/benthowave.com\/products\/BII-8030acoustictransmitting.html",
+                "service_icon": "https:\/\/benthowave.com\/images\/favicon.ico",
+                "service_name": "benthowave.com",
+                "id": 1,
+                "original_url": "https:\/\/benthowave.com\/products\/BII-8030acoustictransmitting.html"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F1Wt2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/benthowave.com\/products\/BII-8030acoustictransmitting.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586741598.001700",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "a7e3e2e0-f389-44de-8272-f2d3d28b7c7b",
+        "type": "message",
+        "text": "I guess this is really just for locating things",
+        "user": "US2PZ9QBF",
+        "ts": "1586744549.011800",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZuiK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I guess this is really just for locating things"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586741598.001700",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "817008cc-4b02-4393-baf2-6c9b24efd890",
+        "type": "message",
+        "text": "<https:\/\/www.robotshop.com\/community\/forum\/t\/possibility-of-underwater-wireless-control\/38647\/5>",
+        "user": "URRA07VU3",
+        "ts": "1586744961.012000",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "RobotShop Community",
+                "title": "Possibility of underwater wireless control",
+                "title_link": "https:\/\/www.robotshop.com\/community\/forum\/t\/possibility-of-underwater-wireless-control\/38647\/5",
+                "text": "It’s probably better to have both of them under water, but I don’t think it will help that much; I searched around the internet and according to some old rc forums: 2.4GHz rc transmitter will give you a range of 10cm, a 75MHz rc transmitter can give you around 2m, a 75MHz 1W transmitter can give in theory a 10m range, military submarines use an ultra low frequency(~30kHz) band to communicate and they can go under water a maximum of 20m to transmit. I think using a tether or ultrasound is the on...",
+                "fallback": "RobotShop Community: Possibility of underwater wireless control",
+                "thumb_url": "http:\/\/www.robotshop.com\/community\/forum\/uploads\/default\/original\/3X\/7\/d\/7d7ba3513f69d6f2cc0994ab1f26e621aef36b5f.png",
+                "ts": 1549311411,
+                "from_url": "https:\/\/www.robotshop.com\/community\/forum\/t\/possibility-of-underwater-wireless-control\/38647\/5",
+                "thumb_width": 512,
+                "thumb_height": 512,
+                "service_icon": "https:\/\/www.robotshop.com\/community\/forum\/uploads\/default\/optimized\/3X\/7\/d\/7d7ba3513f69d6f2cc0994ab1f26e621aef36b5f_2_180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/www.robotshop.com\/community\/forum\/t\/possibility-of-underwater-wireless-control\/38647\/5"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tQj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.robotshop.com\/community\/forum\/t\/possibility-of-underwater-wireless-control\/38647\/5"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586741598.001700",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "4bd138fd-ef9d-4920-8ace-140559ac5d2b",
+        "type": "message",
+        "text": "why can't you use wires?",
+        "user": "URRA07VU3",
+        "ts": "1586745058.012300",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5iF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "why can't you use wires?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586741598.001700",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "9d932501-48d4-41a9-bfb6-9467bb531067",
+        "type": "message",
+        "text": "VEX robotics competition used to use 75mhz transmitters for their control.",
+        "user": "URRA07VU3",
+        "ts": "1586747901.012500",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sWA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "VEX robotics competition used to use 75mhz transmitters for their control."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586741598.001700",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "f4b8ec71-b24a-428b-ade5-299e03ad22b2",
+        "type": "message",
+        "text": "What does that mean",
+        "user": "US2PZ9QBF",
+        "ts": "1586747994.012700",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AHcX=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What does that mean"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586741598.001700",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "eab03906-55a9-4240-8d55-8a5fa6d7cf7c",
+        "type": "message",
+        "text": "what should I clarify?",
+        "user": "URRA07VU3",
+        "ts": "1586748042.012900",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "i6O3G",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "what should I clarify?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586741598.001700",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "c284bf66-af65-4a74-a561-c3c31c3a91c7",
+        "type": "message",
+        "text": "Why are you telling me (what would I use it for\/would it work on water)",
+        "user": "US2PZ9QBF",
+        "ts": "1586748082.013100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3Ipuq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Why are you telling me (what would I use it for\/would it work on water)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586741598.001700",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "f6ca3a2c-30b3-4220-80e3-b224dd495400",
+        "type": "message",
+        "text": "no rc transmitter will work well through water. lower frequencies are better though.\nVEX (and RC in general) used to use 75mhz transmitters, which should be better than the 2.4GHz that is common today. If you know of an old VEX team you might be able to get a low frequency transmitter.\n<https:\/\/www.vexrobotics.com\/75mhz.html>",
+        "user": "URRA07VU3",
+        "ts": "1586748205.013300",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "URRA07VU3",
+            "ts": "1586748400.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "VEX Robotics",
+                "title": "75 MHz Accessories",
+                "title_link": "https:\/\/www.vexrobotics.com\/75mhz.html",
+                "text": "75 MHz Accessories",
+                "fallback": "VEX Robotics: 75 MHz Accessories",
+                "thumb_url": "https:\/\/www.vexrobotics.com\/media\/catalog\/product\/cache\/1\/image\/9df78eab33525d08d6e5fb8d27136e95\/t\/r\/transmitter-receiver-kit_1_2.jpg",
+                "fields": [
+                    {
+                        "title": "USD",
+                        "value": "$19.99",
+                        "short": true
+                    },
+                    {
+                        "title": "WEBSITE",
+                        "value": "<http:\/\/vexrobotics.com|vexrobotics.com>",
+                        "short": true
+                    }
+                ],
+                "from_url": "https:\/\/www.vexrobotics.com\/75mhz.html",
+                "thumb_width": 950,
+                "thumb_height": 950,
+                "service_icon": "https:\/\/www.vexrobotics.com\/skin\/frontend\/rwd\/vex\/images\/favicon\/vex.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.vexrobotics.com\/75mhz.html"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7Dt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "no rc transmitter will work well through water. lower frequencies are better though.\nVEX (and RC in general) used to use 75mhz transmitters, which should be better than the 2.4GHz that is common today. If you know of an old VEX team you might be able to get a low frequency transmitter.\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.vexrobotics.com\/75mhz.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586741598.001700",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "3dd6c5f4-3fa5-47c5-b088-d080a3881bb9",
+        "type": "message",
+        "text": "I still think you need a really good reason not to use wires.",
+        "user": "URRA07VU3",
+        "ts": "1586748340.013600",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oQBZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I still think you need a really good reason not to use wires."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586741598.001700",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "d36d5e91-b41e-4d08-bdfd-5c7a00a66f81",
+        "type": "message",
+        "text": "while today almost all transmitters are 2.4ghz, it seems that the standard used to be 75mhz, so any old transmitter should be better than a new one for underwater use.",
+        "user": "URRA07VU3",
+        "ts": "1586748528.013900",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TgS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "while today almost all transmitters are 2.4ghz, it seems that the standard used to be 75mhz, so any old transmitter should be better than a new one for underwater use."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586741598.001700",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "642873a2-4b0a-4cf7-abfc-2861442715e4",
+        "type": "message",
+        "text": "Wow, they are like 20 bucks on eBay",
+        "user": "US2PZ9QBF",
+        "ts": "1586748973.014100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4uQR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Wow, they are like 20 bucks on eBay"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586741598.001700",
+        "parent_user_id": "US2PZ9QBF"
+    }
+]

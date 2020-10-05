@@ -1,0 +1,103 @@
+[
+    {
+        "client_msg_id": "5af60a8f-e649-40fe-a9f0-aafd76b31478",
+        "type": "message",
+        "text": "Vroom vroom",
+        "user": "URRA07VU3",
+        "ts": "1592949242.000400",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "a172de7d-ee0a-4fcd-9c88-959dc9a3bd72",
+        "type": "message",
+        "text": "vroom vroom",
+        "user": "URRA07R7D",
+        "ts": "1592949252.000600",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "2340815f3f5d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-16\/992617530243_2340815f3f5d0170300e_72.png",
+            "first_name": "William",
+            "real_name": "William Hou",
+            "display_name": "vroomy pitchfork",
+            "team": "TS2PZ9PJR",
+            "name": "whou125",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dUBO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "vroom vroom"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "two",
+                "users": [
+                    "URRA07VU3",
+                    "US2PZ9QBF"
+                ],
+                "count": 2
+            },
+            {
+                "name": "five",
+                "users": [
+                    "URRA07VU3",
+                    "US2PZ9QBF"
+                ],
+                "count": 2
+            },
+            {
+                "name": "four",
+                "users": [
+                    "URRA07VU3",
+                    "US2PZ9QBF"
+                ],
+                "count": 2
+            },
+            {
+                "name": "bear_bounce",
+                "users": [
+                    "URRA07VU3",
+                    "US2PZ9QBF"
+                ],
+                "count": 2
+            },
+            {
+                "name": "irvine",
+                "users": [
+                    "URRA07VU3",
+                    "US2PZ9QBF"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

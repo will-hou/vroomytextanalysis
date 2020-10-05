@@ -1,0 +1,140 @@
+[
+    {
+        "client_msg_id": "41BF882C-606D-4393-AE41-3A290BF811D4",
+        "type": "message",
+        "text": "Howdy everyone! I was just looking (drooling) over 148’s robot this year and I highly recommend that you all do the same! They have an incredible swerve bot that really does everything perfectly ",
+        "user": "US2PZ9QBF",
+        "ts": "1583638445.002800",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iDZWa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Howdy everyone! I was just looking (drooling) over 148’s robot this year and I highly recommend that you all do the same! They have an incredible swerve bot that really does everything perfectly "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583638445.002800",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1583642233.003100",
+        "reply_users": [
+            "URRA07VU3",
+            "US2PZ9QBF"
+        ],
+        "replies": [
+            {
+                "user": "URRA07VU3",
+                "ts": "1583642001.002900"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1583642233.003100"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1583642233.003100"
+    },
+    {
+        "client_msg_id": "f13c865a-49c6-4757-b0fd-db0ff4a8827a",
+        "type": "message",
+        "text": "post video link?",
+        "user": "URRA07VU3",
+        "ts": "1583642001.002900",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5QMqG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "post video link?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583638445.002800",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "f545e335-34f0-41ff-85ab-1d8332e0da30",
+        "type": "message",
+        "text": "Will do",
+        "user": "US2PZ9QBF",
+        "ts": "1583642233.003100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LsVlh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Will do"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583638445.002800",
+        "parent_user_id": "US2PZ9QBF"
+    }
+]

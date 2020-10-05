@@ -1,0 +1,58 @@
+[
+    {
+        "client_msg_id": "0728e28a-a320-4fa5-a28b-97ca6effa204",
+        "type": "message",
+        "text": "<https:\/\/www.pcgamer.com\/heres-a-treasure-hoard-of-free-digital-dandd-resources\/|https:\/\/www.pcgamer.com\/heres-a-treasure-hoard-of-free-digital-dandd-resources\/>",
+        "user": "US2PZ9QBF",
+        "ts": "1586748052.000100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "pcgamer",
+                "title": "Here's a treasure hoard of free digital D&amp;D resources",
+                "title_link": "https:\/\/www.pcgamer.com\/heres-a-treasure-hoard-of-free-digital-dandd-resources\/",
+                "text": "Free adventures, rules, and resources to get you playing online.",
+                "fallback": "pcgamer: Here's a treasure hoard of free digital D&amp;D resources",
+                "image_url": "https:\/\/cdn.mos.cms.futurecdn.net\/cX9eWDz4Y5aK3yeadfvgpS-1200-80.jpg",
+                "image_width": 379,
+                "from_url": "https:\/\/www.pcgamer.com\/heres-a-treasure-hoard-of-free-digital-dandd-resources\/",
+                "image_height": 250,
+                "image_bytes": 114029,
+                "service_icon": "https:\/\/vanilla.futurecdn.net\/pcgamer\/173183\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/www.pcgamer.com\/heres-a-treasure-hoard-of-free-digital-dandd-resources\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XeIG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.pcgamer.com\/heres-a-treasure-hoard-of-free-digital-dandd-resources\/",
+                                "text": "https:\/\/www.pcgamer.com\/heres-a-treasure-hoard-of-free-digital-dandd-resources\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

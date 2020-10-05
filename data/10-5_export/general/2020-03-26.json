@@ -1,0 +1,81 @@
+[
+    {
+        "type": "message",
+        "text": "SERT (and especially Palmer) was on HBO <https:\/\/youtu.be\/18OCZz8yKtU>",
+        "user": "US2PZ9QBF",
+        "ts": "1585239810.005200",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Dean Kamen’s FIRST Robotics Competition (Full Segment) | Real Sports w\/ Bryant Gumbel | HBO",
+                "title_link": "https:\/\/youtu.be\/18OCZz8yKtU",
+                "author_name": "HBO",
+                "author_link": "https:\/\/www.youtube.com\/user\/HBO",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/18OCZz8yKtU\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Dean Kamen’s FIRST Robotics Competition (Full Segment) | Real Sports w\/ Bryant Gumbel | HBO",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/18OCZz8yKtU?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/youtu.be\/18OCZz8yKtU",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/youtu.be\/18OCZz8yKtU"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "F363B692-3B5E-464C-BB3A-0FB718E32BE1",
+        "type": "message",
+        "text": "Minute marker 1:54￼",
+        "user": "US2PZ9QBF",
+        "ts": "1585239848.005800",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yLSA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Minute marker 1:54￼"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

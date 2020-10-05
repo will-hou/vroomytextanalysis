@@ -1,0 +1,21 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1587942875.022600",
+        "user": "U012XMRHPGR",
+        "text": "<@U012XMRHPGR> has joined the channel",
+        "reactions": [
+            {
+                "name": "wave",
+                "users": [
+                    "US4KMEG9M",
+                    "US2PZ9QBF",
+                    "URRA07VU3",
+                    "URRA07R7D"
+                ],
+                "count": 4
+            }
+        ]
+    }
+]

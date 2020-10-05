@@ -1,0 +1,1238 @@
+[
+    {
+        "client_msg_id": "4f0e73a9-f5da-4162-8915-8f6713b41b2e",
+        "type": "message",
+        "text": "This is the absolute best life hack <https:\/\/www.reddit.com\/r\/williamosman\/comments\/fupryd\/id_love_to_see_william_try_this_lifehack\/?utm_medium=android_app&amp;utm_source=share|https:\/\/www.reddit.com\/r\/williamosman\/comments\/fupryd\/id_love_to_see_william_try_this_lifehack\/?utm_medium=android_app&amp;utm_source=share>",
+        "user": "US2PZ9QBF",
+        "ts": "1586357252.000100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "reddit",
+                "title": "I’d love to see William try this lifehack",
+                "title_link": "https:\/\/www.reddit.com\/r\/williamosman\/comments\/fupryd\/id_love_to_see_william_try_this_lifehack\/?utm_medium=android_app&utm_source=share",
+                "text": "Posted in r\/williamosman by u\/Mahtiggah • 28 points and 1 comment",
+                "fallback": "reddit: I’d love to see William try this lifehack",
+                "image_url": "https:\/\/preview.redd.it\/uiignyr1jmq41.png?overlay-align=bottom,left&crop=831:435.078534031,smart&overlay-height=15p&overlay=%2Fwatermark%2Ft5_3ji30.png%3Fs%3D794c289fb0ab9c1300f43e2f70d190b6c75607b4&width=831&height=435.078534031&auto=webp&s=2e4df7596e6fc510f27351582ffa443d398969a0",
+                "image_width": 478,
+                "image_height": 250,
+                "from_url": "https:\/\/www.reddit.com\/r\/williamosman\/comments\/fupryd\/id_love_to_see_william_try_this_lifehack\/?utm_medium=android_app&utm_source=share",
+                "image_bytes": 380856,
+                "service_icon": "http:\/\/www.redditstatic.com\/desktop2x\/img\/favicon\/apple-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/www.reddit.com\/r\/williamosman\/comments\/fupryd\/id_love_to_see_william_try_this_lifehack\/?utm_medium=android_app&amp;utm_source=share"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TnIPS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is the absolute best life hack "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.reddit.com\/r\/williamosman\/comments\/fupryd\/id_love_to_see_william_try_this_lifehack\/?utm_medium=android_app&utm_source=share",
+                                "text": "https:\/\/www.reddit.com\/r\/williamosman\/comments\/fupryd\/id_love_to_see_william_try_this_lifehack\/?utm_medium=android_app&utm_source=share"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "afc18460-ba1d-4955-94dc-93e2aa928b6f",
+        "type": "message",
+        "text": "except that's metal touching the leads of a plug...",
+        "user": "US51ZNQDU",
+        "ts": "1586399063.000700",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "ade188af1049",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-30\/891681516518_ade188af10498886e12c_72.jpg",
+            "first_name": "Palmer",
+            "real_name": "Palmer Campbell-Kaswell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "palmerc120",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "ccaef1b0-08e4-4e7d-9d34-934b3711ab51",
+        "type": "message",
+        "text": "Oh wait I didn't realize that was a joke haha I sent that before reading it",
+        "user": "US51ZNQDU",
+        "ts": "1586399151.001500",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "ade188af1049",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-30\/891681516518_ade188af10498886e12c_72.jpg",
+            "first_name": "Palmer",
+            "real_name": "Palmer Campbell-Kaswell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "palmerc120",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "US51ZNQDU",
+            "ts": "1586399172.000000"
+        },
+        "reactions": [
+            {
+                "name": "rolling_on_the_floor_laughing",
+                "users": [
+                    "US2PZ9QBF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5f2a95f3-ee89-47c6-8ff9-f6f4f28868b5",
+        "type": "message",
+        "text": "Nice",
+        "user": "US2PZ9QBF",
+        "ts": "1586399627.002100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7S\/b",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Nice"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4ceaa9e0-1830-49fd-aa29-4486fe3cc596",
+        "type": "message",
+        "text": "Hey <!channel> , since the market is in the trash, tools are really cheap!!!\nWhat are all of your thoughts on this product? <https:\/\/www.handtackle.com\/power-tool-combo-kitss-c-5\/milwaukee-269515-m18-18v-cordless-lithiumion-15tool-combo-kit-p-152.html?utm_source=taboola&amp;utm_medium=referral|https:\/\/www.handtackle.com\/power-tool-combo-kitss-c-5\/milwaukee-269515-m18-18v-cordless-lithiumion-15tool-combo-kit-p-152.html?utm_source=taboola&amp;utm_medium=referral>",
+        "user": "US2PZ9QBF",
+        "ts": "1586403523.002300",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Milwaukee 2695-15 M18 18V Cordless Lithium-Ion 15-Tool Combo Kit [acem252] - $69.00 : Shop",
+                "title_link": "https:\/\/www.handtackle.com\/power-tool-combo-kitss-c-5\/milwaukee-269515-m18-18v-cordless-lithiumion-15tool-combo-kit-p-152.html?utm_source=taboola&utm_medium=referral",
+                "text": "Shop Milwaukee 2695-15 M18 18V Cordless Lithium-Ion 15-Tool Combo Kit [acem252] - Information   Details The Milwaukee M18 18V Cordless Lithium-Ion 15-Tool Combo Kit boasts patented technologies, electronics, innovative motor design, and superior ergonomics to provide the most efficient blend of power, weight, and performance in the industry. Powered by Redlithium this M18 Cordless Combo Kit delivers more torque and power as well as a",
+                "fallback": "Milwaukee 2695-15 M18 18V Cordless Lithium-Ion 15-Tool Combo Kit [acem252] - $69.00 : Shop",
+                "from_url": "https:\/\/www.handtackle.com\/power-tool-combo-kitss-c-5\/milwaukee-269515-m18-18v-cordless-lithiumion-15tool-combo-kit-p-152.html?utm_source=taboola&utm_medium=referral",
+                "service_icon": "https:\/\/www.handtackle.com\/favicon.ico",
+                "service_name": "handtackle.com",
+                "id": 1,
+                "original_url": "https:\/\/www.handtackle.com\/power-tool-combo-kitss-c-5\/milwaukee-269515-m18-18v-cordless-lithiumion-15tool-combo-kit-p-152.html?utm_source=taboola&amp;utm_medium=referral"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3KlRr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " , since the market is in the trash, tools are really cheap!!!\nWhat are all of your thoughts on this product? "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.handtackle.com\/power-tool-combo-kitss-c-5\/milwaukee-269515-m18-18v-cordless-lithiumion-15tool-combo-kit-p-152.html?utm_source=taboola&utm_medium=referral",
+                                "text": "https:\/\/www.handtackle.com\/power-tool-combo-kitss-c-5\/milwaukee-269515-m18-18v-cordless-lithiumion-15tool-combo-kit-p-152.html?utm_source=taboola&utm_medium=referral"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586403523.002300",
+        "reply_count": 23,
+        "reply_users_count": 2,
+        "latest_reply": "1586405430.007000",
+        "reply_users": [
+            "URRA07VU3",
+            "US2PZ9QBF"
+        ],
+        "replies": [
+            {
+                "user": "URRA07VU3",
+                "ts": "1586403772.002500"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1586403817.002700"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1586403888.002900"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1586404026.003100"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1586404384.003300"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1586404548.003500"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1586404550.003700"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1586404553.003900"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1586404558.004100"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1586404727.004300"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1586404888.004500"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1586404901.004700"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1586404910.004900"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1586404924.005100"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1586404972.005300"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1586405003.005500"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1586405039.005700"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1586405061.005900"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1586405079.006200"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1586405081.006400"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1586405093.006600"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1586405102.006800"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1586405430.007000"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1586405430.007000"
+    },
+    {
+        "client_msg_id": "23e99e12-ff3f-484c-b452-f72ef502b380",
+        "type": "message",
+        "text": "For that price you should have no hesitation (assuming it's real)",
+        "user": "URRA07VU3",
+        "ts": "1586403772.002500",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1586403523.002300",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "42022a1b-ad7f-4010-9fc8-240588015ef8",
+        "type": "message",
+        "text": "That's what I was thinking",
+        "user": "US2PZ9QBF",
+        "ts": "1586403817.002700",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Zu13R",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That's what I was thinking"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586403523.002300",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "b475302f-7a25-4653-a30b-64a8ebcef472",
+        "type": "message",
+        "text": "Is it a good brand? I'm really only used to DeWalt and Makita.",
+        "user": "US2PZ9QBF",
+        "ts": "1586403888.002900",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FhT=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Is it a good brand? I'm really only used to DeWalt and Makita."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586403523.002300",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "48b0426e-e1b6-4272-b359-463a30290b1f",
+        "type": "message",
+        "text": "Basically should I expect it to last",
+        "user": "US2PZ9QBF",
+        "ts": "1586404026.003100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+VLbh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Basically should I expect it to last"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586403523.002300",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "b74b5099-1887-40dc-9ccd-e4eab94d1942",
+        "type": "message",
+        "text": "I don't really know about tool brands, but according to the internet Milwaukee has a pretty good reputation. I wouldn't expect all of those tools to be amazing, and if you planned to use them for construction work every day I wouldn't recommend them, but they should be good. I'm basing this on getting what you pay for for $600 not $69.",
+        "user": "URRA07VU3",
+        "ts": "1586404384.003300",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "In0\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I don't really know about tool brands, but according to the internet Milwaukee has a pretty good reputation. I wouldn't expect all of those tools to be amazing, and if you planned to use them for construction work every day I wouldn't recommend them, but they should be good. I'm basing this on getting what you pay for for $600 not $69."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586403523.002300",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "18db98f3-1d5f-4ce7-9920-6df6199c54c5",
+        "type": "message",
+        "text": "Damn",
+        "user": "US2PZ9QBF",
+        "ts": "1586404548.003500",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "b5IVa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Damn"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586403523.002300",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "6b6632c3-7ded-4b16-8890-9167f763b74b",
+        "type": "message",
+        "text": "Ok",
+        "user": "US2PZ9QBF",
+        "ts": "1586404550.003700",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Lymm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ok"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586403523.002300",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "385cf572-a0fc-4fd6-b177-e9c283345c34",
+        "type": "message",
+        "text": "Very cool",
+        "user": "US2PZ9QBF",
+        "ts": "1586404553.003900",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "18PTq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Very cool"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586403523.002300",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "90912266-e7c6-4d32-92b5-dc6def381f2b",
+        "type": "message",
+        "text": "I'm honestly trying to figure out if it's a scam",
+        "user": "URRA07VU3",
+        "ts": "1586404558.004100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zA0R",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm honestly trying to figure out if it's a scam"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586403523.002300",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "96a853f5-9fe9-4f28-a2d2-72905fe7abac",
+        "type": "message",
+        "text": "I realize that coronavirus is hurting the stock market and industry in general but I don't really believe tools would be 90% off.",
+        "user": "URRA07VU3",
+        "ts": "1586404727.004300",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "URRA07VU3",
+            "ts": "1586405856.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dh3AX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I realize that coronavirus is hurting the stock market and industry in general but I don't really believe tools would be 90% off."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586403523.002300",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "64146399-e2e3-4779-9f94-0ed3d17b58e6",
+        "type": "message",
+        "text": "the 15 piece set has an real price of about $2000",
+        "user": "URRA07VU3",
+        "ts": "1586404888.004500",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZNh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "the 15 piece set has an real price of about $2000"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586403523.002300",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "de72e617-b32b-481e-a9eb-553bb916ca22",
+        "type": "message",
+        "text": "Jesus",
+        "user": "US2PZ9QBF",
+        "ts": "1586404901.004700",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sf27Z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Jesus"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586403523.002300",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "d68ad3a3-9067-4043-9ca0-77008e2cfa69",
+        "type": "message",
+        "text": "This has to be a scam",
+        "user": "US2PZ9QBF",
+        "ts": "1586404910.004900",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tBzs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This has to be a scam"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586403523.002300",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "3a22cdfc-055d-4132-8eb4-8f4c729a7bfe",
+        "type": "message",
+        "text": "sadly I think so",
+        "user": "URRA07VU3",
+        "ts": "1586404924.005100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "a2IXL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "sadly I think so"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586403523.002300",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "9fe34ea0-a1cb-4ece-a0dc-d362f891fb93",
+        "type": "message",
+        "text": "I'm not going to tell you not to take the risk if you want to, but you should be careful.",
+        "user": "URRA07VU3",
+        "ts": "1586404972.005300",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E4EPK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm not going to tell you not to take the risk if you want to, but you should be careful."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586403523.002300",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "03a668cc-8570-49b8-9faf-d6f7cd4dd6de",
+        "type": "message",
+        "text": "It looks legit if you go to actually buy it",
+        "user": "US2PZ9QBF",
+        "ts": "1586405003.005500",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vWA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It looks legit if you go to actually buy it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586403523.002300",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "f559d5a1-c14d-433a-9e7d-854e930aa659",
+        "type": "message",
+        "text": "that doesn't tell you whether it's a scam or not",
+        "user": "URRA07VU3",
+        "ts": "1586405039.005700",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SM+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "that doesn't tell you whether it's a scam or not"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586403523.002300",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "2363443e-8921-43ff-b48e-074031a2d76c",
+        "type": "message",
+        "text": "On some websites it does",
+        "user": "US2PZ9QBF",
+        "ts": "1586405061.005900",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "US2PZ9QBF",
+            "ts": "1586405075.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6cv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "On some websites it does"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586403523.002300",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "0852ebd7-0be0-4e76-a46f-511d97d0031a",
+        "type": "message",
+        "text": "oh",
+        "user": "URRA07VU3",
+        "ts": "1586405079.006200",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cY1lZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "oh"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586403523.002300",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "68b908a2-f647-4071-87b9-983143f434ae",
+        "type": "message",
+        "text": "That's probably not the case here",
+        "user": "US2PZ9QBF",
+        "ts": "1586405081.006400",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "q8sJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That's probably not the case here"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586403523.002300",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "0b7303dd-7211-4d99-ad8f-5506bd8b1e6d",
+        "type": "message",
+        "text": "I guess they don't want to you leave before getting your money.",
+        "user": "URRA07VU3",
+        "ts": "1586405093.006600",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "doWOx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I guess they don't want to you leave before getting your money."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586403523.002300",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "ef451c0e-7fb9-4def-babe-6c89d9a177fb",
+        "type": "message",
+        "text": "Exactly",
+        "user": "US2PZ9QBF",
+        "ts": "1586405102.006800",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "O\/2Jn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exactly"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586403523.002300",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "0efe8326-6676-494f-a6bd-fe162a4076e8",
+        "type": "message",
+        "text": "also, most of those tools are really for carpentry, or not particularly useful. There would also be some repeats with what you have, so honestly I would make a list of tools you actually want (and don't have) and then get quality versions from trusted suppliers as you need\/can get them.",
+        "user": "URRA07VU3",
+        "ts": "1586405430.007000",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "URRA07VU3",
+            "ts": "1586405743.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2Lj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "also, most of those tools are really for carpentry, or not particularly useful. There would also be some repeats with what you have, so honestly I would make a list of tools you actually want (and don't have) and then get quality versions from trusted suppliers as you need\/can get them."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586403523.002300",
+        "parent_user_id": "US2PZ9QBF"
+    }
+]

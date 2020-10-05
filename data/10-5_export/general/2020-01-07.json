@@ -1,0 +1,58 @@
+[
+    {
+        "client_msg_id": "a11f0d45-be91-4502-9dd4-259064f09d14",
+        "type": "message",
+        "text": "<https:\/\/techcrunch.com\/2020\/01\/07\/arduino-launches-a-new-modular-platform-for-iot-development\/|https:\/\/techcrunch.com\/2020\/01\/07\/arduino-launches-a-new-modular-platform-for-iot-development\/>",
+        "user": "US2PZ9QBF",
+        "ts": "1578460875.000100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "TechCrunch",
+                "title": "Arduino launches a new modular platform for IoT development – TechCrunch",
+                "title_link": "https:\/\/techcrunch.com\/2020\/01\/07\/arduino-launches-a-new-modular-platform-for-iot-development\/",
+                "text": "Arduino, the open-source hardware platform, today announced the launch of a new low-code platform and modular hardware system for IoT development. The idea here is to give small and medium businesses the tools to develop IoT solutions without having to invest in specialized engineering resources. T…",
+                "fallback": "TechCrunch: Arduino launches a new modular platform for IoT development – TechCrunch",
+                "image_url": "https:\/\/techcrunch.com\/wp-content\/uploads\/2020\/01\/Arduino-Portenta-H7-module.jpg?w=600",
+                "from_url": "https:\/\/techcrunch.com\/2020\/01\/07\/arduino-launches-a-new-modular-platform-for-iot-development\/",
+                "image_width": 375,
+                "image_height": 250,
+                "image_bytes": 20357,
+                "service_icon": "https:\/\/techcrunch.com\/wp-content\/uploads\/2015\/02\/cropped-cropped-favicon-gradient.png?w=180",
+                "id": 1,
+                "original_url": "https:\/\/techcrunch.com\/2020\/01\/07\/arduino-launches-a-new-modular-platform-for-iot-development\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VTl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/techcrunch.com\/2020\/01\/07\/arduino-launches-a-new-modular-platform-for-iot-development\/",
+                                "text": "https:\/\/techcrunch.com\/2020\/01\/07\/arduino-launches-a-new-modular-platform-for-iot-development\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

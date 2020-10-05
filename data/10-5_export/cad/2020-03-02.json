@@ -1,0 +1,406 @@
+[
+    {
+        "client_msg_id": "20dba066-25ce-4665-bb48-9ba553a4f683",
+        "type": "message",
+        "text": "<@URRA07VU3> would you send me your swerve module or at least the mounting bracket and relevant dimensions when you get the chance so I can start figuring out the frame? I'm thinking of doing 1x2 aluminum for the frame but I need to see the mounting bracket to figure out how it will all fit together. I went over to look at 2471's pit at Clackams and apparently they put their electronics on the bottom of the bot, protected by a polycarb sheet, and that's how they always seem to have so much space to fit everything. Thoughts on trying that?",
+        "user": "US51ZNQDU",
+        "ts": "1583197165.006300",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "ade188af1049",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-30\/891681516518_ade188af10498886e12c_72.jpg",
+            "first_name": "Palmer",
+            "real_name": "Palmer Campbell-Kaswell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "palmerc120",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "US51ZNQDU",
+            "ts": "1583197183.000000"
+        },
+        "thread_ts": "1583197165.006300",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1583201717.008100",
+        "reply_users": [
+            "URRA07VU3",
+            "US51ZNQDU"
+        ],
+        "replies": [
+            {
+                "user": "URRA07VU3",
+                "ts": "1583201259.007500"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1583201296.007700"
+            },
+            {
+                "user": "US51ZNQDU",
+                "ts": "1583201717.008100"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "fe5e4c8f-fd16-4ac5-983a-f5543708bf23",
+        "type": "message",
+        "text": "I can also finish making the grabcad account I started if that would make it easier for you",
+        "user": "US51ZNQDU",
+        "ts": "1583197235.007400",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "ade188af1049",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-30\/891681516518_ade188af10498886e12c_72.jpg",
+            "first_name": "Palmer",
+            "real_name": "Palmer Campbell-Kaswell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "palmerc120",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1583197235.007400",
+        "reply_count": 5,
+        "reply_users_count": 2,
+        "latest_reply": "1583208262.009100",
+        "reply_users": [
+            "URRA07VU3",
+            "US51ZNQDU"
+        ],
+        "replies": [
+            {
+                "user": "URRA07VU3",
+                "ts": "1583201556.007900"
+            },
+            {
+                "user": "US51ZNQDU",
+                "ts": "1583201740.008500"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1583202312.008700"
+            },
+            {
+                "user": "US51ZNQDU",
+                "ts": "1583207700.008900"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1583208262.009100"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "be40f1c1-0b59-4e2b-ab86-2612cdff7158",
+        "type": "message",
+        "text": "I don't have a final swerve bracket and won't for maybe a month. leave an 7\" square in all the corners just to be safe. the swerve will almost certainly connect to the bottom of the drivetrain tube frame.",
+        "user": "URRA07VU3",
+        "ts": "1583201259.007500",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vZlqp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I don't have a final swerve bracket and won't for maybe a month. leave an 7\" square in all the corners just to be safe. the swerve will almost certainly connect to the bottom of the drivetrain tube frame."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583197165.006300",
+        "parent_user_id": "US51ZNQDU"
+    },
+    {
+        "client_msg_id": "9c855af5-fdcf-4eeb-b7e6-a5cbfe963111",
+        "type": "message",
+        "text": "electronics in the drivetrain makes sense, especially if the superstructure is swappable",
+        "user": "URRA07VU3",
+        "ts": "1583201296.007700",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HlH5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "electronics in the drivetrain makes sense, especially if the superstructure is swappable"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583197165.006300",
+        "parent_user_id": "US51ZNQDU",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "US51ZNQDU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1481290c-8bb7-4fa8-82fe-425ae1c1b217",
+        "type": "message",
+        "text": "I would like to have grabcad for this project. no rush though",
+        "user": "URRA07VU3",
+        "ts": "1583201556.007900",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "p9V",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I would like to have grabcad for this project. no rush though"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583197235.007400",
+        "parent_user_id": "US51ZNQDU"
+    },
+    {
+        "client_msg_id": "1ea01748-e29f-4423-aa12-d57e831e4e82",
+        "type": "message",
+        "text": "Okay, I'll make sure there's room. I'll probably put a placeholder bracket there for now so that space doesn't get used up",
+        "user": "US51ZNQDU",
+        "ts": "1583201717.008100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "ade188af1049",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-30\/891681516518_ade188af10498886e12c_72.jpg",
+            "first_name": "Palmer",
+            "real_name": "Palmer Campbell-Kaswell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "palmerc120",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1583197165.006300",
+        "parent_user_id": "US51ZNQDU",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "URRA07VU3"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "22b63f33-98af-41a1-bb8d-f9cba22e10b7",
+        "type": "message",
+        "text": "Okay",
+        "user": "US51ZNQDU",
+        "ts": "1583201740.008500",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "ade188af1049",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-30\/891681516518_ade188af10498886e12c_72.jpg",
+            "first_name": "Palmer",
+            "real_name": "Palmer Campbell-Kaswell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "palmerc120",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1583197235.007400",
+        "parent_user_id": "US51ZNQDU"
+    },
+    {
+        "client_msg_id": "1da93bf5-cf01-418d-ad61-09c9c529f033",
+        "type": "message",
+        "text": "also, what solidworks version will you be using? I don't think it's backwards compatible",
+        "user": "URRA07VU3",
+        "ts": "1583202312.008700",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "T9y3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "also, what solidworks version will you be using? I don't think it's backwards compatible"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583197235.007400",
+        "parent_user_id": "US51ZNQDU"
+    },
+    {
+        "client_msg_id": "a50121ac-d40d-42f0-89fb-7560cc38a405",
+        "type": "message",
+        "text": "I have 2019",
+        "user": "US51ZNQDU",
+        "ts": "1583207700.008900",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "ade188af1049",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-30\/891681516518_ade188af10498886e12c_72.jpg",
+            "first_name": "Palmer",
+            "real_name": "Palmer Campbell-Kaswell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "palmerc120",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "d7LGC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I have 2019"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583197235.007400",
+        "parent_user_id": "US51ZNQDU"
+    },
+    {
+        "client_msg_id": "59693370-5ac5-4c6c-a9bc-cf5bed540f8a",
+        "type": "message",
+        "text": "same. that's good",
+        "user": "URRA07VU3",
+        "ts": "1583208262.009100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "i6l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "same. that's good"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583197235.007400",
+        "parent_user_id": "US51ZNQDU"
+    }
+]

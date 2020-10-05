@@ -1,0 +1,149 @@
+[
+    {
+        "client_msg_id": "7fe1a81c-49df-4525-93e3-5c072d82db50",
+        "type": "message",
+        "text": "<!channel> with the whole covid thing happening I'd like to share some information about why it's so important we're all in this together and we really really try to social distance as much as possible.\n\nThese four links do the best job of showing why people need to help flatten the curve to slow down the spread of COVID. You can do your part too. Don't do anything unnecessary outside of the house. Please take the time to look at these and understand the impact (both positive and negative) your actions can have over the next few weeks\n\n<http:\/\/tinyurl.com\/FinestHourCOVID|http:\/\/tinyurl.com\/FinestHourCOVID>\n\n<https:\/\/www.reddit.com\/r\/dataisbeautiful\/comments\/fimdrn\/oc_updated_chart_comparing_the_number_of|https:\/\/www.reddit.com\/r\/dataisbeautiful\/comments\/fimdrn\/oc_updated_chart_comparing_the_number_of>\n\n<https:\/\/qz.com\/1816060\/a-chart-of-the-1918-spanish-flu-shows-why-social-distancing-works|https:\/\/qz.com\/1816060\/a-chart-of-the-1918-spanish-flu-shows-why-social-distancing-works>\n\n<https:\/\/www.washingtonpost.com\/graphics\/2020\/world\/corona-simulator\/?itid=sf_|https:\/\/www.washingtonpost.com\/graphics\/2020\/world\/corona-simulator\/?itid=sf_>",
+        "user": "UUH3JGD7H",
+        "ts": "1584332056.001700",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "0d4ce2beb963",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-24\/967310845472_0d4ce2beb963e5271a18_72.jpg",
+            "first_name": "Ethan",
+            "real_name": "Ethan Hansen",
+            "display_name": "Ethan",
+            "team": "TS2PZ9PJR",
+            "name": "1ethanhansen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Her View From Home",
+                "title": "This Can Be Our Finest Hour—But We Need All of You - Her View From Home",
+                "title_link": "http:\/\/tinyurl.com\/FinestHourCOVID",
+                "text": "The response to Coronavirus across the world is up to us and we need to take precautions to slow the spread of COVID-19.",
+                "fallback": "Her View From Home: This Can Be Our Finest Hour—But We Need All of You - Her View From Home",
+                "thumb_url": "https:\/\/herviewfromhome.com\/wp-content\/uploads\/2020\/03\/shutterstock_1406765306-1.jpg",
+                "ts": 1584017511,
+                "from_url": "http:\/\/tinyurl.com\/FinestHourCOVID",
+                "thumb_width": 1000,
+                "thumb_height": 800,
+                "service_icon": "https:\/\/herviewfromhome.com\/wp-content\/uploads\/2018\/10\/HVFH-2015-H-130-1.jpg",
+                "id": 1,
+                "original_url": "http:\/\/tinyurl.com\/FinestHourCOVID"
+            },
+            {
+                "service_name": "reddit",
+                "title": "[OC] Updated: Chart comparing the number of confirmed cases of COVID-19 between Italy and the US",
+                "title_link": "https:\/\/www.reddit.com\/r\/dataisbeautiful\/comments\/fimdrn\/oc_updated_chart_comparing_the_number_of",
+                "text": "Posted in r\/dataisbeautiful by u\/dev_thetromboneguy • 1,230 points and 229 comments",
+                "fallback": "reddit: [OC] Updated: Chart comparing the number of confirmed cases of COVID-19 between Italy and the US",
+                "image_url": "https:\/\/preview.redd.it\/rm65nzldfom41.jpg?overlay-align=bottom,left&crop=674:352.879581152,smart&overlay-height=15p&overlay=%2Fwatermark%2Ft5_2tk95.png%3Fs%3De2fc7ba4388c526eb1700901e89f44e7f9aac1df&width=674&height=352.879581152&auto=webp&s=fda482f7e263ecf5ee54df104e315f044d8a06ca",
+                "image_width": 477,
+                "image_height": 250,
+                "from_url": "https:\/\/www.reddit.com\/r\/dataisbeautiful\/comments\/fimdrn\/oc_updated_chart_comparing_the_number_of",
+                "image_bytes": 28073,
+                "service_icon": "http:\/\/www.redditstatic.com\/desktop2x\/img\/favicon\/apple-icon-57x57.png",
+                "id": 2,
+                "original_url": "https:\/\/www.reddit.com\/r\/dataisbeautiful\/comments\/fimdrn\/oc_updated_chart_comparing_the_number_of"
+            },
+            {
+                "service_name": "Quartz",
+                "title": "This chart of the 1918 Spanish flu shows why social distancing works",
+                "title_link": "https:\/\/qz.com\/1816060\/a-chart-of-the-1918-spanish-flu-shows-why-social-distancing-works",
+                "text": "St. Louis' response to the Spanish flu is informing the battle against the novel coronavirus.",
+                "fallback": "Quartz: This chart of the 1918 Spanish flu shows why social distancing works",
+                "image_url": "https:\/\/cms.qz.com\/wp-content\/uploads\/2020\/03\/Philadelphia-parade-1918-e1583945328969.png?w=1400&strip=all&quality=75",
+                "from_url": "https:\/\/qz.com\/1816060\/a-chart-of-the-1918-spanish-flu-shows-why-social-distancing-works",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 115827,
+                "service_icon": "https:\/\/cms.qz.com\/wp-content\/uploads\/2018\/07\/quartz-icon.jpg",
+                "id": 3,
+                "original_url": "https:\/\/qz.com\/1816060\/a-chart-of-the-1918-spanish-flu-shows-why-social-distancing-works"
+            },
+            {
+                "service_name": "Washington Post",
+                "title": "These simulations show how to flatten the coronavirus growth curve",
+                "title_link": "https:\/\/www.washingtonpost.com\/graphics\/2020\/world\/corona-simulator\/?itid=sf_",
+                "text": "The early trickle of new coronavirus infections has turned into a steady current. By creating simple simulations, we can see how to slow it down.",
+                "fallback": "Washington Post: These simulations show how to flatten the coronavirus growth curve",
+                "image_url": "https:\/\/www.washingtonpost.com\/rf\/image_982w\/2010-2019\/WashingtonPost\/2020\/03\/14\/Health-Environment-Science\/Graphics\/promo2-coronavirus-simulator-0313.jpg",
+                "from_url": "https:\/\/www.washingtonpost.com\/graphics\/2020\/world\/corona-simulator\/?itid=sf_",
+                "image_width": 375,
+                "image_height": 250,
+                "image_bytes": 36545,
+                "service_icon": "https:\/\/www.washingtonpost.com\/wp-srv\/graphics\/templates\/mobile\/ico\/apple-touch-icon-144-precomposed.png",
+                "id": 4,
+                "original_url": "https:\/\/www.washingtonpost.com\/graphics\/2020\/world\/corona-simulator\/?itid=sf_"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yTDwG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " with the whole covid thing happening I'd like to share some information about why it's so important we're all in this together and we really really try to social distance as much as possible.\n\nThese four links do the best job of showing why people need to help flatten the curve to slow down the spread of COVID. You can do your part too. Don't do anything unnecessary outside of the house. Please take the time to look at these and understand the impact (both positive and negative) your actions can have over the next few weeks\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/tinyurl.com\/FinestHourCOVID",
+                                "text": "http:\/\/tinyurl.com\/FinestHourCOVID"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.reddit.com\/r\/dataisbeautiful\/comments\/fimdrn\/oc_updated_chart_comparing_the_number_of",
+                                "text": "https:\/\/www.reddit.com\/r\/dataisbeautiful\/comments\/fimdrn\/oc_updated_chart_comparing_the_number_of"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/qz.com\/1816060\/a-chart-of-the-1918-spanish-flu-shows-why-social-distancing-works",
+                                "text": "https:\/\/qz.com\/1816060\/a-chart-of-the-1918-spanish-flu-shows-why-social-distancing-works"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.washingtonpost.com\/graphics\/2020\/world\/corona-simulator\/?itid=sf_",
+                                "text": "https:\/\/www.washingtonpost.com\/graphics\/2020\/world\/corona-simulator\/?itid=sf_"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "URRA07R7D",
+                    "US4KMEG9M",
+                    "US2PZ9QBF"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

@@ -1,0 +1,3628 @@
+[
+    {
+        "client_msg_id": "fa758236-ce1a-4bf3-8774-69dbcc895297",
+        "type": "message",
+        "text": "So at this point we really need to decide if we are going to go FRC legal or non legal",
+        "user": "US2PZ9QBF",
+        "ts": "1583111281.000900",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1xd8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So at this point we really need to decide if we are going to go FRC legal or non legal"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583111281.000900",
+        "reply_count": 11,
+        "reply_users_count": 3,
+        "latest_reply": "1583122826.016400",
+        "reply_users": [
+            "US4KMEG9M",
+            "US2PZ9QBF",
+            "UUH3JGD7H"
+        ],
+        "replies": [
+            {
+                "user": "US4KMEG9M",
+                "ts": "1583113337.003200"
+            },
+            {
+                "user": "US4KMEG9M",
+                "ts": "1583113383.003400"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1583118802.004300"
+            },
+            {
+                "user": "US4KMEG9M",
+                "ts": "1583119507.004500"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1583119580.004700"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1583119608.004900"
+            },
+            {
+                "user": "US4KMEG9M",
+                "ts": "1583119634.005100"
+            },
+            {
+                "user": "US4KMEG9M",
+                "ts": "1583121566.005300"
+            },
+            {
+                "user": "UUH3JGD7H",
+                "ts": "1583121701.005500"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1583122317.005700"
+            },
+            {
+                "user": "US4KMEG9M",
+                "ts": "1583122826.016400"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1583122826.016400"
+    },
+    {
+        "client_msg_id": "de3c78df-5a03-426c-b0bd-20fc4a21611c",
+        "type": "message",
+        "text": "<@US4KMEG9M> and <@UUH3JGD7H> is it possible to use non legal FRC motors with FRC control systems",
+        "user": "US2PZ9QBF",
+        "ts": "1583111319.002100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aBP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "US4KMEG9M"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UUH3JGD7H"
+                            },
+                            {
+                                "type": "text",
+                                "text": " is it possible to use non legal FRC motors with FRC control systems"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583111319.002100",
+        "reply_count": 8,
+        "reply_users_count": 3,
+        "latest_reply": "1583114709.004100",
+        "reply_users": [
+            "US4KMEG9M",
+            "US2PZ9QBF",
+            "UUH3JGD7H"
+        ],
+        "replies": [
+            {
+                "user": "US4KMEG9M",
+                "ts": "1583111545.002200"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1583111602.002400"
+            },
+            {
+                "user": "US4KMEG9M",
+                "ts": "1583112083.002600"
+            },
+            {
+                "user": "US4KMEG9M",
+                "ts": "1583112152.002800"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1583112270.003000"
+            },
+            {
+                "user": "UUH3JGD7H",
+                "ts": "1583114344.003700"
+            },
+            {
+                "user": "US4KMEG9M",
+                "ts": "1583114590.003900"
+            },
+            {
+                "user": "UUH3JGD7H",
+                "ts": "1583114709.004100"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1583114709.004100"
+    },
+    {
+        "client_msg_id": "b4433b29-a2d8-4778-9d4a-c5a797037f2d",
+        "type": "message",
+        "text": "Yes. Not necessarily any motor though. I can't promise that we could run a motor through an Odrive",
+        "user": "US4KMEG9M",
+        "ts": "1583111545.002200",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "b915bd1b6aaa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-04\/1338647058470_b915bd1b6aaa68df3e32_72.jpg",
+            "first_name": "joshua",
+            "real_name": "joshua phelps",
+            "display_name": "joshua phelps",
+            "team": "TS2PZ9PJR",
+            "name": "joshuaphelps127",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "I+Jsa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes. Not necessarily any motor though. I can't promise that we could run a motor through an Odrive"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583111319.002100",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "d67f1122-71e0-4e46-8266-00deffba58cb",
+        "type": "message",
+        "text": "So, if we ignore the odrive, what motors could we use?",
+        "user": "US2PZ9QBF",
+        "ts": "1583111602.002400",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TKlA2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So, if we ignore the odrive, what motors could we use?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583111319.002100",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "4948ece1-0c28-42dd-9941-57b157a7366b",
+        "type": "message",
+        "text": "Any brushed motor of about the power of a CIM could be connected to a Talon and controlled",
+        "user": "US4KMEG9M",
+        "ts": "1583112083.002600",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "b915bd1b6aaa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-04\/1338647058470_b915bd1b6aaa68df3e32_72.jpg",
+            "first_name": "joshua",
+            "real_name": "joshua phelps",
+            "display_name": "joshua phelps",
+            "team": "TS2PZ9PJR",
+            "name": "joshuaphelps127",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DaZlb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Any brushed motor of about the power of a CIM could be connected to a Talon and controlled"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583111319.002100",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "6462da81-6472-4095-aa9e-c36eac91e3bf",
+        "type": "message",
+        "text": "The Odrive might be our best bet for swerve because of how precisely it can turn a motor",
+        "user": "US4KMEG9M",
+        "ts": "1583112152.002800",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "b915bd1b6aaa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-04\/1338647058470_b915bd1b6aaa68df3e32_72.jpg",
+            "first_name": "joshua",
+            "real_name": "joshua phelps",
+            "display_name": "joshua phelps",
+            "team": "TS2PZ9PJR",
+            "name": "joshuaphelps127",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "62a",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The Odrive might be our best bet for swerve because of how precisely it can turn a motor"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583111319.002100",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "1b50d52a-5980-469d-9023-8458cc75b528",
+        "type": "message",
+        "text": "That's true",
+        "user": "US2PZ9QBF",
+        "ts": "1583112270.003000",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "G3QT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That's true"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583111319.002100",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "e2ae0cde-d9ad-40a4-ba16-6c18ace9c528",
+        "type": "message",
+        "text": "I would recommend doing a test with a RIO and an Odrive before making a decision, so we have more info. If we can't do that compromise because they aren't compatible, then we'd have to choose.",
+        "user": "US4KMEG9M",
+        "ts": "1583113337.003200",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "b915bd1b6aaa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-04\/1338647058470_b915bd1b6aaa68df3e32_72.jpg",
+            "first_name": "joshua",
+            "real_name": "joshua phelps",
+            "display_name": "joshua phelps",
+            "team": "TS2PZ9PJR",
+            "name": "joshuaphelps127",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "US4KMEG9M",
+            "ts": "1583113605.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GKASe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I would recommend doing a test with a RIO and an Odrive before making a decision, so we have more info. If we can't do that compromise because they aren't compatible, then we'd have to choose."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583111281.000900",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "e15a29cd-2316-47b1-9f3a-a2d8436300d9",
+        "type": "message",
+        "text": "Maybe after competition season one of our teams would let us test an Odrive with a spare RIO.",
+        "user": "US4KMEG9M",
+        "ts": "1583113383.003400",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "b915bd1b6aaa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-04\/1338647058470_b915bd1b6aaa68df3e32_72.jpg",
+            "first_name": "joshua",
+            "real_name": "joshua phelps",
+            "display_name": "joshua phelps",
+            "team": "TS2PZ9PJR",
+            "name": "joshuaphelps127",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6sBb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Maybe after competition season one of our teams would let us test an Odrive with a spare RIO."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583111281.000900",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "fe923dcb-733e-49c1-99fb-39e3e0cad6fc",
+        "type": "message",
+        "text": "Wait the ODrive is specifically for stepper motors, right?",
+        "user": "UUH3JGD7H",
+        "ts": "1583114344.003700",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "0d4ce2beb963",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-24\/967310845472_0d4ce2beb963e5271a18_72.jpg",
+            "first_name": "Ethan",
+            "real_name": "Ethan Hansen",
+            "display_name": "Ethan",
+            "team": "TS2PZ9PJR",
+            "name": "1ethanhansen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+Z\/W",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Wait the ODrive is specifically for stepper motors, right?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583111319.002100",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "a22bd08a-0c95-41df-b06c-081aa05eda21",
+        "type": "message",
+        "text": "It runs 3 wire brushless motors like for quadcopters.\nStepper motors like for 3d printers usually have 4 wires, and are meant to hold position strongly more than spin quickly at high torque.",
+        "user": "US4KMEG9M",
+        "ts": "1583114590.003900",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "b915bd1b6aaa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-04\/1338647058470_b915bd1b6aaa68df3e32_72.jpg",
+            "first_name": "joshua",
+            "real_name": "joshua phelps",
+            "display_name": "joshua phelps",
+            "team": "TS2PZ9PJR",
+            "name": "joshuaphelps127",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "c=G",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It runs 3 wire brushless motors like for quadcopters.\nStepper motors like for 3d printers usually have 4 wires, and are meant to hold position strongly more than spin quickly at high torque."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583111319.002100",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "e6d42403-5876-4790-92b3-12a0fdc73d9c",
+        "type": "message",
+        "text": "ah okay, my b",
+        "user": "UUH3JGD7H",
+        "ts": "1583114709.004100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "0d4ce2beb963",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-24\/967310845472_0d4ce2beb963e5271a18_72.jpg",
+            "first_name": "Ethan",
+            "real_name": "Ethan Hansen",
+            "display_name": "Ethan",
+            "team": "TS2PZ9PJR",
+            "name": "1ethanhansen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "szWX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ah okay, my b"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583111319.002100",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "a4094e8c-ce3e-45ca-bd88-9a5dc7aa37b8",
+        "type": "message",
+        "text": "Yes, but for <@URRA07VU3> we need to know",
+        "user": "US2PZ9QBF",
+        "ts": "1583118802.004300",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qbZ8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes, but for "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "URRA07VU3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " we need to know"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583111281.000900",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "62c73332-18c4-452d-8881-9694c3259e9b",
+        "type": "message",
+        "text": "We could choose motors now. If we choose FRC legal motors we would have an FRC legal robot. If we choose illegal motors and can't make the RIO talk to the Odrive, we use a different processor (Arduino). If we choose illegal motors and can make the Rio work with the Odrive we can choose between RIO and Arduino.",
+        "user": "US4KMEG9M",
+        "ts": "1583119507.004500",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "b915bd1b6aaa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-04\/1338647058470_b915bd1b6aaa68df3e32_72.jpg",
+            "first_name": "joshua",
+            "real_name": "joshua phelps",
+            "display_name": "joshua phelps",
+            "team": "TS2PZ9PJR",
+            "name": "joshuaphelps127",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=zXm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We could choose motors now. If we choose FRC legal motors we would have an FRC legal robot. If we choose illegal motors and can't make the RIO talk to the Odrive, we use a different processor (Arduino). If we choose illegal motors and can make the Rio work with the Odrive we can choose between RIO and Arduino."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583111281.000900",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "d2211121-569f-46ae-804b-dfa743480f9f",
+        "type": "message",
+        "text": "Ok cool then I think let's use brushless illegal motors on the swerve <@URRA07VU3>",
+        "user": "US2PZ9QBF",
+        "ts": "1583119580.004700",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TrAN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ok cool then I think let's use brushless illegal motors on the swerve "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "URRA07VU3"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583111281.000900",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "da2ad1e8-5a1f-48de-bc7e-6310d4eb85f3",
+        "type": "message",
+        "text": "This will give us the best chance of increased creativity",
+        "user": "US2PZ9QBF",
+        "ts": "1583119608.004900",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "u2Y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This will give us the best chance of increased creativity"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583111281.000900",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "ccfbcabf-b927-4ff8-a98e-f2f27ab8f930",
+        "type": "message",
+        "text": "cool",
+        "user": "US4KMEG9M",
+        "ts": "1583119634.005100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "b915bd1b6aaa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-04\/1338647058470_b915bd1b6aaa68df3e32_72.jpg",
+            "first_name": "joshua",
+            "real_name": "joshua phelps",
+            "display_name": "joshua phelps",
+            "team": "TS2PZ9PJR",
+            "name": "joshuaphelps127",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aPld",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "cool"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583111281.000900",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "77f7fd29-84c6-4136-969e-640ff31002ac",
+        "type": "message",
+        "text": "<@UUH3JGD7H> are you ok with this?",
+        "user": "US4KMEG9M",
+        "ts": "1583121566.005300",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "b915bd1b6aaa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-04\/1338647058470_b915bd1b6aaa68df3e32_72.jpg",
+            "first_name": "joshua",
+            "real_name": "joshua phelps",
+            "display_name": "joshua phelps",
+            "team": "TS2PZ9PJR",
+            "name": "joshuaphelps127",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wJd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UUH3JGD7H"
+                            },
+                            {
+                                "type": "text",
+                                "text": " are you ok with this?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583111281.000900",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "5baa57d0-e42e-4331-bc1c-b69b6ccb6097",
+        "type": "message",
+        "text": "Yeah that sounds good to me. Are there specific motors we're looking at?",
+        "user": "UUH3JGD7H",
+        "ts": "1583121701.005500",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "0d4ce2beb963",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-24\/967310845472_0d4ce2beb963e5271a18_72.jpg",
+            "first_name": "Ethan",
+            "real_name": "Ethan Hansen",
+            "display_name": "Ethan",
+            "team": "TS2PZ9PJR",
+            "name": "1ethanhansen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "q\/xq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah that sounds good to me. Are there specific motors we're looking at?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583111281.000900",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "d27985c3-b6ae-4e00-acf2-47947f395c2c",
+        "type": "message",
+        "text": "Yes (look in the channel for what I'm about to post)",
+        "user": "US2PZ9QBF",
+        "ts": "1583122317.005700",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oZG7Y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes (look in the channel for what I'm about to post)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583111281.000900",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "aebb1e63-f765-4d1c-a418-8c998efaf080",
+        "type": "message",
+        "text": "<https:\/\/frc-events.firstinspires.org\/2020\/ORORE\/qualifications|https:\/\/frc-events.firstinspires.org\/2020\/ORORE\/qualifications>",
+        "user": "US2PZ9QBF",
+        "ts": "1583122322.006000",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": " ORORE  FRC Event Web : Qualification Matches  ",
+                "title_link": "https:\/\/frc-events.firstinspires.org\/2020\/ORORE\/qualifications",
+                "text": "Official qualification match schedule for the PNW District Clackamas Academy Event",
+                "fallback": " ORORE  FRC Event Web : Qualification Matches  ",
+                "from_url": "https:\/\/frc-events.firstinspires.org\/2020\/ORORE\/qualifications",
+                "service_icon": "https:\/\/frc-cdn.firstinspires.org\/eventweb_common\/favicon\/first.ico",
+                "service_name": "frc-events.firstinspires.org",
+                "id": 1,
+                "original_url": "https:\/\/frc-events.firstinspires.org\/2020\/ORORE\/qualifications"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "x6U",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/frc-events.firstinspires.org\/2020\/ORORE\/qualifications",
+                                "text": "https:\/\/frc-events.firstinspires.org\/2020\/ORORE\/qualifications"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "28688499-819a-49a0-a0f2-207f6f7e4ee2",
+        "type": "message",
+        "text": "From my understanding they are the size of neo 550and the power of more then the falcon",
+        "user": "US2PZ9QBF",
+        "ts": "1583122347.006900",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "US2PZ9QBF",
+            "ts": "1583122363.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8im",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "From my understanding they are the size of neo 550and the power of more then the falcon"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "78e1d07b-f7ee-4cfd-a959-baadc329be7f",
+        "type": "message",
+        "text": "wrong link maybe?",
+        "user": "UUH3JGD7H",
+        "ts": "1583122363.007200",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "0d4ce2beb963",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-24\/967310845472_0d4ce2beb963e5271a18_72.jpg",
+            "first_name": "Ethan",
+            "real_name": "Ethan Hansen",
+            "display_name": "Ethan",
+            "team": "TS2PZ9PJR",
+            "name": "1ethanhansen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "phu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "wrong link maybe?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2d48b2ad-e5f2-4742-baac-c32dcdaa2ad4",
+        "type": "message",
+        "text": "Fuck",
+        "user": "US2PZ9QBF",
+        "ts": "1583122374.007500",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CgPJ7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Fuck"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "efdc6d48-f4a1-4dc3-941f-f68deacd4d2d",
+        "type": "message",
+        "text": "<https:\/\/frc-events.firstinspires.org\/2020\/ORORE\/qualifications|https:\/\/frc-events.firstinspires.org\/2020\/ORORE\/qualifications>",
+        "user": "US2PZ9QBF",
+        "ts": "1583122414.007700",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2Im7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/frc-events.firstinspires.org\/2020\/ORORE\/qualifications",
+                                "text": "https:\/\/frc-events.firstinspires.org\/2020\/ORORE\/qualifications"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9d0b5305-658a-46f4-a80d-6b22df4a0589",
+        "type": "message",
+        "text": "Wow matthew really wants us to look at the Clackams quals matches :stuck_out_tongue:",
+        "user": "UUH3JGD7H",
+        "ts": "1583122448.008300",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "0d4ce2beb963",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-24\/967310845472_0d4ce2beb963e5271a18_72.jpg",
+            "first_name": "Ethan",
+            "real_name": "Ethan Hansen",
+            "display_name": "Ethan",
+            "team": "TS2PZ9PJR",
+            "name": "1ethanhansen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "H6fO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Wow matthew really wants us to look at the Clackams quals matches "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "stuck_out_tongue"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "091cc119-4a5c-4c13-b88a-bf933b12ad36",
+        "type": "message",
+        "text": "Shit",
+        "user": "US2PZ9QBF",
+        "ts": "1583122478.008500",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aFJx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Shit"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "dc25500b-1376-4b70-a48a-f0e3e059b857",
+        "type": "message",
+        "text": "<https:\/\/hobbyking.com\/en_us\/turnigy-ld3730a-1000-brushless-motor-1000kv.html|https:\/\/hobbyking.com\/en_us\/turnigy-ld3730a-1000-brushless-motor-1000kv.html>",
+        "user": "US2PZ9QBF",
+        "ts": "1583122480.008700",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Hobbyking",
+                "title": "Turnigy Air Brushless Motor 3730-1000kv (3s-4s 580w)",
+                "title_link": "https:\/\/hobbyking.com\/en_us\/turnigy-ld3730a-1000-brushless-motor-1000kv.html",
+                "text": "Turnigy Air Brushless Motor 3730-1000kv (3s-4s 580w)",
+                "fallback": "Hobbyking: Turnigy Air Brushless Motor 3730-1000kv (3s-4s 580w)",
+                "thumb_url": "https:\/\/cdn-global-hk.hobbyking.com\/media\/catalog\/product\/cache\/1\/image\/9df78eab33525d08d6e5fb8d27136e95\/legacy\/catalog\/3037-main.jpg",
+                "from_url": "https:\/\/hobbyking.com\/en_us\/turnigy-ld3730a-1000-brushless-motor-1000kv.html",
+                "thumb_width": 565,
+                "thumb_height": 414,
+                "service_icon": "https:\/\/cdn-global-hk.hobbyking.com\/media\/favicon\/websites\/1\/favicon_hk.png",
+                "id": 1,
+                "original_url": "https:\/\/hobbyking.com\/en_us\/turnigy-ld3730a-1000-brushless-motor-1000kv.html"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7c2d",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/hobbyking.com\/en_us\/turnigy-ld3730a-1000-brushless-motor-1000kv.html",
+                                "text": "https:\/\/hobbyking.com\/en_us\/turnigy-ld3730a-1000-brushless-motor-1000kv.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e9881c73-8fe9-42b8-81c0-a3756c91a8e1",
+        "type": "message",
+        "text": "Thank God that finally worked",
+        "user": "US2PZ9QBF",
+        "ts": "1583122489.009100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "87n9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank God that finally worked"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "03575122-e0fc-4add-af7f-2e286a92ebd2",
+        "type": "message",
+        "text": "heyyo",
+        "user": "UUH3JGD7H",
+        "ts": "1583122493.009300",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "0d4ce2beb963",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-24\/967310845472_0d4ce2beb963e5271a18_72.jpg",
+            "first_name": "Ethan",
+            "real_name": "Ethan Hansen",
+            "display_name": "Ethan",
+            "team": "TS2PZ9PJR",
+            "name": "1ethanhansen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0=lrM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "heyyo"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "19e09877-bb04-44b3-b26d-3a7def5da362",
+        "type": "message",
+        "text": "third time's a charm lol",
+        "user": "UUH3JGD7H",
+        "ts": "1583122498.009600",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "0d4ce2beb963",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-24\/967310845472_0d4ce2beb963e5271a18_72.jpg",
+            "first_name": "Ethan",
+            "real_name": "Ethan Hansen",
+            "display_name": "Ethan",
+            "team": "TS2PZ9PJR",
+            "name": "1ethanhansen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vR=my",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "third time's a charm lol"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "glitch_crab",
+                "users": [
+                    "US2PZ9QBF",
+                    "US4KMEG9M",
+                    "URRA07VU3"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e91764ba-7786-4c00-9dcc-4bfbfcba13e2",
+        "type": "message",
+        "text": "Is this right <@URRA07VU3>",
+        "user": "US2PZ9QBF",
+        "ts": "1583122537.010700",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qYXc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Is this right "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "URRA07VU3"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1c9c1b3c-cb2a-4b6d-a440-ad87941c31cc",
+        "type": "message",
+        "text": "(CAD Comrade)",
+        "user": "US2PZ9QBF",
+        "ts": "1583122551.011400",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "US2PZ9QBF",
+            "ts": "1583122622.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rY+l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(CAD Comrade)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583122551.011400",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1583122596.012300",
+        "reply_users": [
+            "US4KMEG9M",
+            "US2PZ9QBF"
+        ],
+        "replies": [
+            {
+                "user": "US4KMEG9M",
+                "ts": "1583122583.012000"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1583122596.012300"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1583122596.012300"
+    },
+    {
+        "client_msg_id": "61f64251-a4aa-4e38-bda3-00c4ab0fc274",
+        "type": "message",
+        "text": "CAD Comrade",
+        "user": "US4KMEG9M",
+        "ts": "1583122583.012000",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "b915bd1b6aaa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-04\/1338647058470_b915bd1b6aaa68df3e32_72.jpg",
+            "first_name": "joshua",
+            "real_name": "joshua phelps",
+            "display_name": "joshua phelps",
+            "team": "TS2PZ9PJR",
+            "name": "joshuaphelps127",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jNrqm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "CAD Comrade"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583122551.011400",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "140d5277-34e8-4370-853e-6579b35a617a",
+        "type": "message",
+        "text": "Right",
+        "user": "US2PZ9QBF",
+        "ts": "1583122596.012300",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IuAwr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Right"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583122551.011400",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "82BD47A7-E2CC-4F27-9C4D-DBDB0FF3D1E1",
+        "type": "message",
+        "text": "We should probably start with FRC legal and then make it not",
+        "user": "UU50D077H",
+        "ts": "1583122624.013700",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "790b5f83cbe4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-16\/943684986291_790b5f83cbe4b100e623_72.jpg",
+            "first_name": "Jake",
+            "real_name": "Jake Enos",
+            "display_name": "Jake Enos",
+            "team": "TS2PZ9PJR",
+            "name": "jake",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YqpWA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We should probably start with FRC legal and then make it not"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583122624.013700",
+        "reply_count": 7,
+        "reply_users_count": 3,
+        "latest_reply": "1583122998.017500",
+        "reply_users": [
+            "US2PZ9QBF",
+            "URRA07VU3",
+            "US4KMEG9M"
+        ],
+        "replies": [
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1583122641.014100"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1583122697.015100"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1583122767.015600"
+            },
+            {
+                "user": "US4KMEG9M",
+                "ts": "1583122773.015800"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1583122794.016000"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1583122811.016200"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1583122998.017500"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1583122998.017500"
+    },
+    {
+        "client_msg_id": "9234494a-7992-42aa-b636-8d0fc9b440d2",
+        "type": "message",
+        "text": "What do you mean",
+        "user": "US2PZ9QBF",
+        "ts": "1583122641.014100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lxH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What do you mean"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583122624.013700",
+        "parent_user_id": "UU50D077H"
+    },
+    {
+        "client_msg_id": "6a2ea426-bce4-45f9-b57a-351a1d9e7084",
+        "type": "message",
+        "text": "I calculated that we want about 500W per motor (which is actually less than a 780W falcon) I'm still looking at motors with different kv ratings as the gearing and packaging depends on that.",
+        "user": "URRA07VU3",
+        "ts": "1583122685.015000",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qisBS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I calculated that we want about 500W per motor (which is actually less than a 780W falcon) I'm still looking at motors with different kv ratings as the gearing and packaging depends on that."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0df29690-162c-4cab-8b2d-880383f55058",
+        "type": "message",
+        "text": "if an frc motor works Jake wants to use it",
+        "user": "URRA07VU3",
+        "ts": "1583122697.015100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eL\/sM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "if an frc motor works Jake wants to use it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583122624.013700",
+        "parent_user_id": "UU50D077H"
+    },
+    {
+        "client_msg_id": "6b109cc2-1552-4568-8c72-4e080f735fe3",
+        "type": "message",
+        "text": "Ok cool",
+        "user": "US2PZ9QBF",
+        "ts": "1583122767.015600",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xjob",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ok cool"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583122624.013700",
+        "parent_user_id": "UU50D077H"
+    },
+    {
+        "client_msg_id": "80e80040-5eed-448e-8727-cf002c2ae824",
+        "type": "message",
+        "text": "talon and CIM?\n<@US2PZ9QBF> maybe we should have more of a discussion about motor and motor controller options",
+        "user": "US4KMEG9M",
+        "ts": "1583122773.015800",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "b915bd1b6aaa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-04\/1338647058470_b915bd1b6aaa68df3e32_72.jpg",
+            "first_name": "joshua",
+            "real_name": "joshua phelps",
+            "display_name": "joshua phelps",
+            "team": "TS2PZ9PJR",
+            "name": "joshuaphelps127",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3iZHz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "talon and CIM?\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "US2PZ9QBF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " maybe we should have more of a discussion about motor and motor controller options"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583122624.013700",
+        "parent_user_id": "UU50D077H"
+    },
+    {
+        "client_msg_id": "2ff622ff-a39e-4c1e-9463-6f00becc6be1",
+        "type": "message",
+        "text": "Yeah :rolling_on_the_floor_laughing:",
+        "user": "US2PZ9QBF",
+        "ts": "1583122794.016000",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+nkm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rolling_on_the_floor_laughing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583122624.013700",
+        "parent_user_id": "UU50D077H"
+    },
+    {
+        "client_msg_id": "14f5163e-7d0b-4c93-ab89-8e3872df5c62",
+        "type": "message",
+        "text": "And <@URRA07VU3> what are your thoughts on FRC legal",
+        "user": "US2PZ9QBF",
+        "ts": "1583122811.016200",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Xr8M+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "And "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "URRA07VU3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " what are your thoughts on FRC legal"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583122624.013700",
+        "parent_user_id": "UU50D077H"
+    },
+    {
+        "client_msg_id": "010fe541-ef55-4f5f-bfa8-1fabb358f34a",
+        "type": "message",
+        "text": "<@UU50D077H> I think you missed this, it was too fast of a decision",
+        "user": "US4KMEG9M",
+        "ts": "1583122826.016400",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "b915bd1b6aaa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-04\/1338647058470_b915bd1b6aaa68df3e32_72.jpg",
+            "first_name": "joshua",
+            "real_name": "joshua phelps",
+            "display_name": "joshua phelps",
+            "team": "TS2PZ9PJR",
+            "name": "joshuaphelps127",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eiB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UU50D077H"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I think you missed this, it was too fast of a decision"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583111281.000900",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "c8ac5b40-2494-4e57-a1aa-5a702ca834ec",
+        "type": "message",
+        "text": "Definitely if we go FRC legal, we can show teams that this insane idea actually works in practice",
+        "user": "US2PZ9QBF",
+        "ts": "1583122931.017400",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "znB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Definitely if we go FRC legal, we can show teams that this insane idea actually works in practice"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "hopefully an FRC motor is close enough to what we want. if there isn't a close one, then we'll have to decide between FRC legal and a closer to ideal motor. FRC (brushless) motors are more expensive for the power they output.\nMy most developed swerve design does use neos, which are a good option power wise",
+        "user": "URRA07VU3",
+        "ts": "1583122998.017500",
+        "thread_ts": "1583122624.013700",
+        "root": {
+            "client_msg_id": "82BD47A7-E2CC-4F27-9C4D-DBDB0FF3D1E1",
+            "type": "message",
+            "text": "We should probably start with FRC legal and then make it not",
+            "user": "UU50D077H",
+            "ts": "1583122624.013700",
+            "team": "TS2PZ9PJR",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "YqpWA",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "We should probably start with FRC legal and then make it not"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "thread_ts": "1583122624.013700",
+            "reply_count": 7,
+            "reply_users_count": 3,
+            "latest_reply": "1583122998.017500",
+            "reply_users": [
+                "US2PZ9QBF",
+                "URRA07VU3",
+                "US4KMEG9M"
+            ],
+            "subscribed": true,
+            "last_read": "1583122998.017500"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2ldL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hopefully an FRC motor is close enough to what we want. if there isn't a close one, then we'll have to decide between FRC legal and a closer to ideal motor. FRC (brushless) motors are more expensive for the power they output.\nMy most developed swerve design does use neos, which are a good option power wise"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "1abc26ab-c0dc-4bc0-8495-0840e4904872"
+    },
+    {
+        "client_msg_id": "1FB97D87-81E2-4476-A07F-B02FCCAEFB2E",
+        "type": "message",
+        "text": "Neos are awesome power wise... if you’re willing to wrangle the spark max lol",
+        "user": "UU50D077H",
+        "ts": "1583123140.019000",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "790b5f83cbe4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-16\/943684986291_790b5f83cbe4b100e623_72.jpg",
+            "first_name": "Jake",
+            "real_name": "Jake Enos",
+            "display_name": "Jake Enos",
+            "team": "TS2PZ9PJR",
+            "name": "jake",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YuDz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Neos are awesome power wise... if you’re willing to wrangle the spark max lol"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583123140.019000",
+        "reply_count": 9,
+        "reply_users_count": 4,
+        "latest_reply": "1583123864.024700",
+        "reply_users": [
+            "US4KMEG9M",
+            "UU50D077H",
+            "US2PZ9QBF",
+            "URRA07VU3"
+        ],
+        "replies": [
+            {
+                "user": "US4KMEG9M",
+                "ts": "1583123201.020300"
+            },
+            {
+                "user": "UU50D077H",
+                "ts": "1583123242.021500"
+            },
+            {
+                "user": "US4KMEG9M",
+                "ts": "1583123271.021700"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1583123346.021900"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1583123555.023100"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1583123625.023300"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1583123636.023500"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1583123806.024300"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1583123864.024700"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1583123864.024700"
+    },
+    {
+        "client_msg_id": "6b5e7085-a4fd-405a-9c06-a7dcbc37ab92",
+        "type": "message",
+        "text": "Can a Spark Max turn a Neo precise fractions of a rotation? Otherwise steering won't work.",
+        "user": "US4KMEG9M",
+        "ts": "1583123201.020300",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "b915bd1b6aaa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-04\/1338647058470_b915bd1b6aaa68df3e32_72.jpg",
+            "first_name": "joshua",
+            "real_name": "joshua phelps",
+            "display_name": "joshua phelps",
+            "team": "TS2PZ9PJR",
+            "name": "joshuaphelps127",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ov5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Can a Spark Max turn a Neo precise fractions of a rotation? Otherwise steering won't work."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583123140.019000",
+        "parent_user_id": "UU50D077H"
+    },
+    {
+        "client_msg_id": "9CCC6F7A-9ECD-46D7-8CFF-F5E82F8C53FA",
+        "type": "message",
+        "text": "We are running 6 on our drivetrain this year and it was well worth the pain (I say that as a mechanical guy who just had to watch our programmer die inside)",
+        "user": "UU50D077H",
+        "ts": "1583123211.020800",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "790b5f83cbe4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-16\/943684986291_790b5f83cbe4b100e623_72.jpg",
+            "first_name": "Jake",
+            "real_name": "Jake Enos",
+            "display_name": "Jake Enos",
+            "team": "TS2PZ9PJR",
+            "name": "jake",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Psn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We are running 6 on our drivetrain this year and it was well worth the pain (I say that as a mechanical guy who just had to watch our programmer die inside)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "US4KMEG9M",
+                    "US2PZ9QBF",
+                    "URRA07VU3"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "28229429-4B50-4FD9-A659-96A23091967D",
+        "type": "message",
+        "text": "Yes, 2910 is a great example",
+        "user": "UU50D077H",
+        "ts": "1583123242.021500",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "790b5f83cbe4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-16\/943684986291_790b5f83cbe4b100e623_72.jpg",
+            "first_name": "Jake",
+            "real_name": "Jake Enos",
+            "display_name": "Jake Enos",
+            "team": "TS2PZ9PJR",
+            "name": "jake",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ijo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes, 2910 is a great example"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583123140.019000",
+        "parent_user_id": "UU50D077H"
+    },
+    {
+        "client_msg_id": "913939b3-1c09-4dd7-9187-a785620ae953",
+        "type": "message",
+        "text": "Great! I'm sold",
+        "user": "US4KMEG9M",
+        "ts": "1583123271.021700",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "b915bd1b6aaa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-04\/1338647058470_b915bd1b6aaa68df3e32_72.jpg",
+            "first_name": "joshua",
+            "real_name": "joshua phelps",
+            "display_name": "joshua phelps",
+            "team": "TS2PZ9PJR",
+            "name": "joshuaphelps127",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=j=6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Great! I'm sold"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583123140.019000",
+        "parent_user_id": "UU50D077H"
+    },
+    {
+        "client_msg_id": "15df66e3-26b2-40f9-b4cf-c60608447e9d",
+        "type": "message",
+        "text": "Me too",
+        "user": "US2PZ9QBF",
+        "ts": "1583123346.021900",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vJD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Me too"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583123140.019000",
+        "parent_user_id": "UU50D077H"
+    },
+    {
+        "client_msg_id": "8975be62-04df-4e21-8cf2-892a2a114446",
+        "type": "message",
+        "text": "<@URRA07VU3> will you please look more into the neo as an option if everyone else agrees?",
+        "user": "US2PZ9QBF",
+        "ts": "1583123378.022900",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mic",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "URRA07VU3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " will you please look more into the neo as an option if everyone else agrees?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583123378.022900",
+        "reply_count": 16,
+        "reply_users_count": 4,
+        "latest_reply": "1583191322.000500",
+        "reply_users": [
+            "URRA07VU3",
+            "US2PZ9QBF",
+            "UU50D077H",
+            "US51ZNQDU"
+        ],
+        "replies": [
+            {
+                "user": "URRA07VU3",
+                "ts": "1583123661.023700"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1583123699.023900"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1583123779.024100"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1583123848.024500"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1583123875.024900"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1583123878.025100"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1583123905.025300"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1583123916.025500"
+            },
+            {
+                "user": "UU50D077H",
+                "ts": "1583124190.026200"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1583124595.026400"
+            },
+            {
+                "user": "UU50D077H",
+                "ts": "1583124676.027200"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1583125065.027400"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1583125147.027700"
+            },
+            {
+                "user": "US51ZNQDU",
+                "ts": "1583191220.000100"
+            },
+            {
+                "user": "US51ZNQDU",
+                "ts": "1583191249.000300"
+            },
+            {
+                "user": "US51ZNQDU",
+                "ts": "1583191322.000500"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1583191322.000500"
+    },
+    {
+        "client_msg_id": "ea246e84-bc5e-4f58-9c47-ef5f288d7176",
+        "type": "message",
+        "text": "I do want to point out that 2910's swerve allows a lot more freedom with steering ratio (18:1) then in wheel differential swerve does.",
+        "user": "URRA07VU3",
+        "ts": "1583123555.023100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RxU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I do want to point out that 2910's swerve allows a lot more freedom with steering ratio (18:1) then in wheel differential swerve does."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583123140.019000",
+        "parent_user_id": "UU50D077H"
+    },
+    {
+        "client_msg_id": "91cb5b31-7b4d-43ea-9b26-e4fd49cad220",
+        "type": "message",
+        "text": "Interesting",
+        "user": "US2PZ9QBF",
+        "ts": "1583123625.023300",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xWTOc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Interesting"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583123140.019000",
+        "parent_user_id": "UU50D077H"
+    },
+    {
+        "client_msg_id": "235f1c16-4c62-40d1-a0c9-d103a620a2d1",
+        "type": "message",
+        "text": "What does that mean in terms of our swerve",
+        "user": "US2PZ9QBF",
+        "ts": "1583123636.023500",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RYJPu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What does that mean in terms of our swerve"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583123140.019000",
+        "parent_user_id": "UU50D077H"
+    },
+    {
+        "client_msg_id": "9554612f-a117-4402-beee-e3132c921802",
+        "type": "message",
+        "text": "I feel pretty comfortable gearing and CADing for neos as I did that for the swerve I CADed last summer. The only changes to gearing will be an addition of a 3:1 reduction before the differential.",
+        "user": "URRA07VU3",
+        "ts": "1583123661.023700",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Kd3rP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I feel pretty comfortable gearing and CADing for neos as I did that for the swerve I CADed last summer. The only changes to gearing will be an addition of a 3:1 reduction before the differential."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583123378.022900",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "aa0aa62b-e6ec-472c-9e94-9a40382fcfda",
+        "type": "message",
+        "text": "and a wheel size change from 2.5\" to 3\" I guess",
+        "user": "URRA07VU3",
+        "ts": "1583123699.023900",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uhN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "and a wheel size change from 2.5\" to 3\" I guess"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583123378.022900",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "875aeec3-9054-4e8c-a61f-1312d4d79443",
+        "type": "message",
+        "text": "Why the wheel change?",
+        "user": "US2PZ9QBF",
+        "ts": "1583123779.024100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oq+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Why the wheel change?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583123378.022900",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "913ddba0-886e-4d79-995f-137b43102353",
+        "type": "message",
+        "text": "it means I'll try to get the steering ratio to 18:1 as that's what worked for 2910 but it might still steer a bit fast.",
+        "user": "URRA07VU3",
+        "ts": "1583123806.024300",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rg+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "it means I'll try to get the steering ratio to 18:1 as that's what worked for 2910 but it might still steer a bit fast."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583123140.019000",
+        "parent_user_id": "UU50D077H"
+    },
+    {
+        "client_msg_id": "b4ff5ad4-ecf6-461a-812a-46154ccff0b8",
+        "type": "message",
+        "text": "I thought you had wanted 3\" wheels???",
+        "user": "URRA07VU3",
+        "ts": "1583123848.024500",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JxE8y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I thought you had wanted 3\" wheels???"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583123378.022900",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "f0c3dbf5-ca13-4064-9a41-ce0a48fa4641",
+        "type": "message",
+        "text": "I think if it's a little fast, we can edit it in code to work a little better right",
+        "user": "US2PZ9QBF",
+        "ts": "1583123864.024700",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MxZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think if it's a little fast, we can edit it in code to work a little better right"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583123140.019000",
+        "parent_user_id": "UU50D077H"
+    },
+    {
+        "client_msg_id": "366105cb-9b5b-4471-9316-009d11412e79",
+        "type": "message",
+        "text": "Oh, yes",
+        "user": "US2PZ9QBF",
+        "ts": "1583123875.024900",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LG23A",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oh, yes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583123378.022900",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "6df75707-4466-4730-80b1-e713088229f6",
+        "type": "message",
+        "text": "I absolutely do",
+        "user": "US2PZ9QBF",
+        "ts": "1583123878.025100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "77r",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I absolutely do"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583123378.022900",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "0e290928-f486-4136-b588-f33f7555d7b9",
+        "type": "message",
+        "text": "I just thought you were saying that 3\" was needed for these swerve module",
+        "user": "US2PZ9QBF",
+        "ts": "1583123905.025300",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CHaS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I just thought you were saying that 3\" was needed for these swerve module"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583123378.022900",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "85c0f19b-0ba9-4b27-a441-f294a2afdc35",
+        "type": "message",
+        "text": "I'm glad we are doing 3 inch wheels",
+        "user": "US2PZ9QBF",
+        "ts": "1583123916.025500",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X37",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm glad we are doing 3 inch wheels"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583123378.022900",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "7828D264-E15C-4CC8-A120-C523740049C3",
+        "type": "message",
+        "text": "You might want to consider using 4” wheels for maximum zoop",
+        "user": "UU50D077H",
+        "ts": "1583124190.026200",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "790b5f83cbe4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-16\/943684986291_790b5f83cbe4b100e623_72.jpg",
+            "first_name": "Jake",
+            "real_name": "Jake Enos",
+            "display_name": "Jake Enos",
+            "team": "TS2PZ9PJR",
+            "name": "jake",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4s\/o",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You might want to consider using 4” wheels for maximum zoop"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583123378.022900",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "969eabb4-40f4-4b09-a32d-d26fe757e580",
+        "type": "message",
+        "text": "Yes, but then the module will be huge (in wheel swerve means the wheel is inside a massive gear)",
+        "user": "US2PZ9QBF",
+        "ts": "1583124595.026400",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "w8YCj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes, but then the module will be huge (in wheel swerve means the wheel is inside a massive gear)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583123378.022900",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "ECE13514-CA49-424D-B07A-9C44F7F9E322",
+        "type": "message",
+        "text": "Ah yeah that makes sense, I didn’t know we were doing it like that",
+        "user": "UU50D077H",
+        "ts": "1583124676.027200",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "790b5f83cbe4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-16\/943684986291_790b5f83cbe4b100e623_72.jpg",
+            "first_name": "Jake",
+            "real_name": "Jake Enos",
+            "display_name": "Jake Enos",
+            "team": "TS2PZ9PJR",
+            "name": "jake",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "257Sv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ah yeah that makes sense, I didn’t know we were doing it like that"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583123378.022900",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "68c4835d-a648-458c-be04-88801a8a275d",
+        "type": "message",
+        "text": "yes we have to do things the hard way",
+        "user": "URRA07VU3",
+        "ts": "1583125065.027400",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TbzI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yes we have to do things the hard way"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583123378.022900",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "6478925b-5e21-48ea-bc38-94c06e4fc283",
+        "type": "message",
+        "text": "wheel size changes how well a robot can drive over stuff but the zoop is really determined by the gear ratio",
+        "user": "URRA07VU3",
+        "ts": "1583125147.027700",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "u6J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "wheel size changes how well a robot can drive over stuff but the zoop is really determined by the gear ratio"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583123378.022900",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "type": "message",
+        "text": "for reference here's what the swerve will be based on. we'll be using a large ring bearing instead of four vgroove bearings and there will be a 3:1 reduction between the motors and the differential instead of just direct drive. I might flip the motors too (which we can do because of the extra reduction)",
+        "files": [
+            {
+                "id": "FUQK2SFFX",
+                "created": 1583125362,
+                "timestamp": 1583125362,
+                "name": "in wheel swerve.PNG",
+                "title": "in wheel swerve.PNG",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "URRA07VU3",
+                "editable": false,
+                "size": 281828,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TS2PZ9PJR-FUQK2SFFX\/in_wheel_swerve.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TS2PZ9PJR-FUQK2SFFX\/download\/in_wheel_swerve.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-FUQK2SFFX-2fcd7dc2f0\/in_wheel_swerve_64.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-FUQK2SFFX-2fcd7dc2f0\/in_wheel_swerve_80.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-FUQK2SFFX-2fcd7dc2f0\/in_wheel_swerve_360.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_360_w": 360,
+                "thumb_360_h": 288,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-FUQK2SFFX-2fcd7dc2f0\/in_wheel_swerve_480.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_480_w": 480,
+                "thumb_480_h": 385,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-FUQK2SFFX-2fcd7dc2f0\/in_wheel_swerve_160.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-FUQK2SFFX-2fcd7dc2f0\/in_wheel_swerve_720.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_720_w": 720,
+                "thumb_720_h": 577,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-FUQK2SFFX-2fcd7dc2f0\/in_wheel_swerve_800.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_800_w": 800,
+                "thumb_800_h": 641,
+                "image_exif_rotation": 1,
+                "original_w": 881,
+                "original_h": 706,
+                "thumb_tiny": "AwAmADDTqOaUQxM57Dp6mkeQqenFVbqUMyKw4xkcZGfpQBALmb7xkOf0qzHfBrVpCPnU4x6ntUI2sdgVPclMCkPllQgjQDryDigAF5MvLMD7Yq5BMJ4g68Z6j0NZ0iI\/yqwUj0BIP071dtlWGEIDk55OO9AFnbmoJ4gF68dKtU10DjntQBUVBjZ17daZ99TtJJBxz1\/OnTRyRklQTUMQkEhBQhWOeeMH1oAkReM8kk4HHNWkjxyetLFGM+YRyelS0AFFFFACHkYNMWMBsnn0p9LQAUUlFAH\/2Q==",
+                "permalink": "https:\/\/vroomvroomswerve.slack.com\/files\/URRA07VU3\/FUQK2SFFX\/in_wheel_swerve.png",
+                "permalink_public": "https:\/\/slack-files.com\/TS2PZ9PJR-FUQK2SFFX-48689ee753",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QK7mR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "for reference here's what the swerve will be based on. we'll be using a large ring bearing instead of four vgroove bearings and there will be a 3:1 reduction between the motors and the differential instead of just direct drive. I might flip the motors too (which we can do because of the extra reduction)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "URRA07VU3",
+        "display_as_bot": false,
+        "ts": "1583125367.027900",
+        "client_msg_id": "bac5c7dd-8b6a-411e-9a5b-65ee7009fb4d",
+        "thread_ts": "1583125367.027900",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1583126477.031200",
+        "reply_users": [
+            "UU50D077H",
+            "URRA07VU3"
+        ],
+        "replies": [
+            {
+                "user": "UU50D077H",
+                "ts": "1583125835.028500"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1583126106.028700"
+            },
+            {
+                "user": "UU50D077H",
+                "ts": "1583126223.030100"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1583126477.031200"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "4A1AF16C-8E1D-4497-A907-BD3C41347E1D",
+        "type": "message",
+        "text": "How much clearance does it have?",
+        "user": "UU50D077H",
+        "ts": "1583125835.028500",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "790b5f83cbe4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-16\/943684986291_790b5f83cbe4b100e623_72.jpg",
+            "first_name": "Jake",
+            "real_name": "Jake Enos",
+            "display_name": "Jake Enos",
+            "team": "TS2PZ9PJR",
+            "name": "jake",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2dS5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "How much clearance does it have?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583125367.027900",
+        "parent_user_id": "URRA07VU3"
+    },
+    {
+        "client_msg_id": "512a40a1-19a8-45f7-af44-06c4f26b0c77",
+        "type": "message",
+        "text": "Not enough (.45 I think) but I'll work on that and the wheel size will be increased some. There can also be \"skis\" around it like mean machine did last year. Good concern",
+        "user": "URRA07VU3",
+        "ts": "1583126106.028700",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1583125367.027900",
+        "parent_user_id": "URRA07VU3"
+    },
+    {
+        "client_msg_id": "214D5E61-5BBC-493D-9C91-57FECA49E1A1",
+        "type": "message",
+        "text": "We’ll have to figure out how to lower the wheel without lowering anything else or the barriers at OSF are gonna be a problem lol",
+        "user": "UU50D077H",
+        "ts": "1583126223.030100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "790b5f83cbe4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-16\/943684986291_790b5f83cbe4b100e623_72.jpg",
+            "first_name": "Jake",
+            "real_name": "Jake Enos",
+            "display_name": "Jake Enos",
+            "team": "TS2PZ9PJR",
+            "name": "jake",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4mMv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We’ll have to figure out how to lower the wheel without lowering anything else or the barriers at OSF are gonna be a problem lol"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583125367.027900",
+        "parent_user_id": "URRA07VU3"
+    },
+    {
+        "client_msg_id": "16d7731b-39c5-48ad-a62c-abab29d2a7ec",
+        "type": "message",
+        "text": "I think flipping the motors would be really cool and help save space for the module on top",
+        "user": "US2PZ9QBF",
+        "ts": "1583126468.031100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "obxf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think flipping the motors would be really cool and help save space for the module on top"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583126468.031100",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1583192466.000700",
+        "reply_users": [
+            "URRA07VU3",
+            "US2PZ9QBF"
+        ],
+        "replies": [
+            {
+                "user": "URRA07VU3",
+                "ts": "1583126608.031400"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1583126625.031600"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1583192466.000700"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1583192466.000700"
+    },
+    {
+        "client_msg_id": "aad286e4-6d83-4584-975a-f38c62dba390",
+        "type": "message",
+        "text": "yeah. there will be a limit to that with wheel in differential swerve, but a larger wheel and other tweaks can help with that. It would be good to prototype how effective a \"ski\" would be also.",
+        "user": "URRA07VU3",
+        "ts": "1583126477.031200",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Yl8XQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yeah. there will be a limit to that with wheel in differential swerve, but a larger wheel and other tweaks can help with that. It would be good to prototype how effective a \"ski\" would be also."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583125367.027900",
+        "parent_user_id": "URRA07VU3"
+    },
+    {
+        "client_msg_id": "31b91a24-5f0d-49f5-a36c-198810a5ccd3",
+        "type": "message",
+        "text": "I'll have to see how possible it is while keeping the module compact and having ground clearance. it would be nice though.",
+        "user": "URRA07VU3",
+        "ts": "1583126608.031400",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rSu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'll have to see how possible it is while keeping the module compact and having ground clearance. it would be nice though."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583126468.031100",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "ee52aec7-d28a-4394-bd84-a929af2ad2fa",
+        "type": "message",
+        "text": "Absolutely",
+        "user": "US2PZ9QBF",
+        "ts": "1583126625.031600",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8YO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Absolutely"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583126468.031100",
+        "parent_user_id": "US2PZ9QBF"
+    }
+]

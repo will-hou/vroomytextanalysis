@@ -1,0 +1,59 @@
+[
+    {
+        "client_msg_id": "ca9800ce-9b90-4ad6-bfe6-9fdee8f94ae1",
+        "type": "message",
+        "text": "<https:\/\/www.firstinspires.org\/robotics\/frc\/blog\/2021-mark-koors|https:\/\/www.firstinspires.org\/robotics\/frc\/blog\/2021-mark-koors>",
+        "user": "US2PZ9QBF",
+        "ts": "1599153437.000100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "FIRST",
+                "title": "Mark Koors",
+                "title_link": "https:\/\/www.firstinspires.org\/robotics\/frc\/blog\/2021-mark-koors",
+                "text": "Remembering Mark Koors.",
+                "fallback": "FIRST: Mark Koors",
+                "image_url": "https:\/\/www.firstinspires.org\/sites\/default\/files\/uploads\/frc\/Blog\/2021\/2021-mark-koors.jpg",
+                "ts": 1599088242,
+                "from_url": "https:\/\/www.firstinspires.org\/robotics\/frc\/blog\/2021-mark-koors",
+                "image_width": 188,
+                "image_height": 250,
+                "image_bytes": 32838,
+                "service_icon": "https:\/\/www.firstinspires.org\/sites\/default\/files\/first-favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.firstinspires.org\/robotics\/frc\/blog\/2021-mark-koors"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XJc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.firstinspires.org\/robotics\/frc\/blog\/2021-mark-koors",
+                                "text": "https:\/\/www.firstinspires.org\/robotics\/frc\/blog\/2021-mark-koors"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

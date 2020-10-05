@@ -1,0 +1,109 @@
+[
+    {
+        "client_msg_id": "77c94333-c3fd-4341-8340-e81b3ff79a60",
+        "type": "message",
+        "text": "<@URRA07VU3> and <@US4KMEG9M> I think you would like this",
+        "user": "US2PZ9QBF",
+        "ts": "1580538351.000500",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1ZH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "URRA07VU3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "US4KMEG9M"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I think you would like this"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "US4KMEG9M"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bc74c26a-1bb5-4c9c-9b20-a5d82aab18c2",
+        "type": "message",
+        "text": "<https:\/\/t.co\/q4jZtrUZr1|https:\/\/t.co\/q4jZtrUZr1>\n<https:\/\/twitter.com\/___sphere\/status\/1167003958562320384?s=20|https:\/\/twitter.com\/___sphere\/status\/1167003958562320384?s=20>",
+        "user": "US2PZ9QBF",
+        "ts": "1580538359.000700",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XwD6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/t.co\/q4jZtrUZr1",
+                                "text": "https:\/\/t.co\/q4jZtrUZr1"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/___sphere\/status\/1167003958562320384?s=20",
+                                "text": "https:\/\/twitter.com\/___sphere\/status\/1167003958562320384?s=20"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

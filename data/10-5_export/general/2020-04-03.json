@@ -1,0 +1,459 @@
+[
+    {
+        "client_msg_id": "c2f29145-e307-4ab7-8654-83d043dbf893",
+        "type": "message",
+        "text": "We definitely need one of these on the robot",
+        "user": "US2PZ9QBF",
+        "ts": "1585976380.001000",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6Cqg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We definitely need one of these on the robot"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585976380.001000",
+        "reply_count": 6,
+        "reply_users_count": 2,
+        "latest_reply": "1585976457.002300",
+        "reply_users": [
+            "URRA07VU3",
+            "US2PZ9QBF"
+        ],
+        "replies": [
+            {
+                "user": "URRA07VU3",
+                "ts": "1585976410.001300"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1585976427.001500"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1585976433.001700"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1585976443.001900"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1585976454.002100"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1585976457.002300"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1585976457.002300"
+    },
+    {
+        "client_msg_id": "cc93d1c7-8b2f-4a8a-98f7-1b06b1d0ee70",
+        "type": "message",
+        "text": "<https:\/\/www.amazon.com\/Tungsten-Cube-Biggest-Size\/dp\/B07WK9WLZ8\/ref=mp_s_a_1_10_sspa?dchild=1&amp;keywords=metal+cube&amp;qid=1585976304&amp;sr=8-10-spons&amp;psc=1&amp;spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyTUU1UExSUTNFTTREJmVuY3J5cHRlZElkPUEwMDQxNDExMzU0RExVR01YR1JHNSZlbmNyeXB0ZWRBZElkPUEwMjg3ODIzMUFBWFdQMElGMEtUJndpZGdldE5hbWU9c3BfcGhvbmVfc2VhcmNoX210ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=|https:\/\/www.amazon.com\/Tungsten-Cube-Biggest-Size\/dp\/B07WK9WLZ8\/ref=mp_s_a_1_10_sspa?dchild=1&amp;keywords=metal+cube&amp;qid=1585976304&amp;sr=8-10-spons&amp;psc=1&amp;spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyTUU1UExSUTNFTTREJmVuY3J5cHRlZElkPUEwMDQxNDExMzU0RExVR01YR1JHNSZlbmNyeXB0ZWRBZElkPUEwMjg3ODIzMUFBWFdQMElGMEtUJndpZGdldE5hbWU9c3BfcGhvbmVfc2VhcmNoX210ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=>",
+        "user": "US2PZ9QBF",
+        "ts": "1585976381.001200",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6M1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.amazon.com\/Tungsten-Cube-Biggest-Size\/dp\/B07WK9WLZ8\/ref=mp_s_a_1_10_sspa?dchild=1&keywords=metal+cube&qid=1585976304&sr=8-10-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyTUU1UExSUTNFTTREJmVuY3J5cHRlZElkPUEwMDQxNDExMzU0RExVR01YR1JHNSZlbmNyeXB0ZWRBZElkPUEwMjg3ODIzMUFBWFdQMElGMEtUJndpZGdldE5hbWU9c3BfcGhvbmVfc2VhcmNoX210ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=",
+                                "text": "https:\/\/www.amazon.com\/Tungsten-Cube-Biggest-Size\/dp\/B07WK9WLZ8\/ref=mp_s_a_1_10_sspa?dchild=1&keywords=metal+cube&qid=1585976304&sr=8-10-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyTUU1UExSUTNFTTREJmVuY3J5cHRlZElkPUEwMDQxNDExMzU0RExVR01YR1JHNSZlbmNyeXB0ZWRBZElkPUEwMjg3ODIzMUFBWFdQMElGMEtUJndpZGdldE5hbWU9c3BfcGhvbmVfc2VhcmNoX210ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU="
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585976381.001200",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1585976541.002700",
+        "reply_users": [
+            "URRA07VU3",
+            "US2PZ9QBF"
+        ],
+        "replies": [
+            {
+                "user": "URRA07VU3",
+                "ts": "1585976514.002500"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1585976541.002700"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1585976541.002700"
+    },
+    {
+        "client_msg_id": "1f015760-1751-4e9e-865a-d310ba495ead",
+        "type": "message",
+        "text": "someone watched William Osman",
+        "user": "URRA07VU3",
+        "ts": "1585976410.001300",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Re=p",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "someone watched William Osman"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585976380.001000",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "d82530c4-e3f0-435d-87f4-dde010ce6b96",
+        "type": "message",
+        "text": "Oops",
+        "user": "US2PZ9QBF",
+        "ts": "1585976427.001500",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tRg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oops"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585976380.001000",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "8499d866-5a83-473e-8bf2-8eac86a2aa1b",
+        "type": "message",
+        "text": "you wanted the minibot to be heavy right?",
+        "user": "URRA07VU3",
+        "ts": "1585976433.001700",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Zug",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "you wanted the minibot to be heavy right?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585976380.001000",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "df6af542-f85a-4af7-ae3b-1e94ba383609",
+        "type": "message",
+        "text": "YEAH!!!!",
+        "user": "US2PZ9QBF",
+        "ts": "1585976443.001900",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ncfl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "YEAH!!!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585976380.001000",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "798b83eb-200b-407b-aeda-de87448fc552",
+        "type": "message",
+        "text": "And to cost at least $2,000",
+        "user": "US2PZ9QBF",
+        "ts": "1585976454.002100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pWdcT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "And to cost at least $2,000"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585976380.001000",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "544ac55f-85b2-4bc9-9397-ce46a409930a",
+        "type": "message",
+        "text": ":joy:",
+        "user": "US2PZ9QBF",
+        "ts": "1585976457.002300",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uZI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "joy"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585976380.001000",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "5d708215-174d-4f5b-bcff-3f3a3f7e4742",
+        "type": "message",
+        "text": "Also, you should shorten your urls when posting them. example: <https:\/\/www.amazon.com\/Tungsten-Cube-Biggest-Size\/dp\/B07WK9WLZ8>",
+        "user": "URRA07VU3",
+        "ts": "1585976514.002500",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+CA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Also, you should shorten your urls when posting them. example: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.amazon.com\/Tungsten-Cube-Biggest-Size\/dp\/B07WK9WLZ8"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585976381.001200",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "b76cf28f-b47a-4964-93da-9418d9f0b357",
+        "type": "message",
+        "text": "Neat, I'll keep that In mind",
+        "user": "US2PZ9QBF",
+        "ts": "1585976541.002700",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PrlWr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Neat, I'll keep that In mind"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585976381.001200",
+        "parent_user_id": "US2PZ9QBF"
+    }
+]

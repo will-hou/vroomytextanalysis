@@ -1,0 +1,109 @@
+[
+    {
+        "client_msg_id": "40DACA49-BF05-49EC-952B-B42E5C600A54",
+        "type": "message",
+        "text": "BRRRRT BRRRRT",
+        "user": "US2PZ9QBF",
+        "ts": "1594170364.000800",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2DiLs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "BRRRRT BRRRRT"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eggplant",
+                "users": [
+                    "URRA07VU3",
+                    "US2PZ9QBF",
+                    "URRA07R7D"
+                ],
+                "count": 3
+            },
+            {
+                "name": "dealwithitnowparrot",
+                "users": [
+                    "US2PZ9QBF",
+                    "URRA07R7D",
+                    "URRA07VU3"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "46ce7759-0772-487c-b687-d3e7a9db107e",
+        "type": "message",
+        "text": "Brrt brrrt",
+        "user": "URRA07VU3",
+        "ts": "1594170376.001100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "eggplant",
+                "users": [
+                    "US2PZ9QBF",
+                    "URRA07R7D",
+                    "URRA07VU3"
+                ],
+                "count": 3
+            },
+            {
+                "name": "dealwithitnowparrot",
+                "users": [
+                    "US2PZ9QBF",
+                    "URRA07R7D",
+                    "URRA07VU3"
+                ],
+                "count": 3
+            },
+            {
+                "name": "communism",
+                "users": [
+                    "US2PZ9QBF",
+                    "URRA07VU3"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

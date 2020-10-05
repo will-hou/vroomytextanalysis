@@ -1,0 +1,163 @@
+[
+    {
+        "client_msg_id": "51e7de38-e07b-49bf-9775-080bb4555f05",
+        "type": "message",
+        "text": "here's another bot with an almost serpent indexer, a very unique retractable hood, and a linear baring box slide mecanism",
+        "user": "US2PZ9QBF",
+        "ts": "1584553948.026100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Pog7J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "here's another bot with an almost serpent indexer, a very unique retractable hood, and a linear baring box slide mecanism"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0e483e31-dcbf-44ad-a026-f0c0c84e89fd",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=pnHjPJop7GA>",
+        "user": "US2PZ9QBF",
+        "ts": "1584553951.026300",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "FRC 2168 - 2020 Robot Reveal",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=pnHjPJop7GA",
+                "author_name": "FirstTeam2168",
+                "author_link": "https:\/\/www.youtube.com\/user\/FirstTeam2168",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/pnHjPJop7GA\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: FRC 2168 - 2020 Robot Reveal",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/pnHjPJop7GA?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=pnHjPJop7GA",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=pnHjPJop7GA"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0cfp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=pnHjPJop7GA"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584553951.026300",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1584554738.026700",
+        "reply_users": [
+            "URRA07VU3"
+        ],
+        "replies": [
+            {
+                "user": "URRA07VU3",
+                "ts": "1584554738.026700"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1584554738.026700",
+        "reactions": [
+            {
+                "name": "do_your_homework",
+                "users": [
+                    "URRA07VU3"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2f3776f6-2e76-42bb-9269-e1727561c2c9",
+        "type": "message",
+        "text": "nice find!",
+        "user": "URRA07VU3",
+        "ts": "1584554738.026700",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lXSJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "nice find!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584553951.026300",
+        "parent_user_id": "US2PZ9QBF"
+    }
+]

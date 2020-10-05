@@ -1,0 +1,562 @@
+[
+    {
+        "client_msg_id": "32a771bc-9919-412b-83d9-ed7300205131",
+        "type": "message",
+        "text": "The Auburn Mountainview event has been canceled. FIRSTWa is also considering selling safety classes instead of lending. They are also recommending disinfectant on driver stations between matches.",
+        "user": "US2PZ9QBF",
+        "ts": "1583445278.000200",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Fnr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The Auburn Mountainview event has been canceled. FIRSTWa is also considering selling safety classes instead of lending. They are also recommending disinfectant on driver stations between matches."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "88b6dde5-d869-42fa-b214-272fbc792a2e",
+        "type": "message",
+        "text": "<!everyone> please be safe out there",
+        "user": "US2PZ9QBF",
+        "ts": "1583445300.000900",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9P33W",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "everyone"
+                            },
+                            {
+                                "type": "text",
+                                "text": " please be safe out there"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "924e147b-3c14-4ab1-b6a1-ed00f533f2fd",
+        "type": "message",
+        "text": "And even consider weather it's worth it to go to competitions that aren't cancelled",
+        "user": "US2PZ9QBF",
+        "ts": "1583445330.001800",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BFf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "And even consider weather it's worth it to go to competitions that aren't cancelled"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3bd0ac03-d9ab-4c2c-8b8c-507fc8577cdc",
+        "type": "message",
+        "text": "Yeah they aren't considering it, that's their plan:\n<http:\/\/firstwa.org|firstwa.org>",
+        "user": "UUH3JGD7H",
+        "ts": "1583445865.003100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "0d4ce2beb963",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-24\/967310845472_0d4ce2beb963e5271a18_72.jpg",
+            "first_name": "Ethan",
+            "real_name": "Ethan Hansen",
+            "display_name": "Ethan",
+            "team": "TS2PZ9PJR",
+            "name": "1ethanhansen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3Yd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah they aren't considering it, that's their plan:\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/firstwa.org",
+                                "text": "firstwa.org"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "48d4dc24-6623-4984-93e8-3d0094d9ab0d",
+        "type": "message",
+        "text": "No I'm saying Washington teams will be at willsonville",
+        "user": "US2PZ9QBF",
+        "ts": "1583445953.003800",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FQ0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "No I'm saying Washington teams will be at willsonville"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "49937b25-5553-4b4e-b39c-0daab1c96973",
+        "type": "message",
+        "text": "It's possible that the virus will be there to",
+        "user": "US2PZ9QBF",
+        "ts": "1583445965.004300",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zfz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It's possible that the virus will be there to"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583445965.004300",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1583446150.005600",
+        "reply_users": [
+            "URRA07VU3",
+            "US2PZ9QBF"
+        ],
+        "replies": [
+            {
+                "user": "URRA07VU3",
+                "ts": "1583446076.005200"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1583446129.005400"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1583446150.005600"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1583446150.005600"
+    },
+    {
+        "client_msg_id": "fd0966fc-8e9d-4709-9ed3-4cdb45dca918",
+        "type": "message",
+        "text": "Right now sert is considering not going to willsonville",
+        "user": "US2PZ9QBF",
+        "ts": "1583445994.005100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7I=iQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Right now sert is considering not going to willsonville"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fc129072-a027-41df-8bfb-a989e82cc0d7",
+        "type": "message",
+        "text": "The smell of the pits should keep it away.",
+        "user": "URRA07VU3",
+        "ts": "1583446076.005200",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1583445965.004300",
+        "parent_user_id": "US2PZ9QBF",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "URRA07R7D"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "49547538-3cd2-41b1-89c5-8aeae1d70d2c",
+        "type": "message",
+        "text": "But seriously competitions and especially worlds might be a bad idea in terms of spread",
+        "user": "URRA07VU3",
+        "ts": "1583446129.005400",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1583445965.004300",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "9eaefc6f-64ce-4793-8849-0ec8b6335180",
+        "type": "message",
+        "text": "Absolutely",
+        "user": "US2PZ9QBF",
+        "ts": "1583446150.005600",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wq9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Absolutely"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583445965.004300",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "a37aa5dd-474b-4241-85a6-2d410bb59d74",
+        "type": "message",
+        "text": "Best robot this year!!!! \n<https:\/\/youtu.be\/sdFYqolWnyw|https:\/\/youtu.be\/sdFYqolWnyw>",
+        "user": "US2PZ9QBF",
+        "ts": "1583468947.005900",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "FRC 117 Steel Dragons 2020 Robot Reveal",
+                "title_link": "https:\/\/youtu.be\/sdFYqolWnyw",
+                "author_name": "Taylor Allderdice Steel Dragons",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCZQR55UCgdQgOS9yMX-Hw3A",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/sdFYqolWnyw\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: FRC 117 Steel Dragons 2020 Robot Reveal",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/sdFYqolWnyw?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/youtu.be\/sdFYqolWnyw",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/youtu.be\/sdFYqolWnyw"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OmHBY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Best robot this year!!!! \n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/youtu.be\/sdFYqolWnyw",
+                                "text": "https:\/\/youtu.be\/sdFYqolWnyw"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "aa9d7364-a9d3-4fe3-8588-6350b29f1271",
+        "type": "message",
+        "text": "Robnots are here\n<https:\/\/youtu.be\/LmmfR_Qd3KI|https:\/\/youtu.be\/LmmfR_Qd3KI>",
+        "user": "US2PZ9QBF",
+        "ts": "1583470965.006200",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Team 118 Robonauts 2020",
+                "title_link": "https:\/\/youtu.be\/LmmfR_Qd3KI",
+                "author_name": "Justin Ridley",
+                "author_link": "https:\/\/www.youtube.com\/user\/jsridley",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/LmmfR_Qd3KI\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Team 118 Robonauts 2020",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/LmmfR_Qd3KI?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/youtu.be\/LmmfR_Qd3KI",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/youtu.be\/LmmfR_Qd3KI"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mqx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Robnots are here\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/youtu.be\/LmmfR_Qd3KI",
+                                "text": "https:\/\/youtu.be\/LmmfR_Qd3KI"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3075b109-1474-43df-8119-4c0768550636",
+        "type": "message",
+        "text": "Amazing",
+        "user": "UUH3JGD7H",
+        "ts": "1583472919.000200",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "0d4ce2beb963",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-24\/967310845472_0d4ce2beb963e5271a18_72.jpg",
+            "first_name": "Ethan",
+            "real_name": "Ethan Hansen",
+            "display_name": "Ethan",
+            "team": "TS2PZ9PJR",
+            "name": "1ethanhansen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2mhZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Amazing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

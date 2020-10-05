@@ -1,0 +1,83 @@
+[
+    {
+        "client_msg_id": "57adce09-a8c9-44d8-92f8-d34b58a4ef46",
+        "type": "message",
+        "text": "Vroom vroom",
+        "user": "URRA07VU3",
+        "ts": "1593467693.000300",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "bear_bounce",
+                "users": [
+                    "URRA07R7D",
+                    "US2PZ9QBF",
+                    "UU50D077H"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0a7d9a7c-7dda-407e-ad49-5a2252c42576",
+        "type": "message",
+        "text": "vroom vroom",
+        "user": "URRA07R7D",
+        "ts": "1593467698.000500",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "2340815f3f5d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-16\/992617530243_2340815f3f5d0170300e_72.png",
+            "first_name": "William",
+            "real_name": "William Hou",
+            "display_name": "vroomy pitchfork",
+            "team": "TS2PZ9PJR",
+            "name": "whou125",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XHi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "vroom vroom"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "irvine",
+                "users": [
+                    "URRA07VU3",
+                    "US2PZ9QBF",
+                    "UU50D077H"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

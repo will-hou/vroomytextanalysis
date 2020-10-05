@@ -1,0 +1,793 @@
+[
+    {
+        "client_msg_id": "F98AA51A-ACD3-4758-82C5-AD796F01E7E3",
+        "type": "message",
+        "text": "Neos seem like a good pick for the modules",
+        "user": "UUE9YV61K",
+        "ts": "1583294197.000400",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "cb12c096f208",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-03\/980831491397_cb12c096f208c53c20d4_72.png",
+            "first_name": "Dillon",
+            "real_name": "Dillon Mucha",
+            "display_name": "Dillon",
+            "team": "TS2PZ9PJR",
+            "name": "dillonmucha",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NU5Iq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Neos seem like a good pick for the modules"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "968D5324-09DD-4B57-899E-1A433AA9A3B0",
+        "type": "message",
+        "text": "The only concern I have with flipping the motors would be ease of mounting ",
+        "user": "UUE9YV61K",
+        "ts": "1583294230.001300",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "cb12c096f208",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-03\/980831491397_cb12c096f208c53c20d4_72.png",
+            "first_name": "Dillon",
+            "real_name": "Dillon Mucha",
+            "display_name": "Dillon",
+            "team": "TS2PZ9PJR",
+            "name": "dillonmucha",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wPy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The only concern I have with flipping the motors would be ease of mounting "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8158CB70-9C0B-4E45-B972-F03B4FD4AD86",
+        "type": "message",
+        "text": "Do we have any plans to use an external encoder or just to use the onboard ones assuming we go with neos",
+        "user": "UUE9YV61K",
+        "ts": "1583294294.002200",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "cb12c096f208",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-03\/980831491397_cb12c096f208c53c20d4_72.png",
+            "first_name": "Dillon",
+            "real_name": "Dillon Mucha",
+            "display_name": "Dillon",
+            "team": "TS2PZ9PJR",
+            "name": "dillonmucha",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "agyb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Do we have any plans to use an external encoder or just to use the onboard ones assuming we go with neos"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "56B36446-23AD-4A4E-86CA-934DD55C1829",
+        "type": "message",
+        "text": "We have talked about using absolute encoders",
+        "user": "US2PZ9QBF",
+        "ts": "1583294328.002900",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "US2PZ9QBF",
+            "ts": "1583294740.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+cP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We have talked about using absolute encoders"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583294328.002900",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1583294729.009200",
+        "reply_users": [
+            "URRA07VU3",
+            "US2PZ9QBF"
+        ],
+        "replies": [
+            {
+                "user": "URRA07VU3",
+                "ts": "1583294714.008800"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1583294729.009200"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1583294729.009200"
+    },
+    {
+        "client_msg_id": "3381C879-9414-47FC-A948-CD290CD9B1FA",
+        "type": "message",
+        "text": "( I think that’s the wrong name)",
+        "user": "US2PZ9QBF",
+        "ts": "1583294345.003300",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vW=W",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "( I think that’s the wrong name)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "26862CF6-CAF5-4875-91B3-293A79AFC86A",
+        "type": "message",
+        "text": "However that’s something we should actually talk about <@URRA07VU3> and <@UUH3JGD7H> and <@US4KMEG9M> ",
+        "user": "US2PZ9QBF",
+        "ts": "1583294389.004800",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5=hm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "However that’s something we should actually talk about "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "URRA07VU3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UUH3JGD7H"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "US4KMEG9M"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "84375877-6061-4717-A40C-75C12A5D1504",
+        "type": "message",
+        "text": "It seems like it would be nice to have, the onboard neo ones aren’t always perfect and with swerve it might be nice to have external ones, though I’m not sure how that would affect programming.",
+        "user": "UUE9YV61K",
+        "ts": "1583294437.006100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "cb12c096f208",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-03\/980831491397_cb12c096f208c53c20d4_72.png",
+            "first_name": "Dillon",
+            "real_name": "Dillon Mucha",
+            "display_name": "Dillon",
+            "team": "TS2PZ9PJR",
+            "name": "dillonmucha",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Cwm3n",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It seems like it would be nice to have, the onboard neo ones aren’t always perfect and with swerve it might be nice to have external ones, though I’m not sure how that would affect programming."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9DFD9DD8-763E-4A2F-817E-C45AE8BC03CE",
+        "type": "message",
+        "text": "With swerve and especially differential swerve, the modules movement will be fairly touchy so I would think that something more accurate would work better",
+        "user": "US2PZ9QBF",
+        "ts": "1583294516.007800",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "epDE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "With swerve and especially differential swerve, the modules movement will be fairly touchy so I would think that something more accurate would work better"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "F9712A16-29E6-4015-A37E-9FF68CA5098F",
+        "type": "message",
+        "text": "That being said, I don’t code",
+        "user": "US2PZ9QBF",
+        "ts": "1583294537.008300",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6aR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That being said, I don’t code"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "53D5A4BE-843D-49F7-9D41-269F948917E6",
+        "type": "message",
+        "text": "Or at least I don’t robo code",
+        "user": "US2PZ9QBF",
+        "ts": "1583294550.008700",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GkM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Or at least I don’t robo code"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1fd91d49-618d-45f2-ac7c-6feff93865aa",
+        "type": "message",
+        "text": "absolute?",
+        "user": "URRA07VU3",
+        "ts": "1583294714.008800",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hD0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "absolute?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583294328.002900",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "7C4B93DC-AA58-478E-BF44-0CCE0089762C",
+        "type": "message",
+        "text": "There you go",
+        "user": "US2PZ9QBF",
+        "ts": "1583294729.009200",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Re+2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "There you go"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1583294328.002900",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "c137b896-46cf-4bbd-ba3f-5e4a1534977a",
+        "type": "message",
+        "text": "Jack in the Bot does just neo encoders because they're good enough",
+        "user": "UUH3JGD7H",
+        "ts": "1583294973.010100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "0d4ce2beb963",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-24\/967310845472_0d4ce2beb963e5271a18_72.jpg",
+            "first_name": "Ethan",
+            "real_name": "Ethan Hansen",
+            "display_name": "Ethan",
+            "team": "TS2PZ9PJR",
+            "name": "1ethanhansen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BvJj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Jack in the Bot does just neo encoders because they're good enough"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "02E87492-F0DE-4402-9C12-91F59E716D5B",
+        "type": "message",
+        "text": "Ok cool",
+        "user": "UUE9YV61K",
+        "ts": "1583294993.010700",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "cb12c096f208",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-03\/980831491397_cb12c096f208c53c20d4_72.png",
+            "first_name": "Dillon",
+            "real_name": "Dillon Mucha",
+            "display_name": "Dillon",
+            "team": "TS2PZ9PJR",
+            "name": "dillonmucha",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Rg0Ww",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ok cool"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6922be2d-52bf-439a-946b-266f46593dc2",
+        "type": "message",
+        "text": "That's true <@UUH3JGD7H> but they power there drive with one neo, and when we are driving in a straight line, ours will be powered with 2",
+        "user": "US2PZ9QBF",
+        "ts": "1583295121.011900",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7G\/Oa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That's true "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UUH3JGD7H"
+                            },
+                            {
+                                "type": "text",
+                                "text": " but they power there drive with one neo, and when we are driving in a straight line, ours will be powered with 2"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b2aef283-f46e-4b3d-a578-4621e4148c02",
+        "type": "message",
+        "text": "And the same goes for turning when we are only turning the module",
+        "user": "US2PZ9QBF",
+        "ts": "1583295142.012600",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JswT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "And the same goes for turning when we are only turning the module"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f48cb9e4-d151-407c-8657-77e737803a7d",
+        "type": "message",
+        "text": "hmmmm yeah. they only need the encoder on their turning motors",
+        "user": "UUH3JGD7H",
+        "ts": "1583295880.013100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "0d4ce2beb963",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-24\/967310845472_0d4ce2beb963e5271a18_72.jpg",
+            "first_name": "Ethan",
+            "real_name": "Ethan Hansen",
+            "display_name": "Ethan",
+            "team": "TS2PZ9PJR",
+            "name": "1ethanhansen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sODb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hmmmm yeah. they only need the encoder on their turning motors"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e33eee05-2b2a-4d9e-ad93-b08b4816f29a",
+        "type": "message",
+        "text": "I think you'll want an absolute encoder 1:1 on the wheel. the neo encoders are probably enough for the motors",
+        "user": "URRA07VU3",
+        "ts": "1583295950.013900",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qCM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think you'll want an absolute encoder 1:1 on the wheel. the neo encoders are probably enough for the motors"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "US4KMEG9M"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "db047dd4-c80a-4d12-bbf2-a14c1b4b3c38",
+        "type": "message",
+        "text": "Yeah from what I know the drift is actually pretty good on the neos",
+        "user": "UUH3JGD7H",
+        "ts": "1583299953.014600",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "0d4ce2beb963",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-24\/967310845472_0d4ce2beb963e5271a18_72.jpg",
+            "first_name": "Ethan",
+            "real_name": "Ethan Hansen",
+            "display_name": "Ethan",
+            "team": "TS2PZ9PJR",
+            "name": "1ethanhansen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VgVHo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah from what I know the drift is actually pretty good on the neos"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

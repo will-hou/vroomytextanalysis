@@ -1,0 +1,2145 @@
+[
+    {
+        "client_msg_id": "72564519-e991-4567-bd9f-fa997e0a1655",
+        "type": "message",
+        "text": "I have 2 cad question",
+        "user": "US2PZ9QBF",
+        "ts": "1585677921.000400",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xsp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I have 2 cad question"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "29c9d3e5-790f-42ec-a121-fdc1d19fa2bb",
+        "type": "message",
+        "text": "#1) how do you figure out the correct spacing for gears?",
+        "user": "US2PZ9QBF",
+        "ts": "1585677952.001000",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "d9u0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "#1) how do you figure out the correct spacing for gears?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f5776663-348a-4e6e-bb43-4c4bfbdd4b2f",
+        "type": "message",
+        "text": "<https:\/\/www.wcproducts.com\/how-to-gears\/>",
+        "user": "URRA07VU3",
+        "ts": "1585678014.002200",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LREJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.wcproducts.com\/how-to-gears\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585678014.002200",
+        "reply_count": 46,
+        "reply_users_count": 3,
+        "latest_reply": "1585687334.011700",
+        "reply_users": [
+            "US2PZ9QBF",
+            "URRA07VU3",
+            "USLACKBOT"
+        ],
+        "replies": [
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1585678115.002500"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1585678138.002700"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1585678155.002900"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1585678176.003100"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1585678192.003300"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1585678204.003500"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1585678228.003700"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1585678251.003900"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1585678399.004200"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1585678425.004400"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1585678432.004600"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1585678444.004800"
+            },
+            {
+                "user": "USLACKBOT",
+                "ts": "1585678445.005000"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1585678487.005300"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1585678545.005500"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1585678571.005700"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1585678725.005900"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1585678872.006100"
+            },
+            {
+                "user": "USLACKBOT",
+                "ts": "1585678872.006300"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1585678945.006500"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1585679094.006700"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1585679127.006900"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1585679135.007100"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1585679211.007300"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1585679237.007500"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1585679286.007700"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1585679314.007900"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1585679660.008100"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1585680040.008300"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1585680082.008500"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1585681163.008700"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1585681545.008900"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1585681780.009100"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1585682839.009300"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1585682856.009500"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1585682882.009700"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1585682906.009900"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1585683758.010100"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1585683783.010300"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1585683829.010500"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1585683848.010700"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1585683864.010900"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1585687140.011100"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1585687149.011300"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1585687220.011500"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1585687334.011700"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1585687334.011700"
+    },
+    {
+        "client_msg_id": "2b2abe36-6d8a-46e2-bc68-d1c6d1c49e49",
+        "type": "message",
+        "text": "#2) <@UU50D077H> may I please have the cad for the shifter that you use on 5468",
+        "user": "US2PZ9QBF",
+        "ts": "1585678017.002400",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tRcf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "#2) "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UU50D077H"
+                            },
+                            {
+                                "type": "text",
+                                "text": " may I please have the cad for the shifter that you use on 5468"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6ec79b85-cf39-42e8-b182-6cc7e8f2f45c",
+        "type": "message",
+        "text": "the calculator thing at the bottom isn't loading, will that tell me what the size should be?",
+        "user": "US2PZ9QBF",
+        "ts": "1585678115.002500",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tLw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "the calculator thing at the bottom isn't loading, will that tell me what the size should be?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585678014.002200",
+        "parent_user_id": "URRA07VU3"
+    },
+    {
+        "client_msg_id": "5ae2c5d4-07dd-4d09-a749-0957a681cfcd",
+        "type": "message",
+        "text": "or I guess what the added space should be",
+        "user": "US2PZ9QBF",
+        "ts": "1585678138.002700",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RMJtc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "or I guess what the added space should be"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585678014.002200",
+        "parent_user_id": "URRA07VU3"
+    },
+    {
+        "client_msg_id": "6dc88002-82ee-4efb-8f0d-9719105faaad",
+        "type": "message",
+        "text": "it will tell you the center distance between two gears",
+        "user": "URRA07VU3",
+        "ts": "1585678155.002900",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rmK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "it will tell you the center distance between two gears"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585678014.002200",
+        "parent_user_id": "URRA07VU3"
+    },
+    {
+        "client_msg_id": "cb82752c-a21a-486b-8043-5300dad8f96b",
+        "type": "message",
+        "text": "what do you mean",
+        "user": "US2PZ9QBF",
+        "ts": "1585678176.003100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "irAJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "what do you mean"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585678014.002200",
+        "parent_user_id": "URRA07VU3"
+    },
+    {
+        "client_msg_id": "12fcac38-0298-4b9f-8b61-34dfcdbc0df3",
+        "type": "message",
+        "text": "adding .002\" between gears is usually recommended",
+        "user": "URRA07VU3",
+        "ts": "1585678192.003300",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oM825",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "adding .002\" between gears is usually recommended"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585678014.002200",
+        "parent_user_id": "URRA07VU3"
+    },
+    {
+        "client_msg_id": "ebfaab8d-9292-44fc-80be-fd4046b17b79",
+        "type": "message",
+        "text": "interesting",
+        "user": "US2PZ9QBF",
+        "ts": "1585678204.003500",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "J=\/p",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "interesting"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585678014.002200",
+        "parent_user_id": "URRA07VU3"
+    },
+    {
+        "client_msg_id": "e9d5931b-98c5-48a8-8f54-265c37bb0780",
+        "type": "message",
+        "text": "you input information about two gears and it calculates the distance between the two axes of the gears",
+        "user": "URRA07VU3",
+        "ts": "1585678228.003700",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lkkKU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "you input information about two gears and it calculates the distance between the two axes of the gears"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585678014.002200",
+        "parent_user_id": "URRA07VU3"
+    },
+    {
+        "client_msg_id": "aa3ec0b3-2ae0-4644-bf15-7eaa855c2e9d",
+        "type": "message",
+        "text": "that's so cool",
+        "user": "US2PZ9QBF",
+        "ts": "1585678251.003900",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "US2PZ9QBF",
+            "ts": "1585678260.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yMzD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "that's so cool"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585678014.002200",
+        "parent_user_id": "URRA07VU3"
+    },
+    {
+        "client_msg_id": "cdae7aa7-6105-4d93-ba24-13bc30751416",
+        "type": "message",
+        "text": "it basically finds the diameters of the gears from dp (diametral pitch) and number of teeth.\nThis is easy because the number of teeth divided by dp is the diameter. then it finds the radius of each gear, adds them together, and adds .002\"",
+        "user": "URRA07VU3",
+        "ts": "1585678399.004200",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VD6s",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "it basically finds the diameters of the gears from dp (diametral pitch) and number of teeth.\nThis is easy because the number of teeth divided by dp is the diameter. then it finds the radius of each gear, adds them together, and adds .002\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585678014.002200",
+        "parent_user_id": "URRA07VU3"
+    },
+    {
+        "client_msg_id": "d3aac515-7a7e-42b3-925a-1b61d227620f",
+        "type": "message",
+        "text": "nat",
+        "user": "US2PZ9QBF",
+        "ts": "1585678425.004400",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3qRH9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "nat"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585678014.002200",
+        "parent_user_id": "URRA07VU3"
+    },
+    {
+        "client_msg_id": "4ad9eebc-b7d9-4adc-9232-565d7658ffef",
+        "type": "message",
+        "text": "*neat",
+        "user": "US2PZ9QBF",
+        "ts": "1585678432.004600",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NAy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "*neat"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585678014.002200",
+        "parent_user_id": "URRA07VU3"
+    },
+    {
+        "client_msg_id": "7f22b935-6655-449a-aba5-3cd1cd2a30af",
+        "type": "message",
+        "text": "I think i'll just do that by hand then",
+        "user": "US2PZ9QBF",
+        "ts": "1585678444.004800",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "US2PZ9QBF",
+            "ts": "1585678462.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "i5S",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think i'll just do that by hand then"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585678014.002200",
+        "parent_user_id": "URRA07VU3"
+    },
+    {
+        "type": "message",
+        "subtype": "slackbot_response",
+        "text": "you should have drank more water",
+        "user": "USLACKBOT",
+        "ts": "1585678445.005000",
+        "thread_ts": "1585678014.002200",
+        "parent_user_id": "URRA07VU3"
+    },
+    {
+        "client_msg_id": "74c3ee6f-2685-483d-80e5-933a1e2474f5",
+        "type": "message",
+        "text": "thanks for catching my spelling slackbot",
+        "user": "US2PZ9QBF",
+        "ts": "1585678487.005300",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "R=a",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "thanks for catching my spelling slackbot"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585678014.002200",
+        "parent_user_id": "URRA07VU3"
+    },
+    {
+        "client_msg_id": "c76f2880-8757-4b07-b651-089af5470644",
+        "type": "message",
+        "text": "try to cad the gearbox so you can easily change the gear sizes.",
+        "user": "URRA07VU3",
+        "ts": "1585678545.005500",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7Tm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "try to cad the gearbox so you can easily change the gear sizes."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585678014.002200",
+        "parent_user_id": "URRA07VU3"
+    },
+    {
+        "client_msg_id": "011cfe89-b3ff-4e66-adc7-59bd5b1e1470",
+        "type": "message",
+        "text": "what do you mean?",
+        "user": "US2PZ9QBF",
+        "ts": "1585678571.005700",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "upu9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "what do you mean?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585678014.002200",
+        "parent_user_id": "URRA07VU3"
+    },
+    {
+        "client_msg_id": "d27ac9e6-ec38-4e69-9604-4c116098dde5",
+        "type": "message",
+        "text": "you'll probably want to change ratios at some point in the design process. try to minimize the number of dimensions that you have to change each time you do that",
+        "user": "URRA07VU3",
+        "ts": "1585678725.005900",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "q1Ub",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "you'll probably want to change ratios at some point in the design process. try to minimize the number of dimensions that you have to change each time you do that"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585678014.002200",
+        "parent_user_id": "URRA07VU3"
+    },
+    {
+        "client_msg_id": "bdedbcf1-cbd4-4591-bad2-c0fdb34c8d21",
+        "type": "message",
+        "text": "ok, ill do this thing",
+        "user": "US2PZ9QBF",
+        "ts": "1585678872.006100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7Y5BC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ok, ill do this thing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585678014.002200",
+        "parent_user_id": "URRA07VU3"
+    },
+    {
+        "type": "message",
+        "subtype": "slackbot_response",
+        "text": "you should have drank more water",
+        "user": "USLACKBOT",
+        "ts": "1585678872.006300",
+        "thread_ts": "1585678014.002200",
+        "parent_user_id": "URRA07VU3"
+    },
+    {
+        "client_msg_id": "23269b21-6d78-4a3f-9dd4-7ee1c68f3316",
+        "type": "message",
+        "text": "also, is there a way to add those fancy holes on the sheet metal without losing strength and to do it all automaticaly",
+        "user": "US2PZ9QBF",
+        "ts": "1585678945.006500",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vfIs2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "also, is there a way to add those fancy holes on the sheet metal without losing strength and to do it all automaticaly"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585678014.002200",
+        "parent_user_id": "URRA07VU3"
+    },
+    {
+        "client_msg_id": "8357b543-0619-4f9e-983b-2fd85b4988dd",
+        "type": "message",
+        "text": "pocketing? It does lose strength, it just keeps as much strength as possible for the weight.\nYes, solidworks can help you pocket automatically if you tell it how strong the part needs to be. It tends to be annoying for me though",
+        "user": "URRA07VU3",
+        "ts": "1585679094.006700",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yl4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "pocketing? It does lose strength, it just keeps as much strength as possible for the weight.\nYes, solidworks can help you pocket automatically if you tell it how strong the part needs to be. It tends to be annoying for me though"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585678014.002200",
+        "parent_user_id": "URRA07VU3"
+    },
+    {
+        "client_msg_id": "0c219b21-b3e5-4217-a56e-7b7e94415c11",
+        "type": "message",
+        "text": "yes that",
+        "user": "US2PZ9QBF",
+        "ts": "1585679127.006900",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eup",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yes that"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585678014.002200",
+        "parent_user_id": "URRA07VU3"
+    },
+    {
+        "client_msg_id": "d82d3940-a05b-44cf-a734-46acceeed6e3",
+        "type": "message",
+        "text": "why is it anoying",
+        "user": "US2PZ9QBF",
+        "ts": "1585679135.007100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JX1f",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "why is it anoying"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585678014.002200",
+        "parent_user_id": "URRA07VU3"
+    },
+    {
+        "client_msg_id": "696fc5e4-8ca8-46e5-b1a7-3770b487ad6b",
+        "type": "message",
+        "text": "I find it slow and annoying, but I don't have much practice with it.\nIt's done like a simulation and basically tries a bunch of things and shows you what works within your constraints",
+        "user": "URRA07VU3",
+        "ts": "1585679211.007300",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vNEy7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I find it slow and annoying, but I don't have much practice with it.\nIt's done like a simulation and basically tries a bunch of things and shows you what works within your constraints"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585678014.002200",
+        "parent_user_id": "URRA07VU3"
+    },
+    {
+        "client_msg_id": "22ba9300-56c4-46f7-83ce-0815996e7cdd",
+        "type": "message",
+        "text": "intersting",
+        "user": "US2PZ9QBF",
+        "ts": "1585679237.007500",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "S8K",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "intersting"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585678014.002200",
+        "parent_user_id": "URRA07VU3"
+    },
+    {
+        "client_msg_id": "5c302f13-c012-4dbf-9680-ea3ab695d934",
+        "type": "message",
+        "text": "I did my old swerve plate manually. you could look at that model to see what I did. basically a bunch of borders on stuff.",
+        "user": "URRA07VU3",
+        "ts": "1585679286.007700",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "B12X4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I did my old swerve plate manually. you could look at that model to see what I did. basically a bunch of borders on stuff."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585678014.002200",
+        "parent_user_id": "URRA07VU3"
+    },
+    {
+        "client_msg_id": "58fc35ae-72f7-4724-868e-7e0648a7c8f7",
+        "type": "message",
+        "text": "nice",
+        "user": "US2PZ9QBF",
+        "ts": "1585679314.007900",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Sbvh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "nice"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585678014.002200",
+        "parent_user_id": "URRA07VU3"
+    },
+    {
+        "client_msg_id": "aa089dee-41d3-4daf-b701-88e0ee6e561f",
+        "type": "message",
+        "text": "what's you plan for the shifter part?",
+        "user": "URRA07VU3",
+        "ts": "1585679660.008100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5hE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "what's you plan for the shifter part?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585678014.002200",
+        "parent_user_id": "URRA07VU3"
+    },
+    {
+        "client_msg_id": "90db2bff-61a0-46c7-9138-447003795aac",
+        "type": "message",
+        "text": "I don't know",
+        "user": "US2PZ9QBF",
+        "ts": "1585680040.008300",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U6A",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I don't know"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585678014.002200",
+        "parent_user_id": "URRA07VU3"
+    },
+    {
+        "client_msg_id": "2bf5ce4c-0c78-43db-8fd3-c8effb7abb22",
+        "type": "message",
+        "text": "what are your thoughts",
+        "user": "US2PZ9QBF",
+        "ts": "1585680082.008500",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Gen",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "what are your thoughts"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585678014.002200",
+        "parent_user_id": "URRA07VU3"
+    },
+    {
+        "client_msg_id": "bffda046-b72e-481c-a3f9-c2041534cff8",
+        "type": "message",
+        "text": "I'll post something soon",
+        "user": "URRA07VU3",
+        "ts": "1585681163.008700",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6GT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'll post something soon"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585678014.002200",
+        "parent_user_id": "URRA07VU3"
+    },
+    {
+        "client_msg_id": "5ec6e6f0-f8f4-47b6-8ff9-7084a7b68fb6",
+        "type": "message",
+        "text": "Parts of a ball shifter:\nPlunger: connected to the piston, pushes the ball bearing out\nCylinder: the gearbox shaft. Rotationally connected to things on it by the ball bearings\nGears (or whatever is on the shifter part of the cylinder): have special notches that hold ball bearings. Can be locked and unlocked from rotating with the shaft\nPiston (pneumatic)\nPiston to plunger connection: basically a bearing and hardware to connect it\n\nIt’s easiest to use cots options for all of these parts, but that will impose some limitations.\n\n\n\nThinking about where the shifter goes:\nThe shifter can either lock\/unlock the gear to the cylinder or the drum to the cylinder\nCots gears already have notches, where a drum wouldn’t.\nThe shifter has to disconnect (and reconnect) the motors from the drum\nThe gearbox is single stage, so there is only one shaft (except for the motor shafts)\nThe drum has to spin both directions (powered rope in, free rope out)\nThe climber must be ratcheted when in gear, but not ratcheted when out of gear\nThe drum can’t be ratcheted\nSo the shaft has to be ratcheted and the drum has to disconnect from the shifter.",
+        "user": "URRA07VU3",
+        "ts": "1585681545.008900",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "j6SX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Parts of a ball shifter:\nPlunger: connected to the piston, pushes the ball bearing out\nCylinder: the gearbox shaft. Rotationally connected to things on it by the ball bearings\nGears (or whatever is on the shifter part of the cylinder): have special notches that hold ball bearings. Can be locked and unlocked from rotating with the shaft\nPiston (pneumatic)\nPiston to plunger connection: basically a bearing and hardware to connect it\n\nIt’s easiest to use cots options for all of these parts, but that will impose some limitations.\n\n\n\nThinking about where the shifter goes:\nThe shifter can either lock\/unlock the gear to the cylinder or the drum to the cylinder\nCots gears already have notches, where a drum wouldn’t.\nThe shifter has to disconnect (and reconnect) the motors from the drum\nThe gearbox is single stage, so there is only one shaft (except for the motor shafts)\nThe drum has to spin both directions (powered rope in, free rope out)\nThe climber must be ratcheted when in gear, but not ratcheted when out of gear\nThe drum can’t be ratcheted\nSo the shaft has to be ratcheted and the drum has to disconnect from the shifter."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585678014.002200",
+        "parent_user_id": "URRA07VU3"
+    },
+    {
+        "client_msg_id": "d6181cf5-2a8d-4af4-8d7a-dab1845fee95",
+        "type": "message",
+        "text": "the other option would be to stop trying to make it smaller and basically use the design you showed us yesterday (using the shorter vex piston and a ball shifter if you had used a dog shifter)",
+        "user": "URRA07VU3",
+        "ts": "1585681780.009100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dTU7S",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "the other option would be to stop trying to make it smaller and basically use the design you showed us yesterday (using the shorter vex piston and a ball shifter if you had used a dog shifter)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585678014.002200",
+        "parent_user_id": "URRA07VU3"
+    },
+    {
+        "client_msg_id": "1467a5c0-be34-47e1-87be-e360801de96b",
+        "type": "message",
+        "text": "I personally like option one",
+        "user": "US2PZ9QBF",
+        "ts": "1585682839.009300",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Nko1D",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I personally like option one"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585678014.002200",
+        "parent_user_id": "URRA07VU3"
+    },
+    {
+        "client_msg_id": "3b37000c-b837-462d-85f2-cb7eacb46c0e",
+        "type": "message",
+        "text": "However im not sure if I can cad some of that",
+        "user": "US2PZ9QBF",
+        "ts": "1585682856.009500",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Mvp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "However im not sure if I can cad some of that"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585678014.002200",
+        "parent_user_id": "URRA07VU3"
+    },
+    {
+        "client_msg_id": "ed94ed39-b226-41a1-a88c-bf43ba5fe59d",
+        "type": "message",
+        "text": "I don't think that using what I showed us yesterday is a great option",
+        "user": "US2PZ9QBF",
+        "ts": "1585682882.009700",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KM5\/Y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I don't think that using what I showed us yesterday is a great option"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585678014.002200",
+        "parent_user_id": "URRA07VU3"
+    },
+    {
+        "client_msg_id": "262addcc-8f6e-43f6-b7c8-a72f7ebd5f96",
+        "type": "message",
+        "text": "it would have been the best option for SERT during build season",
+        "user": "URRA07VU3",
+        "ts": "1585682906.009900",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "muvrh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "it would have been the best option for SERT during build season"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585678014.002200",
+        "parent_user_id": "URRA07VU3"
+    },
+    {
+        "client_msg_id": "bce71c07-c3e7-4e01-9829-b02235793aa1",
+        "type": "message",
+        "text": "What do you mean",
+        "user": "US2PZ9QBF",
+        "ts": "1585683758.010100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WdA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What do you mean"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585678014.002200",
+        "parent_user_id": "URRA07VU3"
+    },
+    {
+        "client_msg_id": "85a4bd18-c60a-4384-b155-cc6df4729521",
+        "type": "message",
+        "text": "your design is more cots and is easier and faster to build",
+        "user": "URRA07VU3",
+        "ts": "1585683783.010300",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MhNi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "your design is more cots and is easier and faster to build"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585678014.002200",
+        "parent_user_id": "URRA07VU3"
+    },
+    {
+        "client_msg_id": "637496af-a22c-4bc4-936d-2345a3de3240",
+        "type": "message",
+        "text": "so it would have been a more reasonable option",
+        "user": "URRA07VU3",
+        "ts": "1585683829.010500",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KaW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "so it would have been a more reasonable option"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585678014.002200",
+        "parent_user_id": "URRA07VU3"
+    },
+    {
+        "client_msg_id": "2ee3fdc1-4135-4f30-b4e5-af05e1295cde",
+        "type": "message",
+        "text": "if SERT was trying to build a grappling hook climber",
+        "user": "URRA07VU3",
+        "ts": "1585683848.010700",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5r9GS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "if SERT was trying to build a grappling hook climber"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585678014.002200",
+        "parent_user_id": "URRA07VU3"
+    },
+    {
+        "client_msg_id": "a2077eef-a369-4c41-9b00-942ce157fd4f",
+        "type": "message",
+        "text": "not instead of Millenium Carwash's climber",
+        "user": "URRA07VU3",
+        "ts": "1585683864.010900",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Qcr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "not instead of Millenium Carwash's climber"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585678014.002200",
+        "parent_user_id": "URRA07VU3"
+    },
+    {
+        "client_msg_id": "79340f28-6dbe-42cd-a6d0-64775e4eeeb8",
+        "type": "message",
+        "text": "Yes, but a coustom shifter will be really cool and honestly not tarable to create",
+        "user": "US2PZ9QBF",
+        "ts": "1585687140.011100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CRFjr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes, but a coustom shifter will be really cool and honestly not tarable to create"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585678014.002200",
+        "parent_user_id": "URRA07VU3"
+    },
+    {
+        "client_msg_id": "a3e8bb2b-2730-4e72-b394-e241168f024b",
+        "type": "message",
+        "text": "It will still be mostly coustom",
+        "user": "US2PZ9QBF",
+        "ts": "1585687149.011300",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dRz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It will still be mostly coustom"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585678014.002200",
+        "parent_user_id": "URRA07VU3"
+    },
+    {
+        "client_msg_id": "6faecd32-30bb-418d-9c45-509147233517",
+        "type": "message",
+        "text": "I agree custom is best for this robot",
+        "user": "URRA07VU3",
+        "ts": "1585687220.011500",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1hrl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I agree custom is best for this robot"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585678014.002200",
+        "parent_user_id": "URRA07VU3"
+    },
+    {
+        "client_msg_id": "a8b30072-13d0-45c2-87fb-520a00ef1ac9",
+        "type": "message",
+        "text": "Absolutely!!",
+        "user": "US2PZ9QBF",
+        "ts": "1585687334.011700",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LmuDu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Absolutely!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585678014.002200",
+        "parent_user_id": "URRA07VU3"
+    }
+]

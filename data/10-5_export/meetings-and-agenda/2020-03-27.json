@@ -1,0 +1,107 @@
+[
+    {
+        "client_msg_id": "f78a0f65-18bb-4add-be53-63f45da2b122",
+        "type": "message",
+        "text": "Howdy <!channel>, I think we should have a meeting this Sunday (before the Phelps have to \"go to school\") and have it be 100% a cad discussion. Thoughts?",
+        "user": "US2PZ9QBF",
+        "ts": "1585321193.001900",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3NCh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Howdy "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", I think we should have a meeting this Sunday (before the Phelps have to \"go to school\") and have it be 100% a cad discussion. Thoughts?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "US4KMEG9M",
+                    "US2PZ9QBF",
+                    "UU50D077H",
+                    "US51ZNQDU",
+                    "URRA07VU3"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c3b27a29-111e-4b86-8e25-04b5927bcdd4",
+        "type": "message",
+        "text": "Does anyone have a specific time that works best",
+        "user": "US2PZ9QBF",
+        "ts": "1585328807.000600",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lVlp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Does anyone have a specific time that works best"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1585374767.000900",
+        "user": "U010XSNA2Q4",
+        "text": "<@U010XSNA2Q4> has joined the channel",
+        "inviter": "US2PZ9QBF"
+    }
+]

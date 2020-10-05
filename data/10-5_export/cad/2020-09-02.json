@@ -1,0 +1,57 @@
+[
+    {
+        "client_msg_id": "ef7c0d25-ecbe-44a8-863c-7b9db23eac33",
+        "type": "message",
+        "text": "<https:\/\/www.reddit.com\/r\/FRC\/comments\/ijwye4\/i_made_a_print_in_place_hex_shaft_collar\/?utm_medium=android_app&amp;utm_source=share|https:\/\/www.reddit.com\/r\/FRC\/comments\/ijwye4\/i_made_a_print_in_place_hex_shaft_collar\/?utm_medium=android_app&amp;utm_source=share>",
+        "user": "US2PZ9QBF",
+        "ts": "1599096676.000200",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "reddit",
+                "title": "I made a print in place hex shaft collar!",
+                "title_link": "https:\/\/www.reddit.com\/r\/FRC\/comments\/ijwye4\/i_made_a_print_in_place_hex_shaft_collar\/?utm_medium=android_app&utm_source=share",
+                "text": "Posted in r\/FRC by u\/NyanWolf102 • 476 points and 19 comments",
+                "fallback": "reddit: I made a print in place hex shaft collar!",
+                "thumb_url": "https:\/\/b.thumbs.redditmedia.com\/3pHkPVdDpm-I_vg2UwumoaxK4mZ8bZZzFvnqPPMh8dw.jpg",
+                "from_url": "https:\/\/www.reddit.com\/r\/FRC\/comments\/ijwye4\/i_made_a_print_in_place_hex_shaft_collar\/?utm_medium=android_app&utm_source=share",
+                "thumb_width": 140,
+                "thumb_height": 140,
+                "service_icon": "http:\/\/www.redditstatic.com\/desktop2x\/img\/favicon\/apple-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/www.reddit.com\/r\/FRC\/comments\/ijwye4\/i_made_a_print_in_place_hex_shaft_collar\/?utm_medium=android_app&amp;utm_source=share"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IS\/E",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.reddit.com\/r\/FRC\/comments\/ijwye4\/i_made_a_print_in_place_hex_shaft_collar\/?utm_medium=android_app&utm_source=share",
+                                "text": "https:\/\/www.reddit.com\/r\/FRC\/comments\/ijwye4\/i_made_a_print_in_place_hex_shaft_collar\/?utm_medium=android_app&utm_source=share"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

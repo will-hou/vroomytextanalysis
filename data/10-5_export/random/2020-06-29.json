@@ -1,0 +1,57 @@
+[
+    {
+        "client_msg_id": "71789e10-4711-4801-82d0-29a2fb9ffe2c",
+        "type": "message",
+        "text": "<https:\/\/forms.gle\/fMXPYnBaZeLeAXEa8>",
+        "user": "UU50D077H",
+        "ts": "1593460746.000200",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "790b5f83cbe4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-16\/943684986291_790b5f83cbe4b100e623_72.jpg",
+            "first_name": "Jake",
+            "real_name": "Jake Enos",
+            "display_name": "Jake Enos",
+            "team": "TS2PZ9PJR",
+            "name": "jake",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Google Docs",
+                "title": "xRC Wanted Games",
+                "title_link": "https:\/\/forms.gle\/fMXPYnBaZeLeAXEa8",
+                "text": "*IMPORTANT NOTE: THIS IS NOT AN OFFICIAL SURVEY AND IS NOT AFFILIATED WITH THE XRC SIMULATOR IN ANY WAY, SHAPE, OR FORM. THIS IS JUST TO SEE WHAT POSSIBLE GAMES THE COMMUNITY IS INTERESTED IN!!!",
+                "fallback": "Google Docs: xRC Wanted Games",
+                "image_url": "https:\/\/lh5.googleusercontent.com\/nUEiDr4HeNLileJpjRXWs1oTU8uHlCw-m1F7UXFy5MQRDKTK8eBmNdZlVUqvbjf9e4DkHww",
+                "image_width": 333,
+                "image_height": 250,
+                "from_url": "https:\/\/forms.gle\/fMXPYnBaZeLeAXEa8",
+                "image_bytes": 48041,
+                "service_icon": "http:\/\/ssl.gstatic.com\/docs\/forms\/device_home\/ios_120.png",
+                "id": 1,
+                "original_url": "https:\/\/forms.gle\/fMXPYnBaZeLeAXEa8"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uyB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/forms.gle\/fMXPYnBaZeLeAXEa8"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

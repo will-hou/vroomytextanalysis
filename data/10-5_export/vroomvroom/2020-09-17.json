@@ -1,0 +1,670 @@
+[
+    {
+        "client_msg_id": "1ba2d829-33de-427a-a922-3a3434264e1d",
+        "type": "message",
+        "text": "VROOM VROOM!\nWe have vroomed on 100 different days!!!\nThank you for participating in the EXPERIMENT! :male-scientist:\nI like high effort, low reward jokes, so enjoy the following SCIENCE! :scienceparrot:\nThanks to our data scientist <http:\/\/Will.i.am|Will.i.am> for helping! :chart_with_upwards_trend:",
+        "user": "URRA07VU3",
+        "ts": "1600379643.002400",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "URRA07VU3",
+            "ts": "1600379790.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OqKS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "VROOM VROOM!\nWe have vroomed on 100 different days!!!\nThank you for participating in the EXPERIMENT! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "male-scientist"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nI like high effort, low reward jokes, so enjoy the following SCIENCE! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "scienceparrot"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nThanks to our data scientist "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/Will.i.am",
+                                "text": "Will.i.am"
+                            },
+                            {
+                                "type": "text",
+                                "text": " for helping! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "chart_with_upwards_trend"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "166ae930-2656-4b80-9b9d-17867669ef30",
+        "type": "message",
+        "text": "First, some fun facts.\n237 messages contain “vroom” in the <#CRQ1NRP0A|vroomvroom> channel\nThere are 196 officially counted “vroom vrooms”\nJoshua and Matthew both vroomed at 2:54 am\nThe vroomiest day was July 2nd, with Benjamin, Joshua, Jake, Matthew, and William participating\nBenjamin was the only person to vroom early\nThe longest break we took from vrooming is a week, and it happened three times, between 5\/8 and 5\/15,  6\/12 and 6\/19, and 9\/8 and 9\/15 \nThe longest streak was 10 days and lasted from 7\/28 to 8\/6.",
+        "user": "URRA07VU3",
+        "ts": "1600379652.002700",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Bcc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "First, some fun facts.\n237 messages contain “vroom” in the "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "CRQ1NRP0A"
+                            },
+                            {
+                                "type": "text",
+                                "text": " channel\nThere are 196 officially counted “vroom vrooms”\nJoshua and Matthew both vroomed at 2:54 am\nThe vroomiest day was July 2nd, with Benjamin, Joshua, Jake, Matthew, and William participating\nBenjamin was the only person to vroom early\nThe longest break we took from vrooming is a week, and it happened three times, between 5\/8 and 5\/15,  6\/12 and 6\/19, and 9\/8 and 9\/15 \nThe longest streak was 10 days and lasted from 7\/28 to 8\/6."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b7d086d1-61b9-4dcd-b911-d135d4944b09",
+        "type": "message",
+        "text": "VROOM VROOM",
+        "user": "US2PZ9QBF",
+        "ts": "1600379660.003000",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qixpG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "VROOM VROOM"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "trollparrot",
+                "users": [
+                    "URRA07VU3",
+                    "US2PZ9QBF"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "10be330f-bf26-41f8-b62d-665233750fce",
+        "type": "message",
+        "text": "and now for some graphs!",
+        "user": "URRA07VU3",
+        "ts": "1600379662.003100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "D84",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "and now for some graphs!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F01AGN3PL3Z",
+                "created": 1600379665,
+                "timestamp": 1600379665,
+                "name": "total vroomings.png",
+                "title": "total vroomings.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "URRA07VU3",
+                "editable": false,
+                "size": 21114,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TS2PZ9PJR-F01AGN3PL3Z\/total_vroomings.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TS2PZ9PJR-F01AGN3PL3Z\/download\/total_vroomings.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F01AGN3PL3Z-0368f6bce1\/total_vroomings_64.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F01AGN3PL3Z-0368f6bce1\/total_vroomings_80.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F01AGN3PL3Z-0368f6bce1\/total_vroomings_360.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_360_w": 360,
+                "thumb_360_h": 223,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F01AGN3PL3Z-0368f6bce1\/total_vroomings_480.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_480_w": 480,
+                "thumb_480_h": 297,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F01AGN3PL3Z-0368f6bce1\/total_vroomings_160.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "original_w": 600,
+                "original_h": 371,
+                "thumb_tiny": "AwAdADDSB5PtS5pBjJ5pkzYXGetKTsrjSuMe5QHAJP0oS5QnDZH1qBk7r+VQ06L573FP3bGpRUFo5aMqf4amxznJptWdhJ3FqOZcrn0qSipkrqxSdjPkk\/hX86jzV17WNjkZX6UJaRocnLfWpjFx2NXKDVmFohWMsf4qnopMc5ya0buYn\/\/Z",
+                "permalink": "https:\/\/vroomvroomswerve.slack.com\/files\/URRA07VU3\/F01AGN3PL3Z\/total_vroomings.png",
+                "permalink_public": "https:\/\/slack-files.com\/TS2PZ9PJR-F01AGN3PL3Z-65e48c2e97",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "URRA07VU3",
+        "display_as_bot": false,
+        "ts": "1600379668.003200",
+        "reactions": [
+            {
+                "name": "stonks",
+                "users": [
+                    "URRA07R7D",
+                    "URRA07VU3",
+                    "US2PZ9QBF"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F01AGN3UC07",
+                "created": 1600379670,
+                "timestamp": 1600379670,
+                "name": "First Vroomer.png",
+                "title": "First Vroomer.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "URRA07VU3",
+                "editable": false,
+                "size": 16534,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TS2PZ9PJR-F01AGN3UC07\/first_vroomer.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TS2PZ9PJR-F01AGN3UC07\/download\/first_vroomer.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F01AGN3UC07-14dba43e45\/first_vroomer_64.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F01AGN3UC07-14dba43e45\/first_vroomer_80.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F01AGN3UC07-14dba43e45\/first_vroomer_360.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_360_w": 360,
+                "thumb_360_h": 223,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F01AGN3UC07-14dba43e45\/first_vroomer_480.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_480_w": 480,
+                "thumb_480_h": 297,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F01AGN3UC07-14dba43e45\/first_vroomer_160.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "original_w": 600,
+                "original_h": 371,
+                "thumb_tiny": "AwAdADDSB5I9KXNJjnrTJSQuB3pSdlcaVxr3Cq2BkkUiXKE4bI+tQuuRkdRUNFF897in7tjToqC0ctGVP8NTc56jFU1Z2EncWoLtC0YYfw1NjnOTS0nqUnZ3MqlBq69rGxyMr9KEtY1OTlvrSjeLujWUoyVmFohWMk\/xVPRRVN3dzBKx\/9k=",
+                "permalink": "https:\/\/vroomvroomswerve.slack.com\/files\/URRA07VU3\/F01AGN3UC07\/first_vroomer.png",
+                "permalink_public": "https:\/\/slack-files.com\/TS2PZ9PJR-F01AGN3UC07-e5eea90fe0",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "URRA07VU3",
+        "display_as_bot": false,
+        "ts": "1600379673.003500",
+        "reactions": [
+            {
+                "name": "stonks",
+                "users": [
+                    "URRA07R7D",
+                    "URRA07VU3",
+                    "US2PZ9QBF"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F01AXEFERM0",
+                "created": 1600379676,
+                "timestamp": 1600379676,
+                "name": "following vroomers.png",
+                "title": "following vroomers.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "URRA07VU3",
+                "editable": false,
+                "size": 18612,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TS2PZ9PJR-F01AXEFERM0\/following_vroomers.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TS2PZ9PJR-F01AXEFERM0\/download\/following_vroomers.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F01AXEFERM0-8b20563a4f\/following_vroomers_64.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F01AXEFERM0-8b20563a4f\/following_vroomers_80.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F01AXEFERM0-8b20563a4f\/following_vroomers_360.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_360_w": 360,
+                "thumb_360_h": 223,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F01AXEFERM0-8b20563a4f\/following_vroomers_480.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_480_w": 480,
+                "thumb_480_h": 297,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F01AXEFERM0-8b20563a4f\/following_vroomers_160.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "original_w": 600,
+                "original_h": 371,
+                "thumb_tiny": "AwAdADDSB5PtS5pMc5pk\/wBzb60m7K4JXGPcKDgEn6UJcoxwSV+vSq5Qj3FR06Pv3uFTS1jToqC0fdGQf4amwM5xzTas7CTuHOfamTAlc+lSUVMldWKTsVD0NVa0XhVge2fSmJaxqcnLfWsoQcTVTjbULRCsZY\/xVPRijAznFbGTP\/\/Z",
+                "permalink": "https:\/\/vroomvroomswerve.slack.com\/files\/URRA07VU3\/F01AXEFERM0\/following_vroomers.png",
+                "permalink_public": "https:\/\/slack-files.com\/TS2PZ9PJR-F01AXEFERM0-10fae4b5bf",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "URRA07VU3",
+        "display_as_bot": false,
+        "ts": "1600379678.003800",
+        "reactions": [
+            {
+                "name": "stonks",
+                "users": [
+                    "URRA07R7D",
+                    "URRA07VU3",
+                    "US2PZ9QBF"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F01B3L3BPD2",
+                "created": 1600379684,
+                "timestamp": 1600379684,
+                "name": "Lone Vroomer.png",
+                "title": "Lone Vroomer.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "URRA07VU3",
+                "editable": false,
+                "size": 14749,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TS2PZ9PJR-F01B3L3BPD2\/lone_vroomer.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TS2PZ9PJR-F01B3L3BPD2\/download\/lone_vroomer.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F01B3L3BPD2-b0361a302b\/lone_vroomer_64.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F01B3L3BPD2-b0361a302b\/lone_vroomer_80.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F01B3L3BPD2-b0361a302b\/lone_vroomer_360.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_360_w": 360,
+                "thumb_360_h": 223,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F01B3L3BPD2-b0361a302b\/lone_vroomer_480.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_480_w": 480,
+                "thumb_480_h": 297,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F01B3L3BPD2-b0361a302b\/lone_vroomer_160.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "original_w": 600,
+                "original_h": 371,
+                "thumb_tiny": "AwAdADDSB5I9KXNFQXUhjQAdSaTdkNK7sLJOEIxk\/SkS5QnDZH1qvvDrjoajp0ffvcVROJp0VBaOWjKn+GpsjOM802rOwk7hk56cVBdoWjDAfdqxRSZSdncyqdVx7WNjkZX6UqWyKcnLfWnTfLe46r57WEtEKxkn+Kp6KKG7u5CVj\/\/Z",
+                "permalink": "https:\/\/vroomvroomswerve.slack.com\/files\/URRA07VU3\/F01B3L3BPD2\/lone_vroomer.png",
+                "permalink_public": "https:\/\/slack-files.com\/TS2PZ9PJR-F01B3L3BPD2-2c219fa957",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "URRA07VU3",
+        "display_as_bot": false,
+        "ts": "1600379688.004200",
+        "reactions": [
+            {
+                "name": "stonks",
+                "users": [
+                    "URRA07R7D",
+                    "URRA07VU3",
+                    "US2PZ9QBF"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F01AQNDA8QN",
+                "created": 1600379691,
+                "timestamp": 1600379691,
+                "name": "late vrooms.png",
+                "title": "late vrooms.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "URRA07VU3",
+                "editable": false,
+                "size": 14354,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TS2PZ9PJR-F01AQNDA8QN\/late_vrooms.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TS2PZ9PJR-F01AQNDA8QN\/download\/late_vrooms.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F01AQNDA8QN-0d93d7fae1\/late_vrooms_64.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F01AQNDA8QN-0d93d7fae1\/late_vrooms_80.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F01AQNDA8QN-0d93d7fae1\/late_vrooms_360.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_360_w": 360,
+                "thumb_360_h": 223,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F01AQNDA8QN-0d93d7fae1\/late_vrooms_480.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_480_w": 480,
+                "thumb_480_h": 297,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F01AQNDA8QN-0d93d7fae1\/late_vrooms_160.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "original_w": 600,
+                "original_h": 371,
+                "thumb_tiny": "AwAdADDT\/Cik5z2pkxIXHrSk7K40rjZJ1U4GT9KRLlCcNkfWonGV9xUFFF897hNWtY06TIzjPNQ2jloyp\/hqeqeggqK5yI9yjOKloqWrqzGnZ3MxnZupptXntY2ORlfpQlqinJy31qOWxv7SNgtEKxlj\/FU9FJjnOTWiMG7u5\/\/Z",
+                "permalink": "https:\/\/vroomvroomswerve.slack.com\/files\/URRA07VU3\/F01AQNDA8QN\/late_vrooms.png",
+                "permalink_public": "https:\/\/slack-files.com\/TS2PZ9PJR-F01AQNDA8QN-bf48d66a86",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "URRA07VU3",
+        "display_as_bot": false,
+        "ts": "1600379692.004500",
+        "reactions": [
+            {
+                "name": "stonks",
+                "users": [
+                    "URRA07R7D",
+                    "URRA07VU3",
+                    "US2PZ9QBF"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "blue is first. red is following",
+        "files": [
+            {
+                "id": "F01AXEG68KC",
+                "created": 1600379699,
+                "timestamp": 1600379699,
+                "name": "first + after.png",
+                "title": "first + after.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "URRA07VU3",
+                "editable": false,
+                "size": 6663,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TS2PZ9PJR-F01AXEG68KC\/first___after.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TS2PZ9PJR-F01AXEG68KC\/download\/first___after.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F01AXEG68KC-9705e71a9c\/first___after_64.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F01AXEG68KC-9705e71a9c\/first___after_80.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F01AXEG68KC-9705e71a9c\/first___after_360.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_360_w": 360,
+                "thumb_360_h": 223,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F01AXEG68KC-9705e71a9c\/first___after_480.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_480_w": 480,
+                "thumb_480_h": 297,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F01AXEG68KC-9705e71a9c\/first___after_160.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "original_w": 600,
+                "original_h": 371,
+                "thumb_tiny": "AwAdADDToqK5\/wBQ9VxI0dqpU4O40my1G6Lp5oHFQfaAiJuBJYZ4qenclpoKKKKBEVz\/AKhqrH\/j1X\/eNXHQOpU9DTTAhQL2BzVxkkiWirN92H\/dq9UbQIwUEfd4FKYlLhznP1qXboXd2sxFmVpTGAcipKYIlVy4HJpwGO5NIGf\/2Q==",
+                "permalink": "https:\/\/vroomvroomswerve.slack.com\/files\/URRA07VU3\/F01AXEG68KC\/first___after.png",
+                "permalink_public": "https:\/\/slack-files.com\/TS2PZ9PJR-F01AXEG68KC-124cb048c5",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KW6uI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "blue is first. red is following"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "URRA07VU3",
+        "display_as_bot": false,
+        "ts": "1600379711.005000",
+        "reactions": [
+            {
+                "name": "stonks",
+                "users": [
+                    "URRA07R7D",
+                    "URRA07VU3",
+                    "US2PZ9QBF"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "here's the link to the data if you're interested :scienceparrot: <https:\/\/docs.google.com\/spreadsheets\/d\/1WOTXbUSet0MFfftssyTyy3DE2VHENE7CQqwJv_ZeeLE\/edit?usp=sharing>",
+        "files": [
+            {
+                "id": "F01AGN6EZU7",
+                "created": 1600379753,
+                "timestamp": 1600379753,
+                "name": "vroom vroom SCIENCE data",
+                "title": "vroom vroom SCIENCE data",
+                "mimetype": "application\/vnd.google-apps.spreadsheet",
+                "filetype": "gsheet",
+                "pretty_type": "G Suite Spreadsheet",
+                "user": "URRA07VU3",
+                "editable": false,
+                "size": 242309,
+                "mode": "external",
+                "is_external": true,
+                "external_type": "gdrive",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/docs.google.com\/spreadsheets\/d\/1WOTXbUSet0MFfftssyTyy3DE2VHENE7CQqwJv_ZeeLE\/edit?usp=sharing",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F01AGN6EZU7-7b79023931\/vroom_vroom_science_data_64.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F01AGN6EZU7-7b79023931\/vroom_vroom_science_data_80.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F01AGN6EZU7-7b79023931\/vroom_vroom_science_data_360.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_360_w": 254,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F01AGN6EZU7-7b79023931\/vroom_vroom_science_data_480.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_480_w": 339,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F01AGN6EZU7-7b79023931\/vroom_vroom_science_data_160.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F01AGN6EZU7-7b79023931\/vroom_vroom_science_data_720.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_720_w": 509,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F01AGN6EZU7-7b79023931\/vroom_vroom_science_data_800.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1132,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F01AGN6EZU7-7b79023931\/vroom_vroom_science_data_960.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_960_w": 678,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F01AGN6EZU7-7b79023931\/vroom_vroom_science_data_1024.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_1024_w": 724,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 1024,
+                "original_h": 1449,
+                "thumb_tiny": "AwAwACHSJxQDkUh60ooAM0opB1NAoAWiiigBCMmloooATHNKKKKACiiigAooooAKKKKACiiigD\/\/2Q==",
+                "permalink": "https:\/\/vroomvroomswerve.slack.com\/files\/URRA07VU3\/F01AGN6EZU7\/vroom_vroom_science_data",
+                "is_starred": false,
+                "external_id": "1WOTXbUSet0MFfftssyTyy3DE2VHENE7CQqwJv_ZeeLE",
+                "external_url": "https:\/\/docs.google.com\/spreadsheets\/d\/1WOTXbUSet0MFfftssyTyy3DE2VHENE7CQqwJv_ZeeLE\/edit?usp=sharing",
+                "has_rich_preview": true
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jw\/L",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "here's the link to the data if you're interested "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "scienceparrot"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/spreadsheets\/d\/1WOTXbUSet0MFfftssyTyy3DE2VHENE7CQqwJv_ZeeLE\/edit?usp=sharing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "URRA07VU3",
+        "display_as_bot": false,
+        "x_files": [
+            "F01AGN6EZU7"
+        ],
+        "ts": "1600379748.005600",
+        "client_msg_id": "60a91d15-9223-4f1d-8375-6a7a66de9faf"
+    }
+]

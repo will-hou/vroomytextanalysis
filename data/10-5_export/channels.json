@@ -1,0 +1,536 @@
+[
+{
+    "id": "CRQ0MRGKU",
+    "name": "random",
+    "created": 1577388580,
+    "creator": "US2PZ9QBF",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "URRA07R7D",
+        "URSGPFQ7K",
+        "US2PSJLBS",
+        "US2PZ9QBF",
+        "US4KMEG9M",
+        "US51ZNQDU",
+        "UU50D077H",
+        "UUE9YV61K",
+        "UUG5BAQDD",
+        "UUH3JGD7H",
+        "U010XSNA2Q4",
+        "U012TDDNL59",
+        "U012XMRHPGR",
+        "U016RTGTAGH",
+        "U017QBZ4FKR",
+        "U01874ZLZC4",
+        "U018HKDT4TB"
+    ],
+    "topic": {
+        "value": "Non-work banter and water cooler conversation",
+        "creator": "US2PZ9QBF",
+        "last_set": 1577388580
+    },
+    "purpose": {
+        "value": "A place for non-work-related flimflam, faffing, hodge-podge or jibber-jabber you'd prefer to keep out of more focused work-related channels.",
+        "creator": "US2PZ9QBF",
+        "last_set": 1577388580
+    }
+},
+{
+    "id": "CRQ1NRP0A",
+    "name": "vroomvroom",
+    "created": 1577391883,
+    "creator": "URRA07VU3",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "URRA07R7D",
+        "URRA07VU3",
+        "US2PZ9QBF",
+        "US51ZNQDU",
+        "UU50D077H",
+        "U016RTGTAGH"
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "quality conversation",
+        "creator": "URRA07VU3",
+        "last_set": 1577391883
+    }
+},
+{
+    "id": "CRR9X56AF",
+    "name": "making-a-modular-swerve-robot",
+    "created": 1577388580,
+    "creator": "US2PZ9QBF",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "URRA07R7D",
+        "URSGPFQ7K",
+        "US2PSJLBS",
+        "US2PZ9QBF",
+        "US4KMEG9M",
+        "US51ZNQDU",
+        "UU50D077H",
+        "UUE9YV61K",
+        "UUG5BAQDD",
+        "UUH3JGD7H",
+        "U010XSNA2Q4",
+        "U012TDDNL59",
+        "U012XMRHPGR",
+        "U016RTGTAGH",
+        "U017QBZ4FKR",
+        "U01874ZLZC4",
+        "U018HKDT4TB"
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    }
+},
+{
+    "id": "CRSGHJR97",
+    "name": "general",
+    "created": 1577388580,
+    "creator": "US2PZ9QBF",
+    "is_archived": false,
+    "is_general": true,
+    "members": [
+        "URRA07R7D",
+        "URRA07VU3",
+        "URSGPFQ7K",
+        "US2PSJLBS",
+        "US2PZ9QBF",
+        "US4KMEG9M",
+        "US51ZNQDU",
+        "UU50D077H",
+        "UUE9YV61K",
+        "UUG5BAQDD",
+        "UUH3JGD7H",
+        "U010XSNA2Q4",
+        "U012TDDNL59",
+        "U012XMRHPGR",
+        "U016RTGTAGH",
+        "U017QBZ4FKR",
+        "U01874ZLZC4",
+        "U018HKDT4TB"
+    ],
+    "pins": [
+        {
+            "id": "1583872094.003600",
+            "type": "C",
+            "created": 1583872319,
+            "user": "URRA07VU3",
+            "owner": "US2PZ9QBF"
+        }
+    ],
+    "topic": {
+        "value": "Company-wide announcements and work-based matters",
+        "creator": "US2PZ9QBF",
+        "last_set": 1577388580
+    },
+    "purpose": {
+        "value": "This channel is for workspace-wide communication and announcements. All members are in this channel.",
+        "creator": "US2PZ9QBF",
+        "last_set": 1577388580
+    }
+},
+{
+    "id": "CS2ACADAQ",
+    "name": "purchases",
+    "created": 1577388907,
+    "creator": "US2PZ9QBF",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "URRA07VU3",
+        "US2PZ9QBF",
+        "US4KMEG9M",
+        "US51ZNQDU",
+        "UU50D077H"
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    }
+},
+{
+    "id": "CS2PTTNTA",
+    "name": "electrical",
+    "created": 1577388970,
+    "creator": "US2PZ9QBF",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "URRA07VU3",
+        "US2PZ9QBF",
+        "US4KMEG9M",
+        "US51ZNQDU",
+        "UU50D077H",
+        "U017QBZ4FKR"
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    }
+},
+{
+    "id": "CS2PULTNU",
+    "name": "softwear",
+    "created": 1577389042,
+    "creator": "US2PZ9QBF",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "URRA07R7D",
+        "URRA07VU3",
+        "US2PZ9QBF",
+        "US4KMEG9M",
+        "US51ZNQDU",
+        "UU50D077H",
+        "UUH3JGD7H",
+        "U010XSNA2Q4",
+        "U017QBZ4FKR"
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    }
+},
+{
+    "id": "CS4KMRW6B",
+    "name": "prototypeing",
+    "created": 1577388881,
+    "creator": "US2PZ9QBF",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "URRA07VU3",
+        "US2PZ9QBF",
+        "US4KMEG9M",
+        "US51ZNQDU",
+        "UU50D077H"
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    }
+},
+{
+    "id": "CS4KP3EKZ",
+    "name": "design-main-bot",
+    "created": 1577388998,
+    "creator": "US2PZ9QBF",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "URRA07R7D",
+        "US2PSJLBS",
+        "US2PZ9QBF",
+        "US4KMEG9M",
+        "US51ZNQDU",
+        "UU50D077H",
+        "UUE9YV61K",
+        "UUH3JGD7H",
+        "U017QBZ4FKR"
+    ],
+    "pins": [
+        {
+            "id": "1584467767.000700",
+            "type": "C",
+            "created": 1584479943,
+            "user": "URRA07R7D",
+            "owner": "UUH3JGD7H"
+        }
+    ],
+    "topic": {
+        "value": "",
+        "creator": "US2PZ9QBF",
+        "last_set": 1584385121
+    },
+    "purpose": {
+        "value": "",
+        "creator": "US2PZ9QBF",
+        "last_set": 1584385121
+    }
+},
+{
+    "id": "CS50H9KV4",
+    "name": "cad",
+    "created": 1577389006,
+    "creator": "US2PZ9QBF",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "URRA07R7D",
+        "URRA07VU3",
+        "US2PZ9QBF",
+        "US4KMEG9M",
+        "US51ZNQDU",
+        "UU50D077H",
+        "UUH3JGD7H",
+        "U01874ZLZC4"
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    }
+},
+{
+    "id": "CUNSU4J65",
+    "name": "swerve",
+    "created": 1583462746,
+    "creator": "URRA07VU3",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "URRA07R7D",
+        "URRA07VU3",
+        "US2PZ9QBF",
+        "US4KMEG9M",
+        "U010XSNA2Q4",
+        "U017QBZ4FKR",
+        "U01874ZLZC4"
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "discussing the swerve modules",
+        "creator": "URRA07VU3",
+        "last_set": 1583462747
+    }
+},
+{
+    "id": "CV1LRTLSH",
+    "name": "meetings-and-agenda",
+    "created": 1583641603,
+    "creator": "US2PZ9QBF",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "URRA07R7D",
+        "URRA07VU3",
+        "URSGPFQ7K",
+        "US2PSJLBS",
+        "US2PZ9QBF",
+        "US4KMEG9M",
+        "US51ZNQDU",
+        "UU50D077H",
+        "UUE9YV61K",
+        "UUG5BAQDD",
+        "UUH3JGD7H",
+        "U010XSNA2Q4",
+        "U011KGXM0KV",
+        "U017QBZ4FKR"
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    }
+},
+{
+    "id": "CV7MDR5RP",
+    "name": "design-mini-bot",
+    "created": 1584385170,
+    "creator": "US2PZ9QBF",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "URRA07R7D",
+        "URSGPFQ7K",
+        "US2PSJLBS",
+        "US2PZ9QBF",
+        "US4KMEG9M",
+        "US51ZNQDU",
+        "UU50D077H",
+        "UUE9YV61K",
+        "UUH3JGD7H"
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    }
+},
+{
+    "id": "C010RGPDB2B",
+    "name": "branding",
+    "created": 1585083531,
+    "creator": "US2PZ9QBF",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "URRA07R7D",
+        "US2PZ9QBF",
+        "US4KMEG9M",
+        "UUE9YV61K"
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    }
+},
+{
+    "id": "C0161S7RNUC",
+    "name": "brrrrtbrrrrt",
+    "created": 1592890595,
+    "creator": "URRA07VU3",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "URRA07R7D",
+        "URRA07VU3",
+        "US2PZ9QBF"
+    ],
+    "pins": [
+        {
+            "id": "1592890672.001100",
+            "type": "C",
+            "created": 1592890675,
+            "user": "URRA07R7D",
+            "owner": "URRA07R7D"
+        }
+    ],
+    "topic": {
+        "value": ":eggplant: brrrrt",
+        "creator": "URRA07R7D",
+        "last_set": 1592890684
+    },
+    "purpose": {
+        "value": "eggplants",
+        "creator": "URRA07VU3",
+        "last_set": 1592890596
+    }
+},
+{
+    "id": "C0168RY6K43",
+    "name": "rcm-code",
+    "created": 1593461543,
+    "creator": "US4KMEG9M",
+    "is_archived": true,
+    "is_general": false,
+    "members": [],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "hackerz",
+        "creator": "US4KMEG9M",
+        "last_set": 1593461544
+    }
+},
+{
+    "id": "C0168VCCYSW",
+    "name": "grants",
+    "created": 1593473656,
+    "creator": "URRA07R7D",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "URRA07R7D",
+        "URRA07VU3",
+        "US2PZ9QBF",
+        "US4KMEG9M",
+        "UU50D077H",
+        "U010XSNA2Q4"
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "Engineers need money to eat! Except we use grant money to make cool things...",
+        "creator": "URRA07R7D",
+        "last_set": 1593473657
+    }
+},
+{
+    "id": "C016EVBC4JG",
+    "name": "rubegoldberg",
+    "created": 1593465979,
+    "creator": "URRA07R7D",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "URRA07R7D",
+        "URRA07VU3",
+        "US2PZ9QBF",
+        "US4KMEG9M",
+        "UU50D077H"
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "Planning for a socially distanced rube goldberg machine! (insert clever description here)",
+        "creator": "URRA07R7D",
+        "last_set": 1593465980
+    }
+}
+]

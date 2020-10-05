@@ -1,0 +1,67 @@
+[
+    {
+        "client_msg_id": "2e06e9de-b0a1-4020-8355-ed98b851a2b7",
+        "type": "message",
+        "text": "All RCM code is now here: <https:\/\/github.com\/RCMgames>",
+        "user": "US4KMEG9M",
+        "ts": "1594435024.000400",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "b915bd1b6aaa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-04\/1338647058470_b915bd1b6aaa68df3e32_72.jpg",
+            "first_name": "joshua",
+            "real_name": "joshua phelps",
+            "display_name": "joshua phelps",
+            "team": "TS2PZ9PJR",
+            "name": "joshuaphelps127",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "RCMgames",
+                "title_link": "https:\/\/github.com\/RCMgames",
+                "text": "RCMgames has 2 repositories available. Follow their code on GitHub.",
+                "fallback": "GitHub: RCMgames",
+                "from_url": "https:\/\/github.com\/RCMgames",
+                "thumb_url": "https:\/\/avatars2.githubusercontent.com\/u\/64557520?s=280&v=4",
+                "thumb_width": 250,
+                "thumb_height": 250,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/github.png",
+                "id": 1,
+                "original_url": "https:\/\/github.com\/RCMgames"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pA3+7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "All RCM code is now here: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/RCMgames"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_archive",
+        "ts": "1594442024.000600",
+        "user": "US4KMEG9M",
+        "text": "<@US4KMEG9M> archived the channel"
+    }
+]

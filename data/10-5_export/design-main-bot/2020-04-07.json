@@ -1,0 +1,653 @@
+[
+    {
+        "client_msg_id": "1353bf7b-171f-4829-8f7a-d51c2547cf04",
+        "type": "message",
+        "text": "First off, we probably should have a channel for robot aesthetics but for now I'll add this here",
+        "user": "US2PZ9QBF",
+        "ts": "1586290945.001000",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1LuRw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "First off, we probably should have a channel for robot aesthetics but for now I'll add this here"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586290945.001000",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1586290998.002600",
+        "reply_users": [
+            "US4KMEG9M",
+            "US2PZ9QBF"
+        ],
+        "replies": [
+            {
+                "user": "US4KMEG9M",
+                "ts": "1586290974.001800"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1586290998.002600"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1586290998.002600"
+    },
+    {
+        "client_msg_id": "7468a8a6-b015-47ba-b809-20de0b186c02",
+        "type": "message",
+        "text": "<#C010RGPDB2B|branding> kind of fits",
+        "user": "US4KMEG9M",
+        "ts": "1586290974.001800",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "b915bd1b6aaa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-04\/1338647058470_b915bd1b6aaa68df3e32_72.jpg",
+            "first_name": "joshua",
+            "real_name": "joshua phelps",
+            "display_name": "joshua phelps",
+            "team": "TS2PZ9PJR",
+            "name": "joshuaphelps127",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0dgED",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "channel",
+                                "channel_id": "C010RGPDB2B"
+                            },
+                            {
+                                "type": "text",
+                                "text": " kind of fits"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586290945.001000",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "d5742bba-69b7-4bee-a8d3-e68580ea0a19",
+        "type": "message",
+        "text": "We should have a fairly large led strip screen that we make that says \"send it\" when ever we shoot balls",
+        "user": "US2PZ9QBF",
+        "ts": "1586290992.002500",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ulg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We should have a fairly large led strip screen that we make that says \"send it\" when ever we shoot balls"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586290992.002500",
+        "reply_count": 5,
+        "reply_users_count": 3,
+        "latest_reply": "1586291598.005500",
+        "reply_users": [
+            "US4KMEG9M",
+            "US2PZ9QBF",
+            "URRA07VU3"
+        ],
+        "replies": [
+            {
+                "user": "US4KMEG9M",
+                "ts": "1586291161.003700"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1586291196.004300"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1586291554.005100"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1586291592.005300"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1586291598.005500"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1586291598.005500"
+    },
+    {
+        "client_msg_id": "dabe3db4-ecaa-4c4a-adfe-02b22fdf006f",
+        "type": "message",
+        "text": "That's true",
+        "user": "US2PZ9QBF",
+        "ts": "1586290998.002600",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yGl9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That's true"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586290945.001000",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "8ed6bb9f-8c00-496e-a33e-8b6d5aadaa27",
+        "type": "message",
+        "text": "(along with under glow and led tubs)",
+        "user": "US2PZ9QBF",
+        "ts": "1586291133.003400",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "US2PZ9QBF",
+            "ts": "1586291139.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FudM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(along with under glow and led tubs)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586291133.003400",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1586291281.004900",
+        "reply_users": [
+            "US4KMEG9M",
+            "US2PZ9QBF"
+        ],
+        "replies": [
+            {
+                "user": "US4KMEG9M",
+                "ts": "1586291192.004100"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1586291217.004500"
+            },
+            {
+                "user": "US4KMEG9M",
+                "ts": "1586291253.004700"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1586291281.004900"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1586291281.004900"
+    },
+    {
+        "client_msg_id": "f1f1e022-d227-42d6-9eba-0eaa739c25a7",
+        "type": "message",
+        "text": "Adafruit has a library for using leds like a screen\n<https:\/\/learn.adafruit.com\/adafruit-neopixel-uberguide\/neomatrix-library>",
+        "user": "US4KMEG9M",
+        "ts": "1586291161.003700",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "b915bd1b6aaa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-04\/1338647058470_b915bd1b6aaa68df3e32_72.jpg",
+            "first_name": "joshua",
+            "real_name": "joshua phelps",
+            "display_name": "joshua phelps",
+            "team": "TS2PZ9PJR",
+            "name": "joshuaphelps127",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "US4KMEG9M",
+            "ts": "1586291167.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hdBQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Adafruit has a library for using leds like a screen\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/learn.adafruit.com\/adafruit-neopixel-uberguide\/neomatrix-library"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586290992.002500",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "d0e3ae4b-dc9c-418f-be71-22aed199766c",
+        "type": "message",
+        "text": "what are led tubs?",
+        "user": "US4KMEG9M",
+        "ts": "1586291192.004100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "b915bd1b6aaa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-04\/1338647058470_b915bd1b6aaa68df3e32_72.jpg",
+            "first_name": "joshua",
+            "real_name": "joshua phelps",
+            "display_name": "joshua phelps",
+            "team": "TS2PZ9PJR",
+            "name": "joshuaphelps127",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "etN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "what are led tubs?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586291133.003400",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "e4aa85fc-1bc6-42b1-9d0b-70cc8cb33fbe",
+        "type": "message",
+        "text": "That's perfect!!!",
+        "user": "US2PZ9QBF",
+        "ts": "1586291196.004300",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SLu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That's perfect!!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586290992.002500",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "42fedec8-a5c9-4da2-99ea-b393c25b741a",
+        "type": "message",
+        "text": "LEDs inside of tubes",
+        "user": "US2PZ9QBF",
+        "ts": "1586291217.004500",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "O0ufT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "LEDs inside of tubes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586291133.003400",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "d22f21de-c972-47df-97dc-f3c08d2e198c",
+        "type": "message",
+        "text": "good idea. diffusing the light can look really good (and not hurt your eyes so much)",
+        "user": "US4KMEG9M",
+        "ts": "1586291253.004700",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "b915bd1b6aaa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-04\/1338647058470_b915bd1b6aaa68df3e32_72.jpg",
+            "first_name": "joshua",
+            "real_name": "joshua phelps",
+            "display_name": "joshua phelps",
+            "team": "TS2PZ9PJR",
+            "name": "joshuaphelps127",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QuE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "good idea. diffusing the light can look really good (and not hurt your eyes so much)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586291133.003400",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "15a51efe-f120-4e21-b518-13edd4743018",
+        "type": "message",
+        "text": "Exactly!!!",
+        "user": "US2PZ9QBF",
+        "ts": "1586291281.004900",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uAqls",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Exactly!!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586291133.003400",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "b650852b-317b-45dc-a195-3f12d6897035",
+        "type": "message",
+        "text": "\"send it\" for climbing\n\"yeet\" for shooting",
+        "user": "URRA07VU3",
+        "ts": "1586291554.005100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vYYP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\"send it\" for climbing\n\"yeet\" for shooting"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586290992.002500",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "5fcfbd98-3dfe-446b-b21d-68fd630b42eb",
+        "type": "message",
+        "text": "That's perfect!!!!",
+        "user": "US2PZ9QBF",
+        "ts": "1586291592.005300",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7jhup",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That's perfect!!!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586290992.002500",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "3f5d569f-4de4-4b14-8a8e-a874b0a1f5d1",
+        "type": "message",
+        "text": "I love that so much",
+        "user": "US2PZ9QBF",
+        "ts": "1586291598.005500",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MGKr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I love that so much"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586290992.002500",
+        "parent_user_id": "US2PZ9QBF"
+    }
+]

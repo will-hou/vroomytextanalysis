@@ -1,0 +1,62 @@
+[
+    {
+        "client_msg_id": "b067652a-379c-42e7-ac5a-14fa3f035eab",
+        "type": "message",
+        "text": "<https:\/\/youtu.be\/_ZUm34xyyV8|https:\/\/youtu.be\/_ZUm34xyyV8>",
+        "user": "US2PZ9QBF",
+        "ts": "1581618632.000100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Another 7-axis (7DoF) Brushless Robot Arm (part2)",
+                "title_link": "https:\/\/youtu.be\/_ZUm34xyyV8",
+                "author_name": "Skyentific",
+                "author_link": "https:\/\/www.youtube.com\/user\/SkyentificTube",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/_ZUm34xyyV8\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Another 7-axis (7DoF) Brushless Robot Arm (part2)",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/_ZUm34xyyV8?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/youtu.be\/_ZUm34xyyV8",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/youtu.be\/_ZUm34xyyV8"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "i601",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/youtu.be\/_ZUm34xyyV8",
+                                "text": "https:\/\/youtu.be\/_ZUm34xyyV8"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "client_msg_id": "221DC95C-9D0F-4742-9E24-6AD754C1DD45",
+        "type": "message",
+        "text": "Keep in mind that the mini bot will need to be deployed during auto",
+        "user": "UU50D077H",
+        "ts": "1584770073.000700",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "790b5f83cbe4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-16\/943684986291_790b5f83cbe4b100e623_72.jpg",
+            "first_name": "Jake",
+            "real_name": "Jake Enos",
+            "display_name": "Jake Enos",
+            "team": "TS2PZ9PJR",
+            "name": "jake",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JQX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Keep in mind that the mini bot will need to be deployed during auto"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584554036.003900",
+        "parent_user_id": "US2PZ9QBF"
+    }
+]

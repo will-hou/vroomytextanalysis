@@ -1,0 +1,639 @@
+[
+    {
+        "client_msg_id": "53C83AE6-4D13-4573-A397-6FF8D0E2BE8A",
+        "type": "message",
+        "text": "Will 1:00 pm work for everyone today",
+        "user": "US2PZ9QBF",
+        "ts": "1593453661.000500",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "p7oM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Will 1:00 pm work for everyone today"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1593453661.000500",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1593456713.003600",
+        "reply_users": [
+            "US4KMEG9M",
+            "US2PZ9QBF",
+            "URRA07R7D"
+        ],
+        "replies": [
+            {
+                "user": "US4KMEG9M",
+                "ts": "1593453685.000800"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1593453709.001300"
+            },
+            {
+                "user": "URRA07R7D",
+                "ts": "1593456713.003600"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1593456811.398838"
+    },
+    {
+        "client_msg_id": "EF9C1E34-2D28-481B-A438-622D25182FE8",
+        "type": "message",
+        "text": "Yes",
+        "user": "UU50D077H",
+        "ts": "1593453674.000700",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "790b5f83cbe4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-16\/943684986291_790b5f83cbe4b100e623_72.jpg",
+            "first_name": "Jake",
+            "real_name": "Jake Enos",
+            "display_name": "Jake Enos",
+            "team": "TS2PZ9PJR",
+            "name": "jake",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6h3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1852d96b-ead0-4dd3-b26e-6bfee6b4876d",
+        "type": "message",
+        "text": "yes, but I have something at 2 so it would have to be a quick meeting",
+        "user": "US4KMEG9M",
+        "ts": "1593453685.000800",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "b915bd1b6aaa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-04\/1338647058470_b915bd1b6aaa68df3e32_72.jpg",
+            "first_name": "joshua",
+            "real_name": "joshua phelps",
+            "display_name": "joshua phelps",
+            "team": "TS2PZ9PJR",
+            "name": "joshuaphelps127",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9iX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yes, but I have something at 2 so it would have to be a quick meeting"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1593453661.000500",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "3C658D98-A3EF-458F-8CE1-051204B3F8FA",
+        "type": "message",
+        "text": "We could do 12:00",
+        "user": "US2PZ9QBF",
+        "ts": "1593453709.001300",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4wZRY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We could do 12:00"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1593453661.000500",
+        "parent_user_id": "US2PZ9QBF",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "US4KMEG9M",
+                    "U010XSNA2Q4",
+                    "URRA07VU3",
+                    "US2PZ9QBF",
+                    "URRA07R7D"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "client_msg_id": "566A82AB-C4CE-4F06-A922-26AC94E61917",
+        "type": "message",
+        "text": "Actually it will be from noon until 2 pm",
+        "user": "US2PZ9QBF",
+        "ts": "1593454111.002200",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ibH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Actually it will be from noon until 2 pm"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "E52E505D-184A-41B6-AF5A-9EC399ADE7F0",
+        "type": "message",
+        "text": "We’ve tried to do 1 hour meeting but that never seems to work :joy:",
+        "user": "US2PZ9QBF",
+        "ts": "1593454147.003000",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "p5BC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We’ve tried to do 1 hour meeting but that never seems to work "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "C49E9DA8-B4C1-41E7-9853-E4BB3F1107D8",
+        "type": "message",
+        "text": "<!channel> above^^^",
+        "user": "US2PZ9QBF",
+        "ts": "1593455074.003500",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Tjmh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " above^^^"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0a7ebe55-f4a7-4b13-8838-fb83c42dadc2",
+        "type": "message",
+        "text": "I'll be able to make the first half hour but need to go for lunch around 12:30",
+        "user": "URRA07R7D",
+        "ts": "1593456713.003600",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "2340815f3f5d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-16\/992617530243_2340815f3f5d0170300e_72.png",
+            "first_name": "William",
+            "real_name": "William Hou",
+            "display_name": "vroomy pitchfork",
+            "team": "TS2PZ9PJR",
+            "name": "whou125",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FrS4d",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'll be able to make the first half hour but need to go for lunch around 12:30"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1593453661.000500",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "0693BCEA-2971-4567-A0C7-27BFC4314C3B",
+        "type": "message",
+        "text": "Let’s use zoom password 654 321 2521",
+        "user": "US2PZ9QBF",
+        "ts": "1593456853.004400",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=\/R",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Let’s use zoom password 654 321 2521"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "036de56b-b337-4bbd-a768-12362fa5fa66",
+        "type": "message",
+        "text": "^zoom meeting number, there is no password",
+        "user": "US4KMEG9M",
+        "ts": "1593456879.004700",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "b915bd1b6aaa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-04\/1338647058470_b915bd1b6aaa68df3e32_72.jpg",
+            "first_name": "joshua",
+            "real_name": "joshua phelps",
+            "display_name": "joshua phelps",
+            "team": "TS2PZ9PJR",
+            "name": "joshuaphelps127",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "D+9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "^zoom meeting number, there is no password"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5114D386-B028-4B98-8DB2-8E2B3D05B080",
+        "type": "message",
+        "text": "Right, thanks",
+        "user": "US2PZ9QBF",
+        "ts": "1593456897.005100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EOeps",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Right, thanks"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0cc80615-055c-4902-a682-b559c12ce2f5",
+        "type": "message",
+        "text": "Here are notes from the meeting: <https:\/\/docs.google.com\/document\/d\/1hxLywsFvISNI4MeNdCErRNL1QsbkDxTXGWsKMt8zTVA\/edit?usp=sharing>",
+        "user": "US4KMEG9M",
+        "ts": "1593462418.005700",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "b915bd1b6aaa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-04\/1338647058470_b915bd1b6aaa68df3e32_72.jpg",
+            "first_name": "joshua",
+            "real_name": "joshua phelps",
+            "display_name": "joshua phelps",
+            "team": "TS2PZ9PJR",
+            "name": "joshuaphelps127",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RwhDn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Here are notes from the meeting: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/document\/d\/1hxLywsFvISNI4MeNdCErRNL1QsbkDxTXGWsKMt8zTVA\/edit?usp=sharing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1593462418.005700",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1593465813.006500",
+        "reply_users": [
+            "URRA07R7D"
+        ],
+        "replies": [
+            {
+                "user": "URRA07R7D",
+                "ts": "1593465813.006500"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "URRA07VU3",
+                    "URRA07R7D",
+                    "U010XSNA2Q4",
+                    "US2PZ9QBF"
+                ],
+                "count": 4
+            },
+            {
+                "name": "bear_bounce",
+                "users": [
+                    "URRA07VU3",
+                    "URRA07R7D",
+                    "US2PZ9QBF"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9dc63e10-65a0-4bc1-9e1e-053893f4e231",
+        "type": "message",
+        "text": "Thanks, Joshua! This is really helpful for catching up on what I missed",
+        "user": "URRA07R7D",
+        "ts": "1593465813.006500",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "2340815f3f5d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-16\/992617530243_2340815f3f5d0170300e_72.png",
+            "first_name": "William",
+            "real_name": "William Hou",
+            "display_name": "vroomy pitchfork",
+            "team": "TS2PZ9PJR",
+            "name": "whou125",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "a+Bwj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks, Joshua! This is really helpful for catching up on what I missed"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1593462418.005700",
+        "parent_user_id": "US4KMEG9M"
+    },
+    {
+        "client_msg_id": "f798eeca-35de-4bb6-8913-3921dcde7275",
+        "type": "message",
+        "text": "Hey guys! We're planning on making a socially distanced rube goldberg machine this summer. If you wanna join us feel free to hop on over to the <#C016EVBC4JG|rubegoldberg> channel. We're just getting started :D",
+        "user": "URRA07R7D",
+        "ts": "1593467859.006900",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "2340815f3f5d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-16\/992617530243_2340815f3f5d0170300e_72.png",
+            "first_name": "William",
+            "real_name": "William Hou",
+            "display_name": "vroomy pitchfork",
+            "team": "TS2PZ9PJR",
+            "name": "whou125",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "URRA07R7D",
+            "ts": "1593468165.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ipz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey guys! We're planning on making a socially distanced rube goldberg machine this summer. If you wanna join us feel free to hop on over to the "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C016EVBC4JG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " channel. We're just getting started :D"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

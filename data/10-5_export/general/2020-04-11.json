@@ -1,0 +1,227 @@
+[
+    {
+        "client_msg_id": "8a03f86a-8852-462c-bf87-298bc4e178bb",
+        "type": "message",
+        "text": "<https:\/\/www.reddit.com\/r\/FRC\/comments\/fyvt0j\/celebrates_form_and_function_in_an_efficiently\/?utm_medium=android_app&amp;utm_source=share|https:\/\/www.reddit.com\/r\/FRC\/comments\/fyvt0j\/celebrates_form_and_function_in_an_efficiently\/?utm_medium=android_app&amp;utm_source=share>",
+        "user": "US2PZ9QBF",
+        "ts": "1586632617.000100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "reddit",
+                "title": "Celebrates form and function in an efficiently designed machine",
+                "title_link": "https:\/\/www.reddit.com\/r\/FRC\/comments\/fyvt0j\/celebrates_form_and_function_in_an_efficiently\/?utm_medium=android_app&utm_source=share",
+                "text": "Posted in r\/FRC by u\/WhoDidThis_ • 23 points and 1 comment",
+                "fallback": "reddit: Celebrates form and function in an efficiently designed machine",
+                "image_url": "https:\/\/preview.redd.it\/ilvcnadg14s41.png?overlay-align=bottom,left&crop=900:471.204188482,smart&overlay-height=15p&overlay=%2Fwatermark%2Ft5_2rdka.png%3Fs%3D33fba01e5402cd941c55d9c3d448daeb46eb5701&width=900&height=471.204188482&auto=webp&s=3ad86b9eccc22c73c9993285ada68f52d4cb8c55",
+                "image_width": 478,
+                "image_height": 250,
+                "from_url": "https:\/\/www.reddit.com\/r\/FRC\/comments\/fyvt0j\/celebrates_form_and_function_in_an_efficiently\/?utm_medium=android_app&utm_source=share",
+                "image_bytes": 94728,
+                "service_icon": "http:\/\/www.redditstatic.com\/desktop2x\/img\/favicon\/apple-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/www.reddit.com\/r\/FRC\/comments\/fyvt0j\/celebrates_form_and_function_in_an_efficiently\/?utm_medium=android_app&amp;utm_source=share"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RQ74",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.reddit.com\/r\/FRC\/comments\/fyvt0j\/celebrates_form_and_function_in_an_efficiently\/?utm_medium=android_app&utm_source=share",
+                                "text": "https:\/\/www.reddit.com\/r\/FRC\/comments\/fyvt0j\/celebrates_form_and_function_in_an_efficiently\/?utm_medium=android_app&utm_source=share"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586632617.000100",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1586634390.001000",
+        "reply_users": [
+            "URRA07VU3",
+            "US2PZ9QBF"
+        ],
+        "replies": [
+            {
+                "user": "URRA07VU3",
+                "ts": "1586633922.000500"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1586634100.000700"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1586634390.001000"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1586634390.001000",
+        "reactions": [
+            {
+                "name": "laughing",
+                "users": [
+                    "URRA07VU3"
+                ],
+                "count": 1
+            },
+            {
+                "name": "trollparrot",
+                "users": [
+                    "URRA07VU3",
+                    "US4KMEG9M"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f884b915-e219-42d4-99de-f669f5d58fc7",
+        "type": "message",
+        "text": "yeah, poohbear should have requested a machined casting or additive manufacturing. Design was good otherwise.",
+        "user": "URRA07VU3",
+        "ts": "1586633922.000500",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "a4z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yeah, poohbear should have requested a machined casting or additive manufacturing. Design was good otherwise."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586632617.000100",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "cb31840c-3bf0-407e-93c1-efc9dee008c3",
+        "type": "message",
+        "text": "and 7071 aluminum does seem to be a real Chinesium alloy <https:\/\/www.alibaba.com\/product-detail\/Good-quality-7071-alloy-aluminum-sheet_60825831255.html?spm=a2700.galleryofferlist.0.0.512efc47p9n0W0&amp;s=p&amp;bypass=true>",
+        "user": "URRA07VU3",
+        "ts": "1586634100.000700",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "URRA07VU3",
+            "ts": "1586634165.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1xU0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "and 7071 aluminum does seem to be a real Chinesium alloy "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.alibaba.com\/product-detail\/Good-quality-7071-alloy-aluminum-sheet_60825831255.html?spm=a2700.galleryofferlist.0.0.512efc47p9n0W0&s=p&bypass=true"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586632617.000100",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "0e14ee50-07c7-4fef-a02c-05ae546904ad",
+        "type": "message",
+        "text": "Nice",
+        "user": "US2PZ9QBF",
+        "ts": "1586634390.001000",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HwVs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Nice"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586632617.000100",
+        "parent_user_id": "US2PZ9QBF"
+    }
+]

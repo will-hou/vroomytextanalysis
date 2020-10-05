@@ -1,0 +1,1072 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1596134417.000300",
+        "user": "U01874ZLZC4",
+        "text": "<@U01874ZLZC4> has joined the channel",
+        "reactions": [
+            {
+                "name": "wave",
+                "users": [
+                    "US4KMEG9M",
+                    "URRA07R7D",
+                    "URRA07VU3",
+                    "US2PZ9QBF"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Just started putting everything together for a differential swerve bot. Based on the aren hill design and modified for 3d printing and not ridiculously expensive bearings (replaced by thrust bearings)",
+        "files": [
+            {
+                "id": "F01876QVAHJ",
+                "created": 1596134612,
+                "timestamp": 1596134612,
+                "name": "IMG_20200729_173530.jpg",
+                "title": "IMG_20200729_173530.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U01874ZLZC4",
+                "editable": false,
+                "size": 582302,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TS2PZ9PJR-F01876QVAHJ\/img_20200729_173530.jpg?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TS2PZ9PJR-F01876QVAHJ\/download\/img_20200729_173530.jpg?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F01876QVAHJ-05500e3876\/img_20200729_173530_64.jpg?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F01876QVAHJ-05500e3876\/img_20200729_173530_80.jpg?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F01876QVAHJ-05500e3876\/img_20200729_173530_360.jpg?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F01876QVAHJ-05500e3876\/img_20200729_173530_480.jpg?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F01876QVAHJ-05500e3876\/img_20200729_173530_160.jpg?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F01876QVAHJ-05500e3876\/img_20200729_173530_720.jpg?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F01876QVAHJ-05500e3876\/img_20200729_173530_800.jpg?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1067,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F01876QVAHJ-05500e3876\/img_20200729_173530_960.jpg?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F01876QVAHJ-05500e3876\/img_20200729_173530_1024.jpg?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_1024_w": 768,
+                "thumb_1024_h": 1024,
+                "original_w": 3024,
+                "original_h": 4032,
+                "thumb_tiny": "AwAwACSSNJHQMQRkdKbtBz19Ks+aPQ1A2PMbAwDzQkDZAOMhjytOPIyDgjpSSEZDA57HFNBwcdu1ZSVmaR1Qocd+D3Bpd6+o\/OkKq3LKCfcUmyP+4v5VOhWpZqldNukIycDjirprOcOHOetbsxQYZPYd6fHJvAB6imFgFxj\/AOvTUJDA4\/GpauUnZlsHIopmQOh4o3e\/6VlY0LZqGVAw5pUlyuGxuH60wvk4PFb3MbEKRqCc8kGnMoIxQTiT6igmmBFvYDAx+Io8x\/8AZ\/KhlO7ik2mlZDuz\/9k=",
+                "permalink": "https:\/\/vroomvroomswerve.slack.com\/files\/U01874ZLZC4\/F01876QVAHJ\/img_20200729_173530.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/TS2PZ9PJR-F01876QVAHJ-7192f2bdf6",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Yt7a",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Just started putting everything together for a differential swerve bot. Based on the aren hill design and modified for 3d printing and not ridiculously expensive bearings (replaced by thrust bearings)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U01874ZLZC4",
+        "display_as_bot": false,
+        "ts": "1596134698.002700",
+        "client_msg_id": "c88659b4-216c-42e8-aaf1-8b169cd4c541",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "US4KMEG9M",
+                    "URRA07R7D",
+                    "URRA07VU3",
+                    "US2PZ9QBF"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d8be6d3c-198c-42e3-baf6-4c12b110a4d9",
+        "type": "message",
+        "text": "As per usual I give zero space for electrical",
+        "user": "U01874ZLZC4",
+        "ts": "1596134733.003700",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "gb40ade6266c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b40ade6266c70eaf07d765360ca27260.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "",
+            "real_name": "Arvind Mahadevan",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "arvindeugene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cMyI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "As per usual I give zero space for electrical"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "20608beb-0995-4848-b65f-74e98dc2e3f1",
+        "type": "message",
+        "text": "That's so cool",
+        "user": "US2PZ9QBF",
+        "ts": "1596134800.003900",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "D\/IU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That's so cool"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8e429c9c-afbd-4a55-8d0e-d31c2df468bf",
+        "type": "message",
+        "text": "Do you have a video of it driving?",
+        "user": "US2PZ9QBF",
+        "ts": "1596134810.004300",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VKE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Do you have a video of it driving?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fa2ba3ec-0e0b-4361-843f-27127f2309c3",
+        "type": "message",
+        "text": "No we're still wiring it all up. Electrical is going to be pristine. We're cutting wires to the exact right length",
+        "user": "U01874ZLZC4",
+        "ts": "1596134887.005900",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "gb40ade6266c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b40ade6266c70eaf07d765360ca27260.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "",
+            "real_name": "Arvind Mahadevan",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "arvindeugene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pvNPN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "No we're still wiring it all up. Electrical is going to be pristine. We're cutting wires to the exact right length"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "47563e45-8296-4340-8773-e306a3bbf4b3",
+        "type": "message",
+        "text": "And like I said, there may not be enough space",
+        "user": "U01874ZLZC4",
+        "ts": "1596134906.006400",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "gb40ade6266c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b40ade6266c70eaf07d765360ca27260.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "",
+            "real_name": "Arvind Mahadevan",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "arvindeugene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uqf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "And like I said, there may not be enough space"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f31c8a78-33b2-47d5-8f33-48944f891d2b",
+        "type": "message",
+        "text": "Also should I put this somewhere else?",
+        "user": "U01874ZLZC4",
+        "ts": "1596134983.007400",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "gb40ade6266c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b40ade6266c70eaf07d765360ca27260.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "",
+            "real_name": "Arvind Mahadevan",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "arvindeugene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "npYq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Also should I put this somewhere else?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "abcb68dc-0e8f-4ef4-8256-f3371df283f7",
+        "type": "message",
+        "text": "I would send it on swerve but there are three people in that channel all of whom are already aware of this",
+        "user": "U01874ZLZC4",
+        "ts": "1596135065.008500",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "gb40ade6266c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b40ade6266c70eaf07d765360ca27260.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "",
+            "real_name": "Arvind Mahadevan",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "arvindeugene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4UYca",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I would send it on swerve but there are three people in that channel all of whom are already aware of this"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "F828E6A2-8F36-4CF9-ADEE-F655116DA121",
+        "type": "message",
+        "text": "So, we are really casual here about where you put things on slack",
+        "user": "US2PZ9QBF",
+        "ts": "1596135394.009300",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "inI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So, we are really casual here about where you put things on slack"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4F194B86-03E1-4E6D-8833-6609C1BA9CFF",
+        "type": "message",
+        "text": "If you want everyone to see it, put it in general ",
+        "user": "US2PZ9QBF",
+        "ts": "1596135410.009800",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YW6iu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If you want everyone to see it, put it in general "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "US4KMEG9M",
+                    "US2PZ9QBF"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "C5667886-6A84-491D-8AE4-0BCADE83DB7A",
+        "type": "message",
+        "text": "Otherwise just ring the channel that seems to be similar to what your are talking about ",
+        "user": "US2PZ9QBF",
+        "ts": "1596135531.010100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EHL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Otherwise just ring the channel that seems to be similar to what your are talking about "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a2b3d4c3-cd89-49f9-abf2-9144be9463c4",
+        "type": "message",
+        "text": "will there be a cad release soon?\nand what are the drive and steering ratios?",
+        "user": "URRA07VU3",
+        "ts": "1596135605.011300",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "toyKp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "will there be a cad release soon?\nand what are the drive and steering ratios?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5d68db5d-baea-4d30-94b1-7670f016f9f8",
+        "type": "message",
+        "text": "Yes, soon. Drive ratios are about 4:1 and steering ratio is about 15-16:1",
+        "user": "U01874ZLZC4",
+        "ts": "1596136430.012300",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "gb40ade6266c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b40ade6266c70eaf07d765360ca27260.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "",
+            "real_name": "Arvind Mahadevan",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "arvindeugene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VVcv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes, soon. Drive ratios are about 4:1 and steering ratio is about 15-16:1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "URRA07VU3",
+                    "US2PZ9QBF",
+                    "US4KMEG9M"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "02b7912b-b641-4fc7-bd8f-d92101951542",
+        "type": "message",
+        "text": "The reason there is so much gearing is because I didn't trust really small tooth size on 3d printers, so if this was fabricated using traditional techniques there would be much less gearing with about the same ratios",
+        "user": "U01874ZLZC4",
+        "ts": "1596136537.014400",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "gb40ade6266c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b40ade6266c70eaf07d765360ca27260.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "",
+            "real_name": "Arvind Mahadevan",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "arvindeugene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3jREs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The reason there is so much gearing is because I didn't trust really small tooth size on 3d printers, so if this was fabricated using traditional techniques there would be much less gearing with about the same ratios"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c31f5990-81a1-4354-8b3c-2025e5377bc1",
+        "type": "message",
+        "text": "BTW, the only reason I'm not doing the CAD release yet is that file management is garbage. Like 2020 level garbage. So when I fix that, which should be soon, it will be released",
+        "user": "U01874ZLZC4",
+        "ts": "1596137063.016200",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "gb40ade6266c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b40ade6266c70eaf07d765360ca27260.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "",
+            "real_name": "Arvind Mahadevan",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "arvindeugene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "r2\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "BTW, the only reason I'm not doing the CAD release yet is that file management is garbage. Like 2020 level garbage. So when I fix that, which should be soon, it will be released"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "URRA07VU3",
+                    "US2PZ9QBF",
+                    "US4KMEG9M"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "72e7663d-6cff-4f40-8231-abf98c6a7d1f",
+        "type": "message",
+        "text": "Okay just added the files to GrabCAD",
+        "user": "U01874ZLZC4",
+        "ts": "1596154280.017400",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "gb40ade6266c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b40ade6266c70eaf07d765360ca27260.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "",
+            "real_name": "Arvind Mahadevan",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "arvindeugene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "h1g3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Okay just added the files to GrabCAD"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5b9d255b-6b91-4b2b-8d16-9af709ef6e8e",
+        "type": "message",
+        "text": "If you have a GrabCAD account and would like to get an invite lmk and I can add you",
+        "user": "U01874ZLZC4",
+        "ts": "1596154397.018200",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "gb40ade6266c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b40ade6266c70eaf07d765360ca27260.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "",
+            "real_name": "Arvind Mahadevan",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "arvindeugene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MuaeP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "If you have a GrabCAD account and would like to get an invite lmk and I can add you"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9bac6c25-99d1-4e09-b69b-cc281d4648ec",
+        "type": "message",
+        "text": "I already invited people who I think would like to see the CAD",
+        "user": "U01874ZLZC4",
+        "ts": "1596154431.018600",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "gb40ade6266c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b40ade6266c70eaf07d765360ca27260.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "",
+            "real_name": "Arvind Mahadevan",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "arvindeugene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QcnEl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I already invited people who I think would like to see the CAD"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2bce9e7b-db05-4b92-a78c-ff0c8f38b73e",
+        "type": "message",
+        "text": "Do you like MakerBot but wish it was a CNC?\nDo you like things in pretty box?\nDo you like paying WAY TO MUCH for things YOU CAN MAKE BETTER?\nDO YOU HAVE 4000 DOLLARS BURNING A HOLE IN YOUR POCKET!!!!???????\nTHEN THIS PICE OF SHIT IS FOR YOU!",
+        "user": "US2PZ9QBF",
+        "ts": "1596169376.021700",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BhFlj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Do you like MakerBot but wish it was a CNC?\nDo you like things in pretty box?\nDo you like paying WAY TO MUCH for things YOU CAN MAKE BETTER?\nDO YOU HAVE 4000 DOLLARS BURNING A HOLE IN YOUR POCKET!!!!???????\nTHEN THIS PICE OF SHIT IS FOR YOU!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1596169376.021700",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1596169512.022800",
+        "reply_users": [
+            "URRA07VU3",
+            "US2PZ9QBF"
+        ],
+        "replies": [
+            {
+                "user": "URRA07VU3",
+                "ts": "1596169411.022200"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1596169432.022400"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1596169488.022600"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1596169512.022800"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1596169512.022800"
+    },
+    {
+        "client_msg_id": "57f7e172-4e31-46b5-b886-fae97977d183",
+        "type": "message",
+        "text": "<https:\/\/toolguyd.com\/bantam-desktop-cnc-mill-fresh-thoughts-hands-off\/|https:\/\/toolguyd.com\/bantam-desktop-cnc-mill-fresh-thoughts-hands-off\/>",
+        "user": "US2PZ9QBF",
+        "ts": "1596169380.021900",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "ToolGuyd",
+                "title": "Bantam Desktop CNC Mill – Fresh Thoughts (Hands-Off)",
+                "title_link": "https:\/\/toolguyd.com\/bantam-desktop-cnc-mill-fresh-thoughts-hands-off\/",
+                "text": "Here are some more (hands-off) thoughts about the new Bantam Tools desktop CNC milling machine.",
+                "fallback": "ToolGuyd: Bantam Desktop CNC Mill – Fresh Thoughts (Hands-Off)",
+                "image_url": "https:\/\/toolguyd.com\/blog\/wp-content\/uploads\/2020\/07\/Bantam-CNC-Milling-Machine.jpg",
+                "image_width": 249,
+                "image_height": 250,
+                "ts": 1596121203,
+                "from_url": "https:\/\/toolguyd.com\/bantam-desktop-cnc-mill-fresh-thoughts-hands-off\/",
+                "image_bytes": 108503,
+                "service_icon": "https:\/\/toolguyd.com\/blog\/wp-content\/uploads\/2018\/03\/cropped-ToolGuyd-Just-the-Icon-File-Scaled-Square-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/toolguyd.com\/bantam-desktop-cnc-mill-fresh-thoughts-hands-off\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6mnxM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/toolguyd.com\/bantam-desktop-cnc-mill-fresh-thoughts-hands-off\/",
+                                "text": "https:\/\/toolguyd.com\/bantam-desktop-cnc-mill-fresh-thoughts-hands-off\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2e68f42c-0642-462d-a08a-c66282069923",
+        "type": "message",
+        "text": "whyyyy",
+        "user": "URRA07VU3",
+        "ts": "1596169411.022200",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ecil7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "whyyyy"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1596169376.021700",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "d3474313-38c2-4f94-b698-7714ddc4639d",
+        "type": "message",
+        "text": "What do you mean?",
+        "user": "US2PZ9QBF",
+        "ts": "1596169432.022400",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JXmpd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What do you mean?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1596169376.021700",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "6f4e7ede-a21c-419f-be78-2f88f1441883",
+        "type": "message",
+        "text": "you described something that didn't sound good. I replied \"whyyy\" as in why would they make something that isn't good.",
+        "user": "URRA07VU3",
+        "ts": "1596169488.022600",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GDcPn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "you described something that didn't sound good. I replied \"whyyy\" as in why would they make something that isn't good."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1596169376.021700",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "a50750f4-a52f-4893-9085-f6bc87871a66",
+        "type": "message",
+        "text": "Because MONEY!!!!!!!",
+        "user": "US2PZ9QBF",
+        "ts": "1596169512.022800",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "smJH4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Because MONEY!!!!!!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1596169376.021700",
+        "parent_user_id": "US2PZ9QBF"
+    }
+]

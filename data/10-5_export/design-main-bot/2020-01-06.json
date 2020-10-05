@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "7254e69c-2ee3-46a3-8aee-d664d15b936e",
+        "type": "message",
+        "text": "So now that we have this year's game, what are your thoughts on making a module for it?",
+        "user": "US2PZ9QBF",
+        "ts": "1578327426.000800",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kdr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So now that we have this year's game, what are your thoughts on making a module for it?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

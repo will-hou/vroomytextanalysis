@@ -1,0 +1,648 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1577388580.000200",
+        "user": "US2PZ9QBF",
+        "text": "<@US2PZ9QBF> has joined the channel"
+    },
+    {
+        "client_msg_id": "13d196b5-8e28-48fb-85e7-fbd08827e5f9",
+        "type": "message",
+        "text": "howdy <!channel>, welcome to our new waste of time :joy:",
+        "user": "US2PZ9QBF",
+        "ts": "1577389832.001600",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X2Xqi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "howdy "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", welcome to our new waste of time "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1795e799-c4fa-4c80-b52f-33429f81fa2c",
+        "type": "message",
+        "text": "we will have a meeting at my house on the 2nd of January from 12-6 pm",
+        "user": "US2PZ9QBF",
+        "ts": "1577389866.002300",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cMj7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "we will have a meeting at my house on the 2nd of January from 12-6 pm"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1577389866.002300",
+        "reply_count": 7,
+        "reply_users_count": 2,
+        "latest_reply": "1577394909.002100",
+        "reply_users": [
+            "URRA07VU3",
+            "US2PZ9QBF"
+        ],
+        "replies": [
+            {
+                "user": "URRA07VU3",
+                "ts": "1577391835.000200"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1577393787.000500"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1577393817.000700"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1577393912.000900"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1577393930.001100"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1577394150.001800"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1577394909.002100"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1577394909.002100"
+    },
+    {
+        "client_msg_id": "77440579-8caf-406c-b2b4-431969a076d5",
+        "type": "message",
+        "text": "this will be a desing meeting",
+        "user": "US2PZ9QBF",
+        "ts": "1577389917.002700",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "njaM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "this will be a desing meeting"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "957f89ca-a27c-4916-a564-8037f617868c",
+        "type": "message",
+        "text": "(you know, so we know what we will be doing this summer)",
+        "user": "US2PZ9QBF",
+        "ts": "1577389939.003200",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2D6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(you know, so we know what we will be doing this summer)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1577390681.000100",
+        "user": "URRA07R7D",
+        "text": "<@URRA07R7D> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1577391385.000100",
+        "user": "URRA07VU3",
+        "text": "<@URRA07VU3> has joined the channel"
+    },
+    {
+        "client_msg_id": "57d97bad-af30-4e73-b70f-16b17a6e7cc8",
+        "type": "message",
+        "text": "are you sure there won't be a sert meeting that Thursday?",
+        "user": "URRA07VU3",
+        "ts": "1577391835.000200",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pxZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "are you sure there won't be a sert meeting that Thursday?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1577389866.002300",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1577392423.000400",
+        "user": "US4KMEG9M",
+        "text": "<@US4KMEG9M> has joined the channel"
+    },
+    {
+        "client_msg_id": "5293ac5f-c532-485e-99b7-bb93dadc697b",
+        "type": "message",
+        "text": "No, but everyone knows I'll be back for kickoff",
+        "user": "US2PZ9QBF",
+        "ts": "1577393787.000500",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qiY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "No, but everyone knows I'll be back for kickoff"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1577389866.002300",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "3aad5716-802e-477b-82d3-69725ad58bd7",
+        "type": "message",
+        "text": "if there is a sert meeting you should go",
+        "user": "URRA07VU3",
+        "ts": "1577393817.000700",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YrSO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "if there is a sert meeting you should go"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1577389866.002300",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "f17c65e7-feb3-4915-a9c8-76451663c708",
+        "type": "message",
+        "text": "I have told people that I need a break",
+        "user": "US2PZ9QBF",
+        "ts": "1577393912.000900",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "h89",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I have told people that I need a break"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1577389866.002300",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "bde157f9-1b5d-44c5-a24d-3831da111c4a",
+        "type": "message",
+        "text": "The mentors are aware that I'll be back at kickoff",
+        "user": "US2PZ9QBF",
+        "ts": "1577393930.001100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wO4S",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The mentors are aware that I'll be back at kickoff"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1577389866.002300",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "35f36ee1-600b-4cb7-ad0a-d25dbf6d0ec6",
+        "type": "message",
+        "text": "Will the 2nd work for everyone??",
+        "user": "US2PZ9QBF",
+        "ts": "1577394043.001700",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/vrK5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Will the 2nd work for everyone??"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "230b0177-b0ee-4b70-9055-9c9ce358ea67",
+        "type": "message",
+        "text": "Definetly take a break but make sure you meet with the student leads before the build process starts.",
+        "user": "URRA07VU3",
+        "ts": "1577394150.001800",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "URRA07VU3",
+            "ts": "1577394163.000000"
+        },
+        "thread_ts": "1577389866.002300",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "60150800-3d98-4f62-bd01-6bc76590ac33",
+        "type": "message",
+        "text": "Absolutely",
+        "user": "US2PZ9QBF",
+        "ts": "1577394909.002100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iX=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Absolutely"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1577389866.002300",
+        "parent_user_id": "US2PZ9QBF",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "URRA07VU3",
+                    "URRA07R7D"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "83b49427-bfc7-4a3f-810f-5b3dea4e3dac",
+        "type": "message",
+        "text": "And then my address is 1618 Bradley Drive Eugene OR 97401",
+        "user": "US2PZ9QBF",
+        "ts": "1577395042.002700",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/GV2R",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "And then my address is 1618 Bradley Drive Eugene OR 97401"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b0ca5357-b983-4840-b0c1-66e900879219",
+        "type": "message",
+        "text": "Our slack url is <http:\/\/vroomvroomswerve.slack.com|vroomvroomswerve.slack.com>",
+        "user": "US2PZ9QBF",
+        "ts": "1577395109.003300",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OId",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Our slack url is "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/vroomvroomswerve.slack.com",
+                                "text": "vroomvroomswerve.slack.com"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1577395427.003500",
+        "user": "US51ZNQDU",
+        "text": "<@US51ZNQDU> has joined the channel",
+        "reactions": [
+            {
+                "name": "wave",
+                "users": [
+                    "US4KMEG9M",
+                    "URRA07R7D",
+                    "US2PZ9QBF"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

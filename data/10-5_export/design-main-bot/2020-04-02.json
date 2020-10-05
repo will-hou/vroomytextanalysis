@@ -1,0 +1,1219 @@
+[
+    {
+        "client_msg_id": "7c94e0b3-32e5-445d-9afb-58d98a9393d9",
+        "type": "message",
+        "text": "This is insane, but it's an idea I had",
+        "user": "US2PZ9QBF",
+        "ts": "1585861286.001500",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0Eha",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is insane, but it's an idea I had"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d716388d-05da-475d-9009-948ca6a2e3ac",
+        "type": "message",
+        "text": "What if we make a back up tank drivetrain that moves vertical on pistons 2 inches and drops down when we need it to. When you push the bottom on the controler to drop down these wheels, it switches it to tank control and then you drive with tank till you want to swerve again :rolling_on_the_floor_laughing:",
+        "user": "US2PZ9QBF",
+        "ts": "1585861410.004700",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2n9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What if we make a back up tank drivetrain that moves vertical on pistons 2 inches and drops down when we need it to. When you push the bottom on the controler to drop down these wheels, it switches it to tank control and then you drive with tank till you want to swerve again "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rolling_on_the_floor_laughing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5754e943-8edc-4f87-9b5d-4da7941a6c75",
+        "type": "message",
+        "text": "That would be cool",
+        "user": "US2PZ9QBF",
+        "ts": "1585861428.004900",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "n7D",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That would be cool"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "DE76295D-72E4-4948-9A4A-33000435B409",
+        "type": "message",
+        "text": "So Triple Strange Swank?",
+        "user": "UU50D077H",
+        "ts": "1585861451.005400",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "790b5f83cbe4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-16\/943684986291_790b5f83cbe4b100e623_72.jpg",
+            "first_name": "Jake",
+            "real_name": "Jake Enos",
+            "display_name": "Jake Enos",
+            "team": "TS2PZ9PJR",
+            "name": "jake",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JOJnO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So Triple Strange Swank?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585861451.005400",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1585861881.010700",
+        "reply_users": [
+            "US2PZ9QBF",
+            "URRA07VU3"
+        ],
+        "replies": [
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1585861695.009600"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1585861852.010500"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1585861881.010700"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1585861881.010700"
+    },
+    {
+        "client_msg_id": "4c80b35d-fbe5-40f4-a098-2fb43b0b760f",
+        "type": "message",
+        "text": "there would be space, but I don't really think we need more complexity",
+        "user": "URRA07VU3",
+        "ts": "1585861467.005800",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "URRA07VU3",
+            "ts": "1585861482.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TPt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "there would be space, but I don't really think we need more complexity"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c6136108-4746-496e-a173-41af4f0019a7",
+        "type": "message",
+        "text": "It would be so cool though",
+        "user": "US2PZ9QBF",
+        "ts": "1585861497.006600",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "q6v",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It would be so cool though"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a6f7ace9-2eff-4360-bd07-0fc36309d1fd",
+        "type": "message",
+        "text": "And it would help is so much with those steel bars",
+        "user": "US2PZ9QBF",
+        "ts": "1585861526.007400",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "US2PZ9QBF",
+            "ts": "1585861586.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "y2W8M",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "And it would help is so much with those steel bars"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585861526.007400",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1585861605.009200",
+        "reply_users": [
+            "URRA07VU3",
+            "US2PZ9QBF"
+        ],
+        "replies": [
+            {
+                "user": "URRA07VU3",
+                "ts": "1585861566.008100"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1585861595.008800"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1585861605.009200"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1585861605.009200"
+    },
+    {
+        "client_msg_id": "91c80dfa-8a23-4bc1-bff8-f72253879889",
+        "type": "message",
+        "text": "you have 1 motor for it",
+        "user": "URRA07VU3",
+        "ts": "1585861558.007900",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QVV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "you have 1 motor for it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "564bfb56-f322-4a28-b11d-28b6b4462023",
+        "type": "message",
+        "text": "what?",
+        "user": "URRA07VU3",
+        "ts": "1585861566.008100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SIUE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "what?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585861526.007400",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "a9f649eb-8c40-4e4b-9e38-a20d20204e1a",
+        "type": "message",
+        "text": "(unless you want a power take off on the swerve)",
+        "user": "URRA07VU3",
+        "ts": "1585861570.008300",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9Bn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(unless you want a power take off on the swerve)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585861570.008300",
+        "reply_count": 14,
+        "reply_users_count": 2,
+        "latest_reply": "1585862333.012700",
+        "reply_users": [
+            "US2PZ9QBF",
+            "URRA07VU3"
+        ],
+        "replies": [
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1585861627.009400"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1585861748.009900"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1585861794.010100"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1585861809.010300"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1585861956.010900"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1585861987.011100"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1585861996.011300"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1585862022.011500"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1585862090.011700"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1585862181.011900"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1585862194.012100"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1585862219.012300"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1585862233.012500"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1585862333.012700"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1585862333.012700"
+    },
+    {
+        "client_msg_id": "0e70d135-5b6f-49b2-9e64-e36f6b71a33a",
+        "type": "message",
+        "text": "In the middle of the feild",
+        "user": "US2PZ9QBF",
+        "ts": "1585861595.008800",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rta",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "In the middle of the feild"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585861526.007400",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "90edacde-d58a-4daf-8f20-76c3244ddcb0",
+        "type": "message",
+        "text": "if you think it's cool and want to cad it I think that would be great.",
+        "user": "URRA07VU3",
+        "ts": "1585861598.009100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WJZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "if you think it's cool and want to cad it I think that would be great."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4ada0d88-3cd8-4729-b5f4-b6ae29af42bc",
+        "type": "message",
+        "text": ":+1:",
+        "user": "URRA07VU3",
+        "ts": "1585861605.009200",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CEK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "+1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585861526.007400",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "c26139d3-f108-4aed-921e-ab801afee4d8",
+        "type": "message",
+        "text": "Is that a thing and how",
+        "user": "US2PZ9QBF",
+        "ts": "1585861627.009400",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZlY5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Is that a thing and how"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585861570.008300",
+        "parent_user_id": "URRA07VU3"
+    },
+    {
+        "client_msg_id": "dfb994c8-a171-4f8d-b30a-d06c96eec754",
+        "type": "message",
+        "text": "What's this",
+        "user": "US2PZ9QBF",
+        "ts": "1585861695.009600",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "US2PZ9QBF",
+            "ts": "1585861702.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DSd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What's this"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585861451.005400",
+        "parent_user_id": "UU50D077H"
+    },
+    {
+        "client_msg_id": "c30345fd-b3ef-4251-930f-754a2f686f06",
+        "type": "message",
+        "text": "Connecting the same motors to multiple mechanisms is a thing. (Like powering a climber from drivetrain or shooter motors)",
+        "user": "URRA07VU3",
+        "ts": "1585861748.009900",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1585861570.008300",
+        "parent_user_id": "URRA07VU3"
+    },
+    {
+        "client_msg_id": "0130af6e-82f9-4141-b28c-10b0ba809fa0",
+        "type": "message",
+        "text": "Wow that's cool",
+        "user": "US2PZ9QBF",
+        "ts": "1585861794.010100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4eH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Wow that's cool"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585861570.008300",
+        "parent_user_id": "URRA07VU3"
+    },
+    {
+        "client_msg_id": "5ab50397-71b2-43fb-93d0-670921053af5",
+        "type": "message",
+        "text": "As In mechanically connected?",
+        "user": "US2PZ9QBF",
+        "ts": "1585861809.010300",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3TK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "As In mechanically connected?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585861570.008300",
+        "parent_user_id": "URRA07VU3"
+    },
+    {
+        "client_msg_id": "05e69717-3836-4572-bdf1-397bfcd419c5",
+        "type": "message",
+        "text": "Basically what you're describing. Teams did stuff like this in 2016 especially.",
+        "user": "URRA07VU3",
+        "ts": "1585861852.010500",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1585861451.005400",
+        "parent_user_id": "UU50D077H"
+    },
+    {
+        "client_msg_id": "2ebe40db-f463-47ce-bd2e-2d9f888b83e7",
+        "type": "message",
+        "text": "That's so cool",
+        "user": "US2PZ9QBF",
+        "ts": "1585861881.010700",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8Vv\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That's so cool"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585861451.005400",
+        "parent_user_id": "UU50D077H"
+    },
+    {
+        "client_msg_id": "dcafabf9-f921-4ecd-9851-b340c32cd2a1",
+        "type": "message",
+        "text": "Yes. Usually with shifters. 254 used a ratchet in 2017. Motors spun one way to power the climber and the other way to power the shooter.",
+        "user": "URRA07VU3",
+        "ts": "1585861956.010900",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1585861570.008300",
+        "parent_user_id": "URRA07VU3"
+    },
+    {
+        "client_msg_id": "054b5e80-82c8-40ae-95c3-2dd92e21608d",
+        "type": "message",
+        "text": "That's awesome",
+        "user": "US2PZ9QBF",
+        "ts": "1585861987.011100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+xszl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That's awesome"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585861570.008300",
+        "parent_user_id": "URRA07VU3"
+    },
+    {
+        "client_msg_id": "fdb358cb-2905-43de-97e0-40a72b8c96dd",
+        "type": "message",
+        "text": "I don't know of anyone doing power take off on swerve.",
+        "user": "URRA07VU3",
+        "ts": "1585861996.011300",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1585861570.008300",
+        "parent_user_id": "URRA07VU3"
+    },
+    {
+        "client_msg_id": "447cbfd0-fe7e-48c4-9b90-b64a5c149d89",
+        "type": "message",
+        "text": "Yeah, that sounds incredibly hard to do:joy:",
+        "user": "US2PZ9QBF",
+        "ts": "1585862022.011500",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=nn\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah, that sounds incredibly hard to do"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585861570.008300",
+        "parent_user_id": "URRA07VU3"
+    },
+    {
+        "client_msg_id": "00df9850-4694-40c8-8f34-38d6f7ce1d20",
+        "type": "message",
+        "text": "Yeah. The motors are facing the wrong way, and you'd need to get the power from four modules",
+        "user": "URRA07VU3",
+        "ts": "1585862090.011700",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1585861570.008300",
+        "parent_user_id": "URRA07VU3"
+    },
+    {
+        "client_msg_id": "71ad11e9-41c9-45e8-961e-0871ce9209bc",
+        "type": "message",
+        "text": ":rolling_on_the_floor_laughing::rolling_on_the_floor_laughing::rolling_on_the_floor_laughing::rolling_on_the_floor_laughing::rolling_on_the_floor_laughing::rolling_on_the_floor_laughing:",
+        "user": "US2PZ9QBF",
+        "ts": "1585862181.011900",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jrA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "rolling_on_the_floor_laughing"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rolling_on_the_floor_laughing"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rolling_on_the_floor_laughing"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rolling_on_the_floor_laughing"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rolling_on_the_floor_laughing"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rolling_on_the_floor_laughing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585861570.008300",
+        "parent_user_id": "URRA07VU3"
+    },
+    {
+        "client_msg_id": "df53661c-aab4-427c-8b57-94f72347e5fe",
+        "type": "message",
+        "text": "?",
+        "user": "URRA07VU3",
+        "ts": "1585862194.012100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1585861570.008300",
+        "parent_user_id": "URRA07VU3"
+    },
+    {
+        "client_msg_id": "44432f2c-5823-4896-9efa-984d2045f34a",
+        "type": "message",
+        "text": "That sounds like a lot more big beval gears",
+        "user": "US2PZ9QBF",
+        "ts": "1585862219.012300",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/8\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That sounds like a lot more big beval gears"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585861570.008300",
+        "parent_user_id": "URRA07VU3"
+    },
+    {
+        "client_msg_id": "3bf14ac4-f661-4bf6-964e-f21e84164a98",
+        "type": "message",
+        "text": "And a lot more weight",
+        "user": "US2PZ9QBF",
+        "ts": "1585862233.012500",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1Xt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "And a lot more weight"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585861570.008300",
+        "parent_user_id": "URRA07VU3"
+    },
+    {
+        "client_msg_id": "41ade927-f586-4999-85a5-324c2f0a71f8",
+        "type": "message",
+        "text": "Yeah. Weight is a problem with two drivetrains in general. The intake\/conveyor would be easier to add a power take off to.",
+        "user": "URRA07VU3",
+        "ts": "1585862333.012700",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1585861570.008300",
+        "parent_user_id": "URRA07VU3"
+    }
+]

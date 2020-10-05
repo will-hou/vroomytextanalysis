@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "7eafa73d-63bf-4400-b0cc-3393f735b6de",
+        "type": "message",
+        "text": "<https:\/\/media.team254.com\/2018\/07\/8fda07af-2018-Techbinder.pdf>",
+        "user": "UU50D077H",
+        "ts": "1585084506.000200",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "790b5f83cbe4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-16\/943684986291_790b5f83cbe4b100e623_72.jpg",
+            "first_name": "Jake",
+            "real_name": "Jake Enos",
+            "display_name": "Jake Enos",
+            "team": "TS2PZ9PJR",
+            "name": "jake",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "d0T",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/media.team254.com\/2018\/07\/8fda07af-2018-Techbinder.pdf"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

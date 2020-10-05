@@ -1,0 +1,61 @@
+[
+    {
+        "client_msg_id": "7a6a25a4-833e-4838-8279-4f6152148dba",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=3MmcU6a2zAo>",
+        "user": "URRA07VU3",
+        "ts": "1588440205.000500",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "FIRST GAME CHANGERS powered by Star Wars: Force for Change",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=3MmcU6a2zAo",
+                "author_name": "Official FIRST",
+                "author_link": "https:\/\/www.youtube.com\/user\/FIRSTWorldTube",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/3MmcU6a2zAo\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: FIRST GAME CHANGERS powered by Star Wars: Force for Change",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/3MmcU6a2zAo?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=3MmcU6a2zAo",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=3MmcU6a2zAo"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qVjX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=3MmcU6a2zAo"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

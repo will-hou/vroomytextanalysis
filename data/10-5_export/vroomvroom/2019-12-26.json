@@ -1,0 +1,32 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1577391883.000200",
+        "user": "URRA07VU3",
+        "text": "<@URRA07VU3> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1577391883.000300",
+        "user": "URRA07VU3",
+        "text": "<@URRA07VU3> set the channel purpose: quality conversation",
+        "purpose": "quality conversation"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1577391888.000500",
+        "user": "URRA07R7D",
+        "text": "<@URRA07R7D> has joined the channel",
+        "inviter": "URRA07VU3"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1577395594.000700",
+        "user": "US51ZNQDU",
+        "text": "<@US51ZNQDU> has joined the channel"
+    }
+]

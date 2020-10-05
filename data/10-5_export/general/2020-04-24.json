@@ -1,0 +1,100 @@
+[
+    {
+        "client_msg_id": "83073ea6-f9ba-488c-a5b2-fba4909aa8f7",
+        "type": "message",
+        "text": "I'm getting the sense that everyone is incredibly busy right now so let's say that we are on break for the next 3 weeks and then see where we are? Does this sound good to all of you <!everyone>",
+        "user": "US2PZ9QBF",
+        "ts": "1587773625.022200",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "h\/Qh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm getting the sense that everyone is incredibly busy right now so let's say that we are on break for the next 3 weeks and then see where we are? Does this sound good to all of you "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "everyone"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fbc46c19-72d3-47c6-adcd-d7dd67184dca",
+        "type": "message",
+        "text": "<https:\/\/www.reddit.com\/r\/FRC\/comments\/g6xpxl\/2021\/?utm_medium=android_app&amp;utm_source=share|https:\/\/www.reddit.com\/r\/FRC\/comments\/g6xpxl\/2021\/?utm_medium=android_app&amp;utm_source=share>",
+        "user": "US2PZ9QBF",
+        "ts": "1587795680.022300",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "reddit",
+                "title": "2021?",
+                "title_link": "https:\/\/www.reddit.com\/r\/FRC\/comments\/g6xpxl\/2021\/?utm_medium=android_app&utm_source=share",
+                "text": "Posted in r\/FRC by u\/LionHeartKMD • 62 points and 3 comments",
+                "fallback": "reddit: 2021?",
+                "image_url": "https:\/\/preview.redd.it\/4zu3j4simnu41.png?overlay-align=bottom,left&crop=1200:628.272251309,smart&overlay-height=15p&overlay=%2Fwatermark%2Ft5_2rdka.png%3Fs%3D33fba01e5402cd941c55d9c3d448daeb46eb5701&width=1200&height=628.272251309&auto=webp&s=975e5b9285b12759e2aa7168d83b45c4414bc534",
+                "image_width": 478,
+                "image_height": 250,
+                "from_url": "https:\/\/www.reddit.com\/r\/FRC\/comments\/g6xpxl\/2021\/?utm_medium=android_app&utm_source=share",
+                "image_bytes": 354095,
+                "service_icon": "http:\/\/www.redditstatic.com\/desktop2x\/img\/favicon\/apple-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/www.reddit.com\/r\/FRC\/comments\/g6xpxl\/2021\/?utm_medium=android_app&amp;utm_source=share"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E6aTn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.reddit.com\/r\/FRC\/comments\/g6xpxl\/2021\/?utm_medium=android_app&utm_source=share",
+                                "text": "https:\/\/www.reddit.com\/r\/FRC\/comments\/g6xpxl\/2021\/?utm_medium=android_app&utm_source=share"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

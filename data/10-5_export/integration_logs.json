@@ -1,0 +1,8 @@
+[
+{"user_id":"URRA07R7D","user_name":"whou125","date":"1593467424","change_type":"added","app_type":"Google Drive","app_id":"A6NL8MJ6Q","scope":"identify,bot,channels:read,files:read,team:read,users:read,users:read.email,chat:write:bot,links:read"},
+{"user_id":"US2PZ9QBF","user_name":"pickerell","date":"1587327097","change_type":"added","app_type":"Zoom","app_id":"A5GE9BMQC","scope":"identify,bot,commands,team:read,users:read,users:read.email,chat:write:bot,links:read,links:write"},
+{"user_id":"U010XSNA2Q4","user_name":"asfheller","date":"1586889033","change_type":"added","service_id":1060810390965,"service_type":"Twitter","scope":"incoming-webhook"},
+{"user_id":"U010XSNA2Q4","user_name":"asfheller","date":"1586888956","change_type":"added","service_id":1055453135222,"service_type":"Twitter","scope":"incoming-webhook"},
+{"user_id":"US2PZ9QBF","user_name":"pickerell","date":"1586471086","change_type":"added","app_type":"Simple Poll","app_id":"A0HFW7MR6"},
+{"user_id":"URRA07VU3","user_name":"bphelps2521","date":"1579535089","change_type":"added","service_id":913417171396,"service_type":"Google Drive","scope":"files:write:user"}
+]

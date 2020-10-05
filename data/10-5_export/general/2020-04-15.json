@@ -1,0 +1,69 @@
+[
+    {
+        "client_msg_id": "f13e0d0f-0440-45fa-8f9d-6fca07e60119",
+        "type": "message",
+        "text": "I don't know if this is better then the ftc simulator but it is something else we can be doing right now :joy:\n<https:\/\/www.reddit.com\/r\/FRC\/comments\/g1bcwe\/infinite_recharge_virtual_game_a_realistic\/?utm_medium=android_app&amp;utm_source=share|https:\/\/www.reddit.com\/r\/FRC\/comments\/g1bcwe\/infinite_recharge_virtual_game_a_realistic\/?utm_medium=android_app&amp;utm_source=share>",
+        "user": "US2PZ9QBF",
+        "ts": "1586957833.000100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "reddit",
+                "title": "Infinite Recharge Virtual Game - A realistic simulator",
+                "title_link": "https:\/\/www.reddit.com\/r\/FRC\/comments\/g1bcwe\/infinite_recharge_virtual_game_a_realistic\/?utm_medium=android_app&utm_source=share",
+                "text": "Posted in r\/FRC by u\/mickjosh • 6 points and 0 comments",
+                "fallback": "reddit: Infinite Recharge Virtual Game - A realistic simulator",
+                "from_url": "https:\/\/www.reddit.com\/r\/FRC\/comments\/g1bcwe\/infinite_recharge_virtual_game_a_realistic\/?utm_medium=android_app&utm_source=share",
+                "thumb_url": "https:\/\/external-preview.redd.it\/s0a9axwdxts41.png?overlay-align=bottom,left&crop=1200:628.272251309,smart&overlay-height=15p&overlay=%2Fwatermark%2Ft5_2rdka.png%3Fs%3D33fba01e5402cd941c55d9c3d448daeb46eb5701&width=1200&height=628.272251309&auto=webp&s=4e112877d1a6ae370ec75ed50b8ce732b72a627f",
+                "thumb_width": 130,
+                "thumb_height": 60,
+                "service_icon": "http:\/\/www.redditstatic.com\/desktop2x\/img\/favicon\/apple-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/www.reddit.com\/r\/FRC\/comments\/g1bcwe\/infinite_recharge_virtual_game_a_realistic\/?utm_medium=android_app&amp;utm_source=share"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Lb6sl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I don't know if this is better then the ftc simulator but it is something else we can be doing right now "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.reddit.com\/r\/FRC\/comments\/g1bcwe\/infinite_recharge_virtual_game_a_realistic\/?utm_medium=android_app&utm_source=share",
+                                "text": "https:\/\/www.reddit.com\/r\/FRC\/comments\/g1bcwe\/infinite_recharge_virtual_game_a_realistic\/?utm_medium=android_app&utm_source=share"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

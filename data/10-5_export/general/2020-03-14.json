@@ -1,0 +1,387 @@
+[
+    {
+        "client_msg_id": "DA859B2F-012D-4100-B9CF-5D8EB9A2F755",
+        "type": "message",
+        "text": "No Oregon schools are in until April 1st",
+        "user": "UU50D077H",
+        "ts": "1584204232.000500",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "790b5f83cbe4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-16\/943684986291_790b5f83cbe4b100e623_72.jpg",
+            "first_name": "Jake",
+            "real_name": "Jake Enos",
+            "display_name": "Jake Enos",
+            "team": "TS2PZ9PJR",
+            "name": "jake",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nGn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "No Oregon schools are in until April 1st"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584117130.000900",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "121F0378-0739-4742-BCD4-E7CED6416A96",
+        "type": "message",
+        "text": "So yes we don’t have school",
+        "user": "UU50D077H",
+        "ts": "1584204246.000900",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "790b5f83cbe4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-16\/943684986291_790b5f83cbe4b100e623_72.jpg",
+            "first_name": "Jake",
+            "real_name": "Jake Enos",
+            "display_name": "Jake Enos",
+            "team": "TS2PZ9PJR",
+            "name": "jake",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BZxOp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So yes we don’t have school"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584117130.000900",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "e412f39b-28b0-4519-91f8-9368b56d3b1d",
+        "type": "message",
+        "text": "I know",
+        "user": "US2PZ9QBF",
+        "ts": "1584204255.001100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "R2m",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I know"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584117130.000900",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "75e91b0b-21c6-4908-8894-b66d5f5cfc57",
+        "type": "message",
+        "text": "It's amazing!!!!!",
+        "user": "US2PZ9QBF",
+        "ts": "1584204258.001300",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RzW=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It's amazing!!!!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584117130.000900",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "D58E1AFD-59C8-4BC5-8766-65380C39EF2E",
+        "type": "message",
+        "text": "Is there an estimated time for the vc today?",
+        "user": "UU50D077H",
+        "ts": "1584205056.001900",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "790b5f83cbe4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-16\/943684986291_790b5f83cbe4b100e623_72.jpg",
+            "first_name": "Jake",
+            "real_name": "Jake Enos",
+            "display_name": "Jake Enos",
+            "team": "TS2PZ9PJR",
+            "name": "jake",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pbU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Is there an estimated time for the vc today?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "593588ac-987d-4209-b803-40e67af86829",
+        "type": "message",
+        "text": "Does anyone here have anything against party parrots and me uploading a few hundred we can use as emojis",
+        "user": "US2PZ9QBF",
+        "ts": "1584206567.003000",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yLinB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Does anyone here have anything against party parrots and me uploading a few hundred we can use as emojis"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "19879337-b6ab-4922-bce6-8aed724feab4",
+        "type": "message",
+        "text": "go for it",
+        "user": "UU50D077H",
+        "ts": "1584213590.003200",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "790b5f83cbe4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-16\/943684986291_790b5f83cbe4b100e623_72.jpg",
+            "first_name": "Jake",
+            "real_name": "Jake Enos",
+            "display_name": "Jake Enos",
+            "team": "TS2PZ9PJR",
+            "name": "jake",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ORXW7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "go for it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F0100LBE8LQ",
+                "created": 1584215677,
+                "timestamp": 1584215677,
+                "name": "Image from iOS.png",
+                "title": "Image from iOS",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UUE9YV61K",
+                "editable": false,
+                "size": 304907,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TS2PZ9PJR-F0100LBE8LQ\/image_from_ios.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TS2PZ9PJR-F0100LBE8LQ\/download\/image_from_ios.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F0100LBE8LQ-5ab4aa9398\/image_from_ios_64.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F0100LBE8LQ-5ab4aa9398\/image_from_ios_80.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F0100LBE8LQ-5ab4aa9398\/image_from_ios_360.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_360_w": 202,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F0100LBE8LQ-5ab4aa9398\/image_from_ios_480.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_480_w": 270,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F0100LBE8LQ-5ab4aa9398\/image_from_ios_160.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F0100LBE8LQ-5ab4aa9398\/image_from_ios_720.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_720_w": 405,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F0100LBE8LQ-5ab4aa9398\/image_from_ios_800.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_800_w": 450,
+                "thumb_800_h": 800,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F0100LBE8LQ-5ab4aa9398\/image_from_ios_960.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_960_w": 540,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F0100LBE8LQ-5ab4aa9398\/image_from_ios_1024.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_1024_w": 576,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 750,
+                "original_h": 1334,
+                "thumb_tiny": "AwAwABqjtbG4g7fWgAY6kVMz\/uQDHj5cA+vvUNACDI6UYYnPNLTx0FADRnBIB4pPenBRjqfyo20ANA744HWnjpTcU4YxQAnb\/wDVQPw\/SnD8PxpKAEopaSgD\/9k=",
+                "permalink": "https:\/\/vroomvroomswerve.slack.com\/files\/UUE9YV61K\/F0100LBE8LQ\/image_from_ios.png",
+                "permalink_public": "https:\/\/slack-files.com\/TS2PZ9PJR-F0100LBE8LQ-0cc9caa87a",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XLg2",
+                "elements": []
+            }
+        ],
+        "user": "UUE9YV61K",
+        "display_as_bot": false,
+        "ts": "1584215681.003300",
+        "client_msg_id": "F2D45778-A75E-485E-9CBB-2E56D8A2914D"
+    },
+    {
+        "client_msg_id": "35DA4B44-4FC6-4BBC-99C4-2CFDEAEB95EF",
+        "type": "message",
+        "text": "<@UU50D077H> ",
+        "user": "UUE9YV61K",
+        "ts": "1584215683.003700",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "cb12c096f208",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-03\/980831491397_cb12c096f208c53c20d4_72.png",
+            "first_name": "Dillon",
+            "real_name": "Dillon Mucha",
+            "display_name": "Dillon",
+            "team": "TS2PZ9PJR",
+            "name": "dillonmucha",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0TgDH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UU50D077H"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

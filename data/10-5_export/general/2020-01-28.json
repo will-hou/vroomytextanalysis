@@ -1,0 +1,64 @@
+[
+    {
+        "client_msg_id": "30a2ba6d-7d41-4230-968d-d08b5dd4deb2",
+        "type": "message",
+        "text": "we should make the drivetrain a rectangle so that depending on the modules we make and what not, we can have a long or wide bot but not to much away from square",
+        "user": "US2PZ9QBF",
+        "ts": "1580278297.001300",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "esD9i",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "we should make the drivetrain a rectangle so that depending on the modules we make and what not, we can have a long or wide bot but not to much away from square"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1580278297.001300",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1580327754.001200",
+        "reply_users": [
+            "US4KMEG9M",
+            "US2PZ9QBF"
+        ],
+        "replies": [
+            {
+                "user": "US4KMEG9M",
+                "ts": "1580303310.000100"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1580327564.001000"
+            },
+            {
+                "user": "US4KMEG9M",
+                "ts": "1580327754.001200"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1580327798.247039"
+    }
+]

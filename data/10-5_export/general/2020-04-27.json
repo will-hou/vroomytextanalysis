@@ -1,0 +1,107 @@
+[
+    {
+        "client_msg_id": "29e5f073-799b-447d-aa6c-fca937a91eaa",
+        "type": "message",
+        "text": "I love what first people make",
+        "user": "US2PZ9QBF",
+        "ts": "1588006663.023200",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9Yg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I love what first people make"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "adb2e718-9f14-4baf-9069-bbce73ef6e99",
+        "type": "message",
+        "text": "<https:\/\/www.redbubble.com\/shop\/ap\/47334162?ref=studio-promote|https:\/\/www.redbubble.com\/shop\/ap\/47334162?ref=studio-promote>",
+        "user": "US2PZ9QBF",
+        "ts": "1588006665.023300",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Redbubble",
+                "title": "In FIRST City Dozer Builds You (Through Revolution!) by GraciousProf",
+                "title_link": "https:\/\/www.redbubble.com\/shop\/ap\/47334162?ref=studio-promote",
+                "fallback": "Redbubble: In FIRST City Dozer Builds You (Through Revolution!) by GraciousProf",
+                "image_url": "https:\/\/ih1.redbubble.net\/image.1170655308.4162\/flat,600x600,075,f.jpg",
+                "from_url": "https:\/\/www.redbubble.com\/shop\/ap\/47334162?ref=studio-promote",
+                "image_width": 225,
+                "image_height": 250,
+                "image_bytes": 34736,
+                "service_icon": "https:\/\/www.redbubble.com\/boom\/public\/favicons\/apple-touch-icon-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/www.redbubble.com\/shop\/ap\/47334162?ref=studio-promote"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "icJ\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.redbubble.com\/shop\/ap\/47334162?ref=studio-promote",
+                                "text": "https:\/\/www.redbubble.com\/shop\/ap\/47334162?ref=studio-promote"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "communism",
+                "users": [
+                    "URRA07VU3",
+                    "US2PZ9QBF",
+                    "US4KMEG9M",
+                    "URRA07R7D"
+                ],
+                "count": 4
+            }
+        ]
+    }
+]

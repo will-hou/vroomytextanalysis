@@ -1,0 +1,57 @@
+[
+    {
+        "client_msg_id": "89be09c2-9d40-4828-8e8b-1ea7923cb24f",
+        "type": "message",
+        "text": "<https:\/\/www.reddit.com\/r\/FRC\/comments\/bxab01\/5468_slapped_compliant_wheels_on_their_bot\/>",
+        "user": "URRA07VU3",
+        "ts": "1585088631.000200",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "reddit",
+                "title": "5468 slapped compliant wheels on their bot...",
+                "title_link": "https:\/\/www.reddit.com\/r\/FRC\/comments\/bxab01\/5468_slapped_compliant_wheels_on_their_bot\/",
+                "text": "Posted in r\/FRC by u\/littleman1988 • 391 points and 23 comments",
+                "fallback": "reddit: 5468 slapped compliant wheels on their bot...",
+                "image_url": "https:\/\/preview.redd.it\/94zrhx6zum231.jpg?overlay-align=bottom,left&crop=1200:628.272251309,smart&overlay-height=15p&overlay=%2Fwatermark%2Ft5_2rdka.png%3Fs%3D33fba01e5402cd941c55d9c3d448daeb46eb5701&width=1200&height=628.272251309&auto=webp&s=9ed3d84f7c43c9c0d20cd8bd6fe6cc09e9c97bab",
+                "image_width": 478,
+                "image_height": 250,
+                "from_url": "https:\/\/www.reddit.com\/r\/FRC\/comments\/bxab01\/5468_slapped_compliant_wheels_on_their_bot\/",
+                "image_bytes": 212325,
+                "service_icon": "http:\/\/www.redditstatic.com\/desktop2x\/img\/favicon\/apple-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/www.reddit.com\/r\/FRC\/comments\/bxab01\/5468_slapped_compliant_wheels_on_their_bot\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "t3J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.reddit.com\/r\/FRC\/comments\/bxab01\/5468_slapped_compliant_wheels_on_their_bot\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

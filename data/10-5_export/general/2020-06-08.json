@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "39b41ed5-a351-404f-a24c-79b05f0dd351",
+        "type": "message",
+        "text": "I can do after Thursday",
+        "user": "U010XSNA2Q4",
+        "ts": "1591672816.000400",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5cf62986eb00",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-27\/1034521294807_5cf62986eb00f8c38399_72.png",
+            "first_name": "Aidan",
+            "real_name": "Aidan Heller",
+            "display_name": "vroomy semicolon",
+            "team": "TS2PZ9PJR",
+            "name": "asfheller",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Jki+Z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I can do after Thursday"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

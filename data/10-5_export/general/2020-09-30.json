@@ -1,0 +1,177 @@
+[
+    {
+        "client_msg_id": "65f1799c-6370-4d45-bf08-421869f3c2cb",
+        "type": "message",
+        "text": "<https:\/\/photos.app.goo.gl\/ct64utZTcqqeMHVG8|https:\/\/photos.app.goo.gl\/ct64utZTcqqeMHVG8> First complete module, with no slipping issues, and controlled over radio",
+        "user": "U01874ZLZC4",
+        "ts": "1601495468.001100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "gb40ade6266c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b40ade6266c70eaf07d765360ca27260.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "",
+            "real_name": "Arvind Mahadevan",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "arvindeugene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Google Photos",
+                "title": "New video by Connor Moyce",
+                "title_link": "https:\/\/photos.app.goo.gl\/ct64utZTcqqeMHVG8",
+                "fallback": "Google Photos: New video by Connor Moyce",
+                "image_url": "https:\/\/lh3.googleusercontent.com\/78nuc05p2a7-8ePFQUfnnOhCwcmqoebv5t-0tAEPEizUFjesdgVuN9ItFdaJZlaPK0JGNgpFckDRJ24ikhV2518k-SdLbnVRpG3Z5wiPj5fkZsADjpLohjUYeVy-0bbL2BRb0nYWIQ8",
+                "image_width": 444,
+                "image_height": 250,
+                "from_url": "https:\/\/photos.app.goo.gl\/ct64utZTcqqeMHVG8",
+                "image_bytes": 48424,
+                "service_icon": "http:\/\/ssl.gstatic.com\/social\/photosui\/images\/logo\/1x\/photos_512dp.png",
+                "id": 1,
+                "original_url": "https:\/\/photos.app.goo.gl\/ct64utZTcqqeMHVG8"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y\/cC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/photos.app.goo.gl\/ct64utZTcqqeMHVG8",
+                                "text": "https:\/\/photos.app.goo.gl\/ct64utZTcqqeMHVG8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " First complete module, with no slipping issues, and controlled over radio"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601495468.001100",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1601496892.001800",
+        "reply_users": [
+            "URRA07VU3",
+            "U017QBZ4FKR"
+        ],
+        "replies": [
+            {
+                "user": "URRA07VU3",
+                "ts": "1601495517.001300"
+            },
+            {
+                "user": "U017QBZ4FKR",
+                "ts": "1601496892.001800"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "party_parrot",
+                "users": [
+                    "US4KMEG9M",
+                    "US2PZ9QBF",
+                    "URRA07VU3",
+                    "URRA07R7D",
+                    "U01874ZLZC4"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6751fe74-3ab3-43a6-8c55-be035be41641",
+        "type": "message",
+        "text": "looks really good! :clap:",
+        "user": "URRA07VU3",
+        "ts": "1601495517.001300",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "W6zD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "looks really good! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "clap"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601495468.001100",
+        "parent_user_id": "U01874ZLZC4"
+    },
+    {
+        "client_msg_id": "c8a3806e-b2e6-4bd9-85ff-3ed8eef2a3f6",
+        "type": "message",
+        "text": "Thanks!",
+        "user": "U017QBZ4FKR",
+        "ts": "1601496892.001800",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "280af73e899a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-30\/1404895979556_280af73e899a29841e5a_72.png",
+            "first_name": "",
+            "real_name": "Connor Moyce",
+            "display_name": "Connor Moyce",
+            "team": "TS2PZ9PJR",
+            "name": "solidstatebird",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5ygG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1601495468.001100",
+        "parent_user_id": "U01874ZLZC4"
+    }
+]

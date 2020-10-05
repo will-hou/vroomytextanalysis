@@ -1,0 +1,78 @@
+[
+    {
+        "client_msg_id": "9dd6f51f-9105-41e7-afb2-6256223d74f8",
+        "type": "message",
+        "text": "So I asked the people at motion studios a few questions on what they need and any limatations they may have and this was there response",
+        "user": "US2PZ9QBF",
+        "ts": "1590103193.083400",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "N4P",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So I asked the people at motion studios a few questions on what they need and any limatations they may have and this was there response"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "367dfb4b-e44e-4344-85f4-0eb8d0fa894d",
+        "type": "message",
+        "text": "We animate the model in Blender using body rigging.\nYou need to send us the .obj file of your model and from there we will do all the work\nWe would appreciate if you would also explain the mechanisms in order to animate your robot properly. I don't think there will be any movement or aesthetic restrictions. If any will occur you will be informed.",
+        "user": "US2PZ9QBF",
+        "ts": "1590103197.083600",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "G0D",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We animate the model in Blender using body rigging.\nYou need to send us the .obj file of your model and from there we will do all the work\nWe would appreciate if you would also explain the mechanisms in order to animate your robot properly. I don't think there will be any movement or aesthetic restrictions. If any will occur you will be informed."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

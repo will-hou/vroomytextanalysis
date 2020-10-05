@@ -1,0 +1,34 @@
+[
+    {
+        "client_msg_id": "005003fd-2cb1-4b52-bef6-1dc2e34330b1",
+        "type": "message",
+        "text": "Vroom vroom",
+        "user": "URRA07VU3",
+        "ts": "1595800442.000300",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "bear_bounce",
+                "users": [
+                    "URRA07R7D",
+                    "US2PZ9QBF",
+                    "URRA07VU3"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

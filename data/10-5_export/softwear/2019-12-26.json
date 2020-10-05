@@ -1,0 +1,23 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1577389043.000200",
+        "user": "US2PZ9QBF",
+        "text": "<@US2PZ9QBF> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1577391692.000200",
+        "user": "URRA07VU3",
+        "text": "<@URRA07VU3> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1577395583.000400",
+        "user": "US51ZNQDU",
+        "text": "<@US51ZNQDU> has joined the channel"
+    }
+]

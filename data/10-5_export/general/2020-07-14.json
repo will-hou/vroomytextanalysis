@@ -1,0 +1,242 @@
+[
+    {
+        "client_msg_id": "96175F76-786D-4D0B-B1BE-00E9FC0B1755",
+        "type": "message",
+        "text": "How did he die???",
+        "user": "US2PZ9QBF",
+        "ts": "1594735119.000500",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "g34",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "How did he die???"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1594707133.005800",
+        "parent_user_id": "UU50D077H"
+    },
+    {
+        "client_msg_id": "F7043B1E-2F8D-479D-A66A-AB5768290951",
+        "type": "message",
+        "text": "Brain aneurism",
+        "user": "UU50D077H",
+        "ts": "1594754923.000300",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "790b5f83cbe4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-16\/943684986291_790b5f83cbe4b100e623_72.jpg",
+            "first_name": "Jake",
+            "real_name": "Jake Enos",
+            "display_name": "Jake Enos",
+            "team": "TS2PZ9PJR",
+            "name": "jake",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nWTJy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Brain aneurism"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1594707133.005800",
+        "parent_user_id": "UU50D077H"
+    },
+    {
+        "client_msg_id": "4e7c927d-ce8f-4af3-8c55-d129bad8dd94",
+        "type": "message",
+        "text": "yeah, i saw",
+        "user": "US2PZ9QBF",
+        "ts": "1594754944.000500",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uT=dN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yeah, i saw"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1594707133.005800",
+        "parent_user_id": "UU50D077H"
+    },
+    {
+        "client_msg_id": "5820c289-227f-47cc-bd85-4c9a69770892",
+        "type": "message",
+        "text": "that's so terrible",
+        "user": "US2PZ9QBF",
+        "ts": "1594754960.000700",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jR8i",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "that's so terrible"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1594707133.005800",
+        "parent_user_id": "UU50D077H"
+    },
+    {
+        "client_msg_id": "8109ED9A-6BAE-4AA4-B4C9-BD4351365D1E",
+        "type": "message",
+        "text": "yeah... I’m kinda done with 2020, can we just like skip the rest of the year and call it 2021 lol",
+        "user": "UU50D077H",
+        "ts": "1594755033.002100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "790b5f83cbe4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-16\/943684986291_790b5f83cbe4b100e623_72.jpg",
+            "first_name": "Jake",
+            "real_name": "Jake Enos",
+            "display_name": "Jake Enos",
+            "team": "TS2PZ9PJR",
+            "name": "jake",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2L1rh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yeah... I’m kinda done with 2020, can we just like skip the rest of the year and call it 2021 lol"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1594707133.005800",
+        "parent_user_id": "UU50D077H"
+    },
+    {
+        "client_msg_id": "d800c45d-b250-4569-b086-81575f1f25be",
+        "type": "message",
+        "text": "no kidding",
+        "user": "US2PZ9QBF",
+        "ts": "1594755085.002300",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MkdSB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "no kidding"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1594707133.005800",
+        "parent_user_id": "UU50D077H"
+    }
+]

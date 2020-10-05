@@ -1,0 +1,59 @@
+[
+    {
+        "client_msg_id": "623839c0-5631-4bab-b170-80f8f5ce2da4",
+        "type": "message",
+        "text": "<https:\/\/newatlas.com\/robotics\/robot-swarms-traffic-blueprint-autonomous-cars\/|https:\/\/newatlas.com\/robotics\/robot-swarms-traffic-blueprint-autonomous-cars\/>",
+        "user": "US2PZ9QBF",
+        "ts": "1582646579.000100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "New Atlas",
+                "title": "Smarter robot swarms offer traffic-free blueprint for autonomous cars",
+                "title_link": "https:\/\/newatlas.com\/robotics\/robot-swarms-traffic-blueprint-autonomous-cars\/",
+                "text": "One of a number of benefits promised by a future in which cars drive themselves is less congestion, with advanced autonomous vehicles being so adept at navigating the streets that they not only avoid slamming into each other, but keep traffic flowing much more smoothly than humans ever could.…",
+                "fallback": "New Atlas: Smarter robot swarms offer traffic-free blueprint for autonomous cars",
+                "image_url": "https:\/\/assets.newatlas.com\/dims4\/default\/e963171\/2147483647\/strip\/true\/crop\/1440x756+0+162\/resize\/1200x630!\/quality\/90\/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fac%2Fce%2Fbc5c45474e37b1969df9d9d54e22%2F225138-web.jpg",
+                "image_width": 476,
+                "image_height": 250,
+                "ts": 1582634290,
+                "from_url": "https:\/\/newatlas.com\/robotics\/robot-swarms-traffic-blueprint-autonomous-cars\/",
+                "image_bytes": 136758,
+                "service_icon": "https:\/\/newatlas.com\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/newatlas.com\/robotics\/robot-swarms-traffic-blueprint-autonomous-cars\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "e1V",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/newatlas.com\/robotics\/robot-swarms-traffic-blueprint-autonomous-cars\/",
+                                "text": "https:\/\/newatlas.com\/robotics\/robot-swarms-traffic-blueprint-autonomous-cars\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

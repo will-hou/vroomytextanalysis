@@ -1,0 +1,69 @@
+[
+    {
+        "client_msg_id": "030b2c29-6541-44e2-a349-f03dd85f3549",
+        "type": "message",
+        "text": "hey everyone! I'm very sorry everything has been so up in the air. Can we all have a team meeting this upcoming Monday? if that works for you, please give a thumbs up and if not, please say so here in the thread!!!",
+        "user": "US2PZ9QBF",
+        "ts": "1593203923.001700",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rie",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hey everyone! I'm very sorry everything has been so up in the air. Can we all have a team meeting this upcoming Monday? if that works for you, please give a thumbs up and if not, please say so here in the thread!!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1593203923.001700",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1593395796.000100",
+        "reply_users": [
+            "US4KMEG9M"
+        ],
+        "replies": [
+            {
+                "user": "US4KMEG9M",
+                "ts": "1593395796.000100"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1593397511.786556",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U010XSNA2Q4",
+                    "US4KMEG9M",
+                    "URRA07VU3",
+                    "URRA07R7D",
+                    "UU50D077H",
+                    "US2PZ9QBF"
+                ],
+                "count": 6
+            }
+        ]
+    }
+]

@@ -1,0 +1,97 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1593461543.000200",
+        "user": "US4KMEG9M",
+        "text": "<@US4KMEG9M> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1593461544.000300",
+        "user": "US4KMEG9M",
+        "text": "<@US4KMEG9M> set the channel purpose: hackerz",
+        "purpose": "hackerz"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1593461548.000500",
+        "user": "U010XSNA2Q4",
+        "text": "<@U010XSNA2Q4> has joined the channel",
+        "inviter": "US4KMEG9M"
+    },
+    {
+        "client_msg_id": "e471dac9-69cd-49eb-84cc-4ea5fe6e2aed",
+        "type": "message",
+        "text": "I invited you to <https:\/\/github.com\/mpyoutube> where the RCM code is",
+        "user": "US4KMEG9M",
+        "ts": "1593462036.000800",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "b915bd1b6aaa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-04\/1338647058470_b915bd1b6aaa68df3e32_72.jpg",
+            "first_name": "joshua",
+            "real_name": "joshua phelps",
+            "display_name": "joshua phelps",
+            "team": "TS2PZ9PJR",
+            "name": "joshuaphelps127",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "mpyoutube",
+                "title_link": "https:\/\/github.com\/mpyoutube",
+                "text": "mpyoutube has 2 repositories available. Follow their code on GitHub.",
+                "fallback": "GitHub: mpyoutube",
+                "from_url": "https:\/\/github.com\/mpyoutube",
+                "thumb_url": "https:\/\/avatars2.githubusercontent.com\/u\/64557520?s=280&v=4",
+                "thumb_width": 250,
+                "thumb_height": 250,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/github.png",
+                "id": 1,
+                "original_url": "https:\/\/github.com\/mpyoutube"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "38M",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I invited you to "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/mpyoutube"
+                            },
+                            {
+                                "type": "text",
+                                "text": " where the RCM code is"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U010XSNA2Q4",
+                    "US2PZ9QBF"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

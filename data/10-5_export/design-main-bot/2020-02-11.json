@@ -1,0 +1,66 @@
+[
+    {
+        "client_msg_id": "c11339fc-c351-4a06-ba62-228d302a5787",
+        "type": "message",
+        "text": "<@US51ZNQDU> \n<https:\/\/www.chiefdelphi.com\/t\/frc-95-the-grasshoppers-2020-build-thread\/368912\/270?u=waxton|https:\/\/www.chiefdelphi.com\/t\/frc-95-the-grasshoppers-2020-build-thread\/368912\/270?u=waxton>",
+        "user": "US2PZ9QBF",
+        "ts": "1581432994.000300",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Chief Delphi",
+                "title": "FRC 95 The Grasshoppers 2020 Build Thread",
+                "title_link": "https:\/\/www.chiefdelphi.com\/t\/frc-95-the-grasshoppers-2020-build-thread\/368912\/270?u=waxton",
+                "text": "Yup. This has been a skunkworks project for the season. We didn’t hide it (models were in OnShape since we started CAD on it) and we foreshadowed it: But didn’t advertise it either. We have made substantial progress in improving the efficiency in the Aramabot pumps and making a skirt that can seal to the carpet. We’re capable of creating around 0.3-0.5psi of negative pressure under a chassis. There is a lot of testing left to do, but we’re excited for the promise it shows. We are currently wa...",
+                "fallback": "Chief Delphi: FRC 95 The Grasshoppers 2020 Build Thread",
+                "thumb_url": "https:\/\/www.chiefdelphi.com\/user_avatar\/www.chiefdelphi.com\/jamesch95\/200\/1200_2.png",
+                "ts": 1581352449,
+                "from_url": "https:\/\/www.chiefdelphi.com\/t\/frc-95-the-grasshoppers-2020-build-thread\/368912\/270?u=waxton",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "service_icon": "https:\/\/www.chiefdelphi.com\/uploads\/default\/optimized\/1X\/23d75ff3e2d2783a7670500a6fc66cea5512d49e_2_180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/www.chiefdelphi.com\/t\/frc-95-the-grasshoppers-2020-build-thread\/368912\/270?u=waxton"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oheI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "US51ZNQDU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.chiefdelphi.com\/t\/frc-95-the-grasshoppers-2020-build-thread\/368912\/270?u=waxton",
+                                "text": "https:\/\/www.chiefdelphi.com\/t\/frc-95-the-grasshoppers-2020-build-thread\/368912\/270?u=waxton"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

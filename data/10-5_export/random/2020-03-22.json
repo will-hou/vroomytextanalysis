@@ -1,0 +1,53 @@
+[
+    {
+        "client_msg_id": "2001212e-0f23-4ec6-b68c-e6b6dcf3dec1",
+        "type": "message",
+        "text": "<https:\/\/www.reddit.com\/r\/FRC\/comments\/fndg3w\/curse_this_virus_ruining_everything\/>",
+        "user": "URRA07VU3",
+        "ts": "1584937358.000200",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "reddit",
+                "title": "Curse this virus ruining everything!",
+                "title_link": "https:\/\/www.reddit.com\/r\/FRC\/comments\/fndg3w\/curse_this_virus_ruining_everything\/",
+                "text": "Posted in r\/FRC by u\/Kkirby1886 • 2 points and 0 comments",
+                "fallback": "reddit: Curse this virus ruining everything!",
+                "from_url": "https:\/\/www.reddit.com\/r\/FRC\/comments\/fndg3w\/curse_this_virus_ruining_everything\/",
+                "service_icon": "http:\/\/www.redditstatic.com\/desktop2x\/img\/favicon\/apple-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/www.reddit.com\/r\/FRC\/comments\/fndg3w\/curse_this_virus_ruining_everything\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kzSu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.reddit.com\/r\/FRC\/comments\/fndg3w\/curse_this_virus_ruining_everything\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

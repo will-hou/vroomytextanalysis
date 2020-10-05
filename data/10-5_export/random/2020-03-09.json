@@ -1,0 +1,58 @@
+[
+    {
+        "client_msg_id": "e66278ca-6216-43bd-a0f2-360636844c8f",
+        "type": "message",
+        "text": "<https:\/\/www.reddit.com\/r\/FRC\/comments\/fg1x4x\/infinite_build_season\/?utm_medium=android_app&amp;utm_source=share|https:\/\/www.reddit.com\/r\/FRC\/comments\/fg1x4x\/infinite_build_season\/?utm_medium=android_app&amp;utm_source=share>",
+        "user": "US2PZ9QBF",
+        "ts": "1583808843.000100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "reddit",
+                "title": "Infinite Build Season?",
+                "title_link": "https:\/\/www.reddit.com\/r\/FRC\/comments\/fg1x4x\/infinite_build_season\/?utm_medium=android_app&utm_source=share",
+                "text": "Posted in r\/FRC by u\/UPenn-Girl2 • 164 points and 5 comments",
+                "fallback": "reddit: Infinite Build Season?",
+                "image_url": "https:\/\/preview.redd.it\/q1j2n7dsppl41.jpg?overlay-align=bottom,left&crop=750:392.670157068,smart&overlay-height=15p&overlay=%2Fwatermark%2Ft5_2rdka.png%3Fs%3D33fba01e5402cd941c55d9c3d448daeb46eb5701&width=750&height=392.670157068&auto=webp&s=a3af63c68fcd3cb7c6a0fd0bad0ceb476b408cf5",
+                "image_width": 477,
+                "image_height": 250,
+                "from_url": "https:\/\/www.reddit.com\/r\/FRC\/comments\/fg1x4x\/infinite_build_season\/?utm_medium=android_app&utm_source=share",
+                "image_bytes": 53877,
+                "service_icon": "http:\/\/www.redditstatic.com\/desktop2x\/img\/favicon\/apple-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/www.reddit.com\/r\/FRC\/comments\/fg1x4x\/infinite_build_season\/?utm_medium=android_app&amp;utm_source=share"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uWcuZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.reddit.com\/r\/FRC\/comments\/fg1x4x\/infinite_build_season\/?utm_medium=android_app&utm_source=share",
+                                "text": "https:\/\/www.reddit.com\/r\/FRC\/comments\/fg1x4x\/infinite_build_season\/?utm_medium=android_app&utm_source=share"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,361 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584385170.000200",
+        "user": "US2PZ9QBF",
+        "text": "<@US2PZ9QBF> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584385211.000400",
+        "user": "US51ZNQDU",
+        "text": "<@US51ZNQDU> has joined the channel",
+        "inviter": "US2PZ9QBF"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584385212.000600",
+        "user": "URRA07VU3",
+        "text": "<@URRA07VU3> has joined the channel",
+        "inviter": "US2PZ9QBF"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584385212.000800",
+        "user": "UUH3JGD7H",
+        "text": "<@UUH3JGD7H> has joined the channel",
+        "inviter": "US2PZ9QBF"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584385212.001000",
+        "user": "UU50D077H",
+        "text": "<@UU50D077H> has joined the channel",
+        "inviter": "US2PZ9QBF"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584385212.001200",
+        "user": "US4KMEG9M",
+        "text": "<@US4KMEG9M> has joined the channel",
+        "inviter": "US2PZ9QBF"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584385212.001600",
+        "user": "UUE9YV61K",
+        "text": "<@UUE9YV61K> has joined the channel",
+        "inviter": "US2PZ9QBF"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1584385212.001800",
+        "user": "URRA07R7D",
+        "text": "<@URRA07R7D> has joined the channel",
+        "inviter": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "d60371ff-0466-41d7-947d-6a15feca7f51",
+        "type": "message",
+        "text": "Howdy everyone, I think that it may be helpful to separate conversation about the main bot and the mini bot so that things are easy to find",
+        "user": "US2PZ9QBF",
+        "ts": "1584385252.003000",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DkAc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Howdy everyone, I think that it may be helpful to separate conversation about the main bot and the mini bot so that things are easy to find"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8e047c20-782f-4466-bea8-570353fe67fb",
+        "type": "message",
+        "text": "Anyway, for this bot I had a thought",
+        "user": "US2PZ9QBF",
+        "ts": "1584385297.003700",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DlWJd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Anyway, for this bot I had a thought"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c624da44-384c-44e4-9b2b-c780deb379ee",
+        "type": "message",
+        "text": "What if we made it as small as it can be, only able to hold one ball and is amazing at defense",
+        "user": "US2PZ9QBF",
+        "ts": "1584385329.004800",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Nh0dn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What if we made it as small as it can be, only able to hold one ball and is amazing at defense"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "71586b26-06fa-437e-b1e0-165a517e3051",
+        "type": "message",
+        "text": "Like big motors, 4 8inch wheels, and geared to perfection so that this little guy can shove full sized robots",
+        "user": "US2PZ9QBF",
+        "ts": "1584385378.006200",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vYHLw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Like big motors, 4 8inch wheels, and geared to perfection so that this little guy can shove full sized robots"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584385378.006200",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1584385699.006700",
+        "reply_users": [
+            "US4KMEG9M",
+            "US2PZ9QBF"
+        ],
+        "replies": [
+            {
+                "user": "US4KMEG9M",
+                "ts": "1584385410.006300"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1584385430.006500"
+            },
+            {
+                "user": "US4KMEG9M",
+                "ts": "1584385699.006700"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1584385699.006700"
+    },
+    {
+        "client_msg_id": "5b903c0f-9569-4ee2-957c-38ca60db685c",
+        "type": "message",
+        "text": "bigger motors won't help if you can't get traction. To push a full sized robot it would have to have full sized robot weight",
+        "user": "US4KMEG9M",
+        "ts": "1584385410.006300",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "b915bd1b6aaa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-04\/1338647058470_b915bd1b6aaa68df3e32_72.jpg",
+            "first_name": "joshua",
+            "real_name": "joshua phelps",
+            "display_name": "joshua phelps",
+            "team": "TS2PZ9PJR",
+            "name": "joshuaphelps127",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cgnu2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "bigger motors won't help if you can't get traction. To push a full sized robot it would have to have full sized robot weight"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584385378.006200",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "d38412da-6c1b-45bd-8155-e3f45a645d9d",
+        "type": "message",
+        "text": "There's always steel",
+        "user": "US2PZ9QBF",
+        "ts": "1584385430.006500",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "k=Vxz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "There's always steel"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584385378.006200",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "ec7b966f-742a-430e-8c1a-59a3e8872ccb",
+        "type": "message",
+        "text": "I think we should have a discussion at our next meeting about whether we want the mini bot's role to be defense, or carrying balls and looking cute.\n\nIf defense is the goal, the minibot would have to be much heavier (you are right that steel is dense enough to make a relatively small robot full weight), the buddy climb would be much more difficult, and we'd have to go farther from FTC parts and control system to get enough power.",
+        "user": "US4KMEG9M",
+        "ts": "1584385699.006700",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "b915bd1b6aaa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-04\/1338647058470_b915bd1b6aaa68df3e32_72.jpg",
+            "first_name": "joshua",
+            "real_name": "joshua phelps",
+            "display_name": "joshua phelps",
+            "team": "TS2PZ9PJR",
+            "name": "joshuaphelps127",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PUw6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think we should have a discussion at our next meeting about whether we want the mini bot's role to be defense, or carrying balls and looking cute.\n\nIf defense is the goal, the minibot would have to be much heavier (you are right that steel is dense enough to make a relatively small robot full weight), the buddy climb would be much more difficult, and we'd have to go farther from FTC parts and control system to get enough power."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584385378.006200",
+        "parent_user_id": "US2PZ9QBF"
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "1b10c34d-02d7-4be8-b1f0-e5c8213a3005",
+        "type": "message",
+        "text": "<https:\/\/media.team254.com\/2017\/09\/964207d8-technicalBinder2017.pdf>",
+        "user": "UU50D077H",
+        "ts": "1585603562.000200",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "790b5f83cbe4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-16\/943684986291_790b5f83cbe4b100e623_72.jpg",
+            "first_name": "Jake",
+            "real_name": "Jake Enos",
+            "display_name": "Jake Enos",
+            "team": "TS2PZ9PJR",
+            "name": "jake",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EId",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/media.team254.com\/2017\/09\/964207d8-technicalBinder2017.pdf"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

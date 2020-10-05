@@ -1,0 +1,108 @@
+[
+    {
+        "client_msg_id": "DCD078BD-E682-4F24-BCD4-FCD646417C5A",
+        "type": "message",
+        "text": "<https:\/\/www.chiefdelphi.com\/t\/citrus-for-change-shirts-and-stickers\/386141|https:\/\/www.chiefdelphi.com\/t\/citrus-for-change-shirts-and-stickers\/386141>",
+        "user": "US2PZ9QBF",
+        "ts": "1593751724.000200",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Chief Delphi",
+                "title": "Citrus for Change - Shirts and Stickers",
+                "title_link": "https:\/\/www.chiefdelphi.com\/t\/citrus-for-change-shirts-and-stickers\/386141",
+                "text": "On Citrus Circuits, we recognize that discrimination is a prevailing issue today and we condemn all forms of it. To support the LGBTQ+ community and the Black Lives Matter movement, we have designed limited edition apparel and stickers available on Teespring. 100% of the proceeds from all of these products will be donated to the Sacramento LGBT Community Center and the Sacramento chapter of the NAACP. Please consider sharing and supporting this effort as we look towards a better world by living ...",
+                "fallback": "Chief Delphi: Citrus for Change - Shirts and Stickers",
+                "thumb_url": "https:\/\/www.chiefdelphi.com\/uploads\/default\/original\/1X\/8e74375c59848e271fde74991f61fffd3a63a1fd.png",
+                "fields": [
+                    {
+                        "title": "Reading time",
+                        "value": "1 mins :clock2:",
+                        "short": true
+                    },
+                    {
+                        "title": "Likes",
+                        "value": "116 :heart:",
+                        "short": true
+                    }
+                ],
+                "ts": 1593460637,
+                "from_url": "https:\/\/www.chiefdelphi.com\/t\/citrus-for-change-shirts-and-stickers\/386141",
+                "thumb_width": 350,
+                "thumb_height": 350,
+                "service_icon": "https:\/\/www.chiefdelphi.com\/uploads\/default\/optimized\/1X\/23d75ff3e2d2783a7670500a6fc66cea5512d49e_2_180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/www.chiefdelphi.com\/t\/citrus-for-change-shirts-and-stickers\/386141"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EvN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.chiefdelphi.com\/t\/citrus-for-change-shirts-and-stickers\/386141",
+                                "text": "https:\/\/www.chiefdelphi.com\/t\/citrus-for-change-shirts-and-stickers\/386141"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5E802681-1341-460F-AEEF-BA8DA2E79577",
+        "type": "message",
+        "text": "I think I have a new favorite frc team!",
+        "user": "US2PZ9QBF",
+        "ts": "1593751958.000900",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KXWw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think I have a new favorite frc team!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,448 @@
+[
+    {
+        "client_msg_id": "c8faf352-254b-4bb6-b62c-edd79b0b43d1",
+        "type": "message",
+        "text": "we can get a rio for frc price from andymark",
+        "user": "US2PZ9QBF",
+        "ts": "1585336921.000400",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E\/ofx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "we can get a rio for frc price from andymark"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585336921.000400",
+        "reply_count": 9,
+        "reply_users_count": 2,
+        "latest_reply": "1585337195.002400",
+        "reply_users": [
+            "URRA07VU3",
+            "US2PZ9QBF"
+        ],
+        "replies": [
+            {
+                "user": "URRA07VU3",
+                "ts": "1585337002.000800"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1585337032.001000"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1585337042.001200"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1585337102.001400"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1585337127.001600"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1585337175.001800"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1585337182.002000"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1585337188.002200"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1585337195.002400"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1585337195.002400"
+    },
+    {
+        "client_msg_id": "31a9e78b-cce0-43dd-91ed-0c4d5cb01581",
+        "type": "message",
+        "text": "I guess we are FIRST affiliated",
+        "user": "URRA07VU3",
+        "ts": "1585337002.000800",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dYtNl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I guess we are FIRST affiliated"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585336921.000400",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "4685eae5-6536-43ab-9b47-e36ae006fb78",
+        "type": "message",
+        "text": "its close enough and they don't have a way of asking us to lie",
+        "user": "US2PZ9QBF",
+        "ts": "1585337032.001000",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fPT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "its close enough and they don't have a way of asking us to lie"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585336921.000400",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "0d33caaf-047a-4c98-bd4b-910ea2d320ce",
+        "type": "message",
+        "text": "so we wont",
+        "user": "US2PZ9QBF",
+        "ts": "1585337042.001200",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "057M",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "so we wont"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585336921.000400",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "fb78ac4c-35d1-415a-b430-c5816b96f57a",
+        "type": "message",
+        "text": "it's for an FRC game. I really don't think it's a matter of truth. I was worried they'd ask for a team code or something",
+        "user": "URRA07VU3",
+        "ts": "1585337102.001400",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AKv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "it's for an FRC game. I really don't think it's a matter of truth. I was worried they'd ask for a team code or something"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585336921.000400",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "ee32ea91-4d83-4ddd-a2b9-1063b1dfc9cd",
+        "type": "message",
+        "text": "nope",
+        "user": "US2PZ9QBF",
+        "ts": "1585337127.001600",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qCapC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "nope"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585336921.000400",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "892b7177-e6eb-403c-b8cc-a9a42c60ea83",
+        "type": "message",
+        "text": "I just tried to purchase one",
+        "user": "US2PZ9QBF",
+        "ts": "1585337175.001800",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UWXV6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I just tried to purchase one"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585336921.000400",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "1d5f5919-b545-4634-8c0d-106e4255fd82",
+        "type": "message",
+        "text": "never asked anything",
+        "user": "US2PZ9QBF",
+        "ts": "1585337182.002000",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SWN8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "never asked anything"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585336921.000400",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "ddd09613-1723-46a7-bb91-351d54f0b9af",
+        "type": "message",
+        "text": "cool",
+        "user": "URRA07VU3",
+        "ts": "1585337188.002200",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "89X",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "cool"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585336921.000400",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "af715605-d681-4045-9a83-751ea1dd1d5f",
+        "type": "message",
+        "text": "yepper",
+        "user": "US2PZ9QBF",
+        "ts": "1585337195.002400",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iqb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yepper"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585336921.000400",
+        "parent_user_id": "US2PZ9QBF"
+    }
+]

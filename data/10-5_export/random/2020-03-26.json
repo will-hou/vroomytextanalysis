@@ -1,0 +1,58 @@
+[
+    {
+        "client_msg_id": "7685a2a5-8332-413d-8a54-9bc511aee72e",
+        "type": "message",
+        "text": "<https:\/\/www.reddit.com\/r\/FRC\/comments\/fpfnxb\/scissor_lift_in_space_confirmed\/?utm_medium=android_app&amp;utm_source=share|https:\/\/www.reddit.com\/r\/FRC\/comments\/fpfnxb\/scissor_lift_in_space_confirmed\/?utm_medium=android_app&amp;utm_source=share>",
+        "user": "US2PZ9QBF",
+        "ts": "1585281258.000100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "reddit",
+                "title": "Scissor Lift in Space Confirmed",
+                "title_link": "https:\/\/www.reddit.com\/r\/FRC\/comments\/fpfnxb\/scissor_lift_in_space_confirmed\/?utm_medium=android_app&utm_source=share",
+                "text": "Posted in r\/FRC by u\/Sevrinx2 • 759 points and 25 comments",
+                "fallback": "reddit: Scissor Lift in Space Confirmed",
+                "image_url": "https:\/\/preview.redd.it\/7gighq73y1p41.jpg?overlay-align=bottom,left&crop=1200:628.272251309,smart&overlay-height=15p&overlay=%2Fwatermark%2Ft5_2rdka.png%3Fs%3D33fba01e5402cd941c55d9c3d448daeb46eb5701&width=1200&height=628.272251309&auto=webp&s=5029493c299441585b2f704d3b549070840d38f6",
+                "image_width": 478,
+                "image_height": 250,
+                "from_url": "https:\/\/www.reddit.com\/r\/FRC\/comments\/fpfnxb\/scissor_lift_in_space_confirmed\/?utm_medium=android_app&utm_source=share",
+                "image_bytes": 75925,
+                "service_icon": "http:\/\/www.redditstatic.com\/desktop2x\/img\/favicon\/apple-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/www.reddit.com\/r\/FRC\/comments\/fpfnxb\/scissor_lift_in_space_confirmed\/?utm_medium=android_app&amp;utm_source=share"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=Qc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.reddit.com\/r\/FRC\/comments\/fpfnxb\/scissor_lift_in_space_confirmed\/?utm_medium=android_app&utm_source=share",
+                                "text": "https:\/\/www.reddit.com\/r\/FRC\/comments\/fpfnxb\/scissor_lift_in_space_confirmed\/?utm_medium=android_app&utm_source=share"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

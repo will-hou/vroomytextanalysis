@@ -1,0 +1,818 @@
+[
+    {
+        "type": "message",
+        "text": "Continuing from  this thread <https:\/\/vroomvroomswerve.slack.com\/archives\/CRSGHJR97\/p1596325804000600>\n\nInstead of trying to find a library to read the encoders, you could attach your own interrupt functions to the encoder pins and then you could record the time between two encoder ticks.\n\nI'm uploading a diagram I made when we were trying to read the encoder on the SERTain controller.\n\nnote: instead of calculating speed based on time between encoder ticks, I calculated it based on how long it takes for an encoder to go through a 4 tick cycle. That's because my encoder doesn't have equal length spaces between each tick in a cycle, but each cycle is the same length, so measuring full cycles is more consistent for me. If your encoders are better, you could calculate interval every time there is a pin change and you would be getting new interval data to calculate speed with 4 times as quickly.\n\nHere's the code I made for reading the position and speed of an encoder. Connor could probably optimize it to run much faster (I used floats, sorry)\n\n```const byte pinA = 2;\nconst byte pinB = 3; \/\/swap these pins if the encoder reads negative from what you want\n\nvolatile int encoderCount = 0; \/\/keep track of encoder position, could use long if you can't handle it overflowing often\nvolatile unsigned long lastEncoderCycleMicros = 0; \/\/when did the encoder last go through a cycle\nvolatile unsigned long lastEncoderCycleInterval = 0; \/\/how many microseconds did the last cycle of the encoder take\nvolatile boolean forwards = true; \/\/should speed be positive or negative (period between ticks doesn't tell direction)\n\nvoid setup() {\n  Serial.begin(250000);\n  pinMode(pinA, INPUT_PULLUP);\n  pinMode(pinB, INPUT_PULLUP);\n  attachInterrupt(digitalPinToInterrupt(pinA), pinAISR, CHANGE); \/\/pinAISR will be called each time channel A changes\n  attachInterrupt(digitalPinToInterrupt(pinB), pinBISR, CHANGE); \/\/pinBISR will be called each time channel B changes\n}\n\nvoid loop() {\n  Serial.print(encoderCount);\n  Serial.print(\",\");\n  Serial.print(calculateSpeed());\n  Serial.println();\n  delay(500);\/\/slow rate of printing, you can call calculateSpeed() as often as you want though\n}\nfloat calculateSpeed() {\n  if (lastEncoderCycleInterval == 0) { \/\/ avoid divide by zero before first encoder tick\n    return 0;\n  }\n\n\n  \/*\n     If the motor is turning really slowly or stopped,\n     it will be a long time between encoder ticks\n     so set speed to zero;\n  *\/\n  if (micros() - lastEncoderCycleMicros &gt; 250000) {\n    return 0;\n  }\n\n  \/\/ calculate encoder ticks per second based on time between encoder cycles.\n  float speed = 1000000.0 \/ lastEncoderCycleInterval;\n  if (!forwards) {\n    speed = -speed;\n  }\n  return speed;\n}\n\nvoid pinAISR() {\n  lastEncoderCycleInterval = micros() - lastEncoderCycleMicros;\n  lastEncoderCycleMicros = micros();\n\n  if (digitalRead(pinA) == digitalRead(pinB)) {\n    encoderCount++;\n    forwards = true;\n  } else {\n    encoderCount--;\n    forwards = false;\n  }\n}\n\nvoid pinBISR() {\n  lastEncoderCycleInterval = micros() - lastEncoderCycleMicros;\n  lastEncoderCycleMicros = micros();\n\n  if (digitalRead(pinA) != digitalRead(pinB)) {\n    encoderCount++;\n    forwards = true;\n  } else {\n    encoderCount--;\n    forwards = false;\n  }\n}```",
+        "files": [
+            {
+                "id": "F017Q8220GP",
+                "created": 1596394305,
+                "timestamp": 1596394305,
+                "name": "P1120040.JPG",
+                "title": "P1120040.JPG",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "US4KMEG9M",
+                "editable": false,
+                "size": 6388062,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TS2PZ9PJR-F017Q8220GP\/p1120040.jpg?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TS2PZ9PJR-F017Q8220GP\/download\/p1120040.jpg?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F017Q8220GP-90468d9f48\/p1120040_64.jpg?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F017Q8220GP-90468d9f48\/p1120040_80.jpg?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F017Q8220GP-90468d9f48\/p1120040_360.jpg?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_360_w": 360,
+                "thumb_360_h": 270,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F017Q8220GP-90468d9f48\/p1120040_480.jpg?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_480_w": 480,
+                "thumb_480_h": 360,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F017Q8220GP-90468d9f48\/p1120040_160.jpg?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F017Q8220GP-90468d9f48\/p1120040_720.jpg?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_720_w": 720,
+                "thumb_720_h": 541,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F017Q8220GP-90468d9f48\/p1120040_800.jpg?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_800_w": 800,
+                "thumb_800_h": 601,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F017Q8220GP-90468d9f48\/p1120040_960.jpg?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_960_w": 960,
+                "thumb_960_h": 721,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-F017Q8220GP-90468d9f48\/p1120040_1024.jpg?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 769,
+                "original_w": 4592,
+                "original_h": 3448,
+                "thumb_tiny": "AwAkADCNRx0p4FNXpTxSGKAKXaKBiloENwKUgYpe9B6UMZAOlSA1EKeDQBJ3o5x1poNGaBDs80p6VHmnbsrQxlUOacHNMFKKAJA59qN59qaKWgBdxpyEmo6fH1oYH\/\/Z",
+                "permalink": "https:\/\/vroomvroomswerve.slack.com\/files\/US4KMEG9M\/F017Q8220GP\/p1120040.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/TS2PZ9PJR-F017Q8220GP-83d41674ea",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xxJQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Continuing from  this thread "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/vroomvroomswerve.slack.com\/archives\/CRSGHJR97\/p1596325804000600"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nInstead of trying to find a library to read the encoders, you could attach your own interrupt functions to the encoder pins and then you could record the time between two encoder ticks.\n\nI'm uploading a diagram I made when we were trying to read the encoder on the SERTain controller.\n\nnote: instead of calculating speed based on time between encoder ticks, I calculated it based on how long it takes for an encoder to go through a 4 tick cycle. That's because my encoder doesn't have equal length spaces between each tick in a cycle, but each cycle is the same length, so measuring full cycles is more consistent for me. If your encoders are better, you could calculate interval every time there is a pin change and you would be getting new interval data to calculate speed with 4 times as quickly.\n\nHere's the code I made for reading the position and speed of an encoder. Connor could probably optimize it to run much faster (I used floats, sorry)\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "const byte pinA = 2;\nconst byte pinB = 3; \/\/swap these pins if the encoder reads negative from what you want\n\nvolatile int encoderCount = 0; \/\/keep track of encoder position, could use long if you can't handle it overflowing often\nvolatile unsigned long lastEncoderCycleMicros = 0; \/\/when did the encoder last go through a cycle\nvolatile unsigned long lastEncoderCycleInterval = 0; \/\/how many microseconds did the last cycle of the encoder take\nvolatile boolean forwards = true; \/\/should speed be positive or negative (period between ticks doesn't tell direction)\n\nvoid setup() {\n  Serial.begin(250000);\n  pinMode(pinA, INPUT_PULLUP);\n  pinMode(pinB, INPUT_PULLUP);\n  attachInterrupt(digitalPinToInterrupt(pinA), pinAISR, CHANGE); \/\/pinAISR will be called each time channel A changes\n  attachInterrupt(digitalPinToInterrupt(pinB), pinBISR, CHANGE); \/\/pinBISR will be called each time channel B changes\n}\n\nvoid loop() {\n  Serial.print(encoderCount);\n  Serial.print(\",\");\n  Serial.print(calculateSpeed());\n  Serial.println();\n  delay(500);\/\/slow rate of printing, you can call calculateSpeed() as often as you want though\n}\nfloat calculateSpeed() {\n  if (lastEncoderCycleInterval == 0) { \/\/ avoid divide by zero before first encoder tick\n    return 0;\n  }\n\n\n  \/*\n     If the motor is turning really slowly or stopped,\n     it will be a long time between encoder ticks\n     so set speed to zero;\n  *\/\n  if (micros() - lastEncoderCycleMicros > 250000) {\n    return 0;\n  }\n\n  \/\/ calculate encoder ticks per second based on time between encoder cycles.\n  float speed = 1000000.0 \/ lastEncoderCycleInterval;\n  if (!forwards) {\n    speed = -speed;\n  }\n  return speed;\n}\n\nvoid pinAISR() {\n  lastEncoderCycleInterval = micros() - lastEncoderCycleMicros;\n  lastEncoderCycleMicros = micros();\n\n  if (digitalRead(pinA) == digitalRead(pinB)) {\n    encoderCount++;\n    forwards = true;\n  } else {\n    encoderCount--;\n    forwards = false;\n  }\n}\n\nvoid pinBISR() {\n  lastEncoderCycleInterval = micros() - lastEncoderCycleMicros;\n  lastEncoderCycleMicros = micros();\n\n  if (digitalRead(pinA) != digitalRead(pinB)) {\n    encoderCount++;\n    forwards = true;\n  } else {\n    encoderCount--;\n    forwards = false;\n  }\n}"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "US4KMEG9M",
+        "display_as_bot": false,
+        "ts": "1596396079.008200",
+        "edited": {
+            "user": "US4KMEG9M",
+            "ts": "1596399052.000000"
+        },
+        "thread_ts": "1596396079.008200",
+        "reply_count": 15,
+        "reply_users_count": 2,
+        "latest_reply": "1596408822.014700",
+        "reply_users": [
+            "U01874ZLZC4",
+            "US4KMEG9M"
+        ],
+        "replies": [
+            {
+                "user": "U01874ZLZC4",
+                "ts": "1596397913.009700"
+            },
+            {
+                "user": "US4KMEG9M",
+                "ts": "1596397937.010000"
+            },
+            {
+                "user": "U01874ZLZC4",
+                "ts": "1596397966.010300"
+            },
+            {
+                "user": "U01874ZLZC4",
+                "ts": "1596398026.010500"
+            },
+            {
+                "user": "U01874ZLZC4",
+                "ts": "1596398096.010700"
+            },
+            {
+                "user": "U01874ZLZC4",
+                "ts": "1596398146.011100"
+            },
+            {
+                "user": "U01874ZLZC4",
+                "ts": "1596398178.011300"
+            },
+            {
+                "user": "US4KMEG9M",
+                "ts": "1596398925.012900"
+            },
+            {
+                "user": "US4KMEG9M",
+                "ts": "1596399078.013300"
+            },
+            {
+                "user": "U01874ZLZC4",
+                "ts": "1596399111.013500"
+            },
+            {
+                "user": "US4KMEG9M",
+                "ts": "1596406953.013900"
+            },
+            {
+                "user": "U01874ZLZC4",
+                "ts": "1596408619.014100"
+            },
+            {
+                "user": "US4KMEG9M",
+                "ts": "1596408652.014300"
+            },
+            {
+                "user": "U01874ZLZC4",
+                "ts": "1596408790.014500"
+            },
+            {
+                "user": "U01874ZLZC4",
+                "ts": "1596408822.014700"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1596397316.008700",
+        "user": "U010XSNA2Q4",
+        "text": "<@U010XSNA2Q4> has joined the channel"
+    },
+    {
+        "client_msg_id": "5195f48e-4acd-439e-b51b-c7ab2fb38f7c",
+        "type": "message",
+        "text": "what is the attachInterrupt function? Is that an arduino thing?",
+        "user": "U01874ZLZC4",
+        "ts": "1596397913.009700",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "gb40ade6266c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b40ade6266c70eaf07d765360ca27260.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "",
+            "real_name": "Arvind Mahadevan",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "arvindeugene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JPw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "what is the attachInterrupt function? Is that an arduino thing?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1596396079.008200",
+        "parent_user_id": "US4KMEG9M"
+    },
+    {
+        "client_msg_id": "37238c64-f098-4b3e-9cad-f6bf5c8419c3",
+        "type": "message",
+        "text": "yes, <https:\/\/www.arduino.cc\/reference\/en\/language\/functions\/external-interrupts\/attachinterrupt\/>",
+        "user": "US4KMEG9M",
+        "ts": "1596397937.010000",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "b915bd1b6aaa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-04\/1338647058470_b915bd1b6aaa68df3e32_72.jpg",
+            "first_name": "joshua",
+            "real_name": "joshua phelps",
+            "display_name": "joshua phelps",
+            "team": "TS2PZ9PJR",
+            "name": "joshuaphelps127",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "attachInterrupt() - Arduino Reference",
+                "title_link": "https:\/\/www.arduino.cc\/reference\/en\/language\/functions\/external-interrupts\/attachinterrupt\/",
+                "text": "The Arduino programming language Reference, organized into Functions, Variable and Constant, and Structure keywords.",
+                "fallback": "attachInterrupt() - Arduino Reference",
+                "from_url": "https:\/\/www.arduino.cc\/reference\/en\/language\/functions\/external-interrupts\/attachinterrupt\/",
+                "service_icon": "https:\/\/www.arduino.cc\/reference\/favicon.ico",
+                "service_name": "arduino.cc",
+                "id": 1,
+                "original_url": "https:\/\/www.arduino.cc\/reference\/en\/language\/functions\/external-interrupts\/attachinterrupt\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hDn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yes, "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.arduino.cc\/reference\/en\/language\/functions\/external-interrupts\/attachinterrupt\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1596396079.008200",
+        "parent_user_id": "US4KMEG9M"
+    },
+    {
+        "client_msg_id": "250b64b2-c756-416a-b1c4-b2ec376ab96b",
+        "type": "message",
+        "text": "Okay, that seems pretty easy to use",
+        "user": "U01874ZLZC4",
+        "ts": "1596397966.010300",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "gb40ade6266c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b40ade6266c70eaf07d765360ca27260.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "",
+            "real_name": "Arvind Mahadevan",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "arvindeugene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "p\/vG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Okay, that seems pretty easy to use"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1596396079.008200",
+        "parent_user_id": "US4KMEG9M"
+    },
+    {
+        "client_msg_id": "37ad5883-0cbf-4d0e-b879-71e136cc04c7",
+        "type": "message",
+        "text": "Also how did you know that each tick had uneven lengths? I wouldn't know if that is the case for us",
+        "user": "U01874ZLZC4",
+        "ts": "1596398026.010500",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "gb40ade6266c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b40ade6266c70eaf07d765360ca27260.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "",
+            "real_name": "Arvind Mahadevan",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "arvindeugene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01874ZLZC4",
+            "ts": "1596398098.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "J1S\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Also how did you know that each tick had uneven lengths? I wouldn't know if that is the case for us"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1596396079.008200",
+        "parent_user_id": "US4KMEG9M"
+    },
+    {
+        "client_msg_id": "1d7ee8ec-528c-49b0-91eb-e865e3da3dda",
+        "type": "message",
+        "text": "Wait there might be a catch... I think the reason he wants to modify an existing library is because we have to use 4x mode to get more resolution from the motors by using rising and falling edge",
+        "user": "U01874ZLZC4",
+        "ts": "1596398096.010700",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "gb40ade6266c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b40ade6266c70eaf07d765360ca27260.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "",
+            "real_name": "Arvind Mahadevan",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "arvindeugene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U01874ZLZC4",
+            "ts": "1596398115.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AiL0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Wait there might be a catch... I think the reason he wants to modify an existing library is because we have to use 4x mode to get more resolution from the motors by using rising and falling edge"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1596396079.008200",
+        "parent_user_id": "US4KMEG9M"
+    },
+    {
+        "client_msg_id": "5a95659b-920b-470a-b7ab-d43828d57ee4",
+        "type": "message",
+        "text": "I don't know if the interrupts will catch this... I'm really lost, Connor would probably understand much better",
+        "user": "U01874ZLZC4",
+        "ts": "1596398146.011100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "gb40ade6266c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b40ade6266c70eaf07d765360ca27260.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "",
+            "real_name": "Arvind Mahadevan",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "arvindeugene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=wZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I don't know if the interrupts will catch this... I'm really lost, Connor would probably understand much better"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1596396079.008200",
+        "parent_user_id": "US4KMEG9M"
+    },
+    {
+        "client_msg_id": "56c008b3-46af-42bb-a6fd-6036db062b47",
+        "type": "message",
+        "text": "The code makes sense I'm just not sure if it could be applied to our scenario as easily",
+        "user": "U01874ZLZC4",
+        "ts": "1596398178.011300",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "gb40ade6266c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b40ade6266c70eaf07d765360ca27260.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "",
+            "real_name": "Arvind Mahadevan",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "arvindeugene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jMWZv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The code makes sense I'm just not sure if it could be applied to our scenario as easily"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1596396079.008200",
+        "parent_user_id": "US4KMEG9M"
+    },
+    {
+        "client_msg_id": "18b165a8-bbb7-4742-8583-6aa0ddfb1b83",
+        "type": "message",
+        "text": "I think teensys can read interrupts on any pin!\n\nI think you should try calculating the time between each tick, and then you can see if the time is consistent if you spin the motor at a constant rate.\nMy encoder is a badly aligned magnet and two magnet sensors, and when I measured every tick there was a lot of variance in a cycle of 4.\n\nthe encoderCount variable in the code I wrote does use every rising and falling edge for position, and you could use every rising and falling edge for speed too if your encoder doesn't have issues with uneven length pulses.\n\ninterrupts are the best way I know of to catch encoder pulses, and I assume that interrupts are used internally to any encoder library. Teensys are fast, and should catch every pulse.\n\nI would like to include Connor in this conversation.",
+        "user": "US4KMEG9M",
+        "ts": "1596398925.012900",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "b915bd1b6aaa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-04\/1338647058470_b915bd1b6aaa68df3e32_72.jpg",
+            "first_name": "joshua",
+            "real_name": "joshua phelps",
+            "display_name": "joshua phelps",
+            "team": "TS2PZ9PJR",
+            "name": "joshuaphelps127",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HAq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think teensys can read interrupts on any pin!\n\nI think you should try calculating the time between each tick, and then you can see if the time is consistent if you spin the motor at a constant rate.\nMy encoder is a badly aligned magnet and two magnet sensors, and when I measured every tick there was a lot of variance in a cycle of 4.\n\nthe encoderCount variable in the code I wrote does use every rising and falling edge for position, and you could use every rising and falling edge for speed too if your encoder doesn't have issues with uneven length pulses.\n\ninterrupts are the best way I know of to catch encoder pulses, and I assume that interrupts are used internally to any encoder library. Teensys are fast, and should catch every pulse.\n\nI would like to include Connor in this conversation."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1596396079.008200",
+        "parent_user_id": "US4KMEG9M"
+    },
+    {
+        "client_msg_id": "7f2054ad-7d21-4253-b5a7-55851b00aded",
+        "type": "message",
+        "text": "I edited the code I posted to measure the interval between every rising and falling edge.",
+        "user": "US4KMEG9M",
+        "ts": "1596399078.013300",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "b915bd1b6aaa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-04\/1338647058470_b915bd1b6aaa68df3e32_72.jpg",
+            "first_name": "joshua",
+            "real_name": "joshua phelps",
+            "display_name": "joshua phelps",
+            "team": "TS2PZ9PJR",
+            "name": "joshuaphelps127",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sR6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I edited the code I posted to measure the interval between every rising and falling edge."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1596396079.008200",
+        "parent_user_id": "US4KMEG9M"
+    },
+    {
+        "client_msg_id": "bc4e53e2-f45e-4469-9671-c0efcf9c5392",
+        "type": "message",
+        "text": "Yes I would like to include Connor as well...",
+        "user": "U01874ZLZC4",
+        "ts": "1596399111.013500",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "gb40ade6266c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b40ade6266c70eaf07d765360ca27260.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "",
+            "real_name": "Arvind Mahadevan",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "arvindeugene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sDJv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes I would like to include Connor as well..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1596396079.008200",
+        "parent_user_id": "US4KMEG9M"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1596405845.013800",
+        "user": "URRA07R7D",
+        "text": "<@URRA07R7D> has joined the channel"
+    },
+    {
+        "client_msg_id": "0205a8ad-7666-4195-831a-72486db32d5a",
+        "type": "message",
+        "text": "<@U01874ZLZC4> should I put my thoughts on encoders that I've put here into an email to both of you? What would be the best way for me to include both of you?",
+        "user": "US4KMEG9M",
+        "ts": "1596406953.013900",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "b915bd1b6aaa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-04\/1338647058470_b915bd1b6aaa68df3e32_72.jpg",
+            "first_name": "joshua",
+            "real_name": "joshua phelps",
+            "display_name": "joshua phelps",
+            "team": "TS2PZ9PJR",
+            "name": "joshuaphelps127",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Aka9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U01874ZLZC4"
+                            },
+                            {
+                                "type": "text",
+                                "text": " should I put my thoughts on encoders that I've put here into an email to both of you? What would be the best way for me to include both of you?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1596396079.008200",
+        "parent_user_id": "US4KMEG9M"
+    },
+    {
+        "client_msg_id": "a40b10ed-a63c-45a8-b1d5-0dd7f8e3bdb1",
+        "type": "message",
+        "text": "Do you have discord <@US4KMEG9M>",
+        "user": "U01874ZLZC4",
+        "ts": "1596408619.014100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "gb40ade6266c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b40ade6266c70eaf07d765360ca27260.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "",
+            "real_name": "Arvind Mahadevan",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "arvindeugene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7mdT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Do you have discord "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "US4KMEG9M"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1596396079.008200",
+        "parent_user_id": "US4KMEG9M"
+    },
+    {
+        "client_msg_id": "7109237e-4646-43a5-9d4f-c4ea7122afd2",
+        "type": "message",
+        "text": "yes, I'm joshua phelps#0650",
+        "user": "US4KMEG9M",
+        "ts": "1596408652.014300",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "b915bd1b6aaa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-04\/1338647058470_b915bd1b6aaa68df3e32_72.jpg",
+            "first_name": "joshua",
+            "real_name": "joshua phelps",
+            "display_name": "joshua phelps",
+            "team": "TS2PZ9PJR",
+            "name": "joshuaphelps127",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Og+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yes, I'm joshua phelps#0650"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1596396079.008200",
+        "parent_user_id": "US4KMEG9M"
+    },
+    {
+        "client_msg_id": "f3838030-cc57-47cb-aee5-f09c8e6b28aa",
+        "type": "message",
+        "text": "It says you're not accepting friend requests",
+        "user": "U01874ZLZC4",
+        "ts": "1596408790.014500",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "gb40ade6266c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b40ade6266c70eaf07d765360ca27260.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "",
+            "real_name": "Arvind Mahadevan",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "arvindeugene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y\/4Ie",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It says you're not accepting friend requests"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1596396079.008200",
+        "parent_user_id": "US4KMEG9M"
+    },
+    {
+        "client_msg_id": "50f0c6c2-5d80-48bc-9d0f-eb9a8068bc20",
+        "type": "message",
+        "text": "You can add me ArvindM#0731",
+        "user": "U01874ZLZC4",
+        "ts": "1596408822.014700",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "gb40ade6266c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b40ade6266c70eaf07d765360ca27260.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "",
+            "real_name": "Arvind Mahadevan",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "arvindeugene",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xnGO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You can add me ArvindM#0731"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1596396079.008200",
+        "parent_user_id": "US4KMEG9M"
+    }
+]

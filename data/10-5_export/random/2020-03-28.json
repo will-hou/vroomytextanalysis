@@ -1,0 +1,59 @@
+[
+    {
+        "client_msg_id": "b01facab-3ac8-4826-b264-8147329efa08",
+        "type": "message",
+        "text": "<https:\/\/kidsactivitiesblog.com\/136801\/lego-waffle-maker\/|https:\/\/kidsactivitiesblog.com\/136801\/lego-waffle-maker\/>",
+        "user": "US2PZ9QBF",
+        "ts": "1585416043.003600",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Kids Activities Blog",
+                "title": "You Can Get A LEGO Waffle Maker For A Breakfast That's Worth Building",
+                "title_link": "https:\/\/kidsactivitiesblog.com\/136801\/lego-waffle-maker\/",
+                "text": "There are two things that are really loved in this house...LEGO's and waffles. My wife has always wanted a waffle maker and since she's gotten one, she's",
+                "fallback": "Kids Activities Blog: You Can Get A LEGO Waffle Maker For A Breakfast That's Worth Building",
+                "image_url": "https:\/\/kidsactivitiesblog.com\/wp-content\/uploads\/2020\/03\/Screen-Shot-2020-03-26-at-1.32.59-PM.png",
+                "image_width": 321,
+                "image_height": 250,
+                "ts": 1585252573,
+                "from_url": "https:\/\/kidsactivitiesblog.com\/136801\/lego-waffle-maker\/",
+                "image_bytes": 1775107,
+                "service_icon": "https:\/\/kidsactivitiesblog.com\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/kidsactivitiesblog.com\/136801\/lego-waffle-maker\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6jthX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/kidsactivitiesblog.com\/136801\/lego-waffle-maker\/",
+                                "text": "https:\/\/kidsactivitiesblog.com\/136801\/lego-waffle-maker\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "client_msg_id": "10b603ce-bf39-48fb-873b-3ed4af8c3546",
+        "type": "message",
+        "text": "potentially? I only have experience with FRC legal motor controllers, which have their own proprietary control schema",
+        "user": "UUH3JGD7H",
+        "ts": "1582870429.000100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "0d4ce2beb963",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-24\/967310845472_0d4ce2beb963e5271a18_72.jpg",
+            "first_name": "Ethan",
+            "real_name": "Ethan Hansen",
+            "display_name": "Ethan",
+            "team": "TS2PZ9PJR",
+            "name": "1ethanhansen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "S\/e",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "potentially? I only have experience with FRC legal motor controllers, which have their own proprietary control schema"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582609116.001400",
+        "parent_user_id": "UUH3JGD7H"
+    }
+]

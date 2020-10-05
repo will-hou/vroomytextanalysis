@@ -1,0 +1,615 @@
+[
+    {
+        "client_msg_id": "da287499-3df9-4253-874b-2007ed14d05f",
+        "type": "message",
+        "text": "<!channel> has everyone's school been cancelled till April?",
+        "user": "US2PZ9QBF",
+        "ts": "1584117130.000900",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sCb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " has everyone's school been cancelled till April?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584117130.000900",
+        "reply_count": 14,
+        "reply_users_count": 4,
+        "latest_reply": "1584204258.001300",
+        "reply_users": [
+            "URRA07VU3",
+            "US2PZ9QBF",
+            "US4KMEG9M",
+            "UU50D077H"
+        ],
+        "replies": [
+            {
+                "user": "URRA07VU3",
+                "ts": "1584117252.001000"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1584117289.001200"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1584117306.001400"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1584117322.001600"
+            },
+            {
+                "user": "US4KMEG9M",
+                "ts": "1584117330.001800"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1584117348.002000"
+            },
+            {
+                "user": "US4KMEG9M",
+                "ts": "1584117357.002200"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1584117362.002400"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1584117397.002600"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1584117432.002800"
+            },
+            {
+                "user": "UU50D077H",
+                "ts": "1584204232.000500"
+            },
+            {
+                "user": "UU50D077H",
+                "ts": "1584204246.000900"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1584204255.001100"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1584204258.001300"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1584204258.001300"
+    },
+    {
+        "client_msg_id": "1533a2e8-ae02-43ab-a77f-63864431dbd4",
+        "type": "message",
+        "text": "my classes were cancelled next week and then the next week is spring break. they start again march 30th but will be online, so I'm flying home Tuesday. Is South cancelled now?",
+        "user": "URRA07VU3",
+        "ts": "1584117252.001000",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "j\/yn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "my classes were cancelled next week and then the next week is spring break. they start again march 30th but will be online, so I'm flying home Tuesday. Is South cancelled now?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584117130.000900",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "f1278300-3f61-44e4-a3f0-bdfb53059e25",
+        "type": "message",
+        "text": "Yeppers",
+        "user": "US2PZ9QBF",
+        "ts": "1584117289.001200",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=564x",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeppers"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584117130.000900",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "1da74dc1-4c5c-45fc-a57c-4945154d16ff",
+        "type": "message",
+        "text": "Wait, so are we going to have our phelps back????",
+        "user": "US2PZ9QBF",
+        "ts": "1584117306.001400",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EKL6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Wait, so are we going to have our phelps back????"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584117130.000900",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "e6b8cbb3-4d3f-43f1-9bfa-66fe4e902a0f",
+        "type": "message",
+        "text": "Also is there time to lasure cut things:zany_face:",
+        "user": "US2PZ9QBF",
+        "ts": "1584117322.001600",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PJCSm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Also is there time to lasure cut things"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "zany_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584117130.000900",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "821d38d6-e4db-4f27-a717-27882f865737",
+        "type": "message",
+        "text": "Is South completely cancelled or online?",
+        "user": "US4KMEG9M",
+        "ts": "1584117330.001800",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "b915bd1b6aaa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-04\/1338647058470_b915bd1b6aaa68df3e32_72.jpg",
+            "first_name": "joshua",
+            "real_name": "joshua phelps",
+            "display_name": "joshua phelps",
+            "team": "TS2PZ9PJR",
+            "name": "joshuaphelps127",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7636X",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Is South completely cancelled or online?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584117130.000900",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "3e923784-fbbf-4f16-a2ea-9ad8703f4b8d",
+        "type": "message",
+        "text": "Cancelled because not everyone has access to the internet",
+        "user": "US2PZ9QBF",
+        "ts": "1584117348.002000",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "onhF7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Cancelled because not everyone has access to the internet"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584117130.000900",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "197bf3d0-c31b-4259-8be1-654bc34287c0",
+        "type": "message",
+        "text": "happy summer!",
+        "user": "US4KMEG9M",
+        "ts": "1584117357.002200",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "b915bd1b6aaa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-04\/1338647058470_b915bd1b6aaa68df3e32_72.jpg",
+            "first_name": "joshua",
+            "real_name": "joshua phelps",
+            "display_name": "joshua phelps",
+            "team": "TS2PZ9PJR",
+            "name": "joshuaphelps127",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "r0D",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "happy summer!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584117130.000900",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "8eaa2fd2-a068-4191-abfd-17c333765008",
+        "type": "message",
+        "text": "Yeppers",
+        "user": "US2PZ9QBF",
+        "ts": "1584117362.002400",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wJgyr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeppers"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584117130.000900",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "02829eac-6590-4365-838f-07f41a5f4383",
+        "type": "message",
+        "text": "so you don't have school until fall?",
+        "user": "URRA07VU3",
+        "ts": "1584117397.002600",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C\/2Ph",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "so you don't have school until fall?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584117130.000900",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "03c4cf29-8cf8-4405-a302-91f9b0c17fd4",
+        "type": "message",
+        "text": "No, we don't have school till April 1st at least",
+        "user": "US2PZ9QBF",
+        "ts": "1584117432.002800",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pZg+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "No, we don't have school till April 1st at least"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584117130.000900",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "type": "message",
+        "text": "5AXISMAKER - CASE STUDY 01 \/ Sculpting a Bust - YouTube\n<https:\/\/www.youtube.com\/watch?v=XHN2EFwahiI>",
+        "user": "US2PZ9QBF",
+        "ts": "1584125518.003000",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "5AXISMAKER - CASE STUDY 01 \/ Sculpting a Bust",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=XHN2EFwahiI",
+                "author_name": "5axismaker",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UC0ADXZvjxpOEMDo5-nQ1PRA",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/XHN2EFwahiI\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: 5AXISMAKER - CASE STUDY 01 \/ Sculpting a Bust",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/XHN2EFwahiI?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=XHN2EFwahiI",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=XHN2EFwahiI"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c1aed0e6-f419-4916-a40e-440ff9bc856f",
+        "type": "message",
+        "text": "<https:\/\/www.reddit.com\/r\/FRC\/comments\/fhzhn1\/today_we_are_in_mourning\/?utm_medium=android_app&amp;utm_source=share|https:\/\/www.reddit.com\/r\/FRC\/comments\/fhzhn1\/today_we_are_in_mourning\/?utm_medium=android_app&amp;utm_source=share>",
+        "user": "US2PZ9QBF",
+        "ts": "1584132925.003200",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "reddit",
+                "title": "Today we are in mourning",
+                "title_link": "https:\/\/www.reddit.com\/r\/FRC\/comments\/fhzhn1\/today_we_are_in_mourning\/?utm_medium=android_app&utm_source=share",
+                "text": "Posted in r\/FRC by u\/aerisoraerith • 397 points and 9 comments",
+                "fallback": "reddit: Today we are in mourning",
+                "image_url": "https:\/\/preview.redd.it\/t507ib65xfm41.jpg?overlay-align=bottom,left&crop=1200:628.272251309,smart&overlay-height=15p&overlay=%2Fwatermark%2Ft5_2rdka.png%3Fs%3D33fba01e5402cd941c55d9c3d448daeb46eb5701&width=1200&height=628.272251309&auto=webp&s=2deb51aeeb7cae9b5ec89955da42f818e3d792ca",
+                "image_width": 478,
+                "image_height": 250,
+                "from_url": "https:\/\/www.reddit.com\/r\/FRC\/comments\/fhzhn1\/today_we_are_in_mourning\/?utm_medium=android_app&utm_source=share",
+                "image_bytes": 124531,
+                "service_icon": "http:\/\/www.redditstatic.com\/desktop2x\/img\/favicon\/apple-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/www.reddit.com\/r\/FRC\/comments\/fhzhn1\/today_we_are_in_mourning\/?utm_medium=android_app&amp;utm_source=share"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F76Hr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.reddit.com\/r\/FRC\/comments\/fhzhn1\/today_we_are_in_mourning\/?utm_medium=android_app&utm_source=share",
+                                "text": "https:\/\/www.reddit.com\/r\/FRC\/comments\/fhzhn1\/today_we_are_in_mourning\/?utm_medium=android_app&utm_source=share"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

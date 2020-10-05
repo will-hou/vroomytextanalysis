@@ -1,0 +1,316 @@
+[
+    {
+        "client_msg_id": "cd124254-fac7-46ba-a4a5-1ca622dd4a86",
+        "type": "message",
+        "text": "<!channel> do the things that sert \"purchases\" using our first points count against us price wise on the BOM or can we count all of that stuff as part of the KOP?",
+        "user": "US2PZ9QBF",
+        "ts": "1582747960.002200",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rmqH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " do the things that sert \"purchases\" using our first points count against us price wise on the BOM or can we count all of that stuff as part of the KOP?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582747960.002200",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1582748360.003300",
+        "reply_users": [
+            "URRA07VU3"
+        ],
+        "replies": [
+            {
+                "user": "URRA07VU3",
+                "ts": "1582748222.002500"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1582748360.003300"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1582748360.003300"
+    },
+    {
+        "client_msg_id": "1e687856-3cac-4127-9fdb-e52898639c1a",
+        "type": "message",
+        "text": "read R11",
+        "user": "URRA07VU3",
+        "ts": "1582748102.002400",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aprgp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "read R11"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "333fc038-2e5e-4ebd-bea5-d10cbec05d5c",
+        "type": "message",
+        "text": "excerpts from R11\n\"Example 2: A team uses FIRST Choice credits, or a voucher, to acquire part ABC. This part, in the quantity obtained by the team via the KOP may be accounted at $0. Additional quantity of the same item would have to be accounted at the Fair Market Value.\"\n\n\"Example 3: Part ABC is available in FIRST Choice, but a team decides they have enough already on hand and does not acquire any through FIRST Choice. All of these items used on the ROBOT need to be accounted for at Fair Market Value as they did not come from the current year’s KOP.\"",
+        "user": "URRA07VU3",
+        "ts": "1582748222.002500",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "URRA07VU3",
+            "ts": "1582748264.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6SN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "excerpts from R11\n\"Example 2: A team uses FIRST Choice credits, or a voucher, to acquire part ABC. This part, in the quantity obtained by the team via the KOP may be accounted at $0. Additional quantity of the same item would have to be accounted at the Fair Market Value.\"\n\n\"Example 3: Part ABC is available in FIRST Choice, but a team decides they have enough already on hand and does not acquire any through FIRST Choice. All of these items used on the ROBOT need to be accounted for at Fair Market Value as they did not come from the current year’s KOP.\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582747960.002200",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "089f39b0-eae3-4e17-847d-42a13ab11aa3",
+        "type": "message",
+        "text": "Will it though? It looked like it was working, I'm not sure you can really tell until they test it...",
+        "user": "US51ZNQDU",
+        "ts": "1582748253.002700",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "ade188af1049",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-30\/891681516518_ade188af10498886e12c_72.jpg",
+            "first_name": "Palmer",
+            "real_name": "Palmer Campbell-Kaswell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "palmerc120",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1582693226.001200",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "abfa372e-2d2a-4438-be4d-ffaaf57032b1",
+        "type": "message",
+        "text": "Also hey, Millennium Carwash is Not stupid, I think it's fun",
+        "user": "US51ZNQDU",
+        "ts": "1582748281.003000",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "ade188af1049",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-30\/891681516518_ade188af10498886e12c_72.jpg",
+            "first_name": "Palmer",
+            "real_name": "Palmer Campbell-Kaswell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "palmerc120",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1582693226.001200",
+        "parent_user_id": "US2PZ9QBF",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "URRA07VU3",
+                    "US2PZ9QBF",
+                    "URRA07R7D",
+                    "US4KMEG9M"
+                ],
+                "count": 4
+            },
+            {
+                "name": "purple_heart",
+                "users": [
+                    "URRA07VU3",
+                    "URRA07R7D",
+                    "US2PZ9QBF",
+                    "US4KMEG9M"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8fd42115-3eff-4a71-a437-ad5ed16845fb",
+        "type": "message",
+        "text": "definition of KOP as defined in the glossary:\n\"Kit of Parts, the collection of items listed on the current season’s Kickoff Kit Checklists, distributed to the team via FIRST Choice in the current season, or paid for completely (except shipping) with a Product Donation Voucher (PDV) from the current season\"",
+        "user": "URRA07VU3",
+        "ts": "1582748360.003300",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "huhk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "definition of KOP as defined in the glossary:\n\"Kit of Parts, the collection of items listed on the current season’s Kickoff Kit Checklists, distributed to the team via FIRST Choice in the current season, or paid for completely (except shipping) with a Product Donation Voucher (PDV) from the current season\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582747960.002200",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "114b11cb-6f88-440f-a015-476ee5dec1e6",
+        "type": "message",
+        "text": "Also also, it does work! We got it to do rotation control without breaking last night ... and y'all know how my driving skills are",
+        "user": "URRA07R7D",
+        "ts": "1582754107.004000",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "2340815f3f5d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-16\/992617530243_2340815f3f5d0170300e_72.png",
+            "first_name": "William",
+            "real_name": "William Hou",
+            "display_name": "vroomy pitchfork",
+            "team": "TS2PZ9PJR",
+            "name": "whou125",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Csawb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Also also, it does work! We got it to do rotation control without breaking last night ... and y'all know how my driving skills are"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1582693226.001200",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "3a685220-571d-4802-b506-75b820b17597",
+        "type": "message",
+        "text": ":clap:",
+        "user": "URRA07VU3",
+        "ts": "1582754149.004200",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1582693226.001200",
+        "parent_user_id": "US2PZ9QBF"
+    }
+]

@@ -1,0 +1,528 @@
+[
+    {
+        "client_msg_id": "E76DFD59-C9D3-481B-B127-85414437C4CE",
+        "type": "message",
+        "text": "That’s awesome ",
+        "user": "US2PZ9QBF",
+        "ts": "1584721002.000200",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ewh\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That’s awesome "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584670207.002500",
+        "parent_user_id": "UUH3JGD7H"
+    },
+    {
+        "client_msg_id": "B63CD9A9-3EE7-4D7F-AC75-5531C7A30284",
+        "type": "message",
+        "text": "<!channel> does 1:00 pm sound good to you all",
+        "user": "US2PZ9QBF",
+        "ts": "1584721168.001100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6feE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " does 1:00 pm sound good to you all"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584721168.001100",
+        "reply_count": 5,
+        "reply_users_count": 3,
+        "latest_reply": "1584760174.002900",
+        "reply_users": [
+            "URRA07VU3",
+            "US2PZ9QBF",
+            "UUH3JGD7H"
+        ],
+        "replies": [
+            {
+                "user": "URRA07VU3",
+                "ts": "1584723675.001800"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1584723686.002000"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1584724133.002200"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1584724146.002400"
+            },
+            {
+                "user": "UUH3JGD7H",
+                "ts": "1584760174.002900"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1584760174.002900",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "US4KMEG9M"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "D6DBA236-FC48-4397-8929-7057359E08CE",
+        "type": "message",
+        "text": "(This upcoming Monday)",
+        "user": "US2PZ9QBF",
+        "ts": "1584721177.001400",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QNR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(This upcoming Monday)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "729957fd-188a-416d-bd49-c0650fe64850",
+        "type": "message",
+        "text": "Yeah it won't be the worst",
+        "user": "UUH3JGD7H",
+        "ts": "1584722537.001600",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "0d4ce2beb963",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-24\/967310845472_0d4ce2beb963e5271a18_72.jpg",
+            "first_name": "Ethan",
+            "real_name": "Ethan Hansen",
+            "display_name": "Ethan",
+            "team": "TS2PZ9PJR",
+            "name": "1ethanhansen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Fj8NP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah it won't be the worst"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584670207.002500",
+        "parent_user_id": "UUH3JGD7H"
+    },
+    {
+        "client_msg_id": "314fbfdb-b809-4b8c-af14-8cf98d8c0e17",
+        "type": "message",
+        "text": "I don't currently have anything planned then, and probably won't.",
+        "user": "URRA07VU3",
+        "ts": "1584723675.001800",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "og4iS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I don't currently have anything planned then, and probably won't."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584721168.001100",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "242bcb61-b164-49c7-8a92-893b29310d68",
+        "type": "message",
+        "text": "what's the agenda?",
+        "user": "URRA07VU3",
+        "ts": "1584723686.002000",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WvUBe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "what's the agenda?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584721168.001100",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "cbf563d7-25d4-4cc5-853a-2602e0edb3d8",
+        "type": "message",
+        "text": "I'll add more info to the features list",
+        "user": "US2PZ9QBF",
+        "ts": "1584724133.002200",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "omF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'll add more info to the features list"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584721168.001100",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "c427bc2c-1dff-4d90-bbc1-540158f15b20",
+        "type": "message",
+        "text": "That's where you will find meeting 2 agenda",
+        "user": "US2PZ9QBF",
+        "ts": "1584724146.002400",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rKAw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That's where you will find meeting 2 agenda"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584721168.001100",
+        "parent_user_id": "US2PZ9QBF",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "URRA07VU3",
+                    "US2PZ9QBF"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "16f223e4-711c-42b7-9e85-1eb1c42efdad",
+        "type": "message",
+        "text": "Actually I forgot Monday is my sister's birthday oops. I'll probably be doing something with her so she isn't as sad that she can't see friends during coronapocalypse. Sorry :\/",
+        "user": "UUH3JGD7H",
+        "ts": "1584760174.002900",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "0d4ce2beb963",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-24\/967310845472_0d4ce2beb963e5271a18_72.jpg",
+            "first_name": "Ethan",
+            "real_name": "Ethan Hansen",
+            "display_name": "Ethan",
+            "team": "TS2PZ9PJR",
+            "name": "1ethanhansen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yJv38",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Actually I forgot Monday is my sister's birthday oops. I'll probably be doing something with her so she isn't as sad that she can't see friends during coronapocalypse. Sorry :\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584721168.001100",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "14c468b7-8c42-4ef5-96bf-31bc8dbf03ca",
+        "type": "message",
+        "text": "Actually <!channel> will this Tuesday at 1:00 pm work? Ethan can't make it to Monday",
+        "user": "US2PZ9QBF",
+        "ts": "1584760234.004000",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kzx1O",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Actually "
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " will this Tuesday at 1:00 pm work? Ethan can't make it to Monday"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584760234.004000",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1584760276.004100",
+        "reply_users": [
+            "UUH3JGD7H"
+        ],
+        "replies": [
+            {
+                "user": "UUH3JGD7H",
+                "ts": "1584760276.004100"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1584760276.004100",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "URRA07R7D",
+                    "US4KMEG9M",
+                    "UU50D077H",
+                    "US2PZ9QBF",
+                    "URRA07VU3"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3b4358a7-0cdd-4229-83a4-04f041c37eeb",
+        "type": "message",
+        "text": "That should work better for me",
+        "user": "UUH3JGD7H",
+        "ts": "1584760276.004100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "0d4ce2beb963",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-24\/967310845472_0d4ce2beb963e5271a18_72.jpg",
+            "first_name": "Ethan",
+            "real_name": "Ethan Hansen",
+            "display_name": "Ethan",
+            "team": "TS2PZ9PJR",
+            "name": "1ethanhansen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZES=3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That should work better for me"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584760234.004000",
+        "parent_user_id": "US2PZ9QBF"
+    }
+]

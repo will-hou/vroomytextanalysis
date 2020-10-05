@@ -1,0 +1,768 @@
+[
+    {
+        "client_msg_id": "7fdcc709-e609-480e-adb4-6bfa95dfd293",
+        "type": "message",
+        "text": "These are the best safety glasses I've ever found and the vented ones don't fog up",
+        "user": "US2PZ9QBF",
+        "ts": "1585516425.001000",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "McnE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "These are the best safety glasses I've ever found and the vented ones don't fog up"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585516425.001000",
+        "reply_count": 15,
+        "reply_users_count": 2,
+        "latest_reply": "1585517483.004200",
+        "reply_users": [
+            "URRA07VU3",
+            "US2PZ9QBF"
+        ],
+        "replies": [
+            {
+                "user": "URRA07VU3",
+                "ts": "1585516713.001400"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1585516777.001600"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1585516807.001800"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1585516940.002000"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1585516997.002200"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1585517227.002400"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1585517346.002600"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1585517366.002800"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1585517386.003000"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1585517393.003200"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1585517403.003400"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1585517414.003600"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1585517449.003800"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1585517460.004000"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1585517483.004200"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1585517483.004200"
+    },
+    {
+        "client_msg_id": "c18b9358-2f92-47db-99af-cbfc392099de",
+        "type": "message",
+        "text": "<https:\/\/raygear.com\/index.php\/xshield-face-shield-safety-glasses-all-in-on-combination-safety-industrial-recreational-use\/full-face-non-vented-clear-deluxe-face-shield-and-safety-glasses-all-in-one-combo-x1-nc.html|https:\/\/raygear.com\/index.php\/xshield-face-shield-safety-glasses-all-in-on-combination-safety-industrial-recreational-use\/full-face-non-vented-clear-deluxe-face-shield-and-safety-glasses-all-in-one-combo-x1-nc.html>",
+        "user": "US2PZ9QBF",
+        "ts": "1585516429.001200",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Face Shield and Safety Glasses All-In-One Combo: X Shield Full Face Non-Vented Clear, X1-NC",
+                "title_link": "https:\/\/raygear.com\/index.php\/xshield-face-shield-safety-glasses-all-in-on-combination-safety-industrial-recreational-use\/full-face-non-vented-clear-deluxe-face-shield-and-safety-glasses-all-in-one-combo-x1-nc.html",
+                "text": "X-Shield by raygear: Face Shield and Safety Glasses All-In-One Combo, X-Shield Full Face Non-Vented Smoke, UV 385 For safety, industrial and recreational use. Protection against flying debris and the elements. Non-vented for maximum protection.",
+                "fallback": "Face Shield and Safety Glasses All-In-One Combo: X Shield Full Face Non-Vented Clear, X1-NC",
+                "from_url": "https:\/\/raygear.com\/index.php\/xshield-face-shield-safety-glasses-all-in-on-combination-safety-industrial-recreational-use\/full-face-non-vented-clear-deluxe-face-shield-and-safety-glasses-all-in-one-combo-x1-nc.html",
+                "service_icon": "https:\/\/www.raygear.com\/skin\/frontend\/default\/jm_sterix\/favicon.ico",
+                "service_name": "raygear.com",
+                "id": 1,
+                "original_url": "https:\/\/raygear.com\/index.php\/xshield-face-shield-safety-glasses-all-in-on-combination-safety-industrial-recreational-use\/full-face-non-vented-clear-deluxe-face-shield-and-safety-glasses-all-in-one-combo-x1-nc.html"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fQwF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/raygear.com\/index.php\/xshield-face-shield-safety-glasses-all-in-on-combination-safety-industrial-recreational-use\/full-face-non-vented-clear-deluxe-face-shield-and-safety-glasses-all-in-one-combo-x1-nc.html",
+                                "text": "https:\/\/raygear.com\/index.php\/xshield-face-shield-safety-glasses-all-in-on-combination-safety-industrial-recreational-use\/full-face-non-vented-clear-deluxe-face-shield-and-safety-glasses-all-in-one-combo-x1-nc.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ae26c5b9-d936-4a7e-afa6-da684199c548",
+        "type": "message",
+        "text": "you don't like the taste of dremel dust?",
+        "user": "URRA07VU3",
+        "ts": "1585516713.001400",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vAlm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "you don't like the taste of dremel dust?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585516425.001000",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "30210e58-668b-4648-8a95-40d5138b64bd",
+        "type": "message",
+        "text": "The vent will still allow dremal dust",
+        "user": "US2PZ9QBF",
+        "ts": "1585516777.001600",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8j\/W",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The vent will still allow dremal dust"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585516425.001000",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "5f683c55-391e-4ab4-9671-c55069cdf98c",
+        "type": "message",
+        "text": "yay! now my only reason not to like them is they'd make me look weird !",
+        "user": "URRA07VU3",
+        "ts": "1585516807.001800",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iaw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yay! now my only reason not to like them is they'd make me look weird !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585516425.001000",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "24418e4f-4331-4980-a267-90175e337e87",
+        "type": "message",
+        "text": "I'm surprised they still have some stock",
+        "user": "URRA07VU3",
+        "ts": "1585516940.002000",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EvWDy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm surprised they still have some stock"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585516425.001000",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "5486c4a7-9516-4511-aac5-560e0c3ce19b",
+        "type": "message",
+        "text": "I know, with the new Westworld season, I'm surprised too",
+        "user": "US2PZ9QBF",
+        "ts": "1585516997.002200",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "j6KU0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I know, with the new Westworld season, I'm surprised too"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585516425.001000",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "46ad3c0e-af6f-4e5f-9c97-a9b0301848bb",
+        "type": "message",
+        "text": "Wait, why are you surprised",
+        "user": "US2PZ9QBF",
+        "ts": "1585517227.002400",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ualmd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Wait, why are you surprised"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585516425.001000",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "9fb830ab-b7cd-4e7c-8db2-83d2dfa0a513",
+        "type": "message",
+        "text": "they say they can be used by medical professionals. coronavirus has been causing a shortage of masks and face guards",
+        "user": "URRA07VU3",
+        "ts": "1585517346.002600",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PiKw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "they say they can be used by medical professionals. coronavirus has been causing a shortage of masks and face guards"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585516425.001000",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "5b7f0631-9036-4473-a787-185e980a36f5",
+        "type": "message",
+        "text": "Oh right :rolling_on_the_floor_laughing:",
+        "user": "US2PZ9QBF",
+        "ts": "1585517366.002800",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0WTMW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oh right "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rolling_on_the_floor_laughing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585516425.001000",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "3df77b73-6d5c-491c-ad3f-35cb5c9a6b81",
+        "type": "message",
+        "text": "I mean, they are 50 dollars a pop",
+        "user": "US2PZ9QBF",
+        "ts": "1585517386.003000",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "m\/Id",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I mean, they are 50 dollars a pop"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585516425.001000",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "4a70a094-6eb1-42ee-bec1-43f73d46d090",
+        "type": "message",
+        "text": "$60",
+        "user": "URRA07VU3",
+        "ts": "1585517393.003200",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "H2\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "$60"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585516425.001000",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "bfa4755c-2466-451d-a550-5b9af876716a",
+        "type": "message",
+        "text": "Yeah",
+        "user": "US2PZ9QBF",
+        "ts": "1585517403.003400",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Hd1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585516425.001000",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "c142c8dd-2041-4bbf-918f-9143586a847c",
+        "type": "message",
+        "text": "I assumed that was raised recently, but I guess that's the price of large formed polycarbonate",
+        "user": "URRA07VU3",
+        "ts": "1585517414.003600",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PwO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I assumed that was raised recently, but I guess that's the price of large formed polycarbonate"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585516425.001000",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "08c694da-c35d-461d-b805-bb55257bfd5d",
+        "type": "message",
+        "text": "Especially large formed poly that doesn't have bubbles in it",
+        "user": "US2PZ9QBF",
+        "ts": "1585517449.003800",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ro6w",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Especially large formed poly that doesn't have bubbles in it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585516425.001000",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "91b7385a-bcf5-4ef8-9163-d36ce9c7fc7f",
+        "type": "message",
+        "text": "they're definitely not for me. I lose\/scratch enough $1.50 safety glasses as it is.",
+        "user": "URRA07VU3",
+        "ts": "1585517460.004000",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZsjYW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "they're definitely not for me. I lose\/scratch enough $1.50 safety glasses as it is."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585516425.001000",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "f0be659f-9ac2-455a-bd71-9ef0c2390649",
+        "type": "message",
+        "text": "Yeah, honestly same here",
+        "user": "US2PZ9QBF",
+        "ts": "1585517483.004200",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PB8d",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah, honestly same here"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585516425.001000",
+        "parent_user_id": "US2PZ9QBF"
+    }
+]

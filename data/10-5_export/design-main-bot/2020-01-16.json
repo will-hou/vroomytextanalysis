@@ -1,0 +1,713 @@
+[
+    {
+        "client_msg_id": "42cf3f44-5b04-4bec-823b-a25f5da5bf03",
+        "type": "message",
+        "text": "also we don't need to think about frc restrictions",
+        "user": "US2PZ9QBF",
+        "ts": "1579213166.000600",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "48z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "also we don't need to think about frc restrictions"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7326b98a-ec7d-4537-ad27-66f482e0744d",
+        "type": "message",
+        "text": "we could hold more balls then 5",
+        "user": "US2PZ9QBF",
+        "ts": "1579213177.001000",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9fzK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "we could hold more balls then 5"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "717d331c-8af3-445b-b0c1-269fda9ca176",
+        "type": "message",
+        "text": "we can extend beyond our frame by more then 12 inches",
+        "user": "US2PZ9QBF",
+        "ts": "1579213215.001600",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YWzH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "we can extend beyond our frame by more then 12 inches"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "57f41898-2711-4900-83ae-605ee126ab81",
+        "type": "message",
+        "text": "I would prefer to not extend more then 12 inches (and I don't see why we would need to)",
+        "user": "US2PZ9QBF",
+        "ts": "1579213305.002200",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xaZ70",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I would prefer to not extend more then 12 inches (and I don't see why we would need to)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1579213305.002200",
+        "reply_count": 5,
+        "reply_users_count": 3,
+        "latest_reply": "1579213772.004600",
+        "reply_users": [
+            "URRA07VU3",
+            "US2PZ9QBF",
+            "US4KMEG9M"
+        ],
+        "replies": [
+            {
+                "user": "URRA07VU3",
+                "ts": "1579213349.003200"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1579213373.003400"
+            },
+            {
+                "user": "US4KMEG9M",
+                "ts": "1579213706.004200"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1579213764.004400"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1579213772.004600"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1579213772.004600"
+    },
+    {
+        "client_msg_id": "2af2d0aa-2c13-4221-a2b8-c5f535bac123",
+        "type": "message",
+        "text": "but we absoulutly can",
+        "user": "US2PZ9QBF",
+        "ts": "1579213323.002600",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "izPT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "but we absoulutly can"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2495e985-459a-4e8f-bcf9-b3f17f833a43",
+        "type": "message",
+        "text": "I think it would be fun to store as many balls as we can",
+        "user": "US2PZ9QBF",
+        "ts": "1579213342.003100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Hpb4W",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think it would be fun to store as many balls as we can"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ab7c877a-e202-4282-a77e-f172d22e4f0b",
+        "type": "message",
+        "text": "I think it would allow a chokehold",
+        "user": "URRA07VU3",
+        "ts": "1579213349.003200",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1579213305.002200",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "370c3064-0155-4a69-a858-96d7ad58b766",
+        "type": "message",
+        "text": "what do you mean",
+        "user": "US2PZ9QBF",
+        "ts": "1579213373.003400",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Cy1tJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "what do you mean"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1579213305.002200",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "aca91c29-7890-4bc6-b842-9a640c4fcb88",
+        "type": "message",
+        "text": "I think if we can get 20 balls in a bot it would be amazing",
+        "user": "US2PZ9QBF",
+        "ts": "1579213504.004100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DsM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think if we can get 20 balls in a bot it would be amazing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "975fcea7-cc50-4b9f-9a26-aaa6204bf520",
+        "type": "message",
+        "text": "building a robot that extends across the field will break most games",
+        "user": "US4KMEG9M",
+        "ts": "1579213706.004200",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "b915bd1b6aaa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-04\/1338647058470_b915bd1b6aaa68df3e32_72.jpg",
+            "first_name": "joshua",
+            "real_name": "joshua phelps",
+            "display_name": "joshua phelps",
+            "team": "TS2PZ9PJR",
+            "name": "joshuaphelps127",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7xV7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "building a robot that extends across the field will break most games"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1579213305.002200",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "96391f96-ca29-455f-a97f-62d573cf0764",
+        "type": "message",
+        "text": "lets not break the game but make it really fun",
+        "user": "US2PZ9QBF",
+        "ts": "1579213764.004400",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4hQ6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "lets not break the game but make it really fun"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1579213305.002200",
+        "parent_user_id": "US2PZ9QBF",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "US4KMEG9M"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d2436b8b-960a-4588-804b-282d46baf516",
+        "type": "message",
+        "text": "really interesting",
+        "user": "US2PZ9QBF",
+        "ts": "1579213772.004600",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "x3qSG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "really interesting"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1579213305.002200",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "67ec6e13-c1e8-4596-a6ed-64c2e439c0ed",
+        "type": "message",
+        "text": "also, if we make a tall bot I have a cool idea on how to climb at the end of the game",
+        "user": "US2PZ9QBF",
+        "ts": "1579214061.005500",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=lp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "also, if we make a tall bot I have a cool idea on how to climb at the end of the game"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5347f964-4c71-4c7e-98b2-ead3729d558d",
+        "type": "message",
+        "text": "also, since we are going to make a drivetrain and then attach something on top of it, we will need to extend over the bumpers",
+        "user": "US2PZ9QBF",
+        "ts": "1579214154.006600",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9GA3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "also, since we are going to make a drivetrain and then attach something on top of it, we will need to extend over the bumpers"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1579214154.006600",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1579228834.000100",
+        "reply_users": [
+            "US51ZNQDU",
+            "US2PZ9QBF"
+        ],
+        "replies": [
+            {
+                "user": "US51ZNQDU",
+                "ts": "1579217820.006700"
+            },
+            {
+                "user": "US51ZNQDU",
+                "ts": "1579217882.006900"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1579228834.000100"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1579228834.000100"
+    },
+    {
+        "client_msg_id": "8b859873-c0c0-45ad-8548-8be6f631646a",
+        "type": "message",
+        "text": "Not necessarily. If we're trying to make it modular anyway, we could make part of the frame removable to allow for a frame cutout.",
+        "user": "US51ZNQDU",
+        "ts": "1579217820.006700",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "ade188af1049",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-30\/891681516518_ade188af10498886e12c_72.jpg",
+            "first_name": "Palmer",
+            "real_name": "Palmer Campbell-Kaswell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "palmerc120",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AzswR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Not necessarily. If we're trying to make it modular anyway, we could make part of the frame removable to allow for a frame cutout."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1579214154.006600",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "44bd0a7b-93c9-47eb-a2ae-49b1c0e2523e",
+        "type": "message",
+        "text": "And bumpers could have a cutout, so even if we don't have a removable piece, we'd only have to extend beyond the frame, not the bumpers",
+        "user": "US51ZNQDU",
+        "ts": "1579217882.006900",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "ade188af1049",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-30\/891681516518_ade188af10498886e12c_72.jpg",
+            "first_name": "Palmer",
+            "real_name": "Palmer Campbell-Kaswell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "palmerc120",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bfhkG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "And bumpers could have a cutout, so even if we don't have a removable piece, we'd only have to extend beyond the frame, not the bumpers"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1579214154.006600",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "591b6ec5-da67-448c-a076-9da51a004de9",
+        "type": "message",
+        "text": "that's true",
+        "user": "US2PZ9QBF",
+        "ts": "1579228834.000100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PMy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "that's true"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1579214154.006600",
+        "parent_user_id": "US2PZ9QBF"
+    }
+]

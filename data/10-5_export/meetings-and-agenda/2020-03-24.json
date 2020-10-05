@@ -1,0 +1,901 @@
+[
+    {
+        "client_msg_id": "927e09a1-d8f8-4a05-9089-3f7a3e091298",
+        "type": "message",
+        "text": "Just a reminder, there is a meeting today at 1:30",
+        "user": "US2PZ9QBF",
+        "ts": "1585075814.000600",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mhM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Just a reminder, there is a meeting today at 1:30"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585075814.000600",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1585080685.004600",
+        "reply_users": [
+            "URRA07VU3"
+        ],
+        "replies": [
+            {
+                "user": "URRA07VU3",
+                "ts": "1585080685.004600"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1585080685.004600",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "US4KMEG9M",
+                    "UUH3JGD7H"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "178b4b68-f52b-46c4-a5c2-439139ace153",
+        "type": "message",
+        "text": "I can be there but I may have to leave early again. Can we talk about general robot design stuff first and control systems after I leave again?",
+        "user": "US51ZNQDU",
+        "ts": "1585078665.001700",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "ade188af1049",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-30\/891681516518_ade188af10498886e12c_72.jpg",
+            "first_name": "Palmer",
+            "real_name": "Palmer Campbell-Kaswell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "palmerc120",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yHP2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I can be there but I may have to leave early again. Can we talk about general robot design stuff first and control systems after I leave again?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "US4KMEG9M",
+                    "US2PZ9QBF"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d4b10ade-b927-409a-94cf-d9a52cc2df88",
+        "type": "message",
+        "text": "Absolutely",
+        "user": "US2PZ9QBF",
+        "ts": "1585078687.002000",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OUYn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Absolutely"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4743486e-9cc7-419f-8358-83cfa0d311e7",
+        "type": "message",
+        "text": "I think this will end up not being nearly as long of a meeting as the previous meeting and we will be focusing on fabrication and details of MECHANISMS and what we will want to prototype",
+        "user": "US2PZ9QBF",
+        "ts": "1585078751.003800",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GzA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I think this will end up not being nearly as long of a meeting as the previous meeting and we will be focusing on fabrication and details of MECHANISMS and what we will want to prototype"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5c5b7d04-5221-4806-9f08-3ed0fcd7b8cf",
+        "type": "message",
+        "text": "Along with a branding discussion",
+        "user": "US2PZ9QBF",
+        "ts": "1585078793.004200",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qE\/8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Along with a branding discussion"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585078793.004200",
+        "reply_count": 7,
+        "reply_users_count": 2,
+        "latest_reply": "1585081378.007400",
+        "reply_users": [
+            "URRA07R7D",
+            "US2PZ9QBF"
+        ],
+        "replies": [
+            {
+                "user": "URRA07R7D",
+                "ts": "1585080430.004400"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1585080775.004800"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1585080786.005000"
+            },
+            {
+                "user": "URRA07R7D",
+                "ts": "1585081036.006800"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1585081297.007000"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1585081302.007200"
+            },
+            {
+                "user": "URRA07R7D",
+                "ts": "1585081378.007400"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1585081378.007400"
+    },
+    {
+        "client_msg_id": "a81aaa5f-d2c9-4731-8fd2-03dcdc0382cc",
+        "type": "message",
+        "text": "Is the branding discussion going to be a little later on in the meeting? If so, I'll probably pop in a little later around 2 or so since I don't think I can contribute much to the mechanism specific discussion",
+        "user": "URRA07R7D",
+        "ts": "1585080430.004400",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "2340815f3f5d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-16\/992617530243_2340815f3f5d0170300e_72.png",
+            "first_name": "William",
+            "real_name": "William Hou",
+            "display_name": "vroomy pitchfork",
+            "team": "TS2PZ9PJR",
+            "name": "whou125",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nTmW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Is the branding discussion going to be a little later on in the meeting? If so, I'll probably pop in a little later around 2 or so since I don't think I can contribute much to the mechanism specific discussion"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585078793.004200",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "0c7b8724-ca6a-4e59-bcea-146ea0764c25",
+        "type": "message",
+        "text": "Is someone posting a link again?",
+        "user": "URRA07VU3",
+        "ts": "1585080685.004600",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1585075814.000600",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "58a24a28-d656-4f20-90b1-af95a8f117bd",
+        "type": "message",
+        "text": "I was thinking that that would be first and then mechanisms",
+        "user": "US2PZ9QBF",
+        "ts": "1585080775.004800",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mgcl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I was thinking that that would be first and then mechanisms"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585078793.004200",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "8359f041-9010-48fd-9bd8-d4b38ef91d9a",
+        "type": "message",
+        "text": "It can beater of that works better for you",
+        "user": "US2PZ9QBF",
+        "ts": "1585080786.005000",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uv7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It can beater of that works better for you"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585078793.004200",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "54514e55-f400-4055-a75f-e47944336550",
+        "type": "message",
+        "text": "<!channel> can someone post a link to the video chat thing",
+        "user": "US2PZ9QBF",
+        "ts": "1585080813.005900",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QIe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " can someone post a link to the video chat thing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "74da3f64-904e-4956-923c-37033c40466a",
+        "type": "message",
+        "text": "<https:\/\/meet.jit.si\/vroomvroommeeting>",
+        "user": "US4KMEG9M",
+        "ts": "1585080919.006100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "b915bd1b6aaa",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-04\/1338647058470_b915bd1b6aaa68df3e32_72.jpg",
+            "first_name": "joshua",
+            "real_name": "joshua phelps",
+            "display_name": "joshua phelps",
+            "team": "TS2PZ9PJR",
+            "name": "joshuaphelps127",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Jitsi Meet",
+                "title_link": "https:\/\/meet.jit.si\/vroomvroommeeting",
+                "text": "Join a WebRTC video conference powered by the Jitsi Videobridge",
+                "fallback": "Jitsi Meet",
+                "from_url": "https:\/\/meet.jit.si\/vroomvroommeeting",
+                "service_icon": "https:\/\/meet.jit.si\/images\/apple-touch-icon.png",
+                "service_name": "meet.jit.si",
+                "id": 1,
+                "original_url": "https:\/\/meet.jit.si\/vroomvroommeeting"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qPUlc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/meet.jit.si\/vroomvroommeeting"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "521779ba-150d-4e18-b9e7-142e5b42a799",
+        "type": "message",
+        "text": "Thank you very much for setting that up <@US4KMEG9M>",
+        "user": "US2PZ9QBF",
+        "ts": "1585081000.006700",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pNS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you very much for setting that up "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "US4KMEG9M"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "01680d13-3cae-45e6-8297-9fce68787928",
+        "type": "message",
+        "text": "Oh okay. I'll try to be on as soon as I can then",
+        "user": "URRA07R7D",
+        "ts": "1585081036.006800",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "2340815f3f5d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-16\/992617530243_2340815f3f5d0170300e_72.png",
+            "first_name": "William",
+            "real_name": "William Hou",
+            "display_name": "vroomy pitchfork",
+            "team": "TS2PZ9PJR",
+            "name": "whou125",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7urR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oh okay. I'll try to be on as soon as I can then"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585078793.004200",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "31adfa78-2be7-40a3-9ac1-1135df46f29e",
+        "type": "message",
+        "text": "We will push it till later",
+        "user": "US2PZ9QBF",
+        "ts": "1585081297.007000",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lsd9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We will push it till later"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585078793.004200",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "e896f48a-ae33-48f0-a39a-9aa1a393cd39",
+        "type": "message",
+        "text": "Take your time",
+        "user": "US2PZ9QBF",
+        "ts": "1585081302.007200",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ndj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Take your time"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585078793.004200",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "d7a0f6e9-4fb4-4d2c-ae24-fb418292e86d",
+        "type": "message",
+        "text": "No no it's all good. Thanks though. We're just having a later lunch but I can still make it",
+        "user": "URRA07R7D",
+        "ts": "1585081378.007400",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "2340815f3f5d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-16\/992617530243_2340815f3f5d0170300e_72.png",
+            "first_name": "William",
+            "real_name": "William Hou",
+            "display_name": "vroomy pitchfork",
+            "team": "TS2PZ9PJR",
+            "name": "whou125",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "w=q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "No no it's all good. Thanks though. We're just having a later lunch but I can still make it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1585078793.004200",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "66097b7e-4e5e-40cc-b195-4619f9272b23",
+        "type": "message",
+        "text": "I don't have grabcad set up but I put the CAD I have done so far in the google folder if anyone wants to see it",
+        "user": "US51ZNQDU",
+        "ts": "1585081638.008400",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "ade188af1049",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-30\/891681516518_ade188af10498886e12c_72.jpg",
+            "first_name": "Palmer",
+            "real_name": "Palmer Campbell-Kaswell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "palmerc120",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "US51ZNQDU",
+            "ts": "1585081653.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "edFRJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I don't have grabcad set up but I put the CAD I have done so far in the google folder if anyone wants to see it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "URRA07VU3",
+                    "US4KMEG9M"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4d7ef314-c007-428d-995d-cf713b3c3e61",
+        "type": "message",
+        "text": "Gonna just drop this here for myself:\n\nJoin the meeting:\n<https:\/\/meet.jit.si\/vroomvroommeeting>\n\nTo join by phone instead, tap this: <tel:+15124022718,,1460896244#|+1.512.402.2718,,1460896244#>\n\nLooking for a different dial-in number?\nSee meeting dial-in numbers: <https:\/\/meet.jit.si\/static\/dialInInfo.html?room=vroomvroommeeting>\n\n\nIf also dialing-in through a room phone, join without connecting to audio: <https:\/\/meet.jit.si\/vroomvroommeeting#config.startSilent=true>",
+        "user": "UUH3JGD7H",
+        "ts": "1585085800.009400",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "0d4ce2beb963",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-24\/967310845472_0d4ce2beb963e5271a18_72.jpg",
+            "first_name": "Ethan",
+            "real_name": "Ethan Hansen",
+            "display_name": "Ethan",
+            "team": "TS2PZ9PJR",
+            "name": "1ethanhansen",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Jitsi Meet",
+                "title_link": "https:\/\/meet.jit.si\/vroomvroommeeting",
+                "text": "Join a WebRTC video conference powered by the Jitsi Videobridge",
+                "fallback": "Jitsi Meet",
+                "from_url": "https:\/\/meet.jit.si\/vroomvroommeeting",
+                "service_icon": "https:\/\/meet.jit.si\/images\/apple-touch-icon.png",
+                "service_name": "meet.jit.si",
+                "id": 1,
+                "original_url": "https:\/\/meet.jit.si\/vroomvroommeeting"
+            },
+            {
+                "title": "Jitsi Meet",
+                "title_link": "https:\/\/meet.jit.si\/static\/dialInInfo.html?room=vroomvroommeeting",
+                "text": "Join a WebRTC video conference powered by the Jitsi Videobridge",
+                "fallback": "Jitsi Meet",
+                "from_url": "https:\/\/meet.jit.si\/static\/dialInInfo.html?room=vroomvroommeeting",
+                "service_icon": "https:\/\/meet.jit.si\/images\/favicon.ico?v=1",
+                "service_name": "meet.jit.si",
+                "id": 2,
+                "original_url": "https:\/\/meet.jit.si\/static\/dialInInfo.html?room=vroomvroommeeting"
+            },
+            {
+                "title": "Jitsi Meet",
+                "title_link": "https:\/\/meet.jit.si\/vroomvroommeeting#config.startSilent=true",
+                "text": "Join a WebRTC video conference powered by the Jitsi Videobridge",
+                "fallback": "Jitsi Meet",
+                "from_url": "https:\/\/meet.jit.si\/vroomvroommeeting#config.startSilent=true",
+                "service_icon": "https:\/\/meet.jit.si\/images\/apple-touch-icon.png",
+                "service_name": "meet.jit.si",
+                "id": 3,
+                "original_url": "https:\/\/meet.jit.si\/vroomvroommeeting#config.startSilent=true"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oCzk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Gonna just drop this here for myself:\n\nJoin the meeting:\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/meet.jit.si\/vroomvroommeeting"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nTo join by phone instead, tap this: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "tel:+15124022718,,1460896244#",
+                                "text": "+1.512.402.2718,,1460896244#"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nLooking for a different dial-in number?\nSee meeting dial-in numbers: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/meet.jit.si\/static\/dialInInfo.html?room=vroomvroommeeting"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n\nIf also dialing-in through a room phone, join without connecting to audio: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/meet.jit.si\/vroomvroommeeting#config.startSilent=true"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8d62c8bf-b084-4f89-a3de-cd381cf0c9a7",
+        "type": "message",
+        "text": "I'm back :blush:",
+        "user": "US51ZNQDU",
+        "ts": "1585086523.009700",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "ade188af1049",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-30\/891681516518_ade188af10498886e12c_72.jpg",
+            "first_name": "Palmer",
+            "real_name": "Palmer Campbell-Kaswell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "palmerc120",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/TMDb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm back "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

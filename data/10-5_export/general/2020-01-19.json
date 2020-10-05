@@ -1,0 +1,54 @@
+[
+    {
+        "client_msg_id": "c721dafc-0c04-4fc6-843f-ca359f0b8dac",
+        "type": "message",
+        "text": "<https:\/\/www.reddit.com\/r\/shittyrobots\/comments\/eqzzqa\/a_reflow_oven_with_rapid_delivery_feature\/?utm_medium=android_app&amp;utm_source=share|https:\/\/www.reddit.com\/r\/shittyrobots\/comments\/eqzzqa\/a_reflow_oven_with_rapid_delivery_feature\/?utm_medium=android_app&amp;utm_source=share>",
+        "user": "US2PZ9QBF",
+        "ts": "1579492810.000100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "reddit",
+                "title": "A reflow oven with 'Rapid Delivery' feature",
+                "title_link": "https:\/\/www.reddit.com\/r\/shittyrobots\/comments\/eqzzqa\/a_reflow_oven_with_rapid_delivery_feature\/?utm_medium=android_app&utm_source=share",
+                "text": "Posted in r\/shittyrobots by u\/tyguya • 34 points and 2 comments",
+                "fallback": "reddit: A reflow oven with 'Rapid Delivery' feature",
+                "from_url": "https:\/\/www.reddit.com\/r\/shittyrobots\/comments\/eqzzqa\/a_reflow_oven_with_rapid_delivery_feature\/?utm_medium=android_app&utm_source=share",
+                "service_icon": "http:\/\/www.redditstatic.com\/desktop2x\/img\/favicon\/apple-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/www.reddit.com\/r\/shittyrobots\/comments\/eqzzqa\/a_reflow_oven_with_rapid_delivery_feature\/?utm_medium=android_app&amp;utm_source=share"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lLpL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.reddit.com\/r\/shittyrobots\/comments\/eqzzqa\/a_reflow_oven_with_rapid_delivery_feature\/?utm_medium=android_app&utm_source=share",
+                                "text": "https:\/\/www.reddit.com\/r\/shittyrobots\/comments\/eqzzqa\/a_reflow_oven_with_rapid_delivery_feature\/?utm_medium=android_app&utm_source=share"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

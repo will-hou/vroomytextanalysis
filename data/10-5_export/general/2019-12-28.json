@@ -1,0 +1,319 @@
+[
+    {
+        "client_msg_id": "1a475f9d-1c7d-4e92-bc25-20057c0e8464",
+        "type": "message",
+        "text": "<!channel>  when you all come over, please bring safety glasses and warm clothes (the garage is cold)",
+        "user": "US2PZ9QBF",
+        "ts": "1577575603.000500",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mmr8Z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  when you all come over, please bring safety glasses and warm clothes (the garage is cold)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a07cdd70-147b-4fc8-8769-0a0694e8f926",
+        "type": "message",
+        "text": "(I have extra safety glasses but not enough for everyone)",
+        "user": "US2PZ9QBF",
+        "ts": "1577575624.001200",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "US2PZ9QBF",
+            "ts": "1577575628.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AJjA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(I have extra safety glasses but not enough for everyone)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1577575624.001200",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1577575701.002500",
+        "reply_users": [
+            "URRA07VU3",
+            "US2PZ9QBF"
+        ],
+        "replies": [
+            {
+                "user": "URRA07VU3",
+                "ts": "1577575656.001500"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1577575678.001800"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1577575686.002000"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1577575701.002500"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1577575708.000597"
+    },
+    {
+        "client_msg_id": "1226ab82-9f2a-4523-924d-627dca444226",
+        "type": "message",
+        "text": "we won't be building yet though, right?",
+        "user": "URRA07VU3",
+        "ts": "1577575656.001500",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "URRA07VU3",
+            "ts": "1577575668.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JKzb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "we won't be building yet though, right?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1577575624.001200",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "c1f38d71-918b-4757-b0ec-863fe86ccc09",
+        "type": "message",
+        "text": "Yes, but it's good to start habits",
+        "user": "US2PZ9QBF",
+        "ts": "1577575678.001800",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YHrA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes, but it's good to start habits"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1577575624.001200",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "36811630-559e-46cf-93aa-4944ad407eb7",
+        "type": "message",
+        "text": "So probably no coat",
+        "user": "US2PZ9QBF",
+        "ts": "1577575686.002000",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4h=lf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "So probably no coat"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1577575624.001200",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "f03cf5e6-d202-430b-a496-a03a23c7b694",
+        "type": "message",
+        "text": "I don't wear coats",
+        "user": "URRA07VU3",
+        "ts": "1577575701.002500",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pHm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I don't wear coats"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1577575624.001200",
+        "parent_user_id": "US2PZ9QBF"
+    },
+    {
+        "client_msg_id": "44f2dd53-d563-4ae4-8244-545b988f9f64",
+        "type": "message",
+        "text": "*you don't need a coat*",
+        "user": "US2PZ9QBF",
+        "ts": "1577575705.002800",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xo+t",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "you don't need a coat",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

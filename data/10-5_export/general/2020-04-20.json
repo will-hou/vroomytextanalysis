@@ -1,0 +1,911 @@
+[
+    {
+        "type": "message",
+        "text": "<!channel> Here are the parts we've been printing if you want to help out:",
+        "files": [
+            {
+                "id": "F012WHCTQ72",
+                "created": 1587420494,
+                "timestamp": 1587420494,
+                "name": "IC3D Budmen Face Shield V1.stl",
+                "title": "IC3D Budmen Face Shield V1.stl",
+                "mimetype": "application\/octet-stream",
+                "filetype": "binary",
+                "pretty_type": "Binary",
+                "user": "US51ZNQDU",
+                "editable": false,
+                "size": 319884,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TS2PZ9PJR-F012WHCTQ72\/ic3d_budmen_face_shield_v1.stl?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TS2PZ9PJR-F012WHCTQ72\/download\/ic3d_budmen_face_shield_v1.stl?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "permalink": "https:\/\/vroomvroomswerve.slack.com\/files\/US51ZNQDU\/F012WHCTQ72\/ic3d_budmen_face_shield_v1.stl",
+                "permalink_public": "https:\/\/slack-files.com\/TS2PZ9PJR-F012WHCTQ72-bfbc92b5d0",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "F012KB1BAP3",
+                "created": 1587420494,
+                "timestamp": 1587420494,
+                "name": "strap-lock.stl",
+                "title": "strap-lock.stl",
+                "mimetype": "application\/octet-stream",
+                "filetype": "binary",
+                "pretty_type": "Binary",
+                "user": "US51ZNQDU",
+                "editable": false,
+                "size": 71884,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TS2PZ9PJR-F012KB1BAP3\/strap-lock.stl?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TS2PZ9PJR-F012KB1BAP3\/download\/strap-lock.stl?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "permalink": "https:\/\/vroomvroomswerve.slack.com\/files\/US51ZNQDU\/F012KB1BAP3\/strap-lock.stl",
+                "permalink_public": "https:\/\/slack-files.com\/TS2PZ9PJR-F012KB1BAP3-b75002d6b4",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YMCpi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Here are the parts we've been printing if you want to help out:"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "US51ZNQDU",
+        "ts": "1587420497.010500",
+        "client_msg_id": "e433eb46-9292-403d-87f5-1f98da3153f8",
+        "thread_ts": "1587420497.010500",
+        "reply_count": 19,
+        "reply_users_count": 3,
+        "latest_reply": "1587440385.015100",
+        "reply_users": [
+            "URRA07VU3",
+            "US2PZ9QBF",
+            "US51ZNQDU"
+        ],
+        "replies": [
+            {
+                "user": "URRA07VU3",
+                "ts": "1587420561.011000"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1587420596.011200"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1587420766.011400"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1587420772.011600"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1587420786.011800"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1587420803.012100"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1587420846.012300"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1587420873.012500"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1587420887.012700"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1587421007.012900"
+            },
+            {
+                "user": "US51ZNQDU",
+                "ts": "1587421033.013100"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1587421067.013400"
+            },
+            {
+                "user": "US51ZNQDU",
+                "ts": "1587421161.013600"
+            },
+            {
+                "user": "US51ZNQDU",
+                "ts": "1587421214.013900"
+            },
+            {
+                "user": "URRA07VU3",
+                "ts": "1587421220.014100"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1587440264.014500"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1587440292.014700"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1587440368.014900"
+            },
+            {
+                "user": "US2PZ9QBF",
+                "ts": "1587440385.015100"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1587440385.015100"
+    },
+    {
+        "client_msg_id": "31f854a5-fe6d-41df-a86c-51e644809af7",
+        "type": "message",
+        "text": "I've been printing face shields. I didn't know about the strap lock so thanks!",
+        "user": "URRA07VU3",
+        "ts": "1587420561.011000",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RBDYj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I've been printing face shields. I didn't know about the strap lock so thanks!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1587420497.010500",
+        "parent_user_id": "US51ZNQDU"
+    },
+    {
+        "client_msg_id": "10a7f2b2-203a-41d4-b4f3-34c83635ce58",
+        "type": "message",
+        "text": "do you know how many SERT has printed? I heard Lallie and Brian have been printing too",
+        "user": "URRA07VU3",
+        "ts": "1587420596.011200",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7CL5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "do you know how many SERT has printed? I heard Lallie and Brian have been printing too"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1587420497.010500",
+        "parent_user_id": "US51ZNQDU"
+    },
+    {
+        "client_msg_id": "6e5dba59-adeb-4adb-95a0-98f12481cc0f",
+        "type": "message",
+        "text": "It's nice to be able to help beyond just staying home",
+        "user": "URRA07VU3",
+        "ts": "1587420766.011400",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5jOs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It's nice to be able to help beyond just staying home"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1587420497.010500",
+        "parent_user_id": "US51ZNQDU"
+    },
+    {
+        "client_msg_id": "d5b1213d-e744-4ad9-8c5e-b44d895ee23f",
+        "type": "message",
+        "text": "Brian hasn't started",
+        "user": "US2PZ9QBF",
+        "ts": "1587420772.011600",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ngJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Brian hasn't started"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1587420497.010500",
+        "parent_user_id": "US51ZNQDU"
+    },
+    {
+        "client_msg_id": "beca07aa-30c2-415e-b978-4987b55fb70b",
+        "type": "message",
+        "text": "I would assume around 150 (not including me)",
+        "user": "US2PZ9QBF",
+        "ts": "1587420786.011800",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "US2PZ9QBF",
+            "ts": "1587420791.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "D7gl+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I would assume around 150 (not including me)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1587420497.010500",
+        "parent_user_id": "US51ZNQDU"
+    },
+    {
+        "client_msg_id": "55fddce5-a887-4cb6-bb5a-57a6448b8dd4",
+        "type": "message",
+        "text": "wow",
+        "user": "URRA07VU3",
+        "ts": "1587420803.012100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nM5H1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "wow"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1587420497.010500",
+        "parent_user_id": "US51ZNQDU"
+    },
+    {
+        "client_msg_id": "1bb59457-b786-4604-a1f8-2949b3d0f953",
+        "type": "message",
+        "text": "so how many when you include yourself with SERT",
+        "user": "URRA07VU3",
+        "ts": "1587420846.012300",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mQBAR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "so how many when you include yourself with SERT"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1587420497.010500",
+        "parent_user_id": "US51ZNQDU"
+    },
+    {
+        "client_msg_id": "e5435de7-298e-4637-bf9a-2df4b0f7f35c",
+        "type": "message",
+        "text": "225",
+        "user": "US2PZ9QBF",
+        "ts": "1587420873.012500",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TiUe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "225"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1587420497.010500",
+        "parent_user_id": "US51ZNQDU"
+    },
+    {
+        "client_msg_id": "7002b87f-4982-4a44-9f7b-fb57c3061ebb",
+        "type": "message",
+        "text": "Iv figured a way to print 2 at once on the MakerBot",
+        "user": "US2PZ9QBF",
+        "ts": "1587420887.012700",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uK1kX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Iv figured a way to print 2 at once on the MakerBot"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1587420497.010500",
+        "parent_user_id": "US51ZNQDU"
+    },
+    {
+        "client_msg_id": "881f2fd3-f23f-4359-9993-0f3e5cdb4a4a",
+        "type": "message",
+        "text": "they're still wanting more right?",
+        "user": "URRA07VU3",
+        "ts": "1587421007.012900",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mcPbo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "they're still wanting more right?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1587420497.010500",
+        "parent_user_id": "US51ZNQDU"
+    },
+    {
+        "client_msg_id": "2bae457c-e529-4c23-af36-3dd87c59a98c",
+        "type": "message",
+        "text": "Yeah I think so. OMG wants 200 but we're making them for other people too",
+        "user": "US51ZNQDU",
+        "ts": "1587421033.013100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "ade188af1049",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-30\/891681516518_ade188af10498886e12c_72.jpg",
+            "first_name": "Palmer",
+            "real_name": "Palmer Campbell-Kaswell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "palmerc120",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1587420497.010500",
+        "parent_user_id": "US51ZNQDU",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "URRA07VU3",
+                    "US4KMEG9M"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "55c27baf-bbe7-4df8-a872-9e5287270f53",
+        "type": "message",
+        "text": "We may be switching to a different design Soon once we have a supply of 1000 of this design",
+        "user": "US2PZ9QBF",
+        "ts": "1587421067.013400",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "s94Q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "We may be switching to a different design Soon once we have a supply of 1000 of this design"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1587420497.010500",
+        "parent_user_id": "US51ZNQDU"
+    },
+    {
+        "client_msg_id": "08cf1340-49ec-42ad-a54a-5d234fe9de74",
+        "type": "message",
+        "text": "And Lane County Emergency Management wants as many as we can make",
+        "user": "US51ZNQDU",
+        "ts": "1587421161.013600",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "ade188af1049",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-30\/891681516518_ade188af10498886e12c_72.jpg",
+            "first_name": "Palmer",
+            "real_name": "Palmer Campbell-Kaswell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "palmerc120",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1587420497.010500",
+        "parent_user_id": "US51ZNQDU",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "URRA07VU3",
+                    "US4KMEG9M"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "647de00b-1fb0-468d-9b0f-9a6ffe712aba",
+        "type": "message",
+        "text": "How do you print more than one on the maker bot? What's your bed size? I'm wondering if I could fit 2 on my printer as well",
+        "user": "US51ZNQDU",
+        "ts": "1587421214.013900",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "ade188af1049",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-30\/891681516518_ade188af10498886e12c_72.jpg",
+            "first_name": "Palmer",
+            "real_name": "Palmer Campbell-Kaswell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "palmerc120",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1587420497.010500",
+        "parent_user_id": "US51ZNQDU"
+    },
+    {
+        "client_msg_id": "ed137a4d-cea9-4077-8158-0020b162c7e1",
+        "type": "message",
+        "text": "can someone make sure to tell me when SERT switches over?",
+        "user": "URRA07VU3",
+        "ts": "1587421220.014100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9t01",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "can someone make sure to tell me when SERT switches over?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1587420497.010500",
+        "parent_user_id": "US51ZNQDU"
+    },
+    {
+        "client_msg_id": "39b9c3dc-9c65-4125-8ac6-6597b7e48431",
+        "type": "message",
+        "text": "Of course",
+        "user": "US2PZ9QBF",
+        "ts": "1587440264.014500",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bRoN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Of course"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1587420497.010500",
+        "parent_user_id": "US51ZNQDU"
+    },
+    {
+        "client_msg_id": "1082ed25-5dc5-42b2-afd9-0b95a80f9ae3",
+        "type": "message",
+        "text": "And you have to get really creative on a MakerBot",
+        "user": "US2PZ9QBF",
+        "ts": "1587440292.014700",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AcX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "And you have to get really creative on a MakerBot"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1587420497.010500",
+        "parent_user_id": "US51ZNQDU"
+    },
+    {
+        "client_msg_id": "45fa3b5f-2369-49d4-827e-36ad7d3131c5",
+        "type": "message",
+        "text": "And I think you may be able to print 2 at once on a flashforge if you have a pice of glass to use the whole plate",
+        "user": "US2PZ9QBF",
+        "ts": "1587440368.014900",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LBve",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "And I think you may be able to print 2 at once on a flashforge if you have a pice of glass to use the whole plate"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1587420497.010500",
+        "parent_user_id": "US51ZNQDU"
+    },
+    {
+        "client_msg_id": "f1abf6d4-d103-4daf-93f9-b1c0d2b2ccb4",
+        "type": "message",
+        "text": "(with one extruder)",
+        "user": "US2PZ9QBF",
+        "ts": "1587440385.015100",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "US2PZ9QBF",
+            "ts": "1587440390.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X\/fQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(with one extruder)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1587420497.010500",
+        "parent_user_id": "US51ZNQDU"
+    }
+]

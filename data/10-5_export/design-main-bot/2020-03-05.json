@@ -1,0 +1,236 @@
+[
+    {
+        "type": "message",
+        "text": "block models for flipped and not flipped.\nflipped looks better and is shorter\nnot flipped has a smaller footprint\nthey each have different strengths in getting parts changed from the top or the bottom, but it will almost always be worth unbolting the modules for maintenace anyway.\nmax ground clearance for wheel in differential swerve with 3\" wheels and reasonably thick differential gears is about 0.8\"",
+        "files": [
+            {
+                "id": "FUMHJJHJ7",
+                "created": 1583466718,
+                "timestamp": 1583466718,
+                "name": "swerve designs.PNG",
+                "title": "swerve designs.PNG",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "URRA07VU3",
+                "editable": false,
+                "size": 395858,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TS2PZ9PJR-FUMHJJHJ7\/swerve_designs.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TS2PZ9PJR-FUMHJJHJ7\/download\/swerve_designs.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-FUMHJJHJ7-528381ae28\/swerve_designs_64.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-FUMHJJHJ7-528381ae28\/swerve_designs_80.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-FUMHJJHJ7-528381ae28\/swerve_designs_360.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_360_w": 360,
+                "thumb_360_h": 173,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-FUMHJJHJ7-528381ae28\/swerve_designs_480.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_480_w": 480,
+                "thumb_480_h": 231,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-FUMHJJHJ7-528381ae28\/swerve_designs_160.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-FUMHJJHJ7-528381ae28\/swerve_designs_720.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_720_w": 720,
+                "thumb_720_h": 346,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-FUMHJJHJ7-528381ae28\/swerve_designs_800.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_800_w": 800,
+                "thumb_800_h": 384,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-FUMHJJHJ7-528381ae28\/swerve_designs_960.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_960_w": 960,
+                "thumb_960_h": 461,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TS2PZ9PJR-FUMHJJHJ7-528381ae28\/swerve_designs_1024.png?t=xoxe-886815329637-1408724455475-1401786393990-ab50841c93c2db9e42a85b96677c95c0",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 492,
+                "image_exif_rotation": 1,
+                "original_w": 1809,
+                "original_h": 869,
+                "thumb_tiny": "AwAXADDS2j0FVzcKGx5ZxnrUkzmOPcOvaqjttwSQe\/FAFmORJM4HTrkVIdirltoHvVe2RgXYggHGKklfbtUrnP6UAODRNwpUn2oIHPAqjKQH+6Dk9cVLANs+1SdpBJ5oAtsu9cMuagFsS58z5k\/u1aooAaqhVwowKjdgy4xnt9KlqD1+tADYo9hJA3H1bk1OGPcACmJ0p1AH\/9k=",
+                "permalink": "https:\/\/vroomvroomswerve.slack.com\/files\/URRA07VU3\/FUMHJJHJ7\/swerve_designs.png",
+                "permalink_public": "https:\/\/slack-files.com\/TS2PZ9PJR-FUMHJJHJ7-5c9a843767",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ezOD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "block models for flipped and not flipped.\nflipped looks better and is shorter\nnot flipped has a smaller footprint\nthey each have different strengths in getting parts changed from the top or the bottom, but it will almost always be worth unbolting the modules for maintenace anyway.\nmax ground clearance for wheel in differential swerve with 3\" wheels and reasonably thick differential gears is about 0.8\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "URRA07VU3",
+        "display_as_bot": false,
+        "ts": "1583466723.000100",
+        "edited": {
+            "user": "URRA07VU3",
+            "ts": "1583466783.000000"
+        },
+        "client_msg_id": "f1b4c5da-244c-4ca9-99f8-62ebb650a820"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1583468317.000800",
+        "user": "UUE9YV61K",
+        "text": "<@UUE9YV61K> has joined the channel",
+        "inviter": "US2PZ9QBF",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "URRA07VU3",
+                    "US2PZ9QBF"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a283fa72-f7ad-4879-9df0-9aa495a5c449",
+        "type": "message",
+        "text": "<!channel> I personally think that the flipped motor configuration looks really cool and I think it is true to our goal :rolling_on_the_floor_laughing:",
+        "user": "US2PZ9QBF",
+        "ts": "1583468470.002600",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JBc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I personally think that the flipped motor configuration looks really cool and I think it is true to our goal "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rolling_on_the_floor_laughing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e63a534b-3f7d-4dee-8e23-117c400d04ad",
+        "type": "message",
+        "text": "However, what do you all think",
+        "user": "US2PZ9QBF",
+        "ts": "1583468479.002900",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "g2a1bd0cf75b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2a1bd0cf75be1ecad038b410434ec640.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Matthew",
+            "real_name": "Matthew Pickerell",
+            "display_name": "",
+            "team": "TS2PZ9PJR",
+            "name": "pickerell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0\/pq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "However, what do you all think"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8DDC547A-0FAE-447F-91FA-CB8EA75CF7F4",
+        "type": "message",
+        "text": "I like the flipped motors now that I’m seeing them in comparison ",
+        "user": "UUE9YV61K",
+        "ts": "1583469817.003600",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "cb12c096f208",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-03\/980831491397_cb12c096f208c53c20d4_72.png",
+            "first_name": "Dillon",
+            "real_name": "Dillon Mucha",
+            "display_name": "Dillon",
+            "team": "TS2PZ9PJR",
+            "name": "dillonmucha",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3hTk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I like the flipped motors now that I’m seeing them in comparison "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UU50D077H",
+                    "US2PZ9QBF",
+                    "URRA07VU3"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

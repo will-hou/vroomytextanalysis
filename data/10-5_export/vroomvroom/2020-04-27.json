@@ -1,0 +1,110 @@
+[
+    {
+        "client_msg_id": "f6041d96-c285-41aa-b1d8-4edcc190935b",
+        "type": "message",
+        "text": "vroom vroom",
+        "user": "URRA07R7D",
+        "ts": "1588024490.005500",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "2340815f3f5d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-16\/992617530243_2340815f3f5d0170300e_72.png",
+            "first_name": "William",
+            "real_name": "William Hou",
+            "display_name": "vroomy pitchfork",
+            "team": "TS2PZ9PJR",
+            "name": "whou125",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lyU8D",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "vroom vroom"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "55e81fa1-10b8-4062-ad62-51cf6842ab56",
+        "type": "message",
+        "text": "sad vroom",
+        "user": "URRA07VU3",
+        "ts": "1588024505.005700",
+        "team": "TS2PZ9PJR",
+        "user_team": "TS2PZ9PJR",
+        "source_team": "TS2PZ9PJR",
+        "user_profile": {
+            "avatar_hash": "5e80bb2947af",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-05\/1236020850337_5e80bb2947af8535243c_72.png",
+            "first_name": "Benjamin",
+            "real_name": "Benjamin Phelp",
+            "display_name": "Benjamin Phelp",
+            "team": "TS2PZ9PJR",
+            "name": "bphelps2521",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "URRA07VU3",
+            "ts": "1588024522.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "om6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "sad vroom"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "sob",
+                "users": [
+                    "URRA07R7D",
+                    "US2PZ9QBF"
+                ],
+                "count": 2
+            },
+            {
+                "name": "sadparrot",
+                "users": [
+                    "URRA07R7D",
+                    "US2PZ9QBF"
+                ],
+                "count": 2
+            },
+            {
+                "name": "f",
+                "users": [
+                    "URRA07VU3",
+                    "URRA07R7D",
+                    "US4KMEG9M",
+                    "US2PZ9QBF"
+                ],
+                "count": 4
+            }
+        ]
+    }
+]
